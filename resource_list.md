@@ -38,6 +38,8 @@
 
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
+[Game Storming Wiki](http://www.gamestorming.com/the-wiki)
+
 [Sten Tamkivi Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
 
 [Tomaz Tunguz How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
@@ -45,6 +47,8 @@
 [Tomaz Tunguz The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 
 [U.S. CIO Playbook](http://playbook.cio.gov)
+
+[U.K. Gov Service Manuals](https://www.gov.uk/service-manual)
 
 [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
 
