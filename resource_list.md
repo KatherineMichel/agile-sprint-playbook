@@ -1,5 +1,6 @@
 # Resource List
 
+## Google Research and Research Sprint
 [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
 
 [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
@@ -20,11 +21,16 @@
 
 [Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
 
+## Google Design Sprint
+
 [Google Ventures Design Sprint](http://www.gv.com/sprint)
 
 [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
 
 [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
+
+## More Design Sprint Resources
+[Minimum Viable Product](http://en.wikipedia.org/wiki/Minimum_viable_product)
 
 [Thoughtbot Design Sprint- Materials](http://robots.thoughtbot.com/the-product-design-sprint)
 
@@ -32,12 +38,14 @@
 
 [Game Storming Wiki](http://www.gamestorming.com/the-wiki)
 
+## More Design Sprint Examples
 [BBC Design Sprint Blog Post](http://www.bbc.co.uk/blogs/internet/entries/60392136-1685-39c4-84bc-b8b2f54f6556)
 
 [Francis Cortez Design Sprint #1](http://franciscortez.com/design-sprint)
 
 [Francis Cortez Design Sprint #3](https://medium.com/@makeshowlearn/personal-design-sprint-iii-prompts-10949cc4cf6b)
 
+## Venture Analysis
 [Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
 [Sten Tamkivi Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
@@ -46,15 +54,20 @@
 
 [Tomaz Tunguz The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 
+## Web Development Standards
 [U.S. CIO Playbook](http://playbook.cio.gov)
 
 [U.K. Gov Service Manuals](https://www.gov.uk/service-manual)
 
 [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
 
+## Company Research
 [EDGAR SEC Filings](http://www.sec.gov/edgar.shtml)
 
+## Ideas, Value Propositions, and Business Models
 [Example Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)
+
+[Value Proposition](http://en.wikipedia.org/wiki/Value_proposition)
 
 [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
 
@@ -70,7 +83,7 @@
 
 [Product Tier Selection](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67)
 
-[Value Proposition](http://en.wikipedia.org/wiki/Value_proposition)
 
-[Minimum Viable Product](http://en.wikipedia.org/wiki/Minimum_viable_product)
+
+
 
