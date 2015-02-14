@@ -64,7 +64,7 @@
 
 [Tomaz Tunguz The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 
-## Web Development Standards
+## Web Design and Development Standards
 [U.S. CIO Playbook](http://playbook.cio.gov)
 
 [U.K. Gov Service Manuals](https://www.gov.uk/service-manual)
