@@ -4,5 +4,5 @@
 * [Resource List](resource_list.md)
 * [Schedule](schedule.md)
 * [Research Sprint](research_sprint.md)
-* Django
+* [Django](django.md)
 
