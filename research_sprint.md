@@ -1,7 +1,7 @@
 # Research Sprint
 
 * Idea Maze
-* Demographics
+* Demographics/Population
 * Product Tier
 * Business Model
 
