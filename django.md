@@ -20,4 +20,5 @@
 * System check framework
 * The sites framework
 * Unicode in Django
+* Geographic framework
 
