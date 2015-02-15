@@ -12,4 +12,12 @@
 * Sitemaps
 * Static files management
 * Data validation
+* Conditional content processing
+* Content types and generic relations
+* Flatpages
+* Redirects
+* Signals
+* System check framework
+* The sites framework
+* Unicode in Django
 
