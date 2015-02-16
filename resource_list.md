@@ -9,9 +9,9 @@
 
 [Google Ventures Research Sprint Sample Craig's List Ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png)
 
-[Google Ventures Research Sprint Sample NDA](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)
+[Google Ventures Research Sprint Sample NDA](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf) (Also in PDF)
 
-[Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf)
+[Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) (Also in PDF)
 
 [Google Ventures Research Sprint Sample Recruiting Screener Worksheet #2](https://drive.google.com/previewtemplate?id=1E96r55rFIXcpMWhcVADL2aX11Q5MaS8IifvFIE1pLGs&mode=public&ddrp=1#)
 
