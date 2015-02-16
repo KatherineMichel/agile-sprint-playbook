@@ -17,6 +17,17 @@
 * Interview five customers!
 * Summarize findings and plan next steps with your team
 
+DIY: Share links to:
+* Craigslist
+* Add to product, emails
+* Append to all comms
+* Friends and family
+* Twitter, FB, LinkedIn, ect
+* Local associations
+* Community groups
+* Conferences
+* Student groups
+
 From [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
 
 
