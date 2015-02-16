@@ -1,5 +1,11 @@
 # Google Venture Research Sprint Schedule
 
+* Countdown Checklist
+* Research Plan
+* Write a Recruiting Screener
+* Types of Research Questions
+* Sample NDA
+
 * Create a recruiting screener
 * Post recruiting screener where the right people will see it
 * Select and schedule participants
