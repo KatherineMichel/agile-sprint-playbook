@@ -105,6 +105,8 @@
 
 [Value Proposition](http://en.wikipedia.org/wiki/Value_proposition)
 
+[Customer Value Proposition](http://en.wikipedia.org/wiki/Customer_value_proposition)
+
 [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
 
 [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models)
