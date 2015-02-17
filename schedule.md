@@ -30,6 +30,36 @@ DIY: Share links to:
 
 From [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
 
+Identify Design Problem (product/feature)
+Schedule the Design Sprint (5-day process)
+Find a facilitator
+Schedule User Study/Begin recruiting ssers
+
+Only need 1 person; Optionally, include:
+* Designer
+* CEO 
+* Product manager
+* User expert 
+* Engineer
+* Marketer
+* Anybody else who’s interested
+
+Supplies:
+* Sticky notes 
+* Drawing pens 
+* Whiteboards 
+* Whiteboard markers
+* Dot stickers 
+* Time Timer Clock 
+* Snacks 
+* Sticky stuff  
+
+Day 1: Understanding Day
+
+Prototype
+Conduct User Study
+
+
 
 
 
