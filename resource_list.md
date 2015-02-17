@@ -106,11 +106,11 @@
 
 [Positioning Wikipedia](http://en.wikipedia.org/wiki/Positioning_(marketing)
 
-[Example Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)
-
 [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
 
 [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
+
+[Example Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)
 
 [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
 
