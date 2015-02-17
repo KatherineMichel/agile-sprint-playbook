@@ -55,6 +55,15 @@ Supplies:
 * Sticky stuff  
 
 Day 1: Understanding Day
+Consider capping presentation/discussion at 10 minutes
+
+* Business opportunity 
+* Lightning demos 
+* Lay it out 
+* Success metrics — We like to use Kerry Rodden’s HEART framework.
+* Existing research 
+* Team interviews
+* Analytics
 
 Prototype
 Conduct User Study
