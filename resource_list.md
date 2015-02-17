@@ -42,7 +42,7 @@
 [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf)
 
 ## More Design Sprint Resources
-[Minimum Viable Product](http://en.wikipedia.org/wiki/Minimum_viable_product)
+[Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product)
 
 [Thoughtbot Design Sprint- Materials](http://robots.thoughtbot.com/the-product-design-sprint)
 
@@ -50,7 +50,7 @@
 
 [Game Storming Wiki](http://www.gamestorming.com/the-wiki)
 
-[Rapid Application Development](http://en.wikipedia.org/wiki/Rapid_application_development)
+[Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development)
 
 ## More Design Sprint Examples
 [BBC Design Sprint Blog Post](http://www.bbc.co.uk/blogs/internet/entries/60392136-1685-39c4-84bc-b8b2f54f6556)
@@ -66,8 +66,8 @@
 
 [Tomaz Tunguz How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
 * [The Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
-* [Porter’s Five Forces](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
-* [Value Chain Analysis](http://en.wikipedia.org/wiki/Value_chain)
+* [Porter’s Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+* [Value Chain Analysis Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 
 [Tomaz Tunguz The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 * Market timing risk
@@ -101,11 +101,14 @@
 [William Mougayar The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)
 
 ## Ideas, Value Propositions, and Business Models
+
+[Market Analysis Wikipedia](http://en.wikipedia.org/wiki/Market_analysis)
+
 [Example Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)
 
-[Value Proposition](http://en.wikipedia.org/wiki/Value_proposition)
+[Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
 
-[Customer Value Proposition](http://en.wikipedia.org/wiki/Customer_value_proposition)
+[Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
 
 [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
 
@@ -123,7 +126,7 @@
 
 ## Stats
 
-[Demographics](http://en.wikipedia.org/wiki/Demographics)
+[Demographics Wikipedia](http://en.wikipedia.org/wiki/Demographics)
 
 [Google Trends](http://www.google.com/trends)
 
