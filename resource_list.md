@@ -104,6 +104,8 @@
 
 [Market Analysis Wikipedia](http://en.wikipedia.org/wiki/Market_analysis)
 
+[Positioning Wikipedia](http://en.wikipedia.org/wiki/Positioning_(marketing)
+
 [Example Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)
 
 [Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Value_proposition)
@@ -113,6 +115,8 @@
 [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
 
 [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models)
+
+[Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing)
 
 [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)
 
