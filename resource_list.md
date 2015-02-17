@@ -50,6 +50,8 @@
 
 [Game Storming Wiki](http://www.gamestorming.com/the-wiki)
 
+[Rapid Application Development](http://en.wikipedia.org/wiki/Rapid_application_development)
+
 ## More Design Sprint Examples
 [BBC Design Sprint Blog Post](http://www.bbc.co.uk/blogs/internet/entries/60392136-1685-39c4-84bc-b8b2f54f6556)
 
