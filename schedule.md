@@ -65,6 +65,15 @@ Consider capping presentation/discussion at 10 minutes
 * Team interviews
 * Analytics
 
+Can do User Studies/Microstudies/Team Interviews ahead of time if needed
+
+Sketch the most important user story (as a group) = visual map
+
+Example user stories:
+Helping people understand and get started with your product
+Creating a new product concept — "imagine the value proposition and core features for an engaged user"
+Improving conversion rate from a landing page — "understand why people land on your page and what their goals are"
+
 Prototype
 Conduct User Study
 
