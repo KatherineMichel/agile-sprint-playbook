@@ -63,8 +63,22 @@
 [Sten Tamkivi Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
 
 [Tomaz Tunguz How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
+* The Business Model Canvas
+* Porter’s Five Forces
+* Value Chain Analysis
 
 [Tomaz Tunguz The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+* Market timing risk
+* Business model risk
+* Market adoption risk
+* Market size risk
+* Execution risk
+* Technology risk
+* Capitalization structure risk
+* Platform risk
+* Venture management risk
+* Financial risk
+* Legal risk 
 
 ## Web Design and Development Standards
 [U.S. CIO Playbook](http://playbook.cio.gov)
