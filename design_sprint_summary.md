@@ -2,29 +2,33 @@
 
 A Design Sprint takes 5 days.
 
-Identify Product/Feature Design Problem 
+Identify Product/Feature/Redesign Design Problem 
 Schedule the Design Sprint
 Begin Research Sprint simultaneously
 Find a facilitator
 
+"They need to be confident leading a meeting, including synthesizing discussions and telling people it’s time to stop talking."
+
 Only need 1 person; Optionally, include:
 * Designer
-* CEO 
+* CEO (buy-in/decision-maker)
 * Product manager
 * User expert 
 * Engineer
 * Marketer
 * Anybody else who’s interested
 
+"It’s also very important to have a dedicated room for the duration of the sprint, usually a conference room with lots of whiteboards."
+
 Supplies:
 * Sticky notes 
 * Drawing pens 
 * Whiteboards 
 * Whiteboard markers
-* Dot stickers 
+* Dot stickers (for voting)
 * Time Timer Clock 
 * Snacks 
-* Sticky stuff  
+* Sticky stuff: "You’ll need to stick your drawings and storyboards on the wall."
 
 Day 1: Understanding Day
 
