@@ -80,6 +80,7 @@ Improving conversion rate from a landing page — "understand why people land on
 "It’s also important to ask seemingly obvious questions"
 
 Day 2: Diverge Day
+"Rapidly developing as many solutions as possible"
 Paper first
 1. Choose part of the problem (divide up user story)
 2. Take notes (5 minutes) "how might we"
@@ -105,7 +106,8 @@ Test your assumptions
 Whiteboard the user story (comic book frames)
 Keep the gloves off
 
-"Rapidly developing as many solutions as possible"
+Day 4: Prototype Day
+
 Prototype
 Conduct User Study
 
