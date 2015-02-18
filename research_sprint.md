@@ -38,6 +38,7 @@ Begin Design Sprint simultaneously
 
 Day 1 (~4 hours)
 
+Schedule User Study
 Start recruiting participants
 
 Define your criteria
@@ -99,18 +100,8 @@ Task instructions
 Build an arc
 Final review: time budget and leading questions
 
-Day 4 (~8 hours)
+See "User Study" Chapter for Day 4
 
-Interview participants and summarize findings 
-
-* Set up the room
-* Set up test devices and recording system.
-* Test desktop prototypes
-* Test mobile prototypes
-* Prepare your team to watch the interviews
-* Get into character
-* Showtime: Interview five customers!
-* Summarize findings, review and plan next steps with your team.
 
 
 
