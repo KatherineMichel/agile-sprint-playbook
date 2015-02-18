@@ -4,6 +4,6 @@
 * [Resource List](resource_list.md)
 * [Research Sprint Summary](research_sprint.md)
 * Design Sprint Summary
-* [Django](django.md)
 * User Study
+* [Django](django.md)
 
