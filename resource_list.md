@@ -44,6 +44,8 @@
 ## More Design Sprint Resources
 [Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product)
 
+[Minimum Viable Canvas](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65)
+
 [Thoughtbot Design Sprint- Materials](http://robots.thoughtbot.com/the-product-design-sprint)
 
 [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
