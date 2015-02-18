@@ -5,4 +5,5 @@
 * [Schedule](schedule.md)
 * [Research Sprint Summary](research_sprint.md)
 * [Django](django.md)
+* Design Sprint Summary
 
