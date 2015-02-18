@@ -2,8 +2,7 @@
 
 From [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
 
-* Countdown Checklist
-* Research Plan
+[Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
 Types of Research Questions
 * Will my product help people solve their problems? 
@@ -36,6 +35,9 @@ A research sprint takes four days.
 Begin Design Sprint simultaneously
 
 Day 1 (~4 hours)
+
+* Countdown Checklist
+* Research Plan
 
 Schedule User Study (at least 3 business days into future; avoid Monday an holiday); Set a tight deadline
 Start recruiting participants
