@@ -38,7 +38,7 @@ Begin Design Sprint simultaneously
 
 Day 1 (~4 hours)
 
-Schedule User Study
+Schedule User Study (at least 3 business days into future; avoid Monday an holiday)
 Start recruiting participants
 
 Define your criteria
@@ -75,6 +75,23 @@ Start drafting interview guide
 1. Introduction
 2. Context questions
 
+See FitStar example context questions
+
+Select 5 people who fit criteria
+
+Call them on the phone
+
+* Verify responses
+* Confirm availability
+* Establish rapport
+
+Follow up email: confirm the time, date, and location of the interview. Include:
+
+* "Any instructions that will help people arrive on time, such as directions, parking info, the nearest transit stop, and what to do when they arrive."
+* "Your phone number in case they have questions or need to reschedule."
+* "A link to a non-disclosure agreement that people can review and sign ahead of time. You can use DocuSign or HelloSign for online signatures, or else just attach a PDF. (In addition to confidentiality, this sample NDA gets permission to record and protects ownership of ideas)."
+* "To minimize frustrating no-shows, ask people to reply to confirm. Your email subject line could say: “Reply to Confirm — Usability session scheduled on May 10 at 1 pm.”
+
 Day 3 (~4 hours)
 
 * Finalize schedule and confirm participants.
@@ -91,6 +108,10 @@ What features and tasks do you want to test?
 * Answering questions or getting unstuck
 * Completing checkout
 * Changing a setting or configuring the product
+
+* "Test a getting-started experience with people from the target audience who haven’t used your product."
+* "Test engagement or activation with users who signed up but don’t actively use your product."
+* "Test task completion or usability with people who use (or would use) the feature you are designing."
 
 Task instructions
 
