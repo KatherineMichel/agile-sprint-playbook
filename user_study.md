@@ -14,8 +14,57 @@ Interview participants and summarize findings
 * Showtime: Interview five customers!
 * Summarize findings, review and plan next steps with your team.
 
+"Your interviews will help you answer big questions, test your assumptions, and figure out what to do next."
 
-Design Sprint Day 5: Validate
+Set up the room
+Before participants arrive, use this checklist to prepare:
+
+* Print copies of the non-disclosure agreement (in case participants did not e-sign).
+* Print your interview guide (for your reference).
+* Clean up the interview room: erase whiteboards, throw out empty coffee cups, etc.
+* Post “do not disturb” sign on the door of the room.
+* Gather incentives for participants (gift cards, etc).
+* Grab a notepad and pens for any short notes you want to take. (But your team will handle the bulk of the notetaking.)
+* Make sure there’s a clock on the wall or table.
+Put a box of tissues in the room, just in case.
+
+Testing desktop prototypes
+
+* Test video streaming and recording.
+* If using GoToMeeting, schedule a “meeting” for each interview. Add the meeting URLs and phone numbers to your team’s calendar.
+* Install the prototypes and do a test run. (Be sure to revert prototypes to their default state before the interviews.)
+* Hide obvious personal information and remove desktop icons from computer.
+* Clear web browser history, cookies, cache, and bookmarks.
+* Create bookmarks or shortcuts for prototypes.
+* Set an innocuous home page (e.g. your local newspaper).
+* Minimize the browser or prototypes until you’re ready for your participants to test them.
+* Wipe down the keyboard, mouse, and display.
+
+Testing mobile prototypes
+
+* Test video streaming and recording.
+* If using GoToMeeting, schedule a “meeting” for each interview. Add the meeting URLs and phone numbers to your team’s calendar.
+* Install the prototypes and do a test run. (Be sure to revert prototypes to their default state before the interviews.)
+* Clear web browser history, cookies, cache, and bookmarks.
+* Create bookmarks for prototypes or save to home screen.
+* Close the browser or prototypes until you’re ready for your participants to test them.
+* Open the IPEVO Presenter app on the computer.
+* Position the Ziggi document camera so it’s focused on the test device.
+* Position the webcam so it’s focused on the participant’s face.
+* Wipe down the keyboard, mouse, and display.
+
+Prepare your team to watch the interviews
+
+* Grab plenty of snacks and drinks so they don’t have to step out during the interviews.
+* Test the audio and video before the interviews begin.
+* Mute their microphone (and video camera, if necessary) so participants don’t get nervous about being watched.
+* Assign one note-taker to write detailed, transcript-style notes — and rotate so no one is stuck typing for five hours!
+* Stock up on Post-It notes, notepads, pens, and whiteboard markers.
+* Pay attention and write down observations, insights, and ideas during the interviews.
+* Keep laptops closed and phones put away during the interviews.
+* Collect insights and ideas after each interview, so it doesn’t all pile up at the end of the day.
+* Have fun and keep an open mind!
+* Design Sprint Day 5: Validate
 
 Before the first session: List your key questions
 
