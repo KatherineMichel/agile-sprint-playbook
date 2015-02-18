@@ -2,10 +2,10 @@
 
 A Design Sprint takes 5 days.
 
-Identify Product/Feature/Redesign Design Problem 
-Schedule the Design Sprint
-Begin Research Sprint simultaneously
-Find a facilitator
+* Identify Product/Feature/Redesign Design Problem 
+* Schedule the Design Sprint
+* Begin Research Sprint simultaneously
+* Find a facilitator
 
 "They need to be confident leading a meeting, including synthesizing discussions and telling people it’s time to stop talking."
 
