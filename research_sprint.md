@@ -4,9 +4,9 @@ From [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-spr
 
 * Countdown Checklist
 * Research Plan
-* Types of Research Questions
 * Sample NDA
 
+Types of Research Questions
 * Will my product help people solve their problems? 
 * What should I build?
 * Do people understand my product? 
