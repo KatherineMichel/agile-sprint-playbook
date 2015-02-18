@@ -97,6 +97,14 @@ Hang them on the wall
 8. Super vote (5 minutes)
 9. Repeat
 
+Day 3: Decide Day
+Combat the group effect
+Search for conflicts
+Best shot or battle royale?
+Test your assumptions
+Whiteboard the user story (comic book frames)
+Keep the gloves off
+
 "Rapidly developing as many solutions as possible"
 Prototype
 Conduct User Study
