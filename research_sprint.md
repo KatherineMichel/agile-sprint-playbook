@@ -4,7 +4,6 @@ From [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-spr
 
 * Countdown Checklist
 * Research Plan
-* Sample NDA
 
 Types of Research Questions
 * Will my product help people solve their problems? 
@@ -38,24 +37,19 @@ Begin Design Sprint simultaneously
 
 Day 1 (~4 hours)
 
-Schedule User Study (at least 3 business days into future; avoid Monday an holiday)
+Schedule User Study (at least 3 business days into future; avoid Monday an holiday); Set a tight deadline
 Start recruiting participants
 
-Define your criteria
+Define your user criteria (favorable/unfavorable)
 Write screener questions
 
-* Create a recruiting screener (questionnaire)
+* Create a recruiting screener (Google Forms questionnaire)
 * Post recruiting screener where the right people will see it and fill it out.
  
-* Set a tight deadline
 * Talk to the right people
 
-Craigslist
-Finding friendlies
-Experts and hard-to-find participants
-
 DIY: Share links to:
-* Craigslist
+* Craigslist “Et cetera jobs” section with a link to the screener
 * Add to product, emails
 * Append to all comms
 * Friends and family
@@ -64,6 +58,14 @@ DIY: Share links to:
 * Community groups
 * Conferences
 * Student groups
+
+Finding friendlies: "Twitter, Facebook, or anywhere else you have an audience. You can also add a small link (“Want to give us more feedback?”) to your product, website, or company emails."
+
+Experts and hard-to-find participants
+
+"Check with your sales or business-development teams to see if they have lists of potential customers (leads), partners, or contacts they can share. I’ve used this approach to recruit medical specialists, small-business owners, job candidates, and many others."
+
+"You can also look for contacts in professional associations, community groups, student groups, or your personal network." 
 
 Day 2 (~4 hours)
 
@@ -98,9 +100,16 @@ Day 3 (~4 hours)
 * Complete interview guide.
 * Review prototype with your team.
 
+* "You should have a full day of five interviews planned."
+* "Call each participant to confirm (unless you just spoke with them, of course) the time and place." 
+* "Send out the schedule to your team." 
+* "Buy the gift cards or other incentive you’re planning to give participants."
+
 3. Tasks
 
 What features and tasks do you want to test?
+
+"Make a list of the important features and tasks in your product. Which ones are critical to test in this research sprint? You can also think of these as the specific parts of the product or prototype that you want users to visit during the interview. For example, these might include:"
 
 * Understanding the value proposition
 * Creating an account
@@ -115,11 +124,13 @@ What features and tasks do you want to test?
 
 Task instructions
 
-4. Follow-up questions
+4. Follow-up questions (somewhat improvised)
 5. Debrief
 
-Build an arc
+Build an arc (see infographic)
 Final review: time budget and leading questions
+
+"Consider running a pilot interview to test your guide and the timing"
 
 See "User Study" Chapter for Day 4
 
