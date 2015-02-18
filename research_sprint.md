@@ -28,9 +28,9 @@ Components of a research sprint
 There are five essential components of a research sprint.
 
 1. A set of questions and assumptions. 
-2. Intentional and selective recruiting. You’ll need to carefully recruit people based on your goals: existing customers, prospective customers, representative customers, etc. 
+2. Intentional and selective recruiting. 
 3. A realistic prototype you can test. 
-4. Five 1-on-1 60-minute interviews (Plus, Jakob Nielsen approves.) 
+4. Five 1-on-1 60-minute interviews 
 5. Real-time summarization of findings. 
 
 A research sprint takes four days.
