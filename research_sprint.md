@@ -34,6 +34,7 @@ There are five essential components of a research sprint.
 5. Real-time summarization of findings. 
 
 A research sprint takes four days.
+Begin Design Sprint simultaneously
 
 Day 1 (~4 hours)
 
