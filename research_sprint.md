@@ -98,14 +98,16 @@ Day 3 (~4 hours)
 
 * Finalize schedule and confirm participants.
 * Complete interview guide.
-* Review prototype with your team.
+* Review prototype with your team. "Talk about which tasks you need to test to answer your questions or validate your assumptions"
 
 * "You should have a full day of five interviews planned."
 * "Call each participant to confirm (unless you just spoke with them, of course) the time and place." 
 * "Send out the schedule to your team." 
 * "Buy the gift cards or other incentive you’re planning to give participants."
 
-3. Tasks
+3. Tasks (task-based testing)
+ 
+"You can do task-based testing with almost any kind of prototype, as long as it looks real: a few mockups, a clickable prototype, your actual product, or even a competitor’s product."
 
 What features and tasks do you want to test?
 
