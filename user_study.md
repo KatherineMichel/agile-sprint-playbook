@@ -33,25 +33,19 @@ Testing desktop prototypes
 * Test video streaming and recording.
 * If using GoToMeeting, schedule a “meeting” for each interview. Add the meeting URLs and phone numbers to your team’s calendar.
 * Install the prototypes and do a test run. (Be sure to revert prototypes to their default state before the interviews.)
-* Hide obvious personal information and remove desktop icons from computer.
+* Hide obvious personal information and remove desktop icons from computer. (desktop only)
 * Clear web browser history, cookies, cache, and bookmarks.
 * Create bookmarks or shortcuts for prototypes.
-* Set an innocuous home page (e.g. your local newspaper).
-* Minimize the browser or prototypes until you’re ready for your participants to test them.
+* Set an innocuous home page (e.g. your local newspaper). (desktop only)
+* Minimize the browser or prototypes until you’re ready for your participants to test them. 
 * Wipe down the keyboard, mouse, and display.
 
-Testing mobile prototypes
+In addition to the above, for Testing mobile prototypes
 
-* Test video streaming and recording.
-* If using GoToMeeting, schedule a “meeting” for each interview. Add the meeting URLs and phone numbers to your team’s calendar.
-* Install the prototypes and do a test run. (Be sure to revert prototypes to their default state before the interviews.)
-* Clear web browser history, cookies, cache, and bookmarks.
-* Create bookmarks for prototypes or save to home screen.
 * Close the browser or prototypes until you’re ready for your participants to test them.
 * Open the IPEVO Presenter app on the computer.
 * Position the Ziggi document camera so it’s focused on the test device.
 * Position the webcam so it’s focused on the participant’s face.
-* Wipe down the keyboard, mouse, and display.
 
 Prepare your team to watch the interviews
 
