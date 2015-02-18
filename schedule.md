@@ -1,5 +1,7 @@
 # Google Venture Research Sprint Schedule
 
+From [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
+
 * Countdown Checklist
 * Research Plan
 * Types of Research Questions
@@ -109,7 +111,7 @@ Interview participants and summarize findings
 * Showtime: Interview five customers!
 * Summarize findings, review and plan next steps with your team.
 
-From [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
+
 
 
 
