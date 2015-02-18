@@ -74,6 +74,30 @@ Helping people understand and get started with your product
 Creating a new product concept — "imagine the value proposition and core features for an engaged user"
 Improving conversion rate from a landing page — "understand why people land on your page and what their goals are"
 
+"Choose which ideas to move forward"
+"Frame the discussion"
+"At the end of the sprint, when you show your prototype to users, what do you hope to learn? What do you need to design and prototype in order to learn those things?"
+"It’s also important to ask seemingly obvious questions"
+
+Day 2: Diverge Day
+Paper first
+1. Choose part of the problem (divide up user story)
+2. Take notes (5 minutes) "how might we"
+3. Mind map (10–15 minutes)
+4. Crazy Eights (5 minutes)
+5. Storyboard (10–20 minutes)
+
+Make it stand alone 
+Keep it anonymous 
+Give it a name 
+Hang them on the wall 
+
+6. Silent critique (5–10 minutes)
+7. Three-minute critiques (3 minutes per idea)
+8. Super vote (5 minutes)
+9. Repeat
+
+"Rapidly developing as many solutions as possible"
 Prototype
 Conduct User Study
 
