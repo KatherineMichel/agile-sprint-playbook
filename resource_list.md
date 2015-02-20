@@ -41,6 +41,10 @@
 
 [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf)
 
+## Institute of Design at Stanford
+
+[Institute of Design at Stanford- Use Our Methods](http://dschool.stanford.edu/use-our-methods)
+
 ## More Design Sprint Resources
 [Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product)
 
