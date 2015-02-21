@@ -6,6 +6,6 @@
 * [Design Sprint Summary](design_sprint_summary.md)
 * [User Study](user_study.md)
 * Portfolio Re-Design
-* [Django](django.md)
 * SaaS Startup Framework
+* [Django](django.md)
 
