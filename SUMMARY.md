@@ -8,4 +8,5 @@
 * Portfolio Re-Design
 * [SaaS Startup Framework](saas_startup_framework.md)
 * [Django](django.md)
+* Operations
 
