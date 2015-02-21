@@ -4,3 +4,4 @@
 
 [Tomasz Tunguz SaaS Startup Benchmarks](http://tomtunguz.com/saas-startup-benchmarks)
 
+[YCombinator SaaS Sales Template](http://www.ycombinator.com/documents/#sales)
