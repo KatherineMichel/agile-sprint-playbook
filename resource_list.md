@@ -116,6 +116,8 @@
 
 [Customer Value Proposition Wikipedia](http://en.wikipedia.org/wiki/Customer_value_proposition)
 
+[Lean LaunchPad Business Model Canvas](hhttps://steveblank.files.wordpress.com/2010/12/business-model-and-cust-dev.jpg)
+
 [Example Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg)
 
 [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324)
