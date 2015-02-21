@@ -89,6 +89,11 @@
 * Legal risk 
 
 [Tomasz Tunguz End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
+* An annual post-mortem
+* Team evaluations
+* OKR setting
+* The three things we’re worried about
+* A financial plan for the next year
 
 ## Web Design and Development Standards
 [U.S. CIO Playbook](http://playbook.cio.gov)
