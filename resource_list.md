@@ -70,12 +70,12 @@
 
 [Sten Tamkivi Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
 
-[Tomaz Tunguz How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
+[Tomasz Tunguz How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
 * [The Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 * [Porter’s Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
 * [Value Chain Analysis Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 
-[Tomaz Tunguz The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+[Tomasz Tunguz The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
 * Market timing risk
 * Business model risk
 * Market adoption risk
@@ -87,6 +87,8 @@
 * Venture management risk
 * Financial risk
 * Legal risk 
+
+[Tomasz Tunguz End of the Year Startup Checklist](http://tomtunguz.com/end-of-the-year-startup-checklist)
 
 ## Web Design and Development Standards
 [U.S. CIO Playbook](http://playbook.cio.gov)
