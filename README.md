@@ -1,3 +1,2 @@
 # research-and-design-sprints
-
-Hello World!
+A GitBook Documenting My Research and Design Sprints
