@@ -3,7 +3,7 @@
 ## People and Supplies
 Taking stock of supplies on hand
 
-![](design-sprint/supply-cabinet.jpg)
+![](https://github.com/KatherineMichel/church-website-and-marketing-on-a-budget/design-sprint/supply-cabinet.jpg)
 
 #### Supplies Needed
 * Sticky notes 
