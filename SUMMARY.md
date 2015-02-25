@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Resource List](resource_list.md)
-* [User Study](user_study.md)
 * Project Management
 * Church Research and Design Sprint
 * [Portfolio Re-Design](portfolio_re-design.md)
