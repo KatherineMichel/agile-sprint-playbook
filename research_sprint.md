@@ -1,8 +1,0 @@
-# Research Sprint Summary
-
-
-
-
-
-
-
