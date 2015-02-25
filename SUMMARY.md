@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Resource List](resource_list.md)
-* [Design Sprint Summary](design_sprint_summary.md)
 * [User Study](user_study.md)
 * Project Management
 * Church Research and Design Sprint
