@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Resource List](resource_list.md)
-* Demographics
+* [Demographics](demographics.md)
 * [Research and Design Sprint Process](research_and_design_sprint_process.md)
 * Project Management
 * [Church Research and Design Sprint](church_research_and_design_sprint.md)
