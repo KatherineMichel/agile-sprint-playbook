@@ -152,10 +152,10 @@
 ## Strategy
 
 ### S.W.O.T. Analysis (Strategy)
-* Church strengths
-* Church weaknesses
-* Church opportunities
-* Church threats
+* Strengths
+* Weaknesses
+* Opportunities
+* Threats
 
 ### Other Strategy Methods
 * PESTLIED
