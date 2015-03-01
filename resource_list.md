@@ -149,6 +149,26 @@
 
 [Google Trends](http://www.google.com/trends)
 
+## Strategy
+
+### S.W.O.T. Analysis (Strategy)
+* Church strengths
+* Church weaknesses
+* Church opportunities
+* Church threats
+
+### Other Strategy Methods
+* PESTLIED
+* Porter's Five Forces
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
+
 ## Dev
 
 [Django Docs](https://www.djangoproject.com)
