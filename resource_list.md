@@ -173,6 +173,22 @@
 
 [Django Docs](https://www.djangoproject.com)
 
+## Data Gathering Methods
+Method
+* Surveys/polls
+* Interviews
+* Focus groups
+* Facilitation
+* Forums/panels
+
+Channel
+* Online
+* Email
+* Telephone
+* Mail
+* Comment cards/pads at the end of pews
+* In person/on the street
+
 
 
 
