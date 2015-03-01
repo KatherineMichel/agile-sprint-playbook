@@ -188,6 +188,7 @@ Channel
 * Mail
 * Comment cards/pads at the end of pews
 * In person/on the street
+* In person/on the street
 
 
 
