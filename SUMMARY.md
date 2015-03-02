@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Resource List](resource_list.md)
+   * Research and Design Sprint
 * [Demographics](demographics.md)
 * [Research and Design Sprint Process](research_and_design_sprint_process.md)
 * [Project Management](project_management.md)
