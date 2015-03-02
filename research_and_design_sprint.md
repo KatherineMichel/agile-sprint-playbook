@@ -85,14 +85,6 @@ Go through the [Google Ventures Questions to Ask Before Starting User Research](
 
 The "business" opportunity
 
-### Leverage
-
-Existing research, analytics
-
-Notes from previous church strategy meetings
-
-Interviews notes
-
 ## Design Sprint
 
 Existing product screens
