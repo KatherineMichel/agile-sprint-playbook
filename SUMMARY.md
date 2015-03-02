@@ -11,6 +11,5 @@
    * [SaaS Startup Framework](saas_startup_framework.md)
 * [Research and Design Sprint Process](research_and_design_sprint_process.md)
 * [Project Management](project_management.md)
-* [Operations](operations.md)
 * Reverse Engineering
 
