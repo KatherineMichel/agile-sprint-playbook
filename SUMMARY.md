@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Resource List](resource_list.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
-   * Company Research
+   * [Company Research](company_research.md)
    * [Web Design and Development Standards](web_design_and_development_standards.md)
 * [Demographics](demographics.md)
 * [Research and Design Sprint Process](research_and_design_sprint_process.md)
