@@ -1,6 +1,7 @@
 # Summary
 
 * [GitHub README](README.md)
+* Executive Summary
 * [Resource List](resource_list.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Reverse Engineering](reverse_engineering.md)
@@ -11,5 +12,4 @@
    * [Portfolio Re-Design](portfolio_re-design.md)
    * [SaaS Startup Framework](saas_startup_framework.md)
 * [Project Management](project_management.md)
-* Executive Summary
 
