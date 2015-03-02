@@ -1,4 +1,4 @@
-# GitHub README
+# Research and Design Sprints
 
 © Katherine Michel 2015
 
