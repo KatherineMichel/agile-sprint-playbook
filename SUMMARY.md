@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [GitHub README](README.md)
 * [Resource List](resource_list.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Reverse Engineering](reverse_engineering.md)
