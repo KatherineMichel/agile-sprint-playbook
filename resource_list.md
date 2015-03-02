@@ -5,10 +5,6 @@
 
 [Minimum Viable Canvas](https://medium.com/@santoshrajan/the-minimum-viable-canvas-6ee9ea072f65)
 
-[Thoughtbot Design Sprint- Materials](http://robots.thoughtbot.com/the-product-design-sprint)
-
-[Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
-
 [Game Storming Wiki](http://www.gamestorming.com/the-wiki)
 
 [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development)
