@@ -46,13 +46,6 @@
 * The three things we’re worried about
 * A financial plan for the next year
 
-## Web Design and Development Standards
-[U.S. CIO Playbook](http://playbook.cio.gov)
-
-[U.K. Gov Service Manuals](https://www.gov.uk/service-manual)
-
-[Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)
-
 ## Ideas, Value Propositions, and Business Models
 
 [Market Analysis Wikipedia](http://en.wikipedia.org/wiki/Market_analysis)
@@ -108,10 +101,6 @@
 * Kaleidoscope
 * Kant
 * Kotter
-
-## Dev
-
-[Django Docs](https://www.djangoproject.com)
 
 ## Data Gathering Methods
 Method
