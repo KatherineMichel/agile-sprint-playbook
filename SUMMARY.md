@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [List of Research and Design Sprints](list_of_research_and_design_sprints.md)
+* [Research and Design Sprints](research_and_design_sprints.md)
 * [Resource List](resource_list.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Company Research](company_research.md)
