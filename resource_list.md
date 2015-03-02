@@ -1,50 +1,5 @@
 # Resource List
 
-## Google Research and Research Sprint
-[Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
-
-[Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions)
-
-[Google Ventures Research Quick and Dirty Research PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)
-
-[Google Ventures Research Sprint Sample Craig's List Ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png)
-
-[Google Ventures Research Sprint Sample NDA](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf) (Also in PDF)
-
-[Google Ventures Research Sprint Sample Recruiting Screener Worksheet #1](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) (Also in PDF)
-
-[Google Ventures Research Sprint Sample Recruiting Screener Worksheet #2](https://drive.google.com/previewtemplate?id=1E96r55rFIXcpMWhcVADL2aX11Q5MaS8IifvFIE1pLGs&mode=public&ddrp=1#)
-
-[Google Ventures Research Sprint Sample Recruiting Screener Template](http://www.gv.com/ds-redirect/images/content/recruiting-screener.png)
-
-[Google Ventures Research Sprint Sample Recruiting Screener Example #1](https://docs.google.com/forms/d/1O3BDu28iUhn6UB9qAQE_zDL3iY2y77xWh63r9RnGyeg/viewform)
-
-[Google Ventures Research Sprint Sample Recruiting Screener Example #2](https://docs.google.com/forms/d/1f6C7DnNEgfRCBtjGjHQQTsj8QBRY8xYIo8iE0W21hlU/viewform?formkey=dDFoemRKdTdKZzc5dmI2ZGkyT1ZvcGc6MA#gid=0) (Also in PDF)
-
-[Create a Survey Using Google Forms](https://support.google.com/docs/answer/87809?hl=en)
-
-## Google Design Sprint
-
-[Google Ventures Design Sprint](http://www.gv.com/sprint)
-
-[Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
-
-[Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
-
-## IDEO
-
-[IDEO](http://www.ideo.com)
-
-[IDEO Design Kit](http://www.designkit.org)
-
-[IDEO Design Kit Methods](http://www.designkit.org/methods)
-
-[IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf)
-
-## Institute of Design at Stanford
-
-[Institute of Design at Stanford- Use Our Methods](http://dschool.stanford.edu/use-our-methods)
-
 ## More Design Sprint Resources
 [Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product)
 
