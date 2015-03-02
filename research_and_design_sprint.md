@@ -31,6 +31,12 @@
 
 [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
 
+## Thoughtbot
+
+[Thoughtbot Design Sprint- Materials](http://robots.thoughtbot.com/the-product-design-sprint)
+
+[Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
+
 ## IDEO
 
 [IDEO](http://www.ideo.com)
