@@ -1,4 +1,7 @@
-# research-and-design-sprints
+# GitHub README
+
+© Katherine Michel 2015
+
 A GitBook Documenting My Research and Design Sprints: <br>
 http://katherinemichel.gitbooks.io/research-and-design-sprints
 
