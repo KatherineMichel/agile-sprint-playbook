@@ -14,5 +14,5 @@
 * [Django](django.md)
 * [Operations](operations.md)
 * Reverse Engineering
-* List of Research and Design Sprints
+* [List of Research and Design Sprints](list_of_research_and_design_sprints.md)
 
