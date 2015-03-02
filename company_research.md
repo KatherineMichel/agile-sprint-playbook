@@ -1,6 +1,5 @@
 # Company Research
 
-## Company Research
 [EDGAR SEC Filings](http://www.sec.gov/edgar.shtml)
 
 [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)
