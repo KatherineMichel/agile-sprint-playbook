@@ -10,6 +10,5 @@
 * [Research and Design Sprints](research_and_design_sprints.md)
    * [Portfolio Re-Design](portfolio_re-design.md)
    * [SaaS Startup Framework](saas_startup_framework.md)
-* [Research and Design Sprint Process](research_and_design_sprint_process.md)
 * [Project Management](project_management.md)
 
