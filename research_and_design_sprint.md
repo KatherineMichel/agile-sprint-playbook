@@ -37,6 +37,13 @@
 
 [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
 
+## More Design Sprint Examples
+[BBC Design Sprint Blog Post](http://www.bbc.co.uk/blogs/internet/entries/60392136-1685-39c4-84bc-b8b2f54f6556)
+
+[Francis Cortez Design Sprint #1](http://franciscortez.com/design-sprint)
+
+[Francis Cortez Design Sprint #3](https://medium.com/@makeshowlearn/personal-design-sprint-iii-prompts-10949cc4cf6b)
+
 ## IDEO
 
 [IDEO](http://www.ideo.com)
