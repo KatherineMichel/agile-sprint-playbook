@@ -1,8 +1,8 @@
 # Summary
 
 * [GitHub README](README.md)
-* [Reverse Engineering](reverse_engineering.md)
 * [Executive Summary](executive_summary.md)
+* [Reverse Engineering](reverse_engineering.md)
 * [Resource List](resource_list.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Company Research](company_research.md)
