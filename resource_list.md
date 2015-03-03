@@ -71,8 +71,6 @@
 
 ## Stats
 
-[Demographics Wikipedia](http://en.wikipedia.org/wiki/Demographics)
-
 [Google Trends](http://www.google.com/trends)
 
 ## Strategy
