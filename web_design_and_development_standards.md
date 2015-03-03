@@ -1,7 +1,5 @@
 # Web Design and Development Standards
 
-## Web Design and Development Standards
-
 [U.S. CIO Playbook](http://playbook.cio.gov)
 
 [U.K. Gov Service Manuals](https://www.gov.uk/service-manual)
