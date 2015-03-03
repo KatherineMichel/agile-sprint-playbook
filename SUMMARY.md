@@ -8,7 +8,6 @@
    * [Company Research](company_research.md)
    * [Demographics](demographics.md)
    * [Web Design and Development Standards](web_design_and_development_standards.md)
-   * [Design Resources](design_resources.md)
 * [Research and Design Sprints](research_and_design_sprints.md)
    * [Portfolio Re-Design](portfolio_re-design.md)
    * [SaaS Startup Framework](saas_startup_framework.md)
