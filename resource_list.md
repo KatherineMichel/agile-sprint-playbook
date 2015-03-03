@@ -10,7 +10,6 @@
 [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development)
 
 ## Venture Analysis
-[Google Ventures Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)
 
 [Sten Tamkivi Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca)
 
