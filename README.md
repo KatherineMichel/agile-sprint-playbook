@@ -3,7 +3,7 @@
 A GitBook Documenting My Research and Design Sprints: <br>
 http://katherinemichel.gitbooks.io/research-and-design-sprints
 
-© Katherine Michel 2015
+© [Katherine Michel](https://twitter.com/katimichel) 2015
 
 
 
