@@ -80,6 +80,12 @@ Channel
 * Mail
 * In person/on the street
 
+## Metrics
+
+[OKRs Wikipedia](http://en.wikipedia.org/wiki/OKR)
+
+[How Google Sets Goals Objectives and Key Results OKRs](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs)
+
 
 
 
