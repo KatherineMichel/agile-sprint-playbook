@@ -4,6 +4,7 @@
 
 * Website
 * Facebook Page
+* Twitter, Pinterest, Instagram Profiles
 
 #### Search Engine Optimization (SEO)
 
