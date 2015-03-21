@@ -27,6 +27,7 @@ In general, Facebook is considered to be the 'king' of social traffic, with othe
 * [Google Forms](http://www.google.com/forms/about)
 * [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) (pay)
 * [Google Keyword Planner](https://support.google.com/adwords/answer/3114286?hl=en)
+* Verify Local business
 
 #### Email Management
 
