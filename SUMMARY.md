@@ -3,7 +3,6 @@
 * [GitHub README](README.md)
 * [Executive Summary](executive_summary.md)
 * [Fashionwise](fashionwise.md)
-* [Reverse Engineering](reverse_engineering.md)
 * [Resource List](resource_list.md)
    * [Research and Design Sprint](research_and_design_sprint.md)
    * [Company Research](company_research.md)
