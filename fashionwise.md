@@ -7,3 +7,5 @@ Alternative names:
 
 ## SEC Filings
 
+[Edgar Search](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
