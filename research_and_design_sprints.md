@@ -1,2 +1,0 @@
-# Research and Design Sprints
-
