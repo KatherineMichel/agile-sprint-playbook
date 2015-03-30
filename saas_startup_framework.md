@@ -1,5 +1,7 @@
 # SaaS Startup Framework
 
+![](saas-startup/tomasz-tunguz-design-sprint-tweet.png)
+
 [Tomasz Tunguz SaaS Blog Posts](http://tomtunguz.com/categories/saas)
 
 [Tomasz Tunguz SaaS Startup Benchmarks](http://tomtunguz.com/saas-startup-benchmarks)
