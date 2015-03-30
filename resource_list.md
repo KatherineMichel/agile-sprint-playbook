@@ -98,6 +98,30 @@ Channel
 
 [William Mougayar The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)
 
+# Demographics
+
+[Demographics Wikipedia](http://en.wikipedia.org/wiki/Demographics)
+
+* Total population
+* Urban, rural, farm
+* Metropolitan
+* Race and hispanic
+* Age and sex
+* Households
+* Marital status
+* Fertility
+* School attendance
+* Education
+* Place of birth
+* Foreign born
+* Country of birth
+* Nativity/parentage
+* Labor force
+* Occupation
+* Industry
+* States
+* Race/ethnicity
+
 
 
 
