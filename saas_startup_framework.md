@@ -8,6 +8,10 @@
 
 [Tomasz Tunguz SaaS Startup Benchmarks](http://tomtunguz.com/saas-startup-benchmarks)
 
+## SEC Filings
+
+[Edgar Search](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
 ## Bonus
 
 [YCombinator SaaS Sales Template](http://www.ycombinator.com/documents/#sales)
