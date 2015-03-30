@@ -9,7 +9,6 @@
    * [Demographics](demographics.md)
    * [Web Design and Development Standards](web_design_and_development_standards.md)
    * [Venture Analysis](venture_analysis.md)
-   * [Django](django.md)
    * [Advanced Marketing](advanced_marketing.md)
 * [Research and Design Sprints](research_and_design_sprints.md)
    * [Portfolio Re-Design](portfolio_re-design.md)
