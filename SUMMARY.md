@@ -11,6 +11,5 @@
    * [Demographics](demographics.md)
    * [Venture Analysis](venture_analysis.md)
    * [Advanced Marketing](advanced_marketing.md)
-* [Research and Design Sprints](research_and_design_sprints.md)
 * [Project Management](project_management.md)
 
