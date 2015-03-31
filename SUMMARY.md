@@ -7,6 +7,6 @@
    * [Research Sprint](research_sprint.md)
    * [Design Sprint](design_sprint.md)
 * [SaaS Startup Framework](saas_startup_framework.md)
-   * Research Sprint
+   * [Research Sprint](research_sprint.md)
 * [Portfolio Re-Design](portfolio_re-design.md)
 
