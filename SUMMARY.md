@@ -9,5 +9,5 @@
 * [SaaS Startup Framework](saas_startup_framework.md)
    * [Research Sprint](research_sprint.md)
    * [Design Sprint](design_sprint.md)
-* News Website
+* [News Website](news_website.md)
 
