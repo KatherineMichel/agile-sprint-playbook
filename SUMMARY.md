@@ -11,4 +11,5 @@
    * [Design Sprint](design_sprint.md)
 * News Website
    * Research Sprint
+   * Design Sprint
 
