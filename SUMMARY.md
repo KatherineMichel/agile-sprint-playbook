@@ -5,7 +5,7 @@
 * [Project Management](project_management.md)
 * [Fashionwise](fashionwise.md)
    * [Research Sprint](research_sprint.md)
-   * Design Sprint
+   * [Design Sprint](design_sprint.md)
 * [SaaS Startup Framework](saas_startup_framework.md)
 * [Portfolio Re-Design](portfolio_re-design.md)
 
