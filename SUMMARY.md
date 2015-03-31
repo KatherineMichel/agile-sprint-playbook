@@ -10,5 +10,4 @@
    * [Research Sprint](research_sprint.md)
    * [Design Sprint](design_sprint.md)
 * News Website
-   * Design Sprint
 
