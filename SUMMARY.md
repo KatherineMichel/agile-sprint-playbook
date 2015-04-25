@@ -8,5 +8,6 @@
    * [Fashionwise Design Sprint](design_sprint.md)
 * [SaaS Startup](saas_startup_framework.md)
    * SaaS Research Sprint
+   * Saas Startup Design Sprint
 * [News Website](news_website.md)
 
