@@ -6,7 +6,7 @@
 * [Fashionwise](fashionwise.md)
    * [Fashionwise Research Sprint](research_sprint.md)
    * [Fashionwise Design Sprint](design_sprint.md)
-* [SaaS](saas_startup_framework.md)
+* [SaaS Startup](saas_startup_framework.md)
    * SaaS Research Sprint
 * [News Website](news_website.md)
 
