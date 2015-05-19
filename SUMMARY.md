@@ -11,4 +11,5 @@
    * [Fashionwise Research Sprint](fashionwise_research_sprint.md)
    * [Fashionwise Design Sprint](fashionwise_design_sprint.md)
 * [News Website](news_website.md)
+* Baby Sing Sign
 
