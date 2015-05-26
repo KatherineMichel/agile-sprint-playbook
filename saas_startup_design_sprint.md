@@ -1,2 +1,0 @@
-# Saas Startup Design Sprint
-
