@@ -1,2 +1,0 @@
-# Fashionwise Research Sprint
-
