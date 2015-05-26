@@ -1,2 +1,0 @@
-# Baby Sing Sign
-
