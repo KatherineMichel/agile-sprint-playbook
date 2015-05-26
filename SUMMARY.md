@@ -8,7 +8,6 @@
    * [Saas Startup Unicorn](saas_startup_unicorn.md)
 * [Fashionwise](fashionwise.md)
    * [Fashionwise Research Sprint](fashionwise_research_sprint.md)
-   * [Fashionwise Design Sprint](fashionwise_design_sprint.md)
 * [News Website](news_website.md)
 * [Project Management](project_management.md)
 
