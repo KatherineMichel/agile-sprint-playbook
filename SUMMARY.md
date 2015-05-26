@@ -5,5 +5,4 @@
 * [SaaS Startup](saas_startup.md)
    * [SaaS Startup Research Sprint](saas_startup_research_sprint.md)
    * [SaaS Startup Design Sprint](saas_startup_design_sprint.md)
-   * [Saas Startup Unicorn](saas_startup_unicorn.md)
 
