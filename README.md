@@ -1,6 +1,6 @@
 # Research and Design Sprints
 
-A GitBook Documenting My Research and Design Sprints: 
+A GitBook Documenting the Research and Design Sprint Methodologies I Use: 
 <br> 
 <br>
 GitBook: http://katherinemichel.gitbooks.io/research-and-design-sprints
