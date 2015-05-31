@@ -1,2 +1,0 @@
-# GV Design Sprint
-
