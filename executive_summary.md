@@ -1,4 +1,4 @@
-![Design Sprint Phases](images/phases.png "Design Sprint Phases")
+![](phases.png)
 
 # Product Design Sprint
 
