@@ -13,4 +13,5 @@
    * [5 Test](5-Test.md)
 * [GV Research Sprint Methodology](gv_research_sprint_methodology.md)
 * [GV Design Sprint Methodology](gv_design_sprint_methodology.md)
+* Lean Methodology
 
