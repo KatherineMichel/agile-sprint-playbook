@@ -11,6 +11,6 @@
    * [3 Converge](3-Converge.md)
    * [4 Prototype](4-Prototype.md)
    * [5 Test](5-Test.md)
-* [GV Research Sprint](gv_research_sprint.md)
+* [GV Research Sprint Methodology](gv_research_sprint_methodology.md)
 * [GV Design Sprint](gv_design_sprint.md)
 
