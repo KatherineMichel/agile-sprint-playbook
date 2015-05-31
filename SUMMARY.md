@@ -1,6 +1,7 @@
 # Summary
 
 * [GitHub README](README.md)
+* Introduction
 * [Thoughtbot Methodology](thoughtbot_methodology.md)
    * [0 Pre-Sprint](0-Pre-Sprint.md)
    * [1 Understand](1-Understand.md)
@@ -12,5 +13,4 @@
    * [4 Prototype](4-Prototype.md)
    * [5 Test](5-Test.md)
    * [5 Test Schedule](5-Test-Schedule.md)
-* Introduction
 
