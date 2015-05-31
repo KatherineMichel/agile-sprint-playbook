@@ -7,7 +7,7 @@
    * [Schedule](schedule.md)
    * [0 Pre-Sprint](0-pre-sprint.md)
    * [1 Understand](1-Understand.md)
-   * [2 Diverge](2-Diverge.md)
+   * [2 Diverge](2-diverge.md)
    * [3 Converge](3-Converge.md)
    * [4 Prototype](4-Prototype.md)
    * [5 Test](5-Test.md)
