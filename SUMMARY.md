@@ -10,7 +10,7 @@
    * [2 Diverge](2-diverge.md)
    * [3 Converge](3-converge.md)
    * [4 Prototype](4-prototype.md)
-   * [5 Test](5-Test.md)
+   * [5 Test](5-test.md)
 * [GV Research Sprint Methodology](gv_research_sprint_methodology.md)
 * [GV Design Sprint Methodology](gv_design_sprint_methodology.md)
 * [Lean Methodology](lean_methodology.md)
