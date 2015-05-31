@@ -9,7 +9,7 @@ It contains guidelines that should not be followed exactly.
 Each sprint should be tailored to the individual project.
 It is written by and for the thoughtbot team.
 
-* [Previous Sprints](Previous-Sprints)
+* [Previous Sprints](previous-sprints.md)
 * [Pre-Sprint Preparation](0-Pre-Sprint)
 * [Understand Phase](1-Understand)
 * [Diverge Phase](2-Diverge)
@@ -139,10 +139,6 @@ to your own board to help guide and document your sprint.
 ## Example Design Sprint Schedule
 
 * [Schedule for Understand](1-Understand/Schedule.md)
-* [Schedule for Diverge](2-Diverge/Schedule.md)
-* [Schedule for Converge](3-Converge/Schedule.md)
-* [Schedule for Prototype](4-Prototype/Schedule.md)
-* [Schedule for Test](5-Test/Schedule.md)
 
 ## Further Reading
 
