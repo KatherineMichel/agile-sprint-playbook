@@ -3,7 +3,7 @@
 * [GitHub README](README.md)
 * [Introduction](introduction.md)
 * [Previous Sprints](previous-sprints.md)
-* [thoughtbot Methodology](thoughtbot_methodology.md)
+* [thoughtbot Design Sprint Methodology](thoughtbot_design_sprint_methodology.md)
    * [Schedule](schedule.md)
    * [0 Pre-Sprint](0-Pre-Sprint.md)
    * [1 Understand](1-Understand.md)
