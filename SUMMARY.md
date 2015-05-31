@@ -11,5 +11,4 @@
    * [3 Converge](3-Converge.md)
    * [4 Prototype](4-Prototype.md)
    * [5 Test](5-Test.md)
-   * [5 Test Schedule](5-Test-Schedule.md)
 
