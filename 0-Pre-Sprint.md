@@ -93,7 +93,7 @@ room would have a whiteboard and a place to pin or tape up sketches. **Typically
 ### Schedule 4–6 people for interviews / usability tests
 
 Only if users are already identified. Otherwise this should be held off till
-after Understand. During [Test](../5-Test), we'll be running a user study, showing the
+after Understand. During [Test](5-Test), we'll be running a user study, showing the
 prototype to 4–6 real people. Learn [how to recruit great participants for your study
 here](http://www.designstaff.org/articles/recruiting-how-to-find-great-participants-for-your-user-study-2012-02-22.html).
 **Typically done by Product Owner.**
