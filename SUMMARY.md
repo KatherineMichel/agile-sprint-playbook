@@ -5,7 +5,7 @@
 * [Previous Sprints](previous-sprints.md)
 * [thoughtbot Design Sprint Methodology](thoughtbot_design_sprint_methodology.md)
    * [Schedule](schedule.md)
-   * [0 Pre-Sprint](0-Pre-Sprint.md)
+   * [0 Pre-Sprint](0-pre-sprint.md)
    * [1 Understand](1-Understand.md)
    * [2 Diverge](2-Diverge.md)
    * [3 Converge](3-Converge.md)
