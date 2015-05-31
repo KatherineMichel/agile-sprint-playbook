@@ -11,5 +11,5 @@
    * [3 Converge](3-Converge.md)
    * [4 Prototype](4-Prototype.md)
    * [5 Test](5-Test.md)
-* [Google Ventures Methodology](google_ventures_methodology.md)
+* [GV Research Sprint](gv_research_sprint.md)
 
