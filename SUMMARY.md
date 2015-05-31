@@ -12,4 +12,5 @@
    * [4 Prototype](4-Prototype.md)
    * [5 Test](5-Test.md)
 * [GV Research Sprint](gv_research_sprint.md)
+* GV Design Sprint
 
