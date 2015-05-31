@@ -1,7 +1,7 @@
 # Summary
 
 * [GitHub README](README.md)
-* Introduction
+* [Introduction](introduction.md)
 * [Thoughtbot Methodology](thoughtbot_methodology.md)
    * [0 Pre-Sprint](0-Pre-Sprint.md)
    * [1 Understand](1-Understand.md)
