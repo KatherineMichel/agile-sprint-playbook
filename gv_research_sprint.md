@@ -1,2 +1,0 @@
-# GV Research Sprint Methodology
-
