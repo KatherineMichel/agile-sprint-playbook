@@ -6,6 +6,8 @@
 * [thoughtbot Design Sprint Methodology](thoughtbot_design_sprint_methodology.md)
    * [Schedule](schedule.md)
    * [0 Pre-Sprint](0-pre-sprint.md)
+    * [Pre-Sprint Client Worksheet](materials/0-pre-sprint-client-worksheet.md)
+    * [Pre-Sprint Request for Materials](materials/0-pre-sprint-request-for-materials.md)
    * [1 Understand](1-understand.md)
     * [Schedule](schedules/1-understand.md)
    * [2 Diverge](2-diverge.md)
