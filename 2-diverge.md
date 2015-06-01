@@ -61,4 +61,4 @@ seems to be more ideas and no really strong direction forward.
 
 ---
 
-### [Example Scedule](schedules/2-diverge.md)
+### [Example Schedule](schedules/2-diverge.md)
