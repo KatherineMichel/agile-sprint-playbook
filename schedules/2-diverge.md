@@ -7,7 +7,7 @@
 Everyone participates, you don’t need to be an artist (I’m not!) to sketch and
 visualize your ideas. No ideas are too wild!
 
-### [Pitch Practice](../Exercises/pitch-practice.md) *(10min)*
+### [Pitch Practice](exercises/1-understand-pitch-practice.md) *(10min)*
 
 ### Recap Day 1, identify biggest risks, determine goals for the prototype *(45min)*
 
@@ -20,11 +20,11 @@ if necessary for the purpose of the iteration exercises.
 
 ### Diverge Cycle *(2 hours)*
 
-* [Mind Mapping](../Exercises/mind-mapping.md) *(15min)*
-* [Crazy Eights](../Exercises/crazy-eights.md) *(5min)*
-* [Storyboard](../Exercises/storyboards.md) *(20min)*
-* [Silent critique](../Exercises/silent-critique.md) *(10min)*
-* [Group critique](../Exercises/group-critique.md) *(3-5min each person)*
+* [Mind Mapping](exercises/2-diverge-mind-mapping.md) *(15min)*
+* [Crazy Eights](exercises/2-diverge-crazy-eights.md) *(5min)*
+* [Storyboard](exercises/2-diverge-storyboards.md) *(20min)*
+* [Silent critique](exercises/2-diverge-silent-critique.md) *(10min)*
+* [Group critique](exercises/2-diverge-group-critique.md) *(3-5min each person)*
 
 ### Repeat Diverge Cycle *(2 hrs)*
 
