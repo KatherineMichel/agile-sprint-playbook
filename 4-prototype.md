@@ -2,9 +2,9 @@
 
 The core purpose of the prototype, the assumptions you are trying to
 validate/invalidate or the knowledge gaps you are trying to fill should have all
-been discussed in [Converge](../3-Converge). During this phase you will build a
+been discussed in [Converge](3-converge.md). During this phase you will build a
 quick and dirty prototype. Since you only have at most a day to build the
-prototype it should be as low-fi as you can get away with during [Testing](../5-Test).
+prototype it should be as low-fi as you can get away with during [Testing](5-test.md).
 
 During this phase roles shift. Designers are typically the ones building the
 prototype unless it is low-fi enough for everyone to contribute
