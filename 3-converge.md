@@ -8,7 +8,7 @@ Throughout Converge, the team should be thinking about the bigger
 assumptions that are the most important to test.
 This should lead to a discussion
 about what [type of
-prototype](4-prototype#activities-for-prototype.md) will do the
+prototype](4-prototype.md) will do the
 best job of validating or invalidating it.
 Activities such as
 [Assumption / Test Table](exercises/1-understand-assumptions.md)
