@@ -8,7 +8,7 @@
    * [0 Pre-Sprint](0-pre-sprint.md)
    * [1 Understand](1-understand.md)
    * [2 Diverge](2-diverge.md)
-    * [Crazy Eights](exercise/crazy-eights.md) 
+    * [Crazy Eights](exercises/crazy-eights.md) 
    * [3 Converge](3-converge.md)
    * [4 Prototype](4-prototype.md)
    * [5 Test](5-test.md)
