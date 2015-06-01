@@ -10,12 +10,12 @@ Each sprint should be tailored to the individual project.
 It is written by and for the thoughtbot team.
 
 * [Previous Sprints](previous-sprints.md)
-* [Pre-Sprint Preparation](0-Pre-Sprint)
-* [Understand Phase](1-Understand)
-* [Diverge Phase](2-Diverge)
-* [Converge Phase](3-Converge)
-* [Prototype Phase](4-Prototype)
-* [Test Phase](5-Test)
+* [Pre-Sprint Preparation](0-pre-sprint.md)
+* [Understand Phase](1-understand.md)
+* [Diverge Phase](2-diverge.md)
+* [Converge Phase](3-converge.md)
+* [Prototype Phase](4-prototype.md)
+* [Test Phase](5-test.md)
 
 ## What is a product design sprint?
 
@@ -24,7 +24,7 @@ quickly solve product design problems
 and test the viability of a solution.
 It has been pioneered by the
 [Google Ventures Design
-Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
+Team](http://www.gv.com/sprint).
 
 #### Why do a design sprint?
 
@@ -52,7 +52,7 @@ A design sprint is comprised of five phases;
 Understand, Diverge, Converge, Prototype and Test.
 Each phase typically lasts one day.
 
-#### [Pre-Sprint](0-Pre-Sprint)
+#### [Pre-Sprint](0-pre-sprint.md)
 
 We should not start a sprint
 without defining a "job to be done"
@@ -62,7 +62,7 @@ into a problem statement agreed upon by the whole team,
 but without one as a starting point
 our client is not ready and should not be paying us.
 
-#### [Understand Phase](1-Understand)
+#### [Understand Phase](1-understand.md)
 
 The Understand phase
 develops a common understanding
@@ -75,7 +75,7 @@ We want to expose risky knowledge gaps and assumptions
 so we can make plans to reduce those risks
 and move forward with confidence.
 
-#### [Diverge Phase](2-Diverge)
+#### [Diverge Phase](2-diverge.md)
 
 The Diverge phase
 generates insights and concepts for solutions.
@@ -89,7 +89,7 @@ valuable differentiating forces
 and the source of
 inspiration for unique solutions.
 
-#### [Converge Phase](3-Converge)
+#### [Converge Phase](3-converge.md)
 
 The Converge phase
 takes all the possibilities generated over the past two phases
@@ -99,7 +99,7 @@ and test with existing or potential customers.
 By exploring and eliminating so many options,
 we have reason to be more confident in our choices.
 
-#### [Prototype Phase](4-Prototype)
+#### [Prototype Phase](4-prototype.md)
 
 The Prototype phase
 develops a prototype
@@ -115,7 +115,7 @@ should be determined by
 our time constraints
 and learning goals.
 
-#### [Test Phase](5-Validate)
+#### [Test Phase](5-validate.md)
 
 The Test phase
 tests our prototype
@@ -138,7 +138,7 @@ to your own board to help guide and document your sprint.
 
 ## Example Design Sprint Schedule
 
-* [Schedule for Understand](1-Understand/Schedule.md)
+* [Schedule for Understand](1-schedule.md)
 
 ## Further Reading
 
