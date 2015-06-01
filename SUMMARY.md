@@ -26,8 +26,6 @@
     * [Silent Critique](exercises/2-diverge-silent-critique.md)
     * [Group Critique](exercises/2-diverge-group-critique.md)
     * [3-12-3](exercises/2-diverge-3-12-3.md)
-    * [Silent Critique](exercises/2-diverge-silent-critique.md)
-    * [Group Critique](exercises/2-diverge-group-critique.md)
    * [3 Converge](3-converge.md)
     * [Schedule](schedules/3-converge.md)
    * [4 Prototype](4-prototype.md)
