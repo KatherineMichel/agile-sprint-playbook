@@ -1,6 +1,6 @@
 # 0 Pre-Sprint
 
-### Send out [Client Worksheet](Materials/Pre-Sprint_Client_Worksheet.md) and [Request for Materials](Materials/Pre-Sprint_Request_for_Materials.md)
+### Send out [Client Worksheet](materials/0-pre-sprint-client-worksheet.md) and [Request for Materials](materials/0-pre-sprint-request-for-materials.md)
 
 Notify all members of the sprint to set up the expectation of anything that they
 need to complete before the sprint and what to expect during the sprint.
@@ -93,9 +93,9 @@ room would have a whiteboard and a place to pin or tape up sketches. **Typically
 ### Schedule 4–6 people for interviews / usability tests
 
 Only if users are already identified. Otherwise this should be held off till
-after Understand. During [Test](5-Test), we'll be running a user study, showing the
+after Understand. During [Test](5-test.md), we'll be running a user study, showing the
 prototype to 4–6 real people. Learn [how to recruit great participants for your study
-here](http://www.designstaff.org/articles/recruiting-how-to-find-great-participants-for-your-user-study-2012-02-22.html).
+here](http://www.gv.com/lib/how-to-find-great-participants-for-your-user-study).
 **Typically done by Product Owner.**
 
 
