@@ -7,7 +7,7 @@
 ## Best to use when
 
 The Critical Path should be discussed after a
-[Problem Statement](problem-statement.md) has been agreed upon.
+[Problem Statement](1-understand-problem-statement.md) has been agreed upon.
 Once completed, the Critical Path should give a step-by-step map
 of the user's most critical experience,
 from having the problem to solving the problem,
@@ -26,7 +26,7 @@ you are solving in the sprint. For example:
   understand why people land on your page and what their goals are.
 * This step can be difficult and time-consuming, but it’s critical!
 
-From [The product design sprint: understand (day 1)](https://www.gv.com/lib/the-product-design-sprint-understandday-17Th)
+From [The product design sprint: understand (day 1)](https://www.gv.com/lib/the-product-design-sprint-understandday-1)
 
 ## Instructions:
 
