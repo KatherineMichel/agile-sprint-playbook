@@ -27,8 +27,7 @@ e.g. "Who spends hours manually manipulating data from one format to another?"
 "Who receives gifts they don't want on their birthday?"
 3. Post all the answers under the who section of the whiteboard.
 Ask a few players to group similar questions.
-4. Have [Product Owner](0-Pre-Sprint#review-roles-for-the-sprint)
-or [Facilitator](0-Pre-Sprint#review-roles-for-the-sprint)
+4. Have Product Owner or Facilitator
 answer the questions, mark them later for further research
 or reword them as an assumption that needs testing.
 5. Repeat for each of the remaining questions
