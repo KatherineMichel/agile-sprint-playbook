@@ -15,9 +15,9 @@ ideas quickly.
 
 They are part of the [Google Ventures Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2)
 day cycle along with 
-[Mind Mapping](mind-mapping.md),
-[Storyboards](storyboards.md),
-[Silent Critique](silent-critique.md).
+[Mind Mapping](2-diverge-mind-mapping.md),
+[Storyboards](2-diverge-storyboards.md),
+[Silent Critique](2-diverge-silent-critique.md).
 
 Originally based on the
 [6-8-5](http://www.gamestorming.com/games-for-fresh-thinking-and-ideas/6-8-5s/) game.
