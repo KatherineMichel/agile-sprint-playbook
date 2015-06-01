@@ -115,7 +115,7 @@ should be determined by
 our time constraints
 and learning goals.
 
-#### [Test Phase](5-validate.md)
+#### [Test Phase](5-test.md)
 
 The Test phase
 tests our prototype
