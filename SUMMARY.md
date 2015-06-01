@@ -23,6 +23,7 @@
     * [Schedule](schedules/2-diverge.md)
     * [Mind Mapping](exercises/2-diverge-mind-mapping.md)
     * [Crazy Eights](exercises/2-diverge-crazy-eights.md)
+    * [Storyboards](exercises/2-diverge-storyboards.md)
     * [Silent Critique](exercises/2-diverge-silent-critique.md)
     * [Group Critique](exercises/2-diverge-group-critique.md)
     * [3-12-3](exercises/2-diverge-3-12-3.md)
