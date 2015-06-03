@@ -16,7 +16,7 @@
 
 ##### Customer, Workflow, Story
 * Customer Archetypes
-* Customer Workflow Diagram 
+* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
 * One-page User Story
 
 ##### Board
