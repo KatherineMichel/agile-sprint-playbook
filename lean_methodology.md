@@ -44,5 +44,6 @@ Positioning
 * Product Positioning Brief
 * Company Vision and Mission Statements
 * Company Message Statement 
+* Product Messaging
 
 
