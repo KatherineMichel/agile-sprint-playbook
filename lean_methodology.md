@@ -46,4 +46,8 @@ Positioning
 * Company Message Statement 
 * Product Messaging
 
-
+Distribution Channels
+* Distribution Channel Diagram
+* Distribution Channel Plan
+* Channel Responsibility Map
+* “Food Chain” Drawing
