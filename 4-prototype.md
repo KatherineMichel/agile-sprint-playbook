@@ -8,7 +8,7 @@ prototype it should be as low-fi as you can get away with during [Testing](5-tes
 
 During this phase roles shift. Designers are typically the ones building the
 prototype unless it is low-fi enough for everyone to contribute
-(see: [Keynote](#keynote) or [Paper Prototype](#paper-prototype)).
+(see: Keynote or Paper Prototype).
 Product Owners should be in charge of getting
 realistic information, data and copy into the prototype.
 It should be clear what everyone's role is
