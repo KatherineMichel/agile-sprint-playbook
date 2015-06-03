@@ -4,15 +4,19 @@
 
 ### Documents
 
+Organization
 * Organization Structure (Founders, Investors, Board)
 * Company 3-5 Core Values
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
 * Customer Development/Discovery and Validation Approximate Timeframe
+
+Business Model
 * Business Model Canvas
+
+Customer, Workflow, Story
 * Customer Archetypes
 * Customer Workflow Diagram 
 * One-page User Story
-* Innovators List
 
 Board
 * Initial List of Advisory Board Prospects
@@ -54,3 +58,6 @@ Distribution Channels
 * Channel Responsibility Map
 * “Food Chain” Drawing
 * Channel Partner's Business Model Drawing
+
+Lists
+* Innovators List
