@@ -5,12 +5,16 @@
 ### Documents
 
 * Organization Structure (Founders, Investors, Board)
+* Initial List of Advisory Board Prospects
+* Advisory Board Roadmap
+* Formal Advisory Board List
 * Company 3-5 Core Values
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
 * Customer Development/Discovery and Validation Approximate Timeframe
 * Business Model Canvas
 * Customer Archetypes
 * Customer Workflow Diagram 
+* One-page User Story
 * Low Fidelity Minimum Viable Product
 * High Fidelity Minimum Viable Product
 * Dashboard
