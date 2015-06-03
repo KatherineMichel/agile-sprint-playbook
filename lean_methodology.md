@@ -12,6 +12,8 @@
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
 * Customer Development/Discovery and Validation Approximate Timeframe
 * Business Model Canvas
+* Preliminary Product Specs 
+* Product Feature List/Product Benefit List (Prioritized)
 * Customer Archetypes
 * Customer Workflow Diagram 
 * One-page User Story
@@ -29,5 +31,10 @@ Competitors
 * Competitive and Adjacent Products
 * Competitive Product and Pricing Information
 * Competitor Press Releases
+
+Positioning
+* Product Positioning Brief
+* Company Vision and Mission Statements
+* Company Message Statement 
 
 
