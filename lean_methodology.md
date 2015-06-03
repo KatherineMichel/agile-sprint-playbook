@@ -60,5 +60,15 @@ Distribution Channels
 * “Food Chain” Drawing
 * Channel Partner's Business Model Drawing
 
+Key Presentations
+* Problem Presentation
+* Product/“Solution” Presentation 
+
+Channel Partner and Traffic Partner Meetings
+* Presentation
+* Purchase Action Plan
+* Signed Custom Proposal
+* Orders/Firm Commitments
+
 Lists
 * Innovators List
