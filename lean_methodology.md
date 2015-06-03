@@ -4,6 +4,7 @@
 
 ### Documents
 
+* Organization Structure (Founders, Investors, Board)
 * Company 3-5 Core Values
 * Customer Development/Discovery and Validation Approximate Timeframe
 * Business Model Canvas
