@@ -27,6 +27,8 @@ Only need 1 person; Optionally, include:
 * And a working space  
 
 ## Day 1: Understanding Day
+1. Research and Analysis
+2. Lightening Demos
 
 ## Day 2: Diverge Day
 1. Divide up user story
@@ -41,9 +43,10 @@ Only need 1 person; Optionally, include:
 
 ## Day 3: Decide Day
 
-Whiteboard the user story
+1. Discussion and consensus
+2. Whiteboard the user story
 
 ## Day 4: Prototype Day
 
-The storyboard from the previous day is used to make a prototype for user testing interviews 
+1. The storyboard from the previous day is used to make a prototype for user testing interviews 
 
