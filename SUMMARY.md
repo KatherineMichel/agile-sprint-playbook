@@ -2,7 +2,6 @@
 
 * [GitHub README](README.md)
 * [Introduction](introduction.md)
-* [Google Ventures Research and Design Sprint Methodology](google_ventures_research_and_design_sprint_methodology.md)
 * [Previous Sprints](previous-sprints.md)
 * [thoughtbot Design Sprint Methodology](thoughtbot_design_sprint_methodology.md)
    * [Schedule](schedule.md)
@@ -43,6 +42,7 @@
        * [Schedule](schedules/5-test.md)
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
    * [Previous Sprints Template](previous_sprints_template.md)
+* [Google Ventures Research and Design Sprint Methodology](google_ventures_research_and_design_sprint_methodology.md)
 * [GV Research Sprint Methodology](gv_research_sprint_methodology.md)
 * [GV Design Sprint Methodology](gv_design_sprint_methodology.md)
 * [GV User Testing Methodology](gv_user_testing_methodology.md)
