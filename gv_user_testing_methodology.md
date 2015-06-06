@@ -16,7 +16,7 @@ Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uplo
 ## Contacting Prospective Users
 
 ### Phone Call
-After reviewing the Recruiter Screener responses automatically collected in a spreadsheet in Google Drive, I choose prospective user testing participants and call each one to confirm participation. 
+After reviewing the Recruiting Screener responses automatically collected in a spreadsheet in Google Drive, I choose prospective user testing participants and call each one to confirm participation. 
 
 ### Follow Up Email
 
