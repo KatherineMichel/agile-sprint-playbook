@@ -43,5 +43,5 @@ Only need 1 person; Optionally, include:
 
 ## Day 4: Prototype Day
 
-The Storyboard is used to make a Prototype for user testing interviews 
+The Storyboard is used to make a prototype for user testing interviews 
 
