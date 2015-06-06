@@ -1,7 +1,11 @@
+# Design Sprint
 A Design Sprint takes 5 days. The Research Sprint begins simultaneously. 
 
 * Identify Product/Feature/Redesign Design Problem 
 
+## People and Supplies
+
+### People 
 Only need 1 person; Optionally, include:
 * Facilitator
 * Designer
@@ -14,7 +18,7 @@ Only need 1 person; Optionally, include:
 
 "They (facilitator) need to be confident leading a meeting, including synthesizing discussions and telling people it’s time to stop talking."
 
-Supplies:
+### Supplies:
 * Paper
 * Sticky notes 
 * Drawing pens 
@@ -29,7 +33,7 @@ Supplies:
 
 "It’s also very important to have a dedicated room for the duration of the sprint, usually a conference room with lots of whiteboards."
 
-Day 1: Understanding Day
+## Day 1: Understanding Day
 
 Consider capping presentation/discussion at 10 minutes
 
@@ -58,7 +62,7 @@ Example user stories:
 
 "It’s also important to ask seemingly obvious questions"
 
-Day 2: Diverge Day
+## Day 2: Diverge Day
 
 "Rapidly developing as many solutions as possible"
 
@@ -82,7 +86,7 @@ Paper first
 8. Super vote (5 minutes)
 9. Repeat
 
-Day 3: Decide Day
+## Day 3: Decide Day
 
 * Combat the group effect
 * Search for conflicts
@@ -91,7 +95,7 @@ Day 3: Decide Day
 * Whiteboard the user story (comic book frames)
 * Keep the gloves off
 
-Day 4: Prototype Day
+## Day 4: Prototype Day
 
 "You’re going to create a real-looking version of yesterday’s storyboard and show it to users tomorrow."
 * Make it minimally real
@@ -108,7 +112,7 @@ Day 4: Prototype Day
 * It’s OK if you’re not satisfied, Michelangelo
 
 
-Research Sprint Day 4 (~8 hours)
+## Research Sprint Day 4 (~8 hours)
 
 Conduct User Study
 Interview participants and summarize findings 
