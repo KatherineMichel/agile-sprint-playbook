@@ -46,5 +46,5 @@
 * [GV Design Sprint Methodology](gv_design_sprint_methodology.md)
 * [GV User Testing Methodology](gv_user_testing_methodology.md)
 * [Lean Methodology](lean_methodology.md)
-* Google Ventures Research and Design Sprint Methodology
+* [Google Ventures Research and Design Sprint Methodology](google_ventures_research_and_design_sprint_methodology.md)
 
