@@ -41,7 +41,7 @@
    * [5 Test](5-test.md)
        * [Schedule](schedules/5-test.md)
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
-   * Previous Sprints Template
+   * [Previous Sprints Template](previous_sprints_template.md)
 * [GV Research Sprint Methodology](gv_research_sprint_methodology.md)
 * [GV Design Sprint Methodology](gv_design_sprint_methodology.md)
 * [Lean Methodology](lean_methodology.md)
