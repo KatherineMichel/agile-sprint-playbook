@@ -20,7 +20,7 @@ After reviewing the Recruiting Screener responses automatically collected in a s
 
 ### Follow Up Email
 
-After the phone calls, I send each confirmed participant a Follow Up Email. In each email I include:
+After the phone calls, I send each confirmed participant a follow up email. In each email I include:
 
 * Date
 * Time
