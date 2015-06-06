@@ -2,6 +2,7 @@
 
 * [GitHub README](README.md)
 * [Introduction](introduction.md)
+* [Google Ventures Research and Design Sprint Methodology](google_ventures_research_and_design_sprint_methodology.md)
 * [Previous Sprints](previous-sprints.md)
 * [thoughtbot Design Sprint Methodology](thoughtbot_design_sprint_methodology.md)
    * [Schedule](schedule.md)
@@ -46,5 +47,4 @@
 * [GV Design Sprint Methodology](gv_design_sprint_methodology.md)
 * [GV User Testing Methodology](gv_user_testing_methodology.md)
 * [Lean Methodology](lean_methodology.md)
-* [Google Ventures Research and Design Sprint Methodology](google_ventures_research_and_design_sprint_methodology.md)
 
