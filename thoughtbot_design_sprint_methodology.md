@@ -162,17 +162,9 @@ to your own board to help guide and document your sprint.
 We love new ideas that push this repository and design sprints forward. Please
 review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
-## Credits
+## Credit
 
 [![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
-
-This repo is maintained and funded by [thoughtbot, inc](http://thoughtbot.com).
-Tweet your questions or suggestions to
-[@thoughtbot](https://twitter.com/thoughtbot)
-and while you're at it follow us too.
-
-Looking to run your own design sprint but want help from someone who has
-experience running them before? [Hire us.](http://thoughtbot.com/hire-us)
 
 ## License
 
