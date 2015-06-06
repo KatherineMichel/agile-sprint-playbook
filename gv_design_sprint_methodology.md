@@ -27,7 +27,13 @@ Only need 1 person; Optionally, include:
 
 * And a working space  
 
+## Day 1: Understanding Day
 
+## Day 2: Diverge Day
+
+## Day 3: Decide Day
+
+## Day 4: Prototype Day
 
 
 
