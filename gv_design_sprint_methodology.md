@@ -1,5 +1,4 @@
 # Design Sprint
-A Design Sprint takes 5 days. The Research Sprint begins simultaneously. 
 
 ## People and Supplies
 
