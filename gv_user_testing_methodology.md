@@ -35,7 +35,7 @@ Google Ventures suggests including in the email a link to a non-disclosure agree
 
 ![](google-ventures-images/do-not-disturb-sign.jpg)
 
-The user interviews are done using the Prototype that was the end result of the Design Sprint. 
+The user testing interviews are done using the Prototype that was the end result of the Design Sprint. 
 
 ### Interview Guide 
 
