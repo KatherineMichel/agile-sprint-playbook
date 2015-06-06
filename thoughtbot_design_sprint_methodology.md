@@ -157,12 +157,7 @@ to your own board to help guide and document your sprint.
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
 
-## Contributing
-
-We love new ideas that push this repository and design sprints forward. Please
-review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
-
-## Credit
+## Credits
 
 [![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
 
