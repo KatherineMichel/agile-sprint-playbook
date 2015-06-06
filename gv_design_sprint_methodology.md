@@ -30,6 +30,15 @@ Only need 1 person; Optionally, include:
 ## Day 1: Understanding Day
 
 ## Day 2: Diverge Day
+1. Divide up user story
+2. Take notes "how might we" (5 minutes) 
+3. Mind map (10–15 minutes)
+4. Crazy Eights (5 minutes)
+5. Storyboard (10–20 minutes)
+6. Silent critique (5–10 minutes)
+7. Three-minute critiques (3 minutes per idea)
+8. Super vote (5 minutes)
+9. Repeat
 
 ## Day 3: Decide Day
 
