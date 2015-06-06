@@ -4,7 +4,7 @@
 
 # Product Design Sprint
 
-This repo is a collection of documents intended to help guide a design sprint.
+This is a collection of documents intended to help guide a design sprint.
 It contains guidelines that should not be followed exactly.
 Each sprint should be tailored to the individual project.
 It is written by and for the thoughtbot team.
