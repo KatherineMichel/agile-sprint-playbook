@@ -53,6 +53,8 @@ I use Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-c
 
 ![](google-ventures-images/interview-worksheet-6.jpg)
 
+![](google-ventures-images/interview-worksheet-7.jpg)
+
 #### Example Use Case
 
 ### User Testing Summary Report
