@@ -40,7 +40,6 @@
    * [3 Converge](3-converge.md)
    * [4 Prototype](4-prototype.md)
    * [5 Test](5-test.md)
-       * [Schedule](schedules/5-test.md)
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
    * [Previous Sprints Template](previous_sprints_template.md)
 * [Lean Methodology](lean_methodology.md)
