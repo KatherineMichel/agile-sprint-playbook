@@ -95,21 +95,21 @@ prototype and the other listing the ways in which we can test those assumptions.
 ### Daily Recap (30 min)
 Consolidate notes and write daily summary.
 
-## Example Schedule for Validate
+## Day 5: Validate Day
 
-### 4 User Interviews *(1hr each)*
+### 4 User Interviews (1hr each)
 
-* Intro user to usability test *(5 - 10min)*
+* Intro user to usability test (5 - 10 min)
 * Ask user research questions
-* Our Prototype *(5 - 10min)*
-* Recap & Prep for next interview *(10min)*
+* Our Prototype (5 - 10 min)
+* Recap & Prep for next interview (10 min)
 
-### Consolidate Notes *(30min)*
+### Consolidate Notes (30 min)
 
 At the end of all of the Interviews, gather everyone that watched and compare
 notes. Figure out where your assumptions were validated and where assumptions
 might have been invalidated. Decide whether you've validated enough to start
 building the application or start another sprint.
 
-### Write Sprint Summary *(30min)*
+### Write Sprint Summary (30 min)
 
