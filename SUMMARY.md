@@ -31,7 +31,6 @@
        * [Pitch Practice](exercises/1-understand-pitch-practice.md)
        * [Open Card Sorting](exercises/1-understand-card-sorting.md)
    * [2 Diverge](2-diverge.md)
-       * [Schedule](schedules/2-diverge.md)
        * [Mind Mapping](exercises/2-diverge-mind-mapping.md)
        * [Crazy Eights](exercises/2-diverge-crazy-eights.md)
        * [Storyboards](exercises/2-diverge-storyboards.md)
