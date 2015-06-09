@@ -11,7 +11,7 @@
    * [0 Pre-Sprint](0-pre-sprint.md)
        * [Pre-Sprint Client Worksheet](materials/0-pre-sprint-client-worksheet.md)
        * [Pre-Sprint Request for Materials](materials/0-pre-sprint-request-for-materials.md)
-   * [Schedule](schedule.md)
+   * [Example Schedule](example_schedule.md)
    * [1 Understand](1-understand.md)
        * [Schedule](schedules/1-understand.md)
        * [Understand Business](materials/1-understand-business.md)
