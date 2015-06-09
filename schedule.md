@@ -1,6 +1,6 @@
-# Schedule
+# Example Schedule
 
-## Example Schedule for Understand
+## Day 1: Understanding Day
 
 ### Team intros *(15min)*
 
