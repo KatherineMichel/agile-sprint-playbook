@@ -13,7 +13,6 @@
        * [Pre-Sprint Request for Materials](materials/0-pre-sprint-request-for-materials.md)
    * [Example Schedule](example_schedule.md)
    * [1 Understand](1-understand.md)
-       * [Schedule](schedules/1-understand.md)
        * [Understand Business](materials/1-understand-business.md)
        * [Competitive Analysis](materials/1-understand-competitive-analysis.md)
        * [Customer](materials/1-understand-customer.md)
