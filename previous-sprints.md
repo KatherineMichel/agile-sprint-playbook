@@ -8,7 +8,6 @@ Client: United Methodist Church
 Office: Kansas
 Designer: Katherine "Kati" Michel
 Date: 
-Link:
 ```
 
 ## Context
