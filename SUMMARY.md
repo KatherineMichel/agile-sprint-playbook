@@ -7,7 +7,6 @@
    * [GV Research Sprint Methodology](gv_research_sprint_methodology.md)
    * [GV Design Sprint Methodology](gv_design_sprint_methodology.md)
    * [GV User Testing Methodology](gv_user_testing_methodology.md)
-* [Combination](combination.md)
 * [thoughtbot Design Sprint Methodology](thoughtbot_design_sprint_methodology.md)
    * [0 Pre-Sprint](0-pre-sprint.md)
        * [Pre-Sprint Client Worksheet](materials/0-pre-sprint-client-worksheet.md)
@@ -43,5 +42,6 @@
    * [5 Test](5-test.md)
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
    * [Previous Sprints Template](previous_sprints_template.md)
+* [Combination](combination.md)
 * [Lean Methodology](lean_methodology.md)
 
