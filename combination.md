@@ -1,6 +1,38 @@
 # Combination
 
-## Day 1: Understanding Day
+# Design Sprint
+
+## People and Supplies
+
+### People 
+Only need 1 person; Optionally, include:
+* Facilitator
+* Designer
+* CEO (buy-in/decision-maker)
+* Product manager
+* User expert 
+* Engineer
+* Marketer
+* Anybody else who’s interested
+
+### [Supplies Needed](http://amzn.com/lm/RS9AYY6BTLDCM)
+* Paper
+* Sticky notes 
+* Drawing pens 
+* Whiteboard
+* Whiteboard markers
+* Dot stickers (for voting)
+* Sticky stuff
+* Timer 
+* Snacks 
+
+* And a working space  
+
+## GV Day 1: Understanding Day
+1. Research and Analysis
+2. Lightening Demos
+
+## thoughtbot Day 1: Understanding Day
 
 * The Problem Statement
 * Start an Assumptions Board
@@ -21,7 +53,18 @@
 * Critical Path
 * Open Card Sorting
 
-## Day 2: Diverge Day
+## GV Day 2: Diverge Day
+1. Divide up user story
+2. Take notes "how might we" (5 minutes) 
+3. Mind map (10–15 minutes)
+4. Crazy Eights (5 minutes)
+5. Storyboard (10–20 minutes)
+6. Silent critique (5–10 minutes)
+7. Three-minute critiques (3 minutes per idea)
+8. Super vote (5 minutes)
+9. Repeat
+
+## thoughtbot Day 2: Diverge Day
 
 * Pitch Practice
 * Recap Day 1, identify biggest risks, determine goals for the prototype
@@ -42,7 +85,12 @@
 * Constantly ask “How might we?”
 * 3-12-3
 
-## Day 3: Converge Day
+## GV Day 3: Decide Day
+
+1. Discussion and consensus
+2. Whiteboard the user story
+
+## thoughtbot Day 3: Converge Day
 
 * Pitch Practice
 * Revisit our risks
@@ -63,7 +111,11 @@
 * Final Storyboard
 * 3-12-3
 
-## Day 4: Prototype Day
+## GV Day 4: Prototype Day
+
+1. The storyboard from the previous day is used to make a prototype for user testing interviews 
+
+## thoughtbot Day 4: Prototype Day
 
 ### Activities
 
@@ -73,7 +125,7 @@
 * [Keynotopia](http://keynotopia.com)
 * Paper Prototype
 
-## Day 5: Validate Day
+## thoughtbot Day 5: Validate Day
 
 * User Interviews 
 * Consolidate Notes 
