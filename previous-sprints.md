@@ -6,7 +6,7 @@
 Example Project: 
 Client: United Methodist Church
 Office: Kansas
-Designer(s): Katherine "Kati" Michel
+Designer: Katherine "Kati" Michel
 Date: 
 Link:
 ```
