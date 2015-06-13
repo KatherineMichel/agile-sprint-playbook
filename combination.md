@@ -35,52 +35,42 @@ Only need 1 person; Optionally, include:
 
 thoughtbot
 
+* Definitions: The problem, The Value Prop, Success
 * The Problem Statement
+* Business Model Canvas
 * Start an Assumptions Board
 * Start an Back-burner Board
-* Existing research
-* Definitions: The problem, The Value Prop, Success
-* Business Model Canvas
 * Expert Perspectives
 
-## Activities
+## thoughtbot Activities
 
-* Gather existing knowledge, expose assumptions and unknowns
+* Gather existing knowledge/research, expose assumptions and unknowns
 * Needs / Wants / Desires
 * [Five Whys](http://www.gamestorming.com/games-for-problem-solving/the-5-whys).
 * [Who / What / Where / When](http://www.gamestorming.com/games-for-any-meeting/help-me-understand)
 * Critical Path
 * Open Card Sorting
 
-## GV Day 2: Diverge Day
-1. Divide up user story
-2. Take notes "how might we" (5 minutes) 
-3. Mind map (10–15 minutes)
-4. Crazy Eights (5 minutes)
-5. Storyboard (10–20 minutes)
-6. Silent critique (5–10 minutes)
-7. Three-minute critiques (3 minutes per idea)
-8. Super vote (5 minutes)
+## Day 2: Diverge Day
+1. Divide up user story (GV)
+2. Take notes "how might we" (GV and thoughtbot)
+3. Mind map (GV and thoughtbot)
+4. Crazy Eights (GV and thoughtbot)
+5. Storyboard (GV and thoughtbot)
+6. Silent critique (GV and thoughtbot)
+7. Three-minute critiques (GV)
+8. Group critique (thoughtbot)
+8. Super vote (GV)
 9. Repeat
 
 ## thoughtbot Day 2: Diverge Day
 
 * Recap Day 1, identify biggest risks, determine goals for the prototype
 * Identify and diagram the critical path for the prototype
-
-#### Diverge Cycle (2 hours)
-
-* Mind Mapping
-* Crazy Eights
-* Storyboard
-* Silent critique
-* Group critique
-* Repeat Diverge Cycle 
-
+ 
 ### Additional Activities
 
 * Have a mindset of "Yes and"
-* Constantly ask “How might we?”
 * 3-12-3
 
 ## GV Day 3: Decide Day
@@ -91,8 +81,7 @@ thoughtbot
 ## thoughtbot Day 3: Converge Day
 
 * Revisit our risks
-* Recap Day 2, identify themes from our storyboards
-* Identify conflicts in our storyboards
+* Identify themes/conflicts our storyboards
 * List the underlying assumptions
 * Storyboard your prototype 
 * Determine prototype medium 
