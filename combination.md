@@ -47,7 +47,7 @@ Throughout the week:
 
 ## thoughtbot Day 2: Diverge Day
 
-* Recap Day 1, identify biggest risks, determine goals for the prototype
+* Identify biggest risks, determine goals for the prototype
 * Identify and diagram the critical path for the prototype
  
 ### Additional Activities
