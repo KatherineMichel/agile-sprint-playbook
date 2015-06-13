@@ -2,6 +2,15 @@
 
 # Design Sprint
 
+Throughout the week:
+Pitch Practice
+
+### Sprint Summary
+* Where we came from
+* What we got to
+* Major learnings/take aways
+* Where to go next
+
 ## People and Supplies
 
 ### People 
@@ -89,36 +98,17 @@ thoughtbot
 * Plan interview questions 
 * Make plans for reducing risks not addressed by the prototype 
 
-## GV Day 4: Prototype Day
+## Day 4: Prototype Day
 
-1. The storyboard from the previous day is used to make a prototype for user testing interviews 
+## Day 5: Validate Day
 
-## thoughtbot Day 4: Prototype Day
-
-### Activities
-
-* HTML & CSS
-* [Invision](http://www.invisionapp.com)
-* [Keynote](https://www.apple.com/mac/keynote)
-* [Keynotopia](http://keynotopia.com)
-* Paper Prototype
-
-## thoughtbot Day 5: Validate Day
-
-* User Interviews 
-* Consolidate Notes/Write Sprint Summary 
-
-### Activities
-* Assumption /
-Test table
+thoughtbot 
 * Gorilla Usability Testing
 * Closed Card Sorting
 * Survey Test
-* Fake landing page
 
 # GV User Testing Methodology
 
-## User Recruiting Process
 * Recruiting Screener Worksheet
 * Recruiting Screener
 * Recruiting Screener Ad
@@ -126,21 +116,8 @@ Test table
 * Phone Call
 * Follow Up Email
 * Interview Calendar
-* User Interviews
+* User Interviews (GV and thoughtbot)
 * Interview Guide 
 * Example Use Case
-* User Testing Summary Report
+* User Testing Summary Report (GV and thoughtbot)
 * HEART/Goals-Signals-Metrics Framework
-
-
-Throughout the week:
-Pitch Practice
-
-### Sprint Summary
-* Where we came from
-* What we got to
-* Major learnings/take aways
-* Where to go next
-
-
-
