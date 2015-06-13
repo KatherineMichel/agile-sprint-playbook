@@ -19,8 +19,7 @@
 IDEO
 * IDEO's [Human Centered Design Toolkit](http://www.ideo.com/work/human-centered-design-toolkit)
 
-
-
+More
 * [Personal Design Sprint](http://franciscortez.com/design-sprint/)
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
