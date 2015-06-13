@@ -28,20 +28,19 @@ Only need 1 person; Optionally, include:
 
 * And a working space  
 
-## GV Day 1: Understanding Day
-1. Research and Analysis
-2. Lightening Demos
+## Day 1: Understanding Day
 
-## thoughtbot Day 1: Understanding Day
+1. Research and Analysis (GV and thoughtbot) 
+2. Lightening Demos (GV and thoughtbot)
+
+thoughtbot
 
 * The Problem Statement
 * Start an Assumptions Board
 * Start an Back-burner Board
-* Pitch Practice
 * Existing research
 * Definitions: The problem, The Value Prop, Success
 * Business Model Canvas
-* Lightning Demos
 * Expert Perspectives
 
 ## Activities
@@ -66,7 +65,6 @@ Only need 1 person; Optionally, include:
 
 ## thoughtbot Day 2: Diverge Day
 
-* Pitch Practice
 * Recap Day 1, identify biggest risks, determine goals for the prototype
 * Identify and diagram the critical path for the prototype
 
@@ -92,7 +90,6 @@ Only need 1 person; Optionally, include:
 
 ## thoughtbot Day 3: Converge Day
 
-* Pitch Practice
 * Revisit our risks
 * Recap Day 2, identify themes from our storyboards
 * Identify conflicts in our storyboards
@@ -101,7 +98,6 @@ Only need 1 person; Optionally, include:
 * Determine prototype medium 
 * Plan interview questions 
 * Make plans for reducing risks not addressed by the prototype 
-* Consider plans for the week following the design sprint 
 
 ### Activities
 
@@ -209,6 +205,8 @@ Example [HEART/Goals-Signals-Metrics](https://www.gv.com/lib/how-to-choose-the-r
 ![](google-ventures-images/heart-goals-signals-metrics.jpg)
 
 
+Throughout the week:
+Pitch Practice
 
 ### Sprint Summary
 * Where we came from
