@@ -57,9 +57,10 @@
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
 
-http://www.usability.gov/how-to-and-tools/methods/index.html
-
 ## Government Funding and Digital
+
+*   [Government Usability](http://www.usability.gov)
+*   [Government Usability How Tos and Tools](http://www.usability.gov/how-to-and-tools/methods/index.html)
 
 U.S.
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
@@ -67,7 +68,6 @@ U.S.
 *   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
-*   [Government Usability](http://www.usability.gov)
 *   [Code for America](http://www.codeforamerica.org)
 
 U.K.
