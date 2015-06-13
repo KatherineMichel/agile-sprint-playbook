@@ -3,7 +3,8 @@
 # Design Sprint
 
 Throughout the week:
-Pitch Practice
+* Pitch Practice (thoughtbot)
+* Recap (thoughtbot)
 
 ### Sprint Summary
 * Where we came from
@@ -16,14 +17,12 @@ Pitch Practice
 1. Research and Analysis (GV and thoughtbot) 
 2. Lightening Demos (GV and thoughtbot)
 
-thoughtbot
-
-* Definitions: The problem, The Value Prop, Success
-* The Problem Statement
-* Business Model Canvas
-* Start an Assumptions Board
-* Start an Back-burner Board
-* Expert Perspectives
+* Definitions: The problem, The Value Prop, Success (thoughtbot)
+* The Problem Statement (thoughtbot)
+* Business Model Canvas (thoughtbot)
+* Start an Assumptions Board (thoughtbot)
+* Start an Back-burner Board (thoughtbot)
+* Expert Perspectives (thoughtbot)
 
 ## thoughtbot Activities
 
