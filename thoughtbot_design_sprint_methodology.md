@@ -135,11 +135,6 @@ for the board and leaves references to this repo.
 Copy [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template) 
 to your own board to help guide and document your sprint.
 
-
-## Example Design Sprint Schedule
-
-* [Schedule for Understand](1-schedule.md)
-
 ## Credits
 
 [![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
