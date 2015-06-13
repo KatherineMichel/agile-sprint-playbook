@@ -44,4 +44,5 @@
    * [Previous Sprints Template](previous_sprints_template.md)
 * [Combination](combination.md)
 * [Lean Methodology](lean_methodology.md)
+* Resources
 
