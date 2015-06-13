@@ -83,18 +83,11 @@ thoughtbot
 * Revisit our risks
 * Identify themes/conflicts our storyboards
 * List the underlying assumptions
-* Storyboard your prototype 
+* Assumption / Test Table
+* Final Storyboard
 * Determine prototype medium 
 * Plan interview questions 
 * Make plans for reducing risks not addressed by the prototype 
-
-### Activities
-
-* Identify Conflicts
-* Assumption / Test Table
-* Back Burner Board
-* Final Storyboard
-* 3-12-3
 
 ## GV Day 4: Prototype Day
 
@@ -113,8 +106,7 @@ thoughtbot
 ## thoughtbot Day 5: Validate Day
 
 * User Interviews 
-* Consolidate Notes 
-* Write Sprint Summary 
+* Consolidate Notes/Write Sprint Summary 
 
 ### Activities
 * Assumption /
@@ -139,10 +131,6 @@ Test table
 * Example Use Case
 * User Testing Summary Report
 * HEART/Goals-Signals-Metrics Framework
-
-
-
-
 
 
 Throughout the week:
