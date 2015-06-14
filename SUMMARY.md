@@ -42,7 +42,8 @@
    * [5 Test](5-test.md)
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
    * [Previous Sprints Template](previous_sprints_template.md)
-* [Combination](combination.md)
-* [Lean Methodology](lean_methodology.md)
-* [Resources](resources.md)
+* [Additional Resources](additional_resources.md)
+    * [Combination](combination.md)
+    * [Lean Methodology](lean_methodology.md)
+    * [Links](resources.md)
 
