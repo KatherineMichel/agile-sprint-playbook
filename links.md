@@ -1,4 +1,4 @@
-# Resources
+# Links
 
 ## Google Ventures Research Sprint
 
