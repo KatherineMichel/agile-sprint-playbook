@@ -42,9 +42,9 @@
    * [5 Test](5-test.md)
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
    * [Previous Sprints Template](previous_sprints_template.md)
+* Usability Gov
 * [Additional Resources](additional_resources.md)
    * [Combination](combination.md)
    * [Lean Methodology](lean_methodology.md)
    * [Links](links.md)
-* Usability Gov
 
