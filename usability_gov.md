@@ -71,15 +71,7 @@ UX Study Overview Template DOCX
 
 Usability Study Process and Materials Checklist DOCX
 
-Report Template: Usability Test DOCX
-
 Usability Test Plan Template DOCX
-
-Report Template: Usability Test Results (Short/Informal) DOCX
-
-Report Template: Usability Test Results (Long/Formal) DOCX
-
-Report Template: Survey DOCX
 
 Persona Development Discussion Guide DOCX
 
@@ -88,6 +80,14 @@ What to Test/Note taker’s Guide DOCX
 Measurable Usability Goals Template DOCX
 
 Questions to Ask at Kick-Off Meetings DOCX
+
+Report Template: Usability Test DOCX
+
+Report Template: Usability Test Results (Short/Informal) DOCX
+
+Report Template: Usability Test Results (Long/Formal) DOCX
+
+Report Template: Survey DOCX
 
 Report Template: Card Sort Results DOCX
 
