@@ -4,6 +4,14 @@
 
 [Government Usability: How Tos and Tools](http://www.usability.gov/how-to-and-tools/methods/index.html)
 
+## Overview 
+
+UX Study Overview Template DOCX
+
+Usability Study Process and Materials Checklist DOCX
+
+Usability Test Plan Template DOCX
+
 ## Statement of Work
 
 SOW Template: Web Usability Testing DOCX
@@ -59,6 +67,14 @@ Digital Recording Release Form (Minor) DOCX
 
 Consent Form: Remote Usability Test (Adult) DOCX
 
+## Kick-Off Meetings
+
+Questions to Ask at Kick-Off Meetings DOCX
+
+## Persona Development 
+
+Persona Development Discussion Guide DOCX
+
 ## Introduction to Testing with or without Moderator
 
 Introduction to Testing with Moderator Interaction DOCX
@@ -67,19 +83,13 @@ Introduction to Testing without Moderator Interaction DOCX
 
 
 
-UX Study Overview Template DOCX
 
-Usability Study Process and Materials Checklist DOCX
 
-Usability Test Plan Template DOCX
 
-Persona Development Discussion Guide DOCX
 
 What to Test/Note taker’s Guide DOCX
 
 Measurable Usability Goals Template DOCX
-
-Questions to Ask at Kick-Off Meetings DOCX
 
 Report Template: Usability Test DOCX
 
@@ -97,9 +107,9 @@ Report Template: Usability Test Results PowerPoint (Long) PPTX
 
 Report Template: Survey Research Findings PPTX
 
-Creating Wireframes PDF
-
 Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX
+
+Creating Wireframes PDF
 
 Common Industry Format (CIF)
 Organization: Industry Usability Reporting - National Institute of Standards and Technology
