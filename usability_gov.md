@@ -4,27 +4,68 @@
 
 [Government Usability: How Tos and Tools](http://www.usability.gov/how-to-and-tools/methods/index.html)
 
+## Statement of Work
 
+SOW Template: Web Usability Testing DOCX
 
+SOW Template: Web Usability Consulting DOCX
+
+SOW Template: Usability and Focus Group Participant Recruitment DOCX
+
+SOW Template: Usability Task Order Request DOCX
+
+## Position Descriptions and Interview Questions
+
+Position Description: Usability Specialist DOCX
+
+Usability Intern Interview Questions & Sample Projects Template DOCX
+
+Position Description: Usability Intern DOCX
+
+## Test Screener
+
+Usability Test Screener: Government website DOCX
+
+Usability Test Screener: Website (example 1) DOCX
+
+Usability Test Screener: Website (example 2) DOCX
+
+Usability Test Screener - Mobile Device Testing DOCX
+
+Usability Test Screener: Online Survey DOCX
+
+## Email Template
+
+Email Template: Usability Study Recruiting DOCX
+
+## Receipts
 Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX
 
 Receipt Form: Usability Test Compensation (Minor) DOCX
 
-Introduction to Testing with Moderator Interaction DOCX
+## Consent and Release Forms
+
+Consent Form (Adult) DOCX
+
+Consent Form (Minor) DOCX
+
+Consent & Recording Release Form (Adult) DOCX
+
+Consent & Recording Release Form (Minor) DOCX
+
+Digital Recording Release Form DOCX
 
 Digital Recording Release Form (Minor) DOCX
 
 Consent Form: Remote Usability Test (Adult) DOCX
 
-Consent Form (Minor) DOCX
+## Introduction to Testing with or without Moderator
 
-Consent Form (Adult) DOCX
+Introduction to Testing with Moderator Interaction DOCX
 
-Consent & Recording Release Form (Minor) DOCX
+Introduction to Testing without Moderator Interaction DOCX
 
-Consent & Recording Release Form (Adult) DOCX
 
-Email Template: Usability Study Recruiting DOCX
 
 UX Study Overview Template DOCX
 
@@ -34,33 +75,11 @@ Report Template: Usability Test DOCX
 
 Usability Test Plan Template DOCX
 
-Usability Test Screener: Website (example 1) DOCX
-
-Usability Test Screener: Government website DOCX
-
 Report Template: Usability Test Results (Short/Informal) DOCX
 
 Report Template: Usability Test Results (Long/Formal) DOCX
 
-Introduction to Testing without Moderator Interaction DOCX
-
-Position Description: Usability Specialist DOCX
-
 Report Template: Survey DOCX
-
-SOW Template: Web Usability Testing DOCX
-
-SOW Template: Web Usability Consulting DOCX
-
-SOW Template: Usability and Focus Group Participant Recruitment DOCX
-
-Usability Test Screener: Online Survey DOCX
-
-Usability Test Screener - Mobile Device Testing DOCX
-
-Usability Test Screener: Website (example 2) DOCX
-
-SOW Template: Usability Task Order Request DOCX
 
 Persona Development Discussion Guide DOCX
 
@@ -69,12 +88,6 @@ What to Test/Note taker’s Guide DOCX
 Measurable Usability Goals Template DOCX
 
 Questions to Ask at Kick-Off Meetings DOCX
-
-Usability Intern Interview Questions & Sample Projects Template DOCX
-
-Position Description: Usability Intern DOCX
-
-Digital Recording Release Form DOCX
 
 Report Template: Card Sort Results DOCX
 
