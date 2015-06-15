@@ -59,15 +59,6 @@
 
 ## Government Funding and Digital
 
-*   [Government Usability](http://www.usability.gov)
-*   [Government Usability How Tos and Tools](http://www.usability.gov/how-to-and-tools/methods/index.html)
-
-http://www.usability.gov/how-to-and-tools/resources/templates/common-industry-format-cif.html
-http://www.nist.gov/itl/iad/vug/iusr.cfm
-
-http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html
-http://www.w3.org/WAI/EO/Drafts/UCD/questions.html
-
 U.S. Digital Services
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
 *   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
