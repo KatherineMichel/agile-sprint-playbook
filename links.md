@@ -16,7 +16,6 @@
 #### Google Ventures Research and Design Sprint Supporting Docs
 
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
-*   [Gamestorming](http://www.gamestorming.com)
 
 ## thoughtbot
 
