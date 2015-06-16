@@ -13,7 +13,7 @@
   * [Day 5: Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5)
   * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
   
-#### Google Ventures Research and Design Sprint Supporting Docs
+#### Google Ventures Design Sprint Supporting Docs
 
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
