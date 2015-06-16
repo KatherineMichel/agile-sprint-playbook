@@ -32,12 +32,6 @@
 *   [thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
 *   [Design Sprint Book](http://www.designsprintbook.com)
 
-## IDEO
-*   [IDEO](http://www.ideo.com)
-*   [IDEO Design Kit](http://www.designkit.org)
-*   [IDEO Design Kit Methods](http://www.designkit.org/methods)
-*   [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
-
 ## Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html)
