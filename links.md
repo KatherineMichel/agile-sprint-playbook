@@ -118,3 +118,8 @@ http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies/
 http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf
 http://www.nngroup.com/reports/free/
 http://www.usability.gov/get-involved/blog
+
+http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html
+http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html
+http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html
+http://www.hhs.gov/asa/eeo/resources/no-fear-act.html
