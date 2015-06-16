@@ -81,15 +81,15 @@ Introduction to Testing with Moderator Interaction DOCX
 
 Introduction to Testing without Moderator Interaction DOCX
 
+## Measurable Usability Goals
 
+Measurable Usability Goals Template DOCX
 
 
 
 
 
 What to Test/Note taker’s Guide DOCX
-
-Measurable Usability Goals Template DOCX
 
 Report Template: Usability Test DOCX
 
