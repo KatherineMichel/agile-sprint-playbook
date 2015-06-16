@@ -87,11 +87,7 @@ Introduction to Testing without Moderator Interaction DOCX
 
 Measurable Usability Goals Template DOCX
 
-
-
-
-
-
+## Reports
 
 Report Template: Usability Test DOCX
 
@@ -99,17 +95,17 @@ Report Template: Usability Test Results (Short/Informal) DOCX
 
 Report Template: Usability Test Results (Long/Formal) DOCX
 
-Report Template: Survey DOCX
-
-Report Template: Card Sort Results DOCX
-
 Report Template: Usability Test Results PowerPoint (Short) PPTX
 
 Report Template: Usability Test Results PowerPoint (Long) PPTX
 
+Report Template: Survey DOCX
+
 Report Template: Survey Research Findings PPTX
 
 Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX
+
+Report Template: Card Sort Results DOCX
 
 Creating Wireframes PDF
 
