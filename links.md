@@ -13,9 +13,8 @@
 *   [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf)
 *   [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
 
-## More
+## Gamestorming
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
-* [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
 
 ## Government Funding and Digital
 
@@ -39,3 +38,6 @@ U.K.
 
 Australia
 *   [Australia Digital Transformation Office](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
+
+## More
+* [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
