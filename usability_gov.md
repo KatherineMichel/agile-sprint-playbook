@@ -80,28 +80,28 @@ Usability Test Screener: Online Survey DOCX
 
 ## Email Template
 
-Email Template: Usability Study Recruiting DOCX
+[Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
 
 ## Receipts
-Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX
+[Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
 
-Receipt Form: Usability Test Compensation (Minor) DOCX
+[Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
 
 ## Consent and Release Forms
 
-Consent Form (Adult) DOCX
+[Consent Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-adult.html)
 
-Consent Form (Minor) DOCX
+[Consent Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-minor.html)
 
-Consent & Recording Release Form (Adult) DOCX
+[Consent & Recording Release Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html)
 
-Consent & Recording Release Form (Minor) DOCX
+[Consent & Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-minor.html)
 
 Digital Recording Release Form DOCX
 
-Digital Recording Release Form (Minor) DOCX
+[Digital Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form-minor.html)
 
-Consent Form: Remote Usability Test (Adult) DOCX
+[Consent Form: Remote Usability Test (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-remote-usability-test-adult.html)
 
 ## Kick-Off Meetings
 
@@ -113,7 +113,7 @@ Persona Development Discussion Guide DOCX
 
 ## Introduction to Testing with or without Moderator
 
-Introduction to Testing with Moderator Interaction DOCX
+[Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
 
 Introduction to Testing without Moderator Interaction DOCX
 
