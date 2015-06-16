@@ -109,17 +109,3 @@ Report Template: Card Sort Results DOCX
 
 Creating Wireframes PDF
 
-Common Industry Format (CIF)
-Organization: Industry Usability Reporting - National Institute of Standards and Technology
-WAI Site Usability Testing Questions
-Organization: W3.org
-System Usability Scale (SUS)
-DOC
-Organization: UsabilityNet.org
-
-http://www.usability.gov/how-to-and-tools/resources/templates/common-industry-format-cif.html
-http://www.nist.gov/itl/iad/vug/iusr.cfm
-
-http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html
-http://www.w3.org/WAI/EO/Drafts/UCD/questions.html
-
