@@ -12,6 +12,8 @@ Usability Study Process and Materials Checklist DOCX
 
 Usability Test Plan Template DOCX
 
+What to Test/Note taker’s Guide DOCX
+
 ## Statement of Work
 
 SOW Template: Web Usability Testing DOCX
@@ -89,7 +91,7 @@ Measurable Usability Goals Template DOCX
 
 
 
-What to Test/Note taker’s Guide DOCX
+
 
 Report Template: Usability Test DOCX
 
