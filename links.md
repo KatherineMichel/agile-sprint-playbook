@@ -77,6 +77,21 @@ http://www.usability.gov/how-to-and-tools/methods/remote-testing.html
 http://www.usability.gov/how-to-and-tools/methods/personas.html
 http://www.usability.gov/how-to-and-tools/methods/online-surveys.html
 http://www.usability.gov/how-to-and-tools/methods/scenarios.html
+http://www.usability.gov/how-to-and-tools/methods/task-analysis.html
+http://www.usabilitybok.org/task-analysis
+http://www.usability.gov/how-to-and-tools/methods/mobile-device-testing.html
+http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html
+http://www.usability.gov/how-to-and-tools/methods/organization-structures.html
+http://www.usability.gov/how-to-and-tools/methods/content-inventory.html
+http://www.usability.gov/how-to-and-tools/methods/wireframing.html
+http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html
+http://www.usability.gov/how-to-and-tools/methods/use-cases.html
+http://www.usability.gov/how-to-and-tools/methods/card-sorting.html
+http://www.usability.gov/how-to-and-tools/methods/prototyping.html
+http://www.usability.gov/how-to-and-tools/methods/color-basics.html
+http://www.usability.gov/how-to-and-tools/methods/parallel-design.html
+http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html
+http://www.hhs.gov/web/governance/strategy.html
 
 http://www.nngroup.com/
 http://www.nngroup.com/books/eyetracking-web-usability/
