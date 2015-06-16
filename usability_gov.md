@@ -135,7 +135,6 @@ http://www.usability.gov/how-to-and-tools/methods/requirements.html
 http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html
 http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html
 http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html
-http://www.nngroup.com/articles/how-many-test-users/
 http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html
 http://www.usability.gov/how-to-and-tools/methods/usability-testing.html
 http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html
