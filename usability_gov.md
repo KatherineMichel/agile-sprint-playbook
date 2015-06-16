@@ -28,6 +28,16 @@
 
 [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
+## User Centered Design
+
+[User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
+
+[User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
+
+[Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
+
+[Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
+
 ## Overview Documents
 
 UX Study Overview Template DOCX
@@ -139,10 +149,7 @@ Creating Wireframes PDF
 
 
 
-http://www.usability.gov/what-and-why/user-centered-design.html
-http://www.usability.gov/what-and-why/benefits-of-ucd.html
-http://www.usability.gov/what-and-why/user-centered-government.html
-http://www.usability.gov/how-to-and-tools/resources/ucd-map.html
+
 
 http://www.usability.gov/what-and-why/user-experience.html
 http://www.usability.gov/what-and-why/user-research.html
