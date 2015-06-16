@@ -1,12 +1,5 @@
 # Links
 
-## thoughtbot
-
-* [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
-* [thoughtbot playbook](http://playbook.thoughtbot.com/#product-design-sprint)
-*   [thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
-*   [Design Sprint Book](http://www.designsprintbook.com)
-
 ## Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html)
