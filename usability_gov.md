@@ -168,12 +168,6 @@ http://www.usability.gov/how-to-and-tools/methods/parallel-design.html
 http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html
 http://www.hhs.gov/web/governance/strategy.html
 
-http://www.nngroup.com/
-http://www.nngroup.com/books/eyetracking-web-usability/
-http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf
-http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies/
-http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf
-http://www.nngroup.com/reports/free/
 http://www.usability.gov/get-involved/blog
 
 http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html
