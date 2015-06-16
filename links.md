@@ -1,9 +1,5 @@
 # Links
 
-#### Google Ventures Design Sprint Supporting Docs
-
-*   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
-
 ## thoughtbot
 
 * [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
