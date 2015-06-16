@@ -1,4 +1,4 @@
-# GV User Testing Methodology
+# Google Ventures User Testing Methodology
 
 ## User Recruiting Process
 
