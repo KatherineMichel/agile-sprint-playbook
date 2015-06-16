@@ -123,30 +123,38 @@
 
 ## Reports
 
-[Report Template: Usability Test DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
+* [Report Template: Usability Test DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
+* [Report Template: Usability Test Results (Short/Informal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-short.html)
+* [Report Template: Usability Test Results (Long/Formal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-long.html)
+* [Report Template: Usability Test Results PowerPoint (Short) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-results-short.html)
+* [Report Template: Usability Test Results PowerPoint (Long) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/user-research-report-template-long.html)
+* [Report Template: Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey.html)
+* [Report Template: Survey Research Findings PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey-research-findings.html)
+* [Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/statistics-review-and-design-implications-template.html)
+* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
 
-[Report Template: Usability Test Results (Short/Informal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-short.html)
+## Methods
 
-[Report Template: Usability Test Results (Long/Formal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-long.html)
-
-[Report Template: Usability Test Results PowerPoint (Short) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-results-short.html)
-
-[Report Template: Usability Test Results PowerPoint (Long) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/user-research-report-template-long.html)
-
-[Report Template: Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey.html)
-
-[Report Template: Survey Research Findings PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey-research-findings.html)
-
-[Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/statistics-review-and-design-implications-template.html)
-
-[Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
-
-Creating Wireframes PDF
-
-
-
+* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
+* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
+* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
+* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
+* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
+* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
+* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
+* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
+* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+* [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+* [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
+* [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
 
 
+
+[Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
 
 
 
@@ -164,26 +172,6 @@ http://www.usability.gov/what-and-why/accessibility.html
 http://www.usability.gov/what-and-why/web-analytics.html
 http://www.usability.gov/what-and-why/glossary/index.html
 
-
-
-
-
-http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html
-http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html
-http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html
-http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html
-http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html
-http://www.usability.gov/how-to-and-tools/methods/focus-groups.html
-http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html
-http://www.usability.gov/how-to-and-tools/methods/personas.html
-http://www.usability.gov/how-to-and-tools/methods/online-surveys.html
-http://www.usability.gov/how-to-and-tools/methods/scenarios.html
-http://www.usability.gov/how-to-and-tools/methods/task-analysis.html
-http://www.usability.gov/how-to-and-tools/methods/use-cases.html
-http://www.usability.gov/how-to-and-tools/methods/card-sorting.html
-http://www.usability.gov/how-to-and-tools/methods/wireframing.html
-http://www.usability.gov/how-to-and-tools/methods/prototyping.html
-http://www.usability.gov/how-to-and-tools/methods/parallel-design.html
 
 http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html
 http://www.usability.gov/how-to-and-tools/methods/remote-testing.html
