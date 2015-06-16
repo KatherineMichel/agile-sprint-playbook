@@ -1,4 +1,4 @@
-# Design Sprint
+# Google Ventures Design Sprint Methodology
 
 ## People and Supplies
 
