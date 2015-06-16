@@ -40,43 +40,43 @@
 
 ## Overview Documents
 
-UX Study Overview Template DOCX
+[UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
 
-Usability Study Process and Materials Checklist DOCX
+[Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
 
-Usability Test Plan Template DOCX
+[Usability Test Plan Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-plan-template.html)
 
-What to Test/Note taker’s Guide DOCX
+[What to Test/Note taker’s Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/what-testnote-takers-guide.html)
 
 ## Statement of Work
 
-SOW Template: Web Usability Testing DOCX
+[SOW Template: Web Usability Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-testing.html)
 
-SOW Template: Web Usability Consulting DOCX
+[SOW Template: Web Usability Consulting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-consulting.html)
 
-SOW Template: Usability and Focus Group Participant Recruitment DOCX
+[SOW Template: Usability and Focus Group Participant Recruitment DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-focus-group-participant-recruitment.html)
 
-SOW Template: Usability Task Order Request DOCX
+[SOW Template: Usability Task Order Request DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-task-order-request.html)
 
 ## Position Descriptions and Interview Questions
 
-Position Description: Usability Specialist DOCX
+[Position Description: Usability Specialist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-specialist.html)
 
-Usability Intern Interview Questions & Sample Projects Template DOCX
+[Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
 
-Position Description: Usability Intern DOCX
+[Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
 
 ## Test Screener
 
-Usability Test Screener: Government website DOCX
+[Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
 
-Usability Test Screener: Website (example 1) DOCX
+[Usability Test Screener: Website (example 1) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-website-example-1.html)
 
-Usability Test Screener: Website (example 2) DOCX
+[Usability Test Screener: Website (example 2) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-website-example-2.html)
 
-Usability Test Screener - Mobile Device Testing DOCX
+[Usability Test Screener - Mobile Device Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-mobile-device-testing.html)
 
-Usability Test Screener: Online Survey DOCX
+[Usability Test Screener: Online Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-online-survey.html)
 
 ## Email Template
 
@@ -97,7 +97,7 @@ Usability Test Screener: Online Survey DOCX
 
 [Consent & Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-minor.html)
 
-Digital Recording Release Form DOCX
+[Digital Recording Release Form DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form.html)
 
 [Digital Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form-minor.html)
 
@@ -105,41 +105,41 @@ Digital Recording Release Form DOCX
 
 ## Kick-Off Meetings
 
-Questions to Ask at Kick-Off Meetings DOCX
+[Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 
 ## Persona Development 
 
-Persona Development Discussion Guide DOCX
+[Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 
 ## Introduction to Testing with or without Moderator
 
 [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
 
-Introduction to Testing without Moderator Interaction DOCX
+[Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
 
 ## Measurable Usability Goals
 
-Measurable Usability Goals Template DOCX
+[Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
 ## Reports
 
-Report Template: Usability Test DOCX
+[Report Template: Usability Test DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
 
-Report Template: Usability Test Results (Short/Informal) DOCX
+[Report Template: Usability Test Results (Short/Informal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-short.html)
 
-Report Template: Usability Test Results (Long/Formal) DOCX
+[Report Template: Usability Test Results (Long/Formal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-long.html)
 
-Report Template: Usability Test Results PowerPoint (Short) PPTX
+[Report Template: Usability Test Results PowerPoint (Short) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-results-short.html)
 
-Report Template: Usability Test Results PowerPoint (Long) PPTX
+[Report Template: Usability Test Results PowerPoint (Long) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/user-research-report-template-long.html)
 
-Report Template: Survey DOCX
+[Report Template: Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey.html)
 
-Report Template: Survey Research Findings PPTX
+[Report Template: Survey Research Findings PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey-research-findings.html)
 
-Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX
+[Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/statistics-review-and-design-implications-template.html)
 
-Report Template: Card Sort Results DOCX
+[Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
 
 Creating Wireframes PDF
 
