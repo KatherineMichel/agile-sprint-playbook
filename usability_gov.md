@@ -6,14 +6,6 @@
 
 [Government Usability: Get Involved](http://www.usability.gov/get-involved/blog)
 
-## Usability Testing
-
-* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
-* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
-* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
-* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
-* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
-
 ## Project Management
 
 * [Project Management](http://www.usability.gov/what-and-why/project-management.html)
@@ -28,6 +20,14 @@
 * [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
 * [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
 * [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
+
+## Usability Testing
+
+* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
+* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
+* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
+* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
+* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
 
 ## Planning
 
