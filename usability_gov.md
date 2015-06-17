@@ -4,6 +4,8 @@
 
 [Government Usability: How Tos and Tools](http://www.usability.gov/how-to-and-tools/methods/index.html)
 
+[Government Usability: Get Involved](http://www.usability.gov/get-involved/blog)
+
 ## Usability Testing
 
 * [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
@@ -167,15 +169,12 @@ http://www.usability.gov/how-to-and-tools/methods/color-basics.html
 http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html
 http://www.hhs.gov/web/governance/strategy.html
 
-http://www.usability.gov/get-involved/blog
-
 http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html
 http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html
 http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html
 http://www.hhs.gov/asa/eeo/resources/no-fear-act.html
 http://www.digitalgov.gov/about/lost-and-found-mapping-page/
 508 compliant
-http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html
 
 http://www.uie.com/articles/who_is_on_the_ux_team/
 http://www.measuringu.com/blog/first-click.php
