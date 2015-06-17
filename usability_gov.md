@@ -142,12 +142,16 @@
 * [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
 * [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
 * [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
-* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 * [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
-* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 * [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+
+Personas, Scenarios, Use Cases
+* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
+* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+
+Wireframing, Prototyping
 * [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
 * [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
 * [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
