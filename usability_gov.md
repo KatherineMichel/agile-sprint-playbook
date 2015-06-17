@@ -86,14 +86,21 @@ Receipts (Adult and Minor)
 
 ## Reports
 
+Usability Test Results Reports
 * [Report Template: Usability Test DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
 * [Report Template: Usability Test Results (Short/Informal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-short.html)
 * [Report Template: Usability Test Results (Long/Formal) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-long.html)
 * [Report Template: Usability Test Results PowerPoint (Short) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test-results-short.html)
 * [Report Template: Usability Test Results PowerPoint (Long) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/user-research-report-template-long.html)
+
+Survey Reports
 * [Report Template: Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey.html)
 * [Report Template: Survey Research Findings PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-survey-research-findings.html)
+
+Metrics Report
 * [Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/statistics-review-and-design-implications-template.html)
+
+Card Sort Results Report
 * [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
 
 ## Methods
