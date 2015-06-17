@@ -6,126 +6,95 @@
 
 ## Usability Testing
 
-[Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
-
-[Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
-
-[Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
-
-[Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
-
-[Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
+* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
+* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
+* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
+* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
+* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
 
 ## Project Management
 
-[Project Management](http://www.usability.gov/what-and-why/project-management.html)
-
-[Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
-
-[Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
-
-[Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
-
-[Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
+* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
+* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
+* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
+* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
+* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
 ## Organization
 
-[Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-
-[Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
 ## User Centered Design
 
-[User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
-
-[User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
-
-[Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-
-[Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
+* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
+* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
+* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
+* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
 
 ## Overview Documents
 
-[UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
-
-[Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
-
-[Usability Test Plan Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-plan-template.html)
-
-[What to Test/Note taker’s Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/what-testnote-takers-guide.html)
+* [UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
+* [Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
+* [Usability Test Plan Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-plan-template.html)
+* [What to Test/Note taker’s Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/what-testnote-takers-guide.html)
 
 ## Statement of Work
 
-[SOW Template: Web Usability Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-testing.html)
-
-[SOW Template: Web Usability Consulting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-consulting.html)
-
-[SOW Template: Usability and Focus Group Participant Recruitment DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-focus-group-participant-recruitment.html)
-
-[SOW Template: Usability Task Order Request DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-task-order-request.html)
+* [SOW Template: Web Usability Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-testing.html)
+* [SOW Template: Web Usability Consulting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-consulting.html)
+* [SOW Template: Usability and Focus Group Participant Recruitment DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-focus-group-participant-recruitment.html)
+* [SOW Template: Usability Task Order Request DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-task-order-request.html)
 
 ## Position Descriptions and Interview Questions
 
-[Position Description: Usability Specialist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-specialist.html)
-
-[Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
-
-[Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
+* [Position Description: Usability Specialist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-specialist.html)
+* [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
+* [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
 
 ## Test Screener
 
-[Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
-
-[Usability Test Screener: Website (example 1) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-website-example-1.html)
-
-[Usability Test Screener: Website (example 2) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-website-example-2.html)
-
-[Usability Test Screener - Mobile Device Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-mobile-device-testing.html)
-
-[Usability Test Screener: Online Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-online-survey.html)
+* [Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
+* [Usability Test Screener: Website (example 1) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-website-example-1.html)
+* [Usability Test Screener: Website (example 2) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-website-example-2.html)
+* [Usability Test Screener - Mobile Device Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-mobile-device-testing.html)
+* [Usability Test Screener: Online Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-online-survey.html)
 
 ## Email Template
 
-[Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
+* [Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
 
-## Receipts
-[Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
+## Receipts (Adult and Minor)
 
-[Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
+* [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
+* [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
 
 ## Consent and Release Forms
 
-[Consent Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-adult.html)
-
-[Consent Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-minor.html)
-
-[Consent & Recording Release Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html)
-
-[Consent & Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-minor.html)
-
-[Digital Recording Release Form DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form.html)
-
-[Digital Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form-minor.html)
-
-[Consent Form: Remote Usability Test (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-remote-usability-test-adult.html)
+* [Consent Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-adult.html)
+* [Consent Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-minor.html)
+* [Consent & Recording Release Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html)
+* [Consent & Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-minor.html)
+* [Digital Recording Release Form DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form.html)
+* [Digital Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form-minor.html)
+* [Consent Form: Remote Usability Test (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-remote-usability-test-adult.html)
 
 ## Kick-Off Meetings
 
-[Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 
 ## Persona Development 
 
-[Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
+* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 
 ## Introduction to Testing with or without Moderator
 
-[Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
-
-[Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
+* [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
+* [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
 
 ## Measurable Usability Goals
 
-[Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
+* [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
 ## Reports
 
