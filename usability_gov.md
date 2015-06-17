@@ -28,6 +28,12 @@
 
 [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
+## Organization
+
+[Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+
+[Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+
 ## User Centered Design
 
 [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
@@ -135,27 +141,34 @@
 
 ## Methods
 
-* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
-* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
-* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
+Focus Groups, Interviews, Surveys
 * [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
 * [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
+* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
 * [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
-* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
-* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 
 Personas, Scenarios, Use Cases
 * [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
 * [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 * [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 
-Wireframing, Prototyping
+Card Sorting, Wireframing, Prototyping, Parallel Design
+* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 * [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
 * [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
 * [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
 
+System Usability Scale (SUS)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
+
+User Engagement
+* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
+* [Eye Tracking](http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html)
+
+More
+* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
+* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
 
 
 [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
@@ -177,11 +190,9 @@ http://www.usability.gov/what-and-why/web-analytics.html
 http://www.usability.gov/what-and-why/glossary/index.html
 
 
-http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html
+
 http://www.usability.gov/how-to-and-tools/methods/remote-testing.html
 http://www.usability.gov/how-to-and-tools/methods/mobile-device-testing.html
-http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html
-http://www.usability.gov/how-to-and-tools/methods/organization-structures.html
 http://www.usability.gov/how-to-and-tools/methods/content-inventory.html
 http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html
 http://www.usability.gov/how-to-and-tools/methods/color-basics.html
