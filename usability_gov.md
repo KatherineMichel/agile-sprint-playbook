@@ -50,6 +50,15 @@ Position Descriptions and Interview Questions
 * [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
 * [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
 
+Kick-Off Meetings
+* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+
+Persona Development 
+* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
+
+Measurable Usability Goals
+* [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
+
 ## Initiation
 
 Test Screener
@@ -74,18 +83,6 @@ Consent and Release Forms
 Receipts (Adult and Minor)
 * [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
 * [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
-
-## Kick-Off Meetings
-
-* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
-
-## Persona Development 
-
-* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
-
-## Measurable Usability Goals
-
-* [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
 ## Reports
 
