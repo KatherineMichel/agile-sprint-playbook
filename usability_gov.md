@@ -20,11 +20,6 @@
 * [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
 * [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
-## Organization
-
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
 ## User Centered Design
 
 * [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
@@ -45,6 +40,11 @@
 * [SOW Template: Web Usability Consulting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-consulting.html)
 * [SOW Template: Usability and Focus Group Participant Recruitment DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-focus-group-participant-recruitment.html)
 * [SOW Template: Usability Task Order Request DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-task-order-request.html)
+
+## Introduction to Testing with or without Moderator
+
+* [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
+* [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
 
 ## Position Descriptions and Interview Questions
 
@@ -86,11 +86,6 @@
 ## Persona Development 
 
 * [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
-
-## Introduction to Testing with or without Moderator
-
-* [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
-* [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
 
 ## Measurable Usability Goals
 
@@ -139,6 +134,10 @@ More
 * [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
 * [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
 
+## Organization
+
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
 [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
 
