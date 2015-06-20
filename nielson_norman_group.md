@@ -13,6 +13,26 @@
 Contents
 Executive Summary 5
 Introduction 8
+
+Appendix B: Sample Scripts and Forms 164
+* Background Questionnaire 164
+* Confirmation Message 166
+* Dealing with Unqualified Participants 167
+* Eliciting Sensitive Information – Sample Questions 167
+* Eliciting Web Experience - Sample Questions 168
+* Interview Topics for Meeting with the System Team 169
+* Interview Questions for the System Team 170
+* Minor Consent Form 172
+* Nondisclosure Agreement 174
+* Participation Consent Form 174
+* Participant Database Information to Track 175
+* Participant Screening Script and Questionnaire 176
+* Participant Summary Table 183
+* Preliminary Contact by Study Sponsor – Sample Script 183
+* Receipt Form 184
+* Voucher Form 185
+* Thank-You Note 185
+
 * Tips and Tricks Summary 10
 * Planning Your Recruiting Needs 19
 * Developing Recruiting Criteria 20
@@ -71,25 +91,6 @@ Appendix A: Participant Recruiting Survey 134
 * Pre-Session Interaction 159
 * Participant Session Documents 161
 * Participant Follow-Up 162
-
-Appendix B: Sample Scripts and Forms 164
-* Background Questionnaire 164
-* Confirmation Message 166
-* Dealing with Unqualified Participants 167
-* Eliciting Sensitive Information – Sample Questions 167
-* Eliciting Web Experience - Sample Questions 168
-* Interview Topics for Meeting with the System Team 169
-* Interview Questions for the System Team 170
-* Minor Consent Form 172
-* Nondisclosure Agreement 174
-* Participation Consent Form 174
-* Participant Database Information to Track 175
-* Participant Screening Script and Questionnaire 176
-* Participant Summary Table 183
-* Preliminary Contact by Study Sponsor – Sample Script 183
-* Receipt Form 184
-* Voucher Form 185
-* Thank-You Note 185
 
 Acknowledgements 186
 
