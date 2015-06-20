@@ -58,6 +58,7 @@ Dealing with Unqualified Participants 126
 Future Planning 129
 Building and Maintaining a Participant Database 129
 Building and Managing a Recruiting Staff 130
+
 Appendix A: Participant Recruiting Survey 134
 About the Survey 134
 Survey Results 136
@@ -70,6 +71,7 @@ No-Show Rates 158
 Pre-Session Interaction 159
 Participant Session Documents 161
 Participant Follow-Up 162
+
 Appendix B: Sample Scripts and Forms 164
 Background Questionnaire 164
 Confirmation Message 166
@@ -88,6 +90,7 @@ Preliminary Contact by Study Sponsor – Sample Script 183
 Receipt Form 184
 Voucher Form 185
 Thank-You Note 185
+
 Acknowledgements 186
 References 188
 
