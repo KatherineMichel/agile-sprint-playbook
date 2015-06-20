@@ -48,6 +48,6 @@
 * [Additional Resources](additional_resources.md)
    * [Combination](combination.md)
    * [Lean Methodology](lean_methodology.md)
+   * HubSpot
    * [Links](links.md)
-* HubSpot
 
