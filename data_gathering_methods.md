@@ -10,6 +10,8 @@ Data Gathering Methods
 * Focus Groups
 * Facilitation 
 * Forums/Panels
+
+Channels
 * Online
 * Email
 * Telephone
