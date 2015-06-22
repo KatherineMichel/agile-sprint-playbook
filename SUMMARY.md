@@ -50,7 +50,7 @@
    * [Lean Methodology](lean_methodology.md)
    * [HubSpot](hubspot.md)
    * [Strategy](strategy.md)
+   * [Advertising Methods](advertising_methods.md)
    * [Documents](documents.md)
    * [Links](links.md)
-* [Advertising Methods](advertising_methods.md)
 
