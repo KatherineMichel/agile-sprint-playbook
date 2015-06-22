@@ -9,7 +9,7 @@ Branded Documents and Sites (print, email, online)
 * Newsletter
 * Bulletin
 * PowerPoint Slides
-* Letterhead
+* Letterhead and Envelope
 * Postcards (informational, product/service, special offer)
 * Business Card/Placeholder
 * Email (newsletter, even-activity, event-speaker)
