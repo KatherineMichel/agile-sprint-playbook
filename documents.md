@@ -6,6 +6,7 @@ Branded Documents and Sites (print, email, online)
 * Catalog/Product List
 * Flier
 * Brochure, Pamphlet
+* Poster
 * Newsletter
 * Bulletin
 * PowerPoint Slides
