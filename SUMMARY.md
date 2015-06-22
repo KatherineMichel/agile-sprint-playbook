@@ -54,6 +54,6 @@
    * [Documents](documents.md)
    * [Data Gathering Methods](data_gathering_methods.md)
    * [User Centered Design](user_centered_design.md)
+   * [Project Management](project_management.md)
    * [Links](links.md)
-* [Project Management](project_management.md)
 
