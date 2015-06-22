@@ -52,4 +52,5 @@
    * [Strategy](strategy.md)
    * [Documents](documents.md)
    * [Links](links.md)
+* Advertising Methods
 
