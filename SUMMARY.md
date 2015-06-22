@@ -53,6 +53,6 @@
    * [Advertising Methods](advertising_methods.md)
    * [Documents](documents.md)
    * [Data Gathering Methodis](data_gathering_methodis.md)
+   * [User Centered Design](user_centered_design.md)
    * [Links](links.md)
-* [User Centered Design](user_centered_design.md)
 
