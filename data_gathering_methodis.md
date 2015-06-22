@@ -16,6 +16,8 @@ Data Gathering Methods
 * Mail
 * In person/on the street
 
+Summary Reports
+
 Survey Question Type
 * Single Answer (yes/no)
 * Rating
