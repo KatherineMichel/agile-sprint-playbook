@@ -2,12 +2,19 @@
 
 * Personas
 * Case Studies
-* PowerPoint Templates
 * Fact Sheet Templates
-* Kickoff
-* Marketing Reports
-* Marketing Budgets
-* SMART Marketing
+
+Campaign Planning and Project Management
 * RFP
+* Marketing Budgets
+* Marketing Reports
+* SMART Marketing
+* Kickoff
+
+Templates
+* PowerPoint Templates
+* Blog Templates
 * Infographic
+* Ebook Templates
+* Checklists
 
