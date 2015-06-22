@@ -49,7 +49,7 @@
    * [Combination](combination.md)
    * [Lean Methodology](lean_methodology.md)
    * [HubSpot](hubspot.md)
+   * [Strategy](strategy.md)
    * [Documents](documents.md)
    * [Links](links.md)
-* [Strategy](strategy.md)
 
