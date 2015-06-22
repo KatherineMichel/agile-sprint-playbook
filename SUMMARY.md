@@ -51,4 +51,5 @@
    * [HubSpot](hubspot.md)
    * [Documents](documents.md)
    * [Links](links.md)
+* Strategy
 
