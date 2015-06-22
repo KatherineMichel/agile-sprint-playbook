@@ -1,5 +1,8 @@
 # Data Gathering Methods
 
+* Quantitative: Data (analytics)
+* Qualitative: Information (listening)
+
 Data Gathering Methods
 * Surveys (Survey Monkey)
 * Polls
