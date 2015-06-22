@@ -17,5 +17,7 @@ Branded Documents and Sites (print, email, online)
 * Envelope
 * Labels
 * Electronic Advertisements
+* Media Advertisement
+* Calendar
 * Committee agendas
 * Committee minutes
