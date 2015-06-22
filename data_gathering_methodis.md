@@ -16,6 +16,11 @@ Data Gathering Methods
 * Mail
 * In person/on the street
 
+Facilitation
+* Brainstorm, share, discuss
+* Problem Structuring 
+* Problem Solving Methods
+
 Summary Reports
 
 Survey Question Type
