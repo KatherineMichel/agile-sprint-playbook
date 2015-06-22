@@ -52,6 +52,6 @@
    * [Strategy](strategy.md)
    * [Advertising Methods](advertising_methods.md)
    * [Documents](documents.md)
+   * [Data Gathering Methodis](data_gathering_methodis.md)
    * [Links](links.md)
-* [Data Gathering Methodis](data_gathering_methodis.md)
 
