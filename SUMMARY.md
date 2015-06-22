@@ -52,7 +52,7 @@
    * [Strategy](strategy.md)
    * [Advertising Methods](advertising_methods.md)
    * [Documents](documents.md)
-   * [Data Gathering Methodis](data_gathering_methodis.md)
+   * [Data Gathering Methods](data_gathering_methods.md)
    * [User Centered Design](user_centered_design.md)
    * [Links](links.md)
 
