@@ -57,4 +57,5 @@
    * [Demographics](demographics.md)
    * [Project Management](project_management.md)
    * [Links](links.md)
+* Business Model Canvas
 
