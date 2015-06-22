@@ -47,8 +47,8 @@
 * [IDEO](ideo.md)
 * [Additional Resources](additional_resources.md)
    * [Combination](combination.md)
-   * [Documents](documents.md)
    * [Lean Methodology](lean_methodology.md)
    * [HubSpot](hubspot.md)
+   * [Documents](documents.md)
    * [Links](links.md)
 
