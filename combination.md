@@ -221,10 +221,6 @@ Measurable Usability Goals
 * “Information-Only” case-study example 64
 
 Appendix B: Sample Scripts and Forms 164
-
-* Interview Topics for Meeting with the System Team 169 (Nielson Norman)
-* Interview Questions for the System Team 170 (Nielson Norman)
-
 * Sample Questions for Eliciting Sensitive Information 59
 * Eliciting Sensitive Information – Sample Questions 167 (Nielson Norman)
 * Sample Questions for Eliciting Web Experience 60-61
@@ -246,6 +242,9 @@ Appendix B: Sample Scripts and Forms 164
 * Sample Filled-In Participant Summary Table 97
 * Participant Summary Table 183 (Nielson Norman)
 * Participant Database Information to Track 175 (Nielson Norman)
+
+* Interview Topics for Meeting with the System Team 169 (Nielson Norman)
+* Interview Questions for the System Team 170 (Nielson Norman)
 
 ## Day 5: Validate Day
 
