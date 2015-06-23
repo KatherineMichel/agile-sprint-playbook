@@ -299,11 +299,7 @@ Templates
 
 # Nielson Norman Group
 
-[Nielson Norman Group](http://www.nngroup.com)
-
 [Nielson Norman Group: How Many Test Users in a Usability Study?](http://www.nngroup.com/articles/how-many-test-users)
-
-[Nielson Norman Group Free Reports](http://www.nngroup.com/reports/free)
 
 [Nielson Norman Group How to Recruit Participants for Usability Studies](http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies)
 
@@ -371,10 +367,6 @@ Appendix A: Participant Recruiting Survey 134
 * Pre-Session Interaction 159
 * Participant Session Documents 161
 * Participant Follow-Up 162
-
-Acknowledgements 186
-
-References 188
 
 [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
 
