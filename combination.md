@@ -380,6 +380,7 @@ Templates
 * Sample Filled-In Participant Summary Table 97
 * Sample Background Questionnaire 108
 * Sample Content, VoucherForms 109-115
+* Sample Thank you 120
 
 Nielson Norman
 * Tips and Tricks Summary 10
