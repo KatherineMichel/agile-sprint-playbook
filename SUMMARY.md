@@ -53,9 +53,9 @@
    * [Advertising Methods](advertising_methods.md)
    * [Documents](documents.md)
    * [Project Management](project_management.md)
-   * [Combination](combination.md)
    * [Demographics](demographics.md)
    * [Data Gathering Methods](data_gathering_methods.md)
    * [User Centered Design](user_centered_design.md)
+   * [Combination](combination.md)
    * [Links](links.md)
 
