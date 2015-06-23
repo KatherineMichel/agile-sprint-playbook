@@ -178,10 +178,6 @@ Business Model Canvas (thoughtbot)
 
 ## Day 4: Prototype Day
 
-Introduction to Testing With or Without Moderator
-* [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
-* [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
-
 Test Screener
 * [Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
 * [Usability Test Screener: Website (example 1) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-website-example-1.html)
@@ -191,6 +187,15 @@ Test Screener
 
 Email Template
 * [Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
+
+Appendix B: Sample Scripts and Forms 164
+* Sample Questions for Eliciting Sensitive Information 59 and 167 (Nielson Norman)
+* Sample Questions for Eliciting Web Experience 60-61, 168 (Nielson Norman)
+* Sample Participant Screening Script and Questionnaire 65-71, 176 (Nielson Norman)
+* Sample Script for Preliminary Contact by Study Sponsor 58, 183 (Nielson Norman)
+* Confirmation Message 166 (Nielson Norman)
+* Sample Background Questionnaire 108, 164 (Nielson Norman)
+* Dealing with Unqualified Participants 167 (Nielson Norman)
 
 Consent and Release Forms
 * [Consent Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-adult.html)
@@ -205,31 +210,28 @@ Receipts (Adult and Minor)
 * [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
 * [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
 
-* Case Study Example 24-26
-* Sample recruiting criteria description 29-30
-* “Must-Have” case-study example 62
-* “Nice-to-Have” case-study example 63
-* “Information-Only” case-study example 64
-
-Appendix B: Sample Scripts and Forms 164
-* Sample Questions for Eliciting Sensitive Information 59 and 167 (Nielson Norman)
-* Sample Questions for Eliciting Web Experience 60-61, 168 (Nielson Norman)
-* Sample Participant Screening Script and Questionnaire 65-71, 176 (Nielson Norman)
-* Sample Script for Preliminary Contact by Study Sponsor 58, 183 (Nielson Norman)
-* Confirmation Message 166 (Nielson Norman)
-* Sample Background Questionnaire 108, 164 (Nielson Norman)
-* Dealing with Unqualified Participants 167 (Nielson Norman)
 * Sample Consent, Voucher Forms 109-115
 * Minor Consent Form 172 (Nielson Norman)
 * Nondisclosure Agreement 174 (Nielson Norman)
 * Participation Consent Form 174 (Nielson Norman)
 * Receipt Form 184 (Nielson Norman)
 * Voucher Form 185 (Nielson Norman)
+
+* Case Study Example 24-26
+* Sample recruiting criteria description 29-30
+* “Must-Have” case-study example 62
+* “Nice-to-Have” case-study example 63
+* “Information-Only” case-study example 64
+
 * Sample Filled-In Participant Summary Table 97 and 183 (Nielson Norman)
 * Participant Database Information to Track 175 (Nielson Norman)
 
 * Interview Topics for Meeting with the System Team 169 (Nielson Norman)
 * Interview Questions for the System Team 170 (Nielson Norman)
+
+Introduction to Testing With or Without Moderator
+* [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
+* [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
 
 ## Day 5: Validate Day
 
