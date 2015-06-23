@@ -424,17 +424,4 @@ Nielson Norman
 * Building and Maintaining a Participant Database 129
 * Building and Managing a Recruiting Staff 130
 
-Appendix A: Participant Recruiting Survey 134
-* About the Survey 134
-* Survey Results 136
-* Geographical Areas from Which Participants are Recruited 136
-* Who Recruits Participants 143
-* Internal Time Spent Recruiting Participants 148
-* Agency Lead Time Required and Fees Charged 148
-* Participant User Groups, Incentives, and Session Length 150
-* No-Show Rates 158
-* Pre-Session Interaction 159
-* Participant Session Documents 161
-* Participant Follow-Up 162
-
 [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
