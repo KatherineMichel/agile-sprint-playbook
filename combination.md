@@ -376,7 +376,7 @@ Templates
 * “Must-Have” case-study example 62
 * “Nice-to-Have” case-study example 63
 * “Information-Only” case-study example 64
-* SAMPLE PARTICIPANT SCREENING SCRIPT AND QUESTIONNAIRE 65-71
+* Sample Participant Screening Script and Questionnaire 65-71
 * Sample Filled-In Participant Summary Table 97
 * Sample Background Questionnaire 108
 * Sample Content, VoucherForms 109-115
