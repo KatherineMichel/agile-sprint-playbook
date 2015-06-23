@@ -221,29 +221,31 @@ Measurable Usability Goals
 * “Information-Only” case-study example 64
 
 Appendix B: Sample Scripts and Forms 164
-* Sample Background Questionnaire 108
-* Background Questionnaire 164 (Nielson Norman)
-* Confirmation Message 166 (Nielson Norman)
-* Dealing with Unqualified Participants 167 (Nielson Norman)
+
+* Interview Topics for Meeting with the System Team 169 (Nielson Norman)
+* Interview Questions for the System Team 170 (Nielson Norman)
+
 * Sample Questions for Eliciting Sensitive Information 59
 * Eliciting Sensitive Information – Sample Questions 167 (Nielson Norman)
 * Sample Questions for Eliciting Web Experience 60-61
 * Eliciting Web Experience - Sample Questions 168 (Nielson Norman)
-* Interview Topics for Meeting with the System Team 169 (Nielson Norman)
-* Interview Questions for the System Team 170 (Nielson Norman)
+* Sample Participant Screening Script and Questionnaire 65-71
+* Participant Screening Script and Questionnaire 176 (Nielson Norman)
+* Sample Script for Preliminary Contact by Study Sponsor 58
+* Preliminary Contact by Study Sponsor – Sample Script 183 (Nielson Norman)
+* Confirmation Message 166 (Nielson Norman)
+* Sample Background Questionnaire 108
+* Background Questionnaire 164 (Nielson Norman)
+* Dealing with Unqualified Participants 167 (Nielson Norman)
 * Sample Consent, Voucher Forms 109-115
 * Minor Consent Form 172 (Nielson Norman)
 * Nondisclosure Agreement 174 (Nielson Norman)
 * Participation Consent Form 174 (Nielson Norman)
 * Receipt Form 184 (Nielson Norman)
 * Voucher Form 185 (Nielson Norman)
-* Participant Database Information to Track 175 (Nielson Norman)
-* Sample Participant Screening Script and Questionnaire 65-71
-* Participant Screening Script and Questionnaire 176 (Nielson Norman)
 * Sample Filled-In Participant Summary Table 97
 * Participant Summary Table 183 (Nielson Norman)
-* Sample Script for Preliminary Contact by Study Sponsor 58
-* Preliminary Contact by Study Sponsor – Sample Script 183 (Nielson Norman)
+* Participant Database Information to Track 175 (Nielson Norman)
 
 ## Day 5: Validate Day
 
