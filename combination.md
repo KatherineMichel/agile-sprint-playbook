@@ -107,3 +107,20 @@ thoughtbot
 * Example Use Case
 * User Testing Summary Report (GV and thoughtbot)
 * HEART/Goals-Signals-Metrics Framework
+
+
+# HubSpot
+
+* Personas
+* Case Studies
+* Fact Sheet Templates
+
+Campaign Planning and Project Management
+* RFP
+* Marketing Budgets
+* Marketing Reports
+* SMART Marketing
+* Kickoff
+
+Templates
+* PowerPoint Templates
