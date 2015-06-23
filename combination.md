@@ -1,5 +1,45 @@
 # Combination
 
+# Usability Gov
+
+## Project Management
+
+* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
+* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
+* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
+* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
+* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
+
+Kick-Off Meetings
+* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+
+## Usability Testing
+
+* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
+* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
+* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
+* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
+* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
+
+## Initiation, Planning
+
+Overview Documents
+* [UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
+* [Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
+* [Usability Test Plan Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-plan-template.html)
+* [What to Test/Note taker’s Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/what-testnote-takers-guide.html)
+
+Statements of Work
+* [SOW Template: Web Usability Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-testing.html)
+* [SOW Template: Web Usability Consulting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-consulting.html)
+* [SOW Template: Usability and Focus Group Participant Recruitment DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-focus-group-participant-recruitment.html)
+* [SOW Template: Usability Task Order Request DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-task-order-request.html)
+
+Position Descriptions and Interview Questions
+* [Position Description: Usability Specialist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-specialist.html)
+* [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
+* [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
+
 # Design Sprint
 
 ## User Centered Design
@@ -18,6 +58,47 @@
 [IDEO Design Kit Methods](http://www.designkit.org/methods)
 
 [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
+
+## Methods
+
+Focus Groups, Interviews, Surveys
+* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
+* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
+* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
+* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
+
+Personas, Scenarios, Use Cases
+* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
+* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+
+Persona Development 
+* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
+
+Card Sorting, Wireframing, Prototyping, Parallel Design
+* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+* [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+* [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
+* [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
+
+* [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
+
+System Usability Scale (SUS)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
+
+User Engagement
+* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
+* [Eye Tracking](http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html)
+
+More
+* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
+* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
+
+## Organization
+
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
 Throughout the week:
 * Pitch Practice (thoughtbot)
@@ -101,51 +182,9 @@ Business Model Canvas (thoughtbot)
 
 ## Day 4: Prototype Day
 
-# Usability Gov
-
-## Project Management
-
-* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
-* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
-* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
-* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
-* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
-
-## Usability Testing
-
-* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
-* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
-* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
-* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
-* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
-
-## Initiation
-
-## Planning
-
-Overview Documents
-* [UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
-* [Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
-* [Usability Test Plan Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-plan-template.html)
-* [What to Test/Note taker’s Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/what-testnote-takers-guide.html)
-
-Statements of Work
-* [SOW Template: Web Usability Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-testing.html)
-* [SOW Template: Web Usability Consulting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-web-usability-consulting.html)
-* [SOW Template: Usability and Focus Group Participant Recruitment DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-focus-group-participant-recruitment.html)
-* [SOW Template: Usability Task Order Request DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/sow-template-usability-task-order-request.html)
-
 Introduction to Testing With or Without Moderator
 * [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
 * [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
-
-Position Descriptions and Interview Questions
-* [Position Description: Usability Specialist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-specialist.html)
-* [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
-* [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
-
-Kick-Off Meetings
-* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
 
 Test Screener
 * [Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
@@ -173,9 +212,6 @@ Receipts (Adult and Minor)
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
-Persona Development 
-* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
-
 Appendix B: Sample Scripts and Forms 164
 * Background Questionnaire 164 (Nielson Norman)
 * Confirmation Message 166 (Nielson Norman)
@@ -193,7 +229,6 @@ Appendix B: Sample Scripts and Forms 164
 * Preliminary Contact by Study Sponsor – Sample Script 183 (Nielson Norman)
 * Receipt Form 184 (Nielson Norman)
 * Voucher Form 185 (Nielson Norman)
-* Thank-You Note 185 (Nielson Norman)
 
 ## Day 5: Validate Day
 
@@ -216,6 +251,8 @@ thoughtbot
 * Example Use Case
 * User Testing Summary Report (GV and thoughtbot)
 * HEART/Goals-Signals-Metrics Framework
+
+* Thank-You Note 185 (Nielson Norman)
 
 ## Reports
 
@@ -242,43 +279,9 @@ Card Sort Results Report
 
 
 
-## Methods
 
-Focus Groups, Interviews, Surveys
-* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
-* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
-* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
-* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
 
-Personas, Scenarios, Use Cases
-* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
-* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 
-Card Sorting, Wireframing, Prototyping, Parallel Design
-* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
-* [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
-* [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
-* [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
-
-System Usability Scale (SUS)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
-
-User Engagement
-* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
-* [Eye Tracking](http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html)
-
-More
-* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
-* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
-
-## Organization
-
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
-[Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
 
 
 # HubSpot
@@ -295,20 +298,15 @@ Campaign Planning and Project Management
 * Kickoff
 
 Templates
-* PowerPoint Templates
+* PowerPoint Templates (HubSpot)
 
 # Nielson Norman Group
 
 [Nielson Norman Group: How Many Test Users in a Usability Study?](http://www.nngroup.com/articles/how-many-test-users)
 
-[Nielson Norman Group How to Recruit Participants for Usability Studies](http://www.nngroup.com/reports/how-to-recruit-participants-usability-studies)
-
 [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
-Contents
-Executive Summary 5
-Introduction 8
-
+Nielson Norman
 * Tips and Tricks Summary 10
 * Planning Your Recruiting Needs 19
 * Developing Recruiting Criteria 20
