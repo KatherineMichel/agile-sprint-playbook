@@ -101,6 +101,24 @@ Business Model Canvas (thoughtbot)
 
 ## Day 4: Prototype Day
 
+# Usability Gov
+
+## Project Management
+
+* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
+* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
+* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
+* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
+* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
+
+## Usability Testing
+
+* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
+* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
+* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
+* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
+* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
+
 ## Initiation
 
 ## Planning
@@ -222,23 +240,7 @@ Card Sort Results Report
 
 
 
-# Usability Gov
 
-## Project Management
-
-* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
-* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
-* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
-* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
-* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
-
-## Usability Testing
-
-* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
-* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
-* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
-* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
-* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
 
 ## Methods
 
