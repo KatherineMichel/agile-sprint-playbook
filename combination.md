@@ -368,6 +368,19 @@ Templates
 
 [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
+* Case Study Example 24-26
+* Sample recruiting criteria description 29-30
+* Sample Script for Preliminary Contact by Study Sponsor 58
+* Sample Questions for Eliciting Sensitive Information 59
+* Sample Questions for Eliciting Web Experience 60-61
+* “Must-Have” case-study example 62
+* “Nice-to-Have” case-study example 63
+* “Information-Only” case-study example 64
+* SAMPLE PARTICIPANT SCREENING SCRIPT AND QUESTIONNAIRE 65-71
+* Sample Filled-In Participant Summary Table 97
+* Sample Background Questionnaire 108
+* Sample Content, VoucherForms 109-115
+
 Nielson Norman
 * Tips and Tricks Summary 10
 * Planning Your Recruiting Needs 19
