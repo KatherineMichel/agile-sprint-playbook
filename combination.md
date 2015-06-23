@@ -214,23 +214,36 @@ Receipts (Adult and Minor)
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
+* Case Study Example 24-26
+* Sample recruiting criteria description 29-30
+* “Must-Have” case-study example 62
+* “Nice-to-Have” case-study example 63
+* “Information-Only” case-study example 64
+
 Appendix B: Sample Scripts and Forms 164
+* Sample Background Questionnaire 108
 * Background Questionnaire 164 (Nielson Norman)
 * Confirmation Message 166 (Nielson Norman)
 * Dealing with Unqualified Participants 167 (Nielson Norman)
+* Sample Questions for Eliciting Sensitive Information 59
 * Eliciting Sensitive Information – Sample Questions 167 (Nielson Norman)
+* Sample Questions for Eliciting Web Experience 60-61
 * Eliciting Web Experience - Sample Questions 168 (Nielson Norman)
 * Interview Topics for Meeting with the System Team 169 (Nielson Norman)
 * Interview Questions for the System Team 170 (Nielson Norman)
+* Sample Consent, Voucher Forms 109-115
 * Minor Consent Form 172 (Nielson Norman)
 * Nondisclosure Agreement 174 (Nielson Norman)
 * Participation Consent Form 174 (Nielson Norman)
-* Participant Database Information to Track 175 (Nielson Norman)
-* Participant Screening Script and Questionnaire 176 (Nielson Norman)
-* Participant Summary Table 183 (Nielson Norman)
-* Preliminary Contact by Study Sponsor – Sample Script 183 (Nielson Norman)
 * Receipt Form 184 (Nielson Norman)
 * Voucher Form 185 (Nielson Norman)
+* Participant Database Information to Track 175 (Nielson Norman)
+* Sample Participant Screening Script and Questionnaire 65-71
+* Participant Screening Script and Questionnaire 176 (Nielson Norman)
+* Sample Filled-In Participant Summary Table 97
+* Participant Summary Table 183 (Nielson Norman)
+* Sample Script for Preliminary Contact by Study Sponsor 58
+* Preliminary Contact by Study Sponsor – Sample Script 183 (Nielson Norman)
 
 ## Day 5: Validate Day
 
@@ -254,6 +267,7 @@ thoughtbot
 * User Testing Summary Report (GV and thoughtbot)
 * HEART/Goals-Signals-Metrics Framework
 
+* Sample Thank you 120
 * Thank-You Note 185 (Nielson Norman)
 
 ## Reports
@@ -367,20 +381,6 @@ Templates
 [Nielson Norman Group: How Many Test Users in a Usability Study?](http://www.nngroup.com/articles/how-many-test-users)
 
 [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
-
-* Case Study Example 24-26
-* Sample recruiting criteria description 29-30
-* Sample Script for Preliminary Contact by Study Sponsor 58
-* Sample Questions for Eliciting Sensitive Information 59
-* Sample Questions for Eliciting Web Experience 60-61
-* “Must-Have” case-study example 62
-* “Nice-to-Have” case-study example 63
-* “Information-Only” case-study example 64
-* Sample Participant Screening Script and Questionnaire 65-71
-* Sample Filled-In Participant Summary Table 97
-* Sample Background Questionnaire 108
-* Sample Content, VoucherForms 109-115
-* Sample Thank you 120
 
 Nielson Norman
 * Tips and Tricks Summary 10
