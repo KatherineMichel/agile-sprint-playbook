@@ -205,9 +205,6 @@ Receipts (Adult and Minor)
 * [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
 * [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
 
-Measurable Usability Goals
-* [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
-
 * Case Study Example 24-26
 * Sample recruiting criteria description 29-30
 * “Must-Have” case-study example 62
@@ -258,6 +255,9 @@ thoughtbot
 
 * Sample Thank you 120
 * Thank-You Note 185 (Nielson Norman)
+
+Measurable Usability Goals
+* [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
 ## Reports
 
