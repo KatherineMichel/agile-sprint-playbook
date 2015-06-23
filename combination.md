@@ -2,6 +2,8 @@
 
 # Design Sprint
 
+User Centered Design
+
 Throughout the week:
 * Pitch Practice (thoughtbot)
 * Recap (thoughtbot)
