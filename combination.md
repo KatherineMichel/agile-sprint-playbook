@@ -40,8 +40,6 @@ Position Descriptions and Interview Questions
 * [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
 * [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
 
-# Design Sprint
-
 ## User Centered Design
 
 * [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
@@ -95,6 +93,30 @@ More
 
 * [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 * [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+
+## Lean Methodology/Customer Development
+
+* Business Model Canvas
+* Distribution Channel Diagram
+* Distribution Channel Plan
+* Channel Responsibility Map
+* “Food Chain” Drawing
+* Channel Partner's Business Model Drawing
+
+##### Customer, Workflow, Story
+* Customer Archetypes
+* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
+* One-page User Story
+* Preliminary Product Specs 
+* Product Feature List/Product Benefit List (Prioritized)
+
+##### Competitors
+* Competitive Grid
+* Competitive and Adjacent Products
+* Competitive Product and Pricing Information
+* Competitor Press Releases
+
+# Design Sprint
 
 Throughout the week:
 * Pitch Practice (thoughtbot)
@@ -177,6 +199,8 @@ Business Model Canvas (thoughtbot)
 * Make plans for reducing risks not addressed by the prototype 
 
 ## Day 4: Prototype Day
+
+* [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
 Test Screener
 * [Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
@@ -282,26 +306,6 @@ Card Sort Results Report
 
 ## Lean Methodology/Customer Development
 
-* Business Model Canvas
-* Distribution Channel Diagram
-* Distribution Channel Plan
-* Channel Responsibility Map
-* “Food Chain” Drawing
-* Channel Partner's Business Model Drawing
-
-##### Customer, Workflow, Story
-* Customer Archetypes
-* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
-* One-page User Story
-* Preliminary Product Specs 
-* Product Feature List/Product Benefit List (Prioritized)
-
-##### Competitors
-* Competitive Grid
-* Competitive and Adjacent Products
-* Competitive Product and Pricing Information
-* Competitor Press Releases
-
 ##### Organization
 * Organization Structure (Founders, Investors, Board)
 * Company 3-5 Core Values 
@@ -364,5 +368,3 @@ Campaign Planning and Project Management
 
 Templates
 * PowerPoint Templates (HubSpot)
-
-[Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
