@@ -24,6 +24,17 @@ Throughout the week:
 * Start an Back-burner Board (thoughtbot)
 * Expert Perspectives (thoughtbot)
 
+Business Model Canvas (thoughtbot)
+* Value Propositions
+* Customer Segments
+* Customer Relationships
+* Key Partners
+* Key Activities
+* Key Resources
+* Cost Structure
+* Revenue Streams
+* Channels
+
 ## thoughtbot Activities
 
 * Gather existing knowledge/research, expose assumptions and unknowns
