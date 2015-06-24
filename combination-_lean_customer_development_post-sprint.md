@@ -1,5 +1,19 @@
 # Combination- Lean Customer Development Post-Sprint
 
+# HubSpot
+
+* Fact Sheet Templates
+
+Campaign Planning and Project Management
+* RFP
+* Marketing Budgets
+* Marketing Reports
+* SMART Marketing
+* Kickoff
+
+Templates
+* PowerPoint Templates (HubSpot)
+
 ## Organization
 * Organization Structure (Founders, Investors, Board)
 * Company 3-5 Core Values 
