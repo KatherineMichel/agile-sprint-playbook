@@ -34,6 +34,10 @@ Focus Groups, Interviews, Surveys
 * [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
 * [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
 
+* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+Card Sort Results Report
+* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
+
 Usability Study Process and Materials Checklist
 
 * [Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
