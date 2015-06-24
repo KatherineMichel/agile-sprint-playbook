@@ -136,43 +136,6 @@ Gather materials
     * URLs for surveys that you’ll need to place in the chat window (remote only)
     * Call in number for team to debrief after each session (if team is not collocated)
 
-Set up testing environment
-* For in person tests:
-    * Create “Do Not Disturb” signs 
-    * Be sure screen capture/camera set up works properly
-    * Ensure observer’s room screen cast works properly
-    * Check supplies for test room (pens, paper, refreshments for participants)
-    * Ensure observer room has adequate chairs, table space, office supplies, etc. for observers scheduled to take notes
-    * Print copies of all study materials
-* For remote tests:
-    * Set up in a quiet location
-    * Use a land line and head set so your hands are free for taking notes
-    * Print copies of all study materials
-    * Facilitator should:
-        * Put your cell phone on vibrate and within reach in case observers or the participant needs to reach you 
-        * Have email open and minimized, in case you need to communicate with the participant
-        * Get a glass of water
-    * Note takers should:
-        * Set up your workspace (2 monitors, or 2 computers - one with virtual meeting software and one with note taking spreadsheet)
-        * Get a stop watch and be sure it’s working.
-
-Walkthrough and pilot test 
-* Send out reminder email to walkthrough and pilot test participants the day before the session; copy team
-* Review test objectives, success measures, and areas of concern with note takers
-* Verify set up of testing environment 
-* Conduct walkthrough
-* Revise test materials as needed based on walkthrough
-* Conduct pilot
-* Revise test materials as need based on pilot test
-* Check lab supplies and replenish as needed
-
-Usability test 
-* Send out reminder email to test participants the day before the session; copy team
-* Verify set up of testing environment
-* Conduct tests
-* Debrief with team after each session and capture key positive findings and usability issues on the issue tracking spreadsheet
-* Debrief with observers 
-* Post all videos to predetermined location 
 Scenarios, Use Cases
 * [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 * [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
@@ -192,21 +155,59 @@ Test Screener
 * [Usability Test Screener - Mobile Device Testing DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-mobile-device-testing.html)
 * [Usability Test Screener: Online Survey DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-online-survey.html)
 
-Email Template
-* [Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
-
+Nielson Norman
 Appendix B: Sample Scripts and Forms 164
 * Sample Questions for Eliciting Sensitive Information 59 and 167 (Nielson Norman)
 * Sample Questions for Eliciting Web Experience 60-61, 168 (Nielson Norman)
 * Sample Participant Screening Script and Questionnaire 65-71, 176 (Nielson Norman)
 * Sample Script for Preliminary Contact by Study Sponsor 58, 183 (Nielson Norman)
 * Confirmation Message 166 (Nielson Norman)
-* Sample Background Questionnaire 108, 164 (Nielson Norman)
-* Dealing with Unqualified Participants 167 (Nielson Norman)
+
+Email Template
+* [Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
+
+Set up testing environment (Usability Study Process and Materials Checklist)
+* For in person tests:
+    * Create “Do Not Disturb” signs 
+    * Be sure screen capture/camera set up works properly
+    * Ensure observer’s room screen cast works properly
+    * Check supplies for test room (pens, paper, refreshments for participants)
+    * Ensure observer room has adequate chairs, table space, office supplies, etc. for observers scheduled to take notes
+    * Print copies of all study materials
+* For remote tests:
+    * Set up in a quiet location
+    * Use a land line and head set so your hands are free for taking notes
+    * Print copies of all study materials
+    * Facilitator should:
+        * Put your cell phone on vibrate and within reach in case observers or the participant needs to reach you 
+        * Have email open and minimized, in case you need to communicate with the participant
+        * Get a glass of water
+    * Note takers should:
+        * Set up your workspace (2 monitors, or 2 computers - one with virtual meeting software and one with note taking spreadsheet)
+        * Get a stop watch and be sure it’s working.
+
+Walkthrough and pilot test (Usability Study Process and Materials Checklist)
+* Send out reminder email to walkthrough and pilot test participants the day before the session; copy team
+* Review test objectives, success measures, and areas of concern with note takers
+* Verify set up of testing environment 
+* Conduct walkthrough
+* Revise test materials as needed based on walkthrough
+* Conduct pilot
+* Revise test materials as need based on pilot test
+* Check lab supplies and replenish as needed
+
+Usability test (Usability Study Process and Materials Checklist)
+* Send out reminder email to test participants the day before the session; copy team
+* Verify set up of testing environment
 
 Introduction to Testing With or Without Moderator
 * [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
 * [Introduction to Testing without Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-without-interaction.html)
+
+Nielson Norman
+Appendix B: Sample Scripts and Forms 164
+* Sample Background Questionnaire 108, 164 (Nielson Norman)
+* Dealing with Unqualified Participants 167 (Nielson Norman)
 
 ## Day 5: Validate Day
 
@@ -235,6 +236,12 @@ thoughtbot
 
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
+
+Usability test (Usability Study Process and Materials Checklist)
+* Conduct tests
+* Debrief with team after each session and capture key positive findings and usability issues on the issue tracking spreadsheet
+* Debrief with observers 
+* Post all videos to predetermined location
 
 Data analysis (Usability Study Process and Materials Checklist)
 * Work with team to determine final list of positive findings, usability issues
