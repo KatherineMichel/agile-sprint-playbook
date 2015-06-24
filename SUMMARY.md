@@ -59,5 +59,5 @@
    * [Links](links.md)
 * [Combination](combination.md)
 * [Combination- User Testing](combination-_user_testing.md)
-* Combination- Lean Customer Development Post-Sprint
+* [Combination- Lean Customer Development Post-Sprint](combination-_lean_customer_development_post-sprint.md)
 
