@@ -200,26 +200,6 @@ Appendix B: Sample Scripts and Forms 164
 * Sample Background Questionnaire 108, 164 (Nielson Norman)
 * Dealing with Unqualified Participants 167 (Nielson Norman)
 
-Consent and Release Forms
-* [Consent Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-adult.html)
-* [Consent Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-minor.html)
-* [Consent & Recording Release Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html)
-* [Consent & Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-minor.html)
-* [Digital Recording Release Form DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form.html)
-* [Digital Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form-minor.html)
-* [Consent Form: Remote Usability Test (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-remote-usability-test-adult.html)
-
-Receipts (Adult and Minor)
-* [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
-* [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
-
-* Sample Consent, Voucher Forms 109-115
-* Minor Consent Form 172 (Nielson Norman)
-* Nondisclosure Agreement 174 (Nielson Norman)
-* Participation Consent Form 174 (Nielson Norman)
-* Receipt Form 184 (Nielson Norman)
-* Voucher Form 185 (Nielson Norman)
-
 * Case Study Example 24-26
 * Sample recruiting criteria description 29-30
 * “Must-Have” case-study example 62
@@ -279,3 +259,23 @@ Survey Reports
 
 Metrics Report
 * [Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/statistics-review-and-design-implications-template.html)
+
+Consent and Release Forms
+* [Consent Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-adult.html)
+* [Consent Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-minor.html)
+* [Consent & Recording Release Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-adult.html)
+* [Consent & Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-recording-release-form-minor.html)
+* [Digital Recording Release Form DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form.html)
+* [Digital Recording Release Form (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/digital-recording-release-form-minor.html)
+* [Consent Form: Remote Usability Test (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/consent-form-remote-usability-test-adult.html)
+
+Receipts (Adult and Minor)
+* [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
+* [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
+
+* Sample Consent, Voucher Forms 109-115
+* Minor Consent Form 172 (Nielson Norman)
+* Nondisclosure Agreement 174 (Nielson Norman)
+* Participation Consent Form 174 (Nielson Norman)
+* Receipt Form 184 (Nielson Norman)
+* Voucher Form 185 (Nielson Norman)
