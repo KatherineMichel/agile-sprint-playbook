@@ -172,6 +172,7 @@ Data analysis
 Scenarios, Use Cases
 * [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 * [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+* Case Studies (HubSpot)
 
 Persona Development 
 * [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
