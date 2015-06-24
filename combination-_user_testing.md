@@ -73,31 +73,19 @@ Usability Study Process and Materials Checklist
 
 Study planning 
 
-Assign roles to team members (Usability Study Process and Materials Checklist)
+Assign roles to study team members (Usability Study Process and Materials Checklist)
 * Facilitator
 * Note taker(s) – may want to have one to take notes on what the users say and one to take notes on the paths they take looking for information
 * Observer caretaker (this person explains expectations/directions to the observers and facilitates a discussion with them, if necessary, after they observe each session
 * Video editor (in case video clips are required)
 * Recruitment manager 
 
-Assemble materials for study team (Usability Study Process and Materials Checklist)
-* Study script (facilitator script, scenarios, pre/post questions)
-* Success criteria
-* Issue tracking spreadsheet
-* Participant names/emails/phone numbers (remote only)
-* URLs for surveys that you’ll need to place in the chat window (remote only)
-* Call in number for team to debrief after each session (if team is not collocated)
-
-Schedule observers (Usability Study Process and Materials Checklist)
+Schedule observers/assemble materials (Usability Study Process and Materials Checklist)
 * Create list of rules for observers 
 * Send invites to observers; include brief description of test process and rules for observers 
 * Schedule observers to attend the usability test session(s) and note the names on the daily schedule for reference 
-
-Assemble materials for observers (Usability Study Process and Materials Checklist)
-* Study script (facilitator script, scenarios, pre/post questions)
 * Rules of behavior for observers
 * Note taking forms for observers
-* Success criteria
 
 * [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
@@ -111,13 +99,15 @@ Persona Development
 * [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 * Personas (HubSpot)
 
-Plan test (Usability Study Process and Materials Checklist)
+Assemble materials for study team (Usability Study Process and Materials Checklist)
+* Study script (facilitator script, scenarios, pre/post questions)
+* Success criteria
+* Issue tracking spreadsheet
 * Complete study planning spreadsheet:
 * Research questions
 * Measurable business goals
 * List of user tasks based on user research
 * Scenarios based on user tasks, business goals, and research questions
-* Pre- and post-study questions
 * Determine the criteria for measuring the success of each scenario
 * Complete study script (compile from study planning spreadsheet):
 * Facilitator intro and think out loud protocol
@@ -125,11 +115,14 @@ Plan test (Usability Study Process and Materials Checklist)
 * Scenarios (including scenario wording, answer, pathways, and research questions to be addressed for each scenario)
 * Post-study questions
 * Set up select pre/post test questions in survey software (if necessary) 
+* Call in number for team to debrief after each session (if team is not collocated)
 
 Usability Study Process and Materials Checklist
 * Create recruiting materials:
 * User profile/personas based on user research
 * Recruitment criteria from user profile/personas
+
+Usability Study Process and Materials Checklist
 * Schedule and participant background
 * Recruiting screener
 * Recruit participants (allow at least 2-3 weeks for this process)
@@ -170,11 +163,9 @@ Walkthrough and pilot test (Usability Study Process and Materials Checklist)
 * Send out reminder email to walkthrough and pilot test participants the day before the session; copy team
 * Review test objectives, success measures, and areas of concern with note takers
 * Verify set up of testing environment 
-* Conduct walkthrough
-* Walkthrough (someone internal to the organization)
+* Conduct walkthrough (someone internal to the organization)
 * Revise test materials as needed based on walkthrough
-* Conduct pilot
-* Pilot test (outside participant from target audience group)
+* Conduct pilot test (outside participant from target audience group)
 * Revise test materials as need based on pilot test
 * Check lab supplies and replenish as needed
 
@@ -196,6 +187,8 @@ For remote tests (Usability Study Process and Materials Checklist)
 * Set up in a quiet location
 * Use a land line and head set so your hands are free for taking notes
 * Print copies of all study materials
+* Participant names/emails/phone numbers (remote only)
+* URLs for surveys that you’ll need to place in the chat window (remote only)
 
 Facilitator should (Usability Study Process and Materials Checklist)
 * Put your cell phone on vibrate and within reach in case observers or the participant needs to reach you 
