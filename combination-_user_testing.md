@@ -26,6 +26,14 @@ Position Descriptions and Interview Questions
 * [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
 * [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
 
+## Methods
+
+Focus Groups, Interviews, Surveys
+* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
+* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
+* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
+* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
+
 Usability Study Process and Materials Checklist
 
 * [Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
@@ -139,6 +147,15 @@ Data analysis
 * Prepare summary of findings and recommendations; include video clips 
 * Present and distribute summary of findings and recommendations
 * Send thank you notes
+
+Scenarios, Use Cases
+* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
+* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+
+Persona Development 
+* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
+* Personas (HubSpot)
 
 * [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
