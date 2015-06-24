@@ -15,8 +15,7 @@
 * [IDEO Design Kit](http://www.designkit.org)[IDEO Design Kit Methods](http://www.designkit.org/methods)
 * [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
 
-Card Sorting, Wireframing, Prototyping, Parallel Design
-* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+Wireframing, Prototyping, Parallel Design
 * [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
 * [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
 * [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
@@ -145,8 +144,7 @@ Business Model Canvas (thoughtbot)
 
 ## Day 4: Prototype Day
 
-Card Sort Results Report
-* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
+
 
 
 
