@@ -15,23 +15,6 @@
 * [IDEO Design Kit](http://www.designkit.org)[IDEO Design Kit Methods](http://www.designkit.org/methods)
 * [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
 
-## Methods
-
-Focus Groups, Interviews, Surveys
-* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
-* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
-* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
-* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
-
-Scenarios, Use Cases
-* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
-* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
-
-Persona Development 
-* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
-* Personas (HubSpot)
-
 Card Sorting, Wireframing, Prototyping, Parallel Design
 * [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 * [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
