@@ -67,6 +67,8 @@ More
 * [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 * [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
+[Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
+
 Usability Study Process and Materials Checklist
 
 * [Usability Study Process and Materials Checklist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-study-process-and-materials-checklist.html)
@@ -87,18 +89,6 @@ Schedule observers/assemble materials (Usability Study Process and Materials Che
 * Rules of behavior for observers
 * Note taking forms for observers
 
-* [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
-
-Scenarios, Use Cases
-* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
-* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
-* Case Studies (HubSpot)
-
-Persona Development 
-* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
-* Personas (HubSpot)
-
 Assemble materials for study team (Usability Study Process and Materials Checklist)
 * Study script (facilitator script, scenarios, pre/post questions)
 * Success criteria
@@ -113,9 +103,17 @@ Assemble materials for study team (Usability Study Process and Materials Checkli
 * Facilitator intro and think out loud protocol
 * Pre-study questions
 * Scenarios (including scenario wording, answer, pathways, and research questions to be addressed for each scenario)
-* Post-study questions
-* Set up select pre/post test questions in survey software (if necessary) 
-* Call in number for team to debrief after each session (if team is not collocated)
+* Set up select pre-test questions in survey software (if necessary) 
+
+Scenarios, Use Cases
+* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
+* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+* Case Studies (HubSpot)
+
+Persona Development 
+* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
+* Personas (HubSpot)
 
 Usability Study Process and Materials Checklist
 * Create recruiting materials:
@@ -180,7 +178,7 @@ Appendix B: Sample Scripts and Forms 164
 
 Assemble materials for participants (Usability Study Process and Materials Checklist)
 * Consent form to sign (in person only)
-* Pre/post test questionnaires (in person only) or links to applicable surveys
+* Pre-test questionnaires (in person only) or links to applicable surveys
 * Participant version of scenarios (so they can refer to them during the test) (in person only)
 
 For remote tests (Usability Study Process and Materials Checklist)
@@ -189,6 +187,7 @@ For remote tests (Usability Study Process and Materials Checklist)
 * Print copies of all study materials
 * Participant names/emails/phone numbers (remote only)
 * URLs for surveys that you’ll need to place in the chat window (remote only)
+* Call in number for team to debrief after each session (if team is not collocated)
 
 Facilitator should (Usability Study Process and Materials Checklist)
 * Put your cell phone on vibrate and within reach in case observers or the participant needs to reach you 
@@ -244,6 +243,11 @@ Usability test (Usability Study Process and Materials Checklist)
 * Debrief with team after each session and capture key positive findings and usability issues on the issue tracking spreadsheet
 * Debrief with observers 
 * Post all videos to predetermined location
+
+(Usability Study Process and Materials Checklist)
+* Post-study questions
+* Set up select post test questions in survey software (if necessary) 
+* Post-test questionnaires (in person only) or links to applicable surveys
 
 Data analysis (Usability Study Process and Materials Checklist)
 * Work with team to determine final list of positive findings, usability issues
