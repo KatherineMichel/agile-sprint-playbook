@@ -126,24 +126,3 @@ Business Model Canvas (thoughtbot)
 * Make plans for reducing risks not addressed by the prototype 
 
 ## Day 4: Prototype Day
-
-
-
-
-
-
-
-# HubSpot
-
-* Case Studies
-* Fact Sheet Templates
-
-Campaign Planning and Project Management
-* RFP
-* Marketing Budgets
-* Marketing Reports
-* SMART Marketing
-* Kickoff
-
-Templates
-* PowerPoint Templates (HubSpot)
