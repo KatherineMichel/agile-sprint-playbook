@@ -75,6 +75,9 @@ Usability Study Process and Materials Checklist
 
 Study planning 
 
+Set up testing environment (Usability Study Process and Materials Checklist)
+* Schedule meeting room(s) or remote meeting software for setup, testing, and participant debrief / waiting 
+
 Assign roles to study team members (Usability Study Process and Materials Checklist)
 * Facilitator
 * Note taker(s) – may want to have one to take notes on what the users say and one to take notes on the paths they take looking for information
@@ -147,15 +150,13 @@ Appendix B: Sample Scripts and Forms 164
 Email Template
 * [Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
 
-Set up testing environment (Usability Study Process and Materials Checklist)
-* Schedule meeting room(s) or remote meeting software for setup, testing, and participant debrief / waiting 
-* For in person tests:
+For in person tests (Usability Study Process and Materials Checklist)
 * Create “Do Not Disturb” signs 
 * Be sure screen capture/camera set up works properly
-* Ensure observer’s room screen cast works properly
 * Check supplies for test room (pens, paper, refreshments for participants)
-* Ensure observer room has adequate chairs, table space, office supplies, etc. for observers scheduled to take notes
 * Print copies of all study materials
+* Ensure observer’s room screen cast works properly
+* Ensure observer room has adequate chairs, table space, office supplies, etc. for observers scheduled to take notes
 
 Walkthrough and pilot test (Usability Study Process and Materials Checklist)
 * Send out reminder email to walkthrough and pilot test participants the day before the session; copy team
