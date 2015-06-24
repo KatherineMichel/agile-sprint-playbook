@@ -21,23 +21,6 @@ Wireframing, Prototyping, Parallel Design
 * [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
 * [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
 
-System Usability Scale (SUS)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
-
-User Engagement
-* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
-* [Eye Tracking](http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html)
-
-More
-* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
-* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
-
-## Organization
-
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
 ## Lean Methodology/Customer Development
 
 * Business Model Canvas
