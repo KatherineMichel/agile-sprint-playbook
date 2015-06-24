@@ -74,7 +74,6 @@ Usability Study Process and Materials Checklist
 Study planning 
 
 Plan test (Usability Study Process and Materials Checklist)
-* Schedule meeting room(s) or remote meeting software for setup, testing, and participant debrief / waiting 
 * Assign roles to team members:
     * Facilitator
     * Note taker(s) – may want to have one to take notes on what the users say and one to take notes on the paths they take looking for information
@@ -108,8 +107,6 @@ Assemble materials for observers (Usability Study Process and Materials Checklis
 
 Assemble materials for study team (Usability Study Process and Materials Checklist)
 * Study script (facilitator script, scenarios, pre/post questions)
-* Note taking form for facilitator
-* Note taking spreadsheet for note takers
 * Success criteria
 * Issue tracking spreadsheet
 * Participant names/emails/phone numbers (remote only)
@@ -165,6 +162,7 @@ Email Template
 * [Email Template: Usability Study Recruiting DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/email-template-usability-study-recruiting.html)
 
 Set up testing environment (Usability Study Process and Materials Checklist)
+* Schedule meeting room(s) or remote meeting software for setup, testing, and participant debrief / waiting 
 * For in person tests:
 * Create “Do Not Disturb” signs 
 * Be sure screen capture/camera set up works properly
@@ -172,17 +170,22 @@ Set up testing environment (Usability Study Process and Materials Checklist)
 * Check supplies for test room (pens, paper, refreshments for participants)
 * Ensure observer room has adequate chairs, table space, office supplies, etc. for observers scheduled to take notes
 * Print copies of all study materials
+
 * For remote tests:
 * Set up in a quiet location
 * Use a land line and head set so your hands are free for taking notes
 * Print copies of all study materials
+
 * Facilitator should:
-        * Put your cell phone on vibrate and within reach in case observers or the participant needs to reach you 
-        * Have email open and minimized, in case you need to communicate with the participant
-        * Get a glass of water
-    * Note takers should:
-        * Set up your workspace (2 monitors, or 2 computers - one with virtual meeting software and one with note taking spreadsheet)
-        * Get a stop watch and be sure it’s working.
+* Put your cell phone on vibrate and within reach in case observers or the participant needs to reach you 
+* Note taking form for facilitator
+* Have email open and minimized, in case you need to communicate with the participant
+* Get a glass of water
+
+* Note takers should:
+* Set up your workspace (2 monitors, or 2 computers - one with virtual meeting software and one with note taking spreadsheet)
+* Note taking spreadsheet for note takers
+* Get a stop watch and be sure it’s working.
 
 Walkthrough and pilot test (Usability Study Process and Materials Checklist)
 * Review test objectives, success measures, and areas of concern with note takers
