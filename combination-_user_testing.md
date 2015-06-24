@@ -1,5 +1,17 @@
 # Combination- User Testing
 
+* Case Study Example 24-26
+* Sample recruiting criteria description 29-30
+* “Must-Have” case-study example 62
+* “Nice-to-Have” case-study example 63
+* “Information-Only” case-study example 64
+
+* Sample Filled-In Participant Summary Table 97 and 183 (Nielson Norman)
+* Participant Database Information to Track 175 (Nielson Norman)
+
+* Interview Topics for Meeting with the System Team 169 (Nielson Norman)
+* Interview Questions for the System Team 170 (Nielson Norman)
+
 ## Usability Testing
 
 * [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
@@ -161,14 +173,6 @@ Usability test
 * Debrief with team after each session and capture key positive findings and usability issues on the issue tracking spreadsheet
 * Debrief with observers 
 * Post all videos to predetermined location 
-Data analysis 
-* Work with team to determine final list of positive findings, usability issues
-* Work with team to develop recommendations for improvement 
-* Choose video clips that illustrate your main findings
-* Prepare summary of findings and recommendations; include video clips 
-* Present and distribute summary of findings and recommendations
-* Send thank you notes
-
 Scenarios, Use Cases
 * [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 * [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
@@ -199,18 +203,6 @@ Appendix B: Sample Scripts and Forms 164
 * Confirmation Message 166 (Nielson Norman)
 * Sample Background Questionnaire 108, 164 (Nielson Norman)
 * Dealing with Unqualified Participants 167 (Nielson Norman)
-
-* Case Study Example 24-26
-* Sample recruiting criteria description 29-30
-* “Must-Have” case-study example 62
-* “Nice-to-Have” case-study example 63
-* “Information-Only” case-study example 64
-
-* Sample Filled-In Participant Summary Table 97 and 183 (Nielson Norman)
-* Participant Database Information to Track 175 (Nielson Norman)
-
-* Interview Topics for Meeting with the System Team 169 (Nielson Norman)
-* Interview Questions for the System Team 170 (Nielson Norman)
 
 Introduction to Testing With or Without Moderator
 * [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
@@ -243,6 +235,14 @@ thoughtbot
 
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
+
+Data analysis (Usability Study Process and Materials Checklist)
+* Work with team to determine final list of positive findings, usability issues
+* Work with team to develop recommendations for improvement 
+* Choose video clips that illustrate your main findings
+* Prepare summary of findings and recommendations; include video clips 
+* Present and distribute summary of findings and recommendations
+* Send thank you notes
 
 ## Reports
 
