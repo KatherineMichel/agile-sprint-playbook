@@ -47,7 +47,6 @@ Focus Groups, Interviews, Surveys
 * [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
 
 * [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
-Card Sort Results Report
 * [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
 
 System Usability Scale (SUS)
