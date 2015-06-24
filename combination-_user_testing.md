@@ -73,23 +73,7 @@ Usability Study Process and Materials Checklist
 
 Study planning 
 
-Recruit participants
-* Create recruiting materials:
-    * User profile/personas based on user research
-    * Recruitment criteria from user profile/personas
-    * Schedule and participant background
-    * Recruiting screener
-    * Recruitment, confirmation, and reminder emails
-    * Consent to record (to be included with confirmation email)
-    * Thank you notes and package honorariums for participants
-* Recruit participants (allow at least 2-3 weeks for this process)
-* Send confirmation invitations (including consent to record) to participants and team members for: 
-    * Walkthrough (someone internal to the organization)
-    * Pilot test (outside participant from target audience group)
-    * Usability test (outside participants from target audience group)
-* Make arrangements for user participant gratuities 
-
-Plan test
+Plan test (Usability Study Process and Materials Checklist)
 * Schedule meeting room(s) or remote meeting software for setup, testing, and participant debrief / waiting 
 * Assign roles to team members:
     * Facilitator
@@ -111,30 +95,28 @@ Plan test
     * Post-study questions
 * Set up select pre/post test questions in survey software (if necessary) 
 
-Schedule observers
+Schedule observers (Usability Study Process and Materials Checklist)
 * Create list of rules for observers 
 * Send invites to observers; include brief description of test process and rules for observers 
 * Schedule observers to attend the usability test session(s) and note the names on the daily schedule for reference 
 
-Gather materials
-* Assemble materials for participants:
-    * Consent form to sign (in person only)
-    * Pre/post test questionnaires (in person only) or links to applicable surveys
-    * Participant version of scenarios (so they can refer to them during the test) (in person only)
-* Assemble materials for observers:
-    * Study script (facilitator script, scenarios, pre/post questions)
-    * Rules of behavior for observers
-    * Note taking forms for observers
-    * Success criteria
-* Assemble materials for study team:
-    * Study script (facilitator script, scenarios, pre/post questions)
-    * Note taking form for facilitator
-    * Note taking spreadsheet for note takers
-    * Success criteria
-    * Issue tracking spreadsheet
-    * Participant names/emails/phone numbers (remote only)
-    * URLs for surveys that you’ll need to place in the chat window (remote only)
-    * Call in number for team to debrief after each session (if team is not collocated)
+Assemble materials for observers (Usability Study Process and Materials Checklist)
+* Study script (facilitator script, scenarios, pre/post questions)
+* Rules of behavior for observers
+* Note taking forms for observers
+* Success criteria
+
+Assemble materials for study team (Usability Study Process and Materials Checklist)
+* Study script (facilitator script, scenarios, pre/post questions)
+* Note taking form for facilitator
+* Note taking spreadsheet for note takers
+* Success criteria
+* Issue tracking spreadsheet
+* Participant names/emails/phone numbers (remote only)
+* URLs for surveys that you’ll need to place in the chat window (remote only)
+* Call in number for team to debrief after each session (if team is not collocated)
+
+* [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
 Scenarios, Use Cases
 * [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
@@ -146,7 +128,23 @@ Persona Development
 * [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 * Personas (HubSpot)
 
-* [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
+Usability Study Process and Materials Checklist
+* Create recruiting materials:
+* User profile/personas based on user research
+* Recruitment criteria from user profile/personas
+* Schedule and participant background
+* Recruiting screener
+* Recruitment, confirmation, and reminder emails
+* Consent to record (to be included with confirmation email)
+* Recruit participants (allow at least 2-3 weeks for this process)
+* Send confirmation invitations (including consent to record) to participants and team members for: 
+* Assemble materials for participants:
+* Consent form to sign (in person only)
+* Pre/post test questionnaires (in person only) or links to applicable surveys
+* Participant version of scenarios (so they can refer to them during the test) (in person only)
+
+* Send out reminder email to walkthrough and pilot test participants the day before the session; copy team
+* Send out reminder email to test participants the day before the session; copy team
 
 Test Screener
 * [Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
@@ -168,17 +166,17 @@ Email Template
 
 Set up testing environment (Usability Study Process and Materials Checklist)
 * For in person tests:
-    * Create “Do Not Disturb” signs 
-    * Be sure screen capture/camera set up works properly
-    * Ensure observer’s room screen cast works properly
-    * Check supplies for test room (pens, paper, refreshments for participants)
-    * Ensure observer room has adequate chairs, table space, office supplies, etc. for observers scheduled to take notes
-    * Print copies of all study materials
+* Create “Do Not Disturb” signs 
+* Be sure screen capture/camera set up works properly
+* Ensure observer’s room screen cast works properly
+* Check supplies for test room (pens, paper, refreshments for participants)
+* Ensure observer room has adequate chairs, table space, office supplies, etc. for observers scheduled to take notes
+* Print copies of all study materials
 * For remote tests:
-    * Set up in a quiet location
-    * Use a land line and head set so your hands are free for taking notes
-    * Print copies of all study materials
-    * Facilitator should:
+* Set up in a quiet location
+* Use a land line and head set so your hands are free for taking notes
+* Print copies of all study materials
+* Facilitator should:
         * Put your cell phone on vibrate and within reach in case observers or the participant needs to reach you 
         * Have email open and minimized, in case you need to communicate with the participant
         * Get a glass of water
@@ -187,18 +185,15 @@ Set up testing environment (Usability Study Process and Materials Checklist)
         * Get a stop watch and be sure it’s working.
 
 Walkthrough and pilot test (Usability Study Process and Materials Checklist)
-* Send out reminder email to walkthrough and pilot test participants the day before the session; copy team
 * Review test objectives, success measures, and areas of concern with note takers
 * Verify set up of testing environment 
 * Conduct walkthrough
+* Walkthrough (someone internal to the organization)
 * Revise test materials as needed based on walkthrough
 * Conduct pilot
+* Pilot test (outside participant from target audience group)
 * Revise test materials as need based on pilot test
 * Check lab supplies and replenish as needed
-
-Usability test (Usability Study Process and Materials Checklist)
-* Send out reminder email to test participants the day before the session; copy team
-* Verify set up of testing environment
 
 Introduction to Testing With or Without Moderator
 * [Introduction to Testing with Moderator Interaction DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/introduction-to-testing-with-moderator-interaction.html)
@@ -218,13 +213,18 @@ thoughtbot
 
 # GV User Testing Methodology
 
+GV
 * Recruiting Screener Worksheet
 * Recruiting Screener
 * Recruiting Screener Ad
+
+GV
 * Contacting Prospective Users
 * Phone Call
 * Follow Up Email
 * Interview Calendar
+
+GV
 * User Interviews (GV and thoughtbot)
 * Interview Guide 
 * Example Use Case
@@ -234,10 +234,15 @@ thoughtbot
 * Sample Thank you 120
 * Thank-You Note 185 (Nielson Norman)
 
+(Usability Study Process and Materials Checklist)
+* Thank you notes and package honorariums for participants
+* Make arrangements for user participant gratuities 
+
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
 Usability test (Usability Study Process and Materials Checklist)
+* Usability test (outside participants from target audience group)
 * Conduct tests
 * Debrief with team after each session and capture key positive findings and usability issues on the issue tracking spreadsheet
 * Debrief with observers 
