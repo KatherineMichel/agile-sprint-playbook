@@ -48,7 +48,6 @@
 * [Additional Resources](additional_resources.md)
    * [Lean Methodology](lean_methodology.md)
    * [HubSpot](hubspot.md)
-   * [Business Model Canvas](business_model_canvas.md)
    * [Advertising Methods](advertising_methods.md)
    * [Project Management](project_management.md)
    * [Demographics](demographics.md)
