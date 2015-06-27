@@ -49,7 +49,6 @@
    * [Lean Methodology](lean_methodology.md)
    * [Advertising Methods](advertising_methods.md)
    * [Project Management](project_management.md)
-   * [Demographics](demographics.md)
    * [Links](links.md)
 * [Combination](combination.md)
 * [Combination- User Testing](combination-_user_testing.md)
