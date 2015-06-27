@@ -49,7 +49,6 @@
    * [Lean Methodology](lean_methodology.md)
    * [HubSpot](hubspot.md)
    * [Business Model Canvas](business_model_canvas.md)
-   * [Strategy](strategy.md)
    * [Advertising Methods](advertising_methods.md)
    * [Documents](documents.md)
    * [Project Management](project_management.md)
