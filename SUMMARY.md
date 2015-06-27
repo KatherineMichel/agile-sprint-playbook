@@ -50,7 +50,6 @@
    * [Advertising Methods](advertising_methods.md)
    * [Project Management](project_management.md)
    * [Demographics](demographics.md)
-   * [Data Gathering Methods](data_gathering_methods.md)
    * [Links](links.md)
 * [Combination](combination.md)
 * [Combination- User Testing](combination-_user_testing.md)
