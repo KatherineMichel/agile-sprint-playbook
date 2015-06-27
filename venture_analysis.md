@@ -1,2 +1,1 @@
-* Idea Maze
-* Product Tiers
+
