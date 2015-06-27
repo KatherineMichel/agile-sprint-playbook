@@ -36,6 +36,11 @@ http://www.gerrymcgovern.com/new-thinking/vital-importance-first-click
 http://www.usabilitybok.org/task-analysis
 https://uxpa.org/resources/external-websites-organizations
 
+## Random Tools
+
+* Idea Maze
+* Product Tiers
+
 ## Pretotyping
 
 *   [Pretotyping Resources](http://www.pretotyping.org/resources.html)
