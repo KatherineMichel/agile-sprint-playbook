@@ -50,7 +50,6 @@
    * [HubSpot](hubspot.md)
    * [Business Model Canvas](business_model_canvas.md)
    * [Advertising Methods](advertising_methods.md)
-   * [Documents](documents.md)
    * [Project Management](project_management.md)
    * [Demographics](demographics.md)
    * [Data Gathering Methods](data_gathering_methods.md)
