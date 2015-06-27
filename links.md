@@ -36,12 +36,9 @@ http://www.gerrymcgovern.com/new-thinking/vital-importance-first-click
 http://www.usabilitybok.org/task-analysis
 https://uxpa.org/resources/external-websites-organizations
 
-## Random Tools
+## User Centered Design
 
-* Idea Maze
-* Product Tiers
-
-# Business Model Canvas
+## Business Model Canvas
 
 [Business Model Canvas](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 [![](business-model-canvas/the-business-model-canvas.jpg)](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
@@ -56,9 +53,47 @@ https://uxpa.org/resources/external-websites-organizations
 * Revenue Streams
 * Channels
 
-## User Centered Design
+## Strategy
 
-# HubSpot
+* PESTLIED
+* Porter’s Five Forces
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
+
+## Demographics
+
+* Total population
+* Urban, rural, farm
+* Metropolitan
+* Race and hispanic
+* Age and sex
+* Households
+* Marital status
+* Fertility
+* School attendance
+* Education
+* Place of birth
+* Foreign born
+* Country of birth
+* Nativity/parentage
+* Labor force
+* Occupation
+* Industry
+* States
+* Race/ethnicity
+
+## Random Tools
+
+* Idea Maze
+* Product Tiers
+
+## HubSpot
 
 * Personas
 * Case Studies
@@ -78,20 +113,7 @@ Templates
 * Ebook Templates
 * Checklists
 
-# Strategy
-
-* PESTLIED
-* Porter’s Five Forces
-* ANSOF
-* Strategic Groups
-* Resource-Based Approach
-* N-Step
-* Prescriptive
-* Kaleidoscope
-* Kant
-* Kotter
-
-# Documents
+## Documents
 
 Branded Documents and Sites (print, email, online)
 * Website/Blog/Social Media Presence
