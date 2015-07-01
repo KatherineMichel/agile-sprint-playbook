@@ -126,15 +126,12 @@ Google Products, Office
 
 #### VC, VC Firms, Accelerators, Resources
 
-
 Angel and VC Firm Resources
-*   [A16Z Portfolio](http://a16z.com/portfolio), [A16Z Podcasts](https://soundcloud.com/a16z), [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
-*   [Angel Capital Associations Knowledge Center](http://www.angelcapitalassociation.org/knowledge-center)
 *   [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 *   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-*   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
+*   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 
@@ -143,7 +140,7 @@ Accelerator Resources
 *   [NFX Guild Program](http://www.nfx.com/company/program)
 *   [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 *   [Techstars](http://www.techstars.com)
-*   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
+*   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake)
   
 Documents
 
@@ -231,8 +228,6 @@ Securities and Exchange Commission (SEC)
 
 Regulatory Agencies and Rules
 *   [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
-*   [Federal Aviation Administration](http://www.faa.gov)  
-*   [Federal Drug Administration](http://www.fda.gov)  
 *   [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center)  
 *   [Financial Accounting Standards Board](http://www.fasb.org)
 *   [Internal Revenue Service](http://www.irs.gov)
@@ -362,7 +357,6 @@ MOOCs
 
 Courses
 *   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
-*   [Marissa Mayer: Ideas Come from Everywhere (New Product Development Process)](https://www.udemy.com/ideas-come-from-everywhere)
 *   [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
      
 MOOCs
