@@ -57,6 +57,6 @@
 * [Stanford Institute of Design](stanford_institute_of_design.md)
 * [Venture Analysis](venture_analysis.md)
 * [Example Slide Decks](example_slide_decks.md)
-* [Extra](extra.md)
 * [Project Management Links](project_management_links.md)
+* [Extra](extra.md)
 
