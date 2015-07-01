@@ -1,10 +1,13 @@
-U.S.
+## Government Funding and Digital
+
+U.S. Digital Services
 *   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
-*   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
 *   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
+
+U.S. 
+*   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
-*   [Government Usability](http://www.usability.gov)
 *   [Code for America](http://www.codeforamerica.org)
 
 U.K.
