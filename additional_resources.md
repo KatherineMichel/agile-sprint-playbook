@@ -143,5 +143,5 @@ Survey Question Type
 * Open ended with image
 
 ## More
-* [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
+* [Good Kickoff Meetings](http://goodkickoffmeetings.com)
 
