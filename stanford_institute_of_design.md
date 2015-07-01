@@ -1,4 +1,4 @@
-Institute of Design at Stanford
+Stanford Institute of Design
 *   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
 
 Boootcamp Bootleg and Mixtapes
@@ -9,7 +9,7 @@ Boootcamp Bootleg and Mixtapes
 *   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
 Methods
-*   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+*   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
 *   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdfs) 
 *   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
 *   [Interview for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-for-empathy.pdf) 
