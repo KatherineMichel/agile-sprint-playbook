@@ -22,12 +22,6 @@ Accelerator Resources
 *   [Techstars](http://www.techstars.com)
 *   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
   
-RFS and Trends
-*   [A16Z 16 Things](http://a16z.com/2015/01/22/16-things)
-*   [Homebrew: What We're Curious About](http://homebrewvc.tumblr.com/post/108017648398/what-were-curious-about-at-homebrew)
-*   [Loic Le Meur: My Life in 2030](http://www.slideshare.net/loiclemeur/my-life-in-2030-loic-le-meur)
-*   [YCombinator RFS](http://www.ycombinator.com/rfs)
-
 Documents
 
 Cap Table, Convertible Bonds, Securities, Equity
@@ -175,15 +169,6 @@ Database Info and Benchmarking
 *   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 *   [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 
-App Stores
-*   [Apple Store](http://store.apple.com/us)  
-*   [Google Play](https://play.google.com)  
-*   [Salesforce App Exchange](https://appexchange.salesforce.com)  
-
-Product/Service Directories
-*   [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-*   [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
 Wayback Machine
 *   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
 
@@ -238,12 +223,6 @@ Industry and Product Classifications
 
 Associations
 *   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
-Management Consulting Firms
-*   [List of Management Consulting Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_management_consulting_firms)
-
-Think Tanks
-*   [Centre for Entrepreneurs](http://www.centreforentrepreneurs.org)
 
 International and Development Data
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
@@ -314,9 +293,6 @@ U.K.
 Australia
 *   [Australia Digital Transformation Office](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 
-E-Residence
-*   [Estonian E-Residence](https://e-estonia.com/e-residents/about)
-
 #### Learning Resources
 
 MOOCs
@@ -328,12 +304,6 @@ MOOCs
 *   [Udemy](https://www.udemy.com)
 *   [NovoEd](https://novoed.com)  
 *   [University of Reddit](http://universityofreddit.com) 
-
-Google, Google Tech, and TED Talks
-*   [Google Talks](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) 
-*   [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks) 
-*   [TED Talks](http://www.ted.com/talks)  
-
 
 #### Books and Courses
 
@@ -359,16 +329,6 @@ MOOCs
 *   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 *   [SXSW](http://sxsw.com) 
 *   [KC Addys](http://aafkc.com/addys)
-
-#### Venture Analysis
-
-*   [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
-*   [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
-*   [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
-*   [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
-*   [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
-*   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
-*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
 
 #### Lean Startup and Launchpad
 
@@ -467,7 +427,6 @@ Prototyping Software
 Design- General
 *   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
 *   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-*   [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
 
 Ideo
 *   [IDEO](http://www.ideo.com), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), and [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
@@ -489,10 +448,6 @@ Styleguides
 
 Design Publications
 
-*   [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-*   [Smashing Magazine](http://www.smashingmagazine.com) 
-*   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
- 
 Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
@@ -512,16 +467,6 @@ Thoughtbot Version
 *   [Gamestorming](http://www.gamestorming.com)
 
 #### Code, Sharing, Analytics
-
-Built With (Exluding Django)
-*   [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-*   [Built With](http://builtwith.com)  
-*   [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-*   [Built with Bootstrap](http://expo.getbootstrap.com)  
-*   [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-*   [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-*   [Squarespace (Website Examples)](http://www.squarespace.com) 
-
 
 *   [Slideshare Haiku Deck](https://www.slideshare.net/create)
 
