@@ -1,0 +1,1 @@
+*   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
