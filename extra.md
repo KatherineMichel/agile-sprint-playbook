@@ -44,8 +44,6 @@ Google Design Approach
 Design Schools and Philosophies
 *   [D-Lab MIT](http://d-lab.mit.edu) 
 
-Design Publications
-
 Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
