@@ -59,6 +59,7 @@ Personas, Scenarios, Use Cases
 Card Sorting, Wireframing, Prototyping, Parallel Design
 * [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 * [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+* [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
 * [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
 * [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
 
@@ -155,19 +156,14 @@ Metrics Report
 Card Sort Results Report
 * [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
 
+## How To and Tools
 
-
-http://www.usability.gov/how-to-and-tools/methods/remote-testing.html
-http://www.usability.gov/how-to-and-tools/methods/mobile-device-testing.html
-http://www.usability.gov/how-to-and-tools/methods/content-inventory.html
-http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html
-http://www.usability.gov/how-to-and-tools/methods/color-basics.html
-http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html
-
-http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html
-http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html
-http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html
-
-http://webstyleguide.com/wsg3/3-information-architecture/index.html
-
-[Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
+* [Remote Testing](http://www.usability.gov/how-to-and-tools/methods/remote-testing.html)
+* [Mobile Device Testing](http://www.usability.gov/how-to-and-tools/methods/mobile-device-testing.html)
+* [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
+* [User Interface Elements](http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
+* [Color Basic](http://www.usability.gov/how-to-and-tools/methods/color-basics.html)
+* [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
+* [HHS Usability Lab](http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html)
+* [No Fail Accessibility Testing](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html)
+* [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
