@@ -58,5 +58,5 @@
 * [Venture Analysis](venture_analysis.md)
 * [Example Slide Decks](example_slide_decks.md)
 * [Extra](extra.md)
-* Project Management Links
+* [Project Management Links](project_management_links.md)
 
