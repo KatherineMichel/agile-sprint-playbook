@@ -55,7 +55,7 @@
 * [Combination- Lean Customer Development Post-Sprint](combination-_lean_customer_development_post-sprint.md)
 * [Combination- Project Management and Research Sprint](combination-_project_management_and_research_sprint.md)
 * [Stanford Institute of Design](stanford_institute_of_design.md)
-* [Example Slide Decks](example_slide_decks.md)
 * [Venture Analysis](venture_analysis.md)
+* [Example Slide Decks](example_slide_decks.md)
 * [Extra](extra.md)
 
