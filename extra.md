@@ -50,7 +50,6 @@ Website Launch Checklist
 #### Google Ventures Design Sprint
 
 *   [Basecamp: A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
-*   [Trello Design Sprint Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
    
