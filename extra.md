@@ -267,26 +267,6 @@ Surveys
 *   [Federal Business Opportunities](https://www.fbo.gov)  
 *   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 
-U.S.
-*   [U.S. Digital Service](http://www.whitehouse.gov/digital/united-states-digital-service)
-*   [18F](https://18f.gsa.gov) and [18F GitHub](https://github.com/18F)
-*   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
-*   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
-*   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
-*   [Government Usability](http://www.usability.gov)
-*   [Code for America](http://www.codeforamerica.org)
-
-U.K.
-*   [Digital Transformation](https://www.gov.uk/transformation)
-*   [GOV.UK GitHub](https://github.com/alphagov)
-*   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
-*   [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
-*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [Service design phases](https://www.gov.uk/service-manual/phases)
-*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
-
-Australia
-*   [Australia Digital Transformation Office](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
-
 #### Learning Resources
 
 MOOCs
@@ -303,7 +283,6 @@ MOOCs
 
 Courses
 *   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
-*   [Balaji S. Srinivasan and Vijay S. Pande: Startup Engineering, "Spiritual sequel to Peter Thiel's CS183 course on startups."](https://www.coursera.org/course/startup)
 *   [Marissa Mayer: Ideas Come from Everywhere (New Product Development Process)](https://www.udemy.com/ideas-come-from-everywhere)
 *   [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
      
@@ -416,12 +395,9 @@ Google Design Approach
 *   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html) and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0) 
+
 Design Schools and Philosophies
 *   [D-Lab MIT](http://d-lab.mit.edu) 
-
-Styleguides
-*   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-*   [Styleguide GitHub](https://github.com/styleguide) 
 
 Design Publications
 
@@ -433,8 +409,6 @@ Website Launch Checklist
 *   [Basecamp: A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
 *   [Trello Design Sprint Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
-#### Google Ventures Research and Design Sprint Supporting Docs
- 
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
    
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
@@ -445,7 +419,6 @@ Website Launch Checklist
 
 Journalism Handbooks
 *   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
-*   [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf)
 
 #### Growth, Marketing, and Content Resources
 
@@ -479,10 +452,6 @@ Digital Novel
 *   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
 *   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
 *   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
-
-#### Startup Transparency Examples
-
-*   [Income Reports](http://www.incomereports.co)
 
 #### Popular Tools
 
