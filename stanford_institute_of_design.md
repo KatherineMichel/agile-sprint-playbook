@@ -16,15 +16,15 @@ Methods
 *   [Saturate and Group](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/saturate-and-group.pdf) 
 *   [Empathy Map](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
 *   [Why, How, Laddering](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/why-how-laddering.pdf)
+*   [Point of View MadLib](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf)
+*   [Stoke](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf)
+*   [Brainstorm Rules](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf)
+*   [Facilitate a Brainstorm](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf)
+*   [Selection](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf)
+*   [Prototype for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-for-empathy.pdf)
+*   [Prototype for Test](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf)
+*   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
+*   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
 
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-for-empathy.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf
-http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf
 http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf
