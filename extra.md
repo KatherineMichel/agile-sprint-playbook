@@ -9,9 +9,7 @@ Angel and VC Firm Resources
 *   [First Round Pitch App](http://firstround.com/openapp), [First Round Magazines](http://firstround.com/review/magazines), and [First Round Review](http://firstround.com/review)
 *   [Founders Club Learn](https://fundersclub.com/learn)  
 *   [Google Ventures Library](http://www.gv.com/library), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-*   [Jason Calcanis Syndicate](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
 *   [KPCB Insights](https://www.kpcb.com/insights), [KPCB Podcasts](https://soundcloud.com/kleinerperkins), and [KPCB Slideshare](http://www.slideshare.net/kleinerperkins)
-*   [Passion Capital Numbers: 2011-2015](https://www.swipe.to/vertical/6798ds), [2011-2012](https://www.swipe.to/vertical/1410), and [2011](https://www.swipe.to/vertical/1982dt) 
 *   [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
 *   [True University](http://trueuniversity.com) 
 
@@ -169,9 +167,6 @@ Database Info and Benchmarking
 *   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
 *   [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
 
-Wayback Machine
-*   [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine) 
-
 #### App and Website Statistics
 
 *   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
@@ -321,14 +316,6 @@ MOOCs
 *   [Techmeme Events List](http://techmeme.com/events) 
 *   [500 Startups Events](http://500.co/events)
 *   [Startup School](http://www.startupschool.org)
-*   [Launch Scale](http://events.launch.co/scale) and [Launch Festival](http://www.launchfestival.com) 
-*   [Mobile Ecosystem Forum](http://mefglobalforum.org)
-*   [TechCrunch Events](http://techcrunch.com/events)  
-*   [Recode Events](http://recode.net/events) 
-*   [LeWeb](http://leweb.co) 
-*   [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
-*   [SXSW](http://sxsw.com) 
-*   [KC Addys](http://aafkc.com/addys)
 
 #### Lean Startup and Launchpad
 
@@ -374,11 +361,6 @@ Spinoffs
 
 #### Market, Business Models, Pricing, Product Tiers
   
-Market
-*   [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
-*   [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
-*   [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
-
 Business Models
 *   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
 *   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
@@ -510,10 +492,6 @@ Templates
 *   [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
 
 #### Launch Strategies
-
-Tools
-*   [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
-*   [Amazon Example Press Release](http://aws.amazon.com/new) 
 
 Journalism Handbooks
 *   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
