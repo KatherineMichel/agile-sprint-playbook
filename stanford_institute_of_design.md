@@ -1,7 +1,8 @@
 
 *   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
 
-Mixtapes
+Boootcamp Bootleg and Mixtapes
+*   [Boootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
 *   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
 *   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
 *   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
@@ -25,6 +26,3 @@ Methods
 *   [Prototype for Test](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf)
 *   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
 *   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
-
-
-http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf
