@@ -555,9 +555,9 @@ Thoughtbot Version
 *   [Trello Design Sprint Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
 #### Google Ventures Research and Design Sprint Supporting Docs
+  
+*   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
 
-*   [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
-*   [Google Ventures Research Plan and Interview Guide](http://www.gv.com/ds-redirect/images/content/research-worksheet.pdf)  
 *   [Gamestorming](http://www.gamestorming.com)
 
 #### Code, Sharing, Analytics
