@@ -422,7 +422,6 @@ Google Design Approach
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html) and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0) 
 Design Schools and Philosophies
 *   [D-Lab MIT](http://d-lab.mit.edu) 
-*   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
 
 Styleguides
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
