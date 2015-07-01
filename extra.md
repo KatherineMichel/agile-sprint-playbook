@@ -114,25 +114,6 @@ Regulatory Agencies and Rules
 *   [Small Business Administration](http://www.sba.gov) 
 *   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
-Companies, Financials
-*   [Earnings Call](http://en.wikipedia.org/wiki/Earnings_call)
-*   [DealBook](http://dealbook.nytimes.com/?src=busfn)  
-*   [PitchBook](http://blog.pitchbook.com) 
-*   [Bloomberg](http://www.bloomberg.com)  
-*   [MarketWatch](http://www.marketwatch.com) 
-*   [PE Hub](https://www.pehub.com)
-*   [Google Finance](https://www.google.com/finance) 
-*   [Yahoo Finance](http://finance.yahoo.com)  
-*   [Wikinvest](http://www.wikinvest.com)
-*   [Nasdaq](http://www.nasdaq.com)  
-*   [StockTwits](http://stocktwits.com), [StockTwits StockTwits](http://stocktwits.com/stocktwits), and [StockTwits Charts](http://stocktwits.com/home#charts)
-*   [PricewaterhouseCoopers](http://www.pwc.com) 
-*   [Wealthfront Blog](https://blog.wealthfront.com)  
-*   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
-
-How to Read A Finacial Report
-*   [How to Read A Finacial Report (Merrill Lynch via Stanford](http://web.stanford.edu/class/msande271/onlinetools/HowToReadFinancial.pdf)
-
 Unicorns
 *   [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
 *   [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
@@ -143,29 +124,10 @@ Unicorns
 *   [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
 *   [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
 *   [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
 #### Company and Product Databases
 
-Databases
-*   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [AngelList API](https://angel.co/api), [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
-*   [Betalist](http://betalist.com)  
-*   [CB Insights](https://www.cbinsights.com), [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
-*   [CrunchBase](http://www.crunchbase.com), [CrunchBase Sitemap](https://www.crunchbase.com/sitemap), and [CrunchBase API](https://developer.crunchbase.com)
-*   [Datafox](http://www.datafox.co), [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
-*   [GitHub Explore](https://github.com/explore) 
-*   [Mattermark](http://mattermark.com), [Mattermark Slideshare](http://www.slideshare.net/Mattermark), [Mattermark General and Administrative](http://mattermark.com/category/general-administrative), and [Mattermark API](https://mattermark.com/api)  
-*   [Product Hunt](http://www.producthunt.com), [Product Hunt Collections](http://www.producthunt.com/collections) [Product Hunt Blog](http://blog.producthunt.com), [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
-
-Public
-*   [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-
-Database Info and Benchmarking
-*   [AngelList Help](https://angel.co/help), AngelList Funds](https://angel.co/funds), [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Trending](https://angel.co/companies/trending), [AngelList Valuations](https://angel.co/valuations), [AngelList Salaries](https://angel.co/salaries), and [AngelList Leads](https://angel.co/people/leads), [AngelList Jobs](https://angel.co/jobs)
-*   [Betalist Markets](http://betalist.com/markets)
-*   [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph) and [Crunchbase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-*   [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-*   [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking) and [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-*   [Product Hunt Leaderboard](http://yvoschaap.com/producthunt) and [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters)
-
+[Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 #### App and Website Statistics
 
 *   [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
@@ -247,10 +209,6 @@ U.K. and U.S. Data
 *   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
 *   [U.S. Project Open Data](https://project-open-data.cio.gov)
 
-Patent Search
-*   [U.S. Patent and Trademark Office](http://www.uspto.gov)
-*   [Google Patent Search](https://www.google.com/?tbm=pts&amp;amp;amp;hl=en&amp;amp;amp;gws_rd=ssl) 
-
 General Research
 *   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
 *   [Google Books](https://books.google.com)
@@ -261,11 +219,6 @@ General Research
 Surveys
 *   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
 *   [SurveyMonkey](https://www.surveymonkey.com)
-
-#### Government Funding and Digital
-
-*   [Federal Business Opportunities](https://www.fbo.gov)  
-*   [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 
 #### Learning Resources
 
