@@ -60,11 +60,6 @@ Website Launch Checklist
 
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 
-#### Launch Strategies
-
-Journalism Handbooks
-*   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
-
 #### Growth, Marketing, and Content Resources
 
 Distribution, Growth, Sales Hacking
@@ -437,5 +432,10 @@ Pricing Strategies
 
 Product Tiers
 *   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
+
+#### Journalism
+
+Journalism Handbooks
+*   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
 
 [Back to Top](#)
