@@ -541,9 +541,6 @@ Website Launch Checklist
 
 #### Google Ventures Research Sprint
 
-*   [Google Ventures Guide to Research](http://www.gv.com/lib/gv-guide-to-research)
-*   [Google Ventures Research Sprint](http://www.gv.com/lib/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions), [Day 1](http://www.gv.com/lib/the-gv-research-sprint-day-1), [Day 2](http://www.gv.com/lib/the-gv-research-sprint-day-2), [Day 3](http://www.gv.com/lib/the-gv-research-sprint-day-3), [Day 4](http://www.gv.com/lib/the-gv-research-sprint-day-4) 
-
 #### Google Ventures Design Sprint
 
 *   [Google Ventures Design Sprint](http://www.gv.com/sprint), [Setting the Stage](http://www.gv.com/lib/the-product-design-sprint-settingthestage), and [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
