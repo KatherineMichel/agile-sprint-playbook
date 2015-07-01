@@ -51,12 +51,12 @@
    * [Advertising Methods](advertising_methods.md)
    * [Project Management](project_management.md)
    * [Example Slide Decks](example_slide_decks.md)
+   * [Government Digital](government_digital.md)
    * [Project Management Links](project_management_links.md)
    * [Venture Analysis](venture_analysis.md)
 * [Combination](combination.md)
 * [Combination- User Testing](combination-_user_testing.md)
 * [Combination- Lean Customer Development Post-Sprint](combination-_lean_customer_development_post-sprint.md)
 * [Combination- Project Management and Research Sprint](combination-_project_management_and_research_sprint.md)
-* [Government Digital](government_digital.md)
 * [Extra](extra.md)
 
