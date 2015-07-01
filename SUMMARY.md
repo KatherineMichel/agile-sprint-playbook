@@ -50,7 +50,6 @@
    * [Lean Methodology](lean_methodology.md)
    * [Advertising Methods](advertising_methods.md)
    * [Project Management](project_management.md)
-   * [Links](links.md)
 * [Combination](combination.md)
 * [Combination- User Testing](combination-_user_testing.md)
 * [Combination- Lean Customer Development Post-Sprint](combination-_lean_customer_development_post-sprint.md)
