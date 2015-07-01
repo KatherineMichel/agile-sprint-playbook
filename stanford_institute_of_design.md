@@ -1,1 +1,30 @@
+
+*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
+
+Mixtapes
+*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
+*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
+*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
+*   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+
+Methods
 *   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+*   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdfs) 
+*   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
+*   [Interview for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-for-empathy.pdf) 
+*   [Extreme Users](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/extreme-users.pdf) 
+*   [Saturate and Group](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/saturate-and-group.pdf) 
+*   [Empathy Map](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
+*   [Why, How, Laddering](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/why-how-laddering.pdf)
+
+
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-for-empathy.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf
+http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf
+http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf
