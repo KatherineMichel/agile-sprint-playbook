@@ -462,35 +462,6 @@ Prototyping Software
 *   [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 *   [Invision](http://www.invisionapp.com), [Invision App Tethr](http://www.invisionapp.com/tethr), [Invision App Website Prototyping Tool](http://www.invisionapp.com/tour/website-mobile-prototyping-tool), [Invison App Android Prototyping](http://www.invisionapp.com/tour/android-prototyping), and [Invision App Design Project Management Workflow](http://www.invisionapp.com/tour/design-project-management-workflow) 
  
-Quickie Websites
-*   [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-*   [Squarespace Templates](http://www.squarespace.com/templates)
-*   [Wix Templates](http://www.wix.com/website/templates)
-
-Bootstrap, Font Awesome, Foundation
-*   [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap)  
-*   [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
-*   [Foundation GitHub](https://github.com/zurb/foundation) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-
-Good, Basic Templates, Themes
-*   [HTML5 UP](http://html5up.net) 
-*   [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-*   [Bootstrap Zero](http://www.bootstrapzero.com) and [Bootstrap Zero GitHub](https://github.com/iatek/bootstrap-zero) 
-*   [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
-*   [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
-*   [Start Bootstrap](http://startbootstrap.com) and [Start Bootstrap GitHub](https://github.com/IronSummitMedia/startbootstrap) 
-
-Kickstarters
-*   [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
-*   [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
-*   [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
-*   [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-Miscellaneous
-*   [Namium (Name Generator)](http://www.naminum.com)
-*   [Lipsum](http://www.lipsum.com) and [Cupcake Ipsum](http://www.cupcakeipsum.com) 
-*   [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
 #### Design
 
 Design- General
@@ -508,14 +479,9 @@ Google Design Approach
 *   [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 *   [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 *   [Google Material Design Introduction](http://www.google.com/design/spec/material-design/introduction.html) and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons/releases/tag/1.0.0) 
- 
 Design Schools and Philosophies
 *   [D-Lab MIT](http://d-lab.mit.edu) 
 *   [Institute of Design at Stanford: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
-
-Responsive Design
-*   [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
-*   [Responsive Design Examples](http://mediaqueri.es)  
 
 Styleguides
 *   [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
@@ -527,15 +493,6 @@ Design Publications
 *   [Smashing Magazine](http://www.smashingmagazine.com) 
 *   [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
  
-Portfolio and Community Websites
-*   [Behance](https://www.behance.net)  
-*   [Dribbble](https://dribbble.com)  
-*   [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-*   [Zurb Tavern](http://zurb.com/tavern) 
-
-KPCB and John Maeda Design in Tech Report
-*   [KPCB Design in Tech Report](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
-
 Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
@@ -547,7 +504,9 @@ Thoughtbot Version
 *   [Trello Design Sprint Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
 #### Google Ventures Research and Design Sprint Supporting Docs
-  
+ 
+* [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
+   
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
 
 *   [Gamestorming](http://www.gamestorming.com)
