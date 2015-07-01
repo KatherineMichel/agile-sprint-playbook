@@ -142,15 +142,6 @@ Survey Question Type
 * Large image choice
 * Open ended with image
 
-## Pretotyping
-
-*   [Pretotyping Resources](http://www.pretotyping.org/resources.html)
-*   [Pretotyping It](http://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf)
-*   [Pretotyping@work](https://docs.google.com/file/d/0B0QztbuDlKs_bHdnQ2h5dnNvcE0/edit) 
-
-## Gamestorming
-* [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
-
 ## Government Funding and Digital
 
 U.S. Digital Services
