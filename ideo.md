@@ -34,6 +34,21 @@ Interviews and Conversations
 *   [Interview](http://www.designkit.org/methods/2)
 *   [Group Interview](http://www.designkit.org/methods/20)
 
+Prototyping
+*   [Determine What to Prototype](http://www.designkit.org/methods/34)
+*   [Rapid Prototyping](http://www.designkit.org/methods/26)
+*   [Live Prototyping](http://www.designkit.org/methods/18)
+
+Brainstorming
+*   [Brainstorm Rules](http://www.designkit.org/methods/28)
+*   [Brainstorm](http://www.designkit.org/methods/1)
+
+Feedback and Iteration
+*   [Get Feedback](http://www.designkit.org/methods/57)
+*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
+*   [Keep Iterating](http://www.designkit.org/methods/19)
+*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
+
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
 *   [Card Sort](http://www.designkit.org/methods/24)
 *   [Analogous Inspiration](http://www.designkit.org/methods/6)
@@ -49,7 +64,6 @@ Interviews and Conversations
 *   [Download Your Learnings](http://www.designkit.org/methods/12)
 *   [Bundle Ideas](http://www.designkit.org/methods/30)
 *   [Create a Concept](http://www.designkit.org/methods/31)
-*   [Brainstorm Rules](http://www.designkit.org/methods/28)
 *   [Design Principles](http://www.designkit.org/methods/27)
 *   [Create Frameworks](http://www.designkit.org/methods/14)
 *   [Mash Ups](http://www.designkit.org/methods/29)
@@ -57,25 +71,19 @@ Interviews and Conversations
 *   [Share Inspiring Stories](http://www.designkit.org/methods/13)
 *   [How We Might](http://www.designkit.org/methods/3)
 *   [Co-Creation Session](http://www.designkit.org/methods/33)
-*   [Determine What to Prototype](http://www.designkit.org/methods/34)
 *   [Role Play](http://www.designkit.org/methods/36)
-*   [Get Feedback](http://www.designkit.org/methods/57)
-*   [Rapid Prototyping](http://www.designkit.org/methods/26)
 *   [Storyboard](http://www.designkit.org/methods/35)
 *   [Role Play](http://www.designkit.org/methods/36)
-*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
 *   [Get Visual](http://www.designkit.org/methods/53)
 *   [Find Themes](http://www.designkit.org/methods/5)
 *   [Explore Your Hunch](http://www.designkit.org/methods/32)
 *   [Create Insight Statements](http://www.designkit.org/methods/62)
 *   [Top Five](http://www.designkit.org/methods/15)
-*   [Brainstorm](http://www.designkit.org/methods/1)
-*   [Keep Iterating](http://www.designkit.org/methods/19)
-*   [Live Prototyping](http://www.designkit.org/methods/18)
 *   [Pilot](http://www.designkit.org/methods/8)
+
+Sustainability and Growth
 *   [Sustainable Revenue](http://www.designkit.org/methods/16)
 *   [Ways to Grow Framework](http://www.designkit.org/methods/38)
-*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
 
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
