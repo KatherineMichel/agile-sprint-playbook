@@ -128,6 +128,8 @@ http://www.designkit.org/methods/59
 Funding Strategy
 http://www.designkit.org/methods/54
 
+http://www.designkit.org/human-centered-design
+
 Design Kit: The Course for Human-Centered Design
 https://novoed.com/design-kit-q3-2015/
 http://plusacumen.org/courses/hcd-for-social-innovation/
