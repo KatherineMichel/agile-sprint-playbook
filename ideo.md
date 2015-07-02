@@ -15,6 +15,8 @@ Field Guide and Toolkit
 *   [IDEO Design Kit Methods](http://www.designkit.org/methods)
 
 Project Management
+*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
+*   [Design Principles](http://www.designkit.org/methods/27)
 *   [Recruiting Tools](http://www.designkit.org/methods/22)
 *   [Creating a Project Plan](http://www.designkit.org/methods/9)
 *   [Build a Team](http://www.designkit.org/methods/10)
@@ -49,22 +51,24 @@ Feedback and Iteration
 *   [Keep Iterating](http://www.designkit.org/methods/19)
 *   [Keep Getting Feedback](http://www.designkit.org/methods/59)
 
-*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
-*   [Card Sort](http://www.designkit.org/methods/24)
+Research
 *   [Analogous Inspiration](http://www.designkit.org/methods/6)
+*   [Secondary Research](http://www.designkit.org/methods/21)
+
+Activities
+*   [Card Sort](http://www.designkit.org/methods/24)
 *   [Collage](http://www.designkit.org/methods/25)
 *   [Draw It](http://www.designkit.org/methods/49)
+
 *   [Peers Observing Peers](http://www.designkit.org/methods/47)
 *   [Guided Tour](http://www.designkit.org/methods/46)
 *   [Define Your Audience](http://www.designkit.org/methods/11)
 *   [Immersion](http://www.designkit.org/methods/23)
 *   [Resource Flow](http://www.designkit.org/methods/61)
-*   [Secondary Research](http://www.designkit.org/methods/21)
 *   [Extremes and Mainstreams](http://www.designkit.org/methods/45)
 *   [Download Your Learnings](http://www.designkit.org/methods/12)
 *   [Bundle Ideas](http://www.designkit.org/methods/30)
 *   [Create a Concept](http://www.designkit.org/methods/31)
-*   [Design Principles](http://www.designkit.org/methods/27)
 *   [Create Frameworks](http://www.designkit.org/methods/14)
 *   [Mash Ups](http://www.designkit.org/methods/29)
 *   [Gut Check](http://www.designkit.org/methods/42)
