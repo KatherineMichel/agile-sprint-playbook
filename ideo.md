@@ -60,11 +60,13 @@ Activities
 *   [Collage](http://www.designkit.org/methods/25)
 *   [Draw It](http://www.designkit.org/methods/49)
 
+Observation, Guided Tours, Immersion, Resource Flow
 *   [Peers Observing Peers](http://www.designkit.org/methods/47)
 *   [Guided Tour](http://www.designkit.org/methods/46)
-*   [Define Your Audience](http://www.designkit.org/methods/11)
 *   [Immersion](http://www.designkit.org/methods/23)
 *   [Resource Flow](http://www.designkit.org/methods/61)
+
+*   [Define Your Audience](http://www.designkit.org/methods/11)
 *   [Extremes and Mainstreams](http://www.designkit.org/methods/45)
 *   [Download Your Learnings](http://www.designkit.org/methods/12)
 *   [Bundle Ideas](http://www.designkit.org/methods/30)
@@ -77,7 +79,6 @@ Activities
 *   [Co-Creation Session](http://www.designkit.org/methods/33)
 *   [Role Play](http://www.designkit.org/methods/36)
 *   [Storyboard](http://www.designkit.org/methods/35)
-*   [Role Play](http://www.designkit.org/methods/36)
 *   [Get Visual](http://www.designkit.org/methods/53)
 *   [Find Themes](http://www.designkit.org/methods/5)
 *   [Explore Your Hunch](http://www.designkit.org/methods/32)
