@@ -1,5 +1,6 @@
 Ideo
 *   [IDEO](http://www.ideo.com)
+*   [IDEO Org](http://www.ideo.org)
 
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
