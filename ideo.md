@@ -2,8 +2,8 @@ Ideo
 *   [IDEO](http://www.ideo.com)
 *   [IDEO Org](http://www.ideo.org)
 
-Mindsets
-*   [Mindsets](http://www.designkit.org/mindsets)
+Human Centered Design
+*   [Human Centered Design](http://www.designkit.org/human-centered-design)
 
 Field Guide and Toolkit
 *   [IDEO Field Guide to Human-Centered Design](http://www.designkit.org/resources/1) 
@@ -71,7 +71,8 @@ Methods
 *   [Keep Getting Feedback](http://www.designkit.org/methods/59)
 *   [Funding Strategy](http://www.designkit.org/methods/54)
 
-http://www.designkit.org/human-centered-design
+Mindsets
+*   [Mindsets](http://www.designkit.org/mindsets)
 
 Design Kit: The Course for Human-Centered Design
 https://novoed.com/design-kit-q3-2015/
