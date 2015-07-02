@@ -1,4 +1,4 @@
-Ideo
+# Ideo
 *   [IDEO](http://www.ideo.com)
 *   [IDEO Org](http://www.ideo.org)
 
@@ -10,22 +10,37 @@ Field Guide and Toolkit
 *   [IDEO Design Kit](http://www.designkit.org)
 *   [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
 
-Methods
+## Methods
+
 *   [IDEO Design Kit Methods](http://www.designkit.org/methods)
-*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
+
+Project Management
 *   [Recruiting Tools](http://www.designkit.org/methods/22)
+*   [Creating a Project Plan](http://www.designkit.org/methods/9)
+*   [Build a Team](http://www.designkit.org/methods/10)
+*   [Business Model Canvas](http://www.designkit.org/methods/41)
+*   [Build Partnerships](http://www.designkit.org/methods/17)
+*   [Roadmap](http://www.designkit.org/methods/7)
+*   [Define Success](http://www.designkit.org/methods/55)
+*   [Measure and Evaluate](http://www.designkit.org/methods/40)
+*   [Staff Your Project](http://www.designkit.org/methods/56)
+*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
+*   [Create a Pitch](http://www.designkit.org/methods/37)
+*   [Funding Strategy](http://www.designkit.org/methods/54)
+
+Interviews and Conversations
 *   [Expert Interview](http://www.designkit.org/methods/43)
 *   [Conversation Starters](http://www.designkit.org/methods/44)
 *   [Interview](http://www.designkit.org/methods/2)
 *   [Group Interview](http://www.designkit.org/methods/20)
+
+*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
 *   [Card Sort](http://www.designkit.org/methods/24)
 *   [Analogous Inspiration](http://www.designkit.org/methods/6)
 *   [Collage](http://www.designkit.org/methods/25)
 *   [Draw It](http://www.designkit.org/methods/49)
 *   [Peers Observing Peers](http://www.designkit.org/methods/47)
-*   [Creating a Project Plan](http://www.designkit.org/methods/9)
 *   [Guided Tour](http://www.designkit.org/methods/46)
-*   [Build a Team](http://www.designkit.org/methods/10)
 *   [Define Your Audience](http://www.designkit.org/methods/11)
 *   [Immersion](http://www.designkit.org/methods/23)
 *   [Resource Flow](http://www.designkit.org/methods/61)
@@ -48,7 +63,6 @@ Methods
 *   [Rapid Prototyping](http://www.designkit.org/methods/26)
 *   [Storyboard](http://www.designkit.org/methods/35)
 *   [Role Play](http://www.designkit.org/methods/36)
-*   [Business Model Canvas](http://www.designkit.org/methods/41)
 *   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
 *   [Get Visual](http://www.designkit.org/methods/53)
 *   [Find Themes](http://www.designkit.org/methods/5)
@@ -58,18 +72,10 @@ Methods
 *   [Brainstorm](http://www.designkit.org/methods/1)
 *   [Keep Iterating](http://www.designkit.org/methods/19)
 *   [Live Prototyping](http://www.designkit.org/methods/18)
-*   [Build Partnerships](http://www.designkit.org/methods/17)
 *   [Pilot](http://www.designkit.org/methods/8)
-*   [Roadmap](http://www.designkit.org/methods/7)
 *   [Sustainable Revenue](http://www.designkit.org/methods/16)
 *   [Ways to Grow Framework](http://www.designkit.org/methods/38)
-*   [Define Success](http://www.designkit.org/methods/55)
-*   [Measure and Evaluate](http://www.designkit.org/methods/40)
-*   [Staff Your Project](http://www.designkit.org/methods/56)
-*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
-*   [Create a Pitch](http://www.designkit.org/methods/37)
 *   [Keep Getting Feedback](http://www.designkit.org/methods/59)
-*   [Funding Strategy](http://www.designkit.org/methods/54)
 
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
