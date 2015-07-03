@@ -1,4 +1,4 @@
-Stanford Institute of Design
+# Stanford Institute of Design
 *   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
 
 Boootcamp Bootleg and Mixtapes
