@@ -37,3 +37,6 @@
 *   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
 *   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
 *   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
+
+*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills)
+*   [Nesta Publications](http://www.nesta.org.uk/publications)
