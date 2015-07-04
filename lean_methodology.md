@@ -1,29 +1,5 @@
 # Lean Methodology
 
-## Lean Methodology/Customer Development
-
-* Business Model Canvas
-* Distribution Channel Diagram
-* Distribution Channel Plan
-* Channel Responsibility Map
-* “Food Chain” Drawing
-* Channel Partner's Business Model Drawing
-
-##### Customer, Workflow, Story
-* Customer Archetypes
-* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
-* One-page User Story
-* Preliminary Product Specs 
-* Product Feature List/Product Benefit List (Prioritized)
-
-##### Competitors
-* Competitive Grid
-* Competitive and Adjacent Products
-* Competitive Product and Pricing Information
-* Competitor Press Releases
-
-## Customer Development
-
 ### Documents
 
 ##### Organization
