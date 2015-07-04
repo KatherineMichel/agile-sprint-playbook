@@ -184,14 +184,12 @@ What, Why, How
 *   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdf) 
 *   [Why, How, Laddering](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/why-how-laddering.pdf)
 
-Miscellaneous
+D.School Miscellaneous
 *   [Extreme Users](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/extreme-users.pdf) 
 *   [Empathy Map](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
 *   [Point of View Madlib](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf)
 *   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
 *   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
-
-# Ideo Methods
 
 IDEO Activities
 *   [Card Sort](http://www.designkit.org/methods/24)
@@ -212,9 +210,7 @@ IDEO Activities
 *   [Create Insight Statements](http://www.designkit.org/methods/62)
 *   [Top Five](http://www.designkit.org/methods/15)
 
-# Nesta DIY Methods
-
-Planning Tools
+DIY Planning Tools
 *   [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
 *   [SWOT Analysis](http://diytoolkit.org/tools/swot-analysis-2)
 *   [Evidence Planning](http://diytoolkit.org/tools/evidence-planning-2)
@@ -224,7 +220,7 @@ Planning Tools
 *   [Causes Diagram](http://diytoolkit.org/tools/causes-diagram)
 *   [Theory of Change](http://diytoolkit.org/tools/theory-of-change)
 
-Workshops and Interviews
+DIY Workshops and Interviews
 *   [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
 *   [Shadowing](http://diytoolkit.org/tools/shadowing-2)
 *   [Question Ladder](http://diytoolkit.org/tools/question-ladder)
@@ -238,8 +234,7 @@ Workshops and Interviews
 *   [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 *   [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
 
-## Nesta Methods
-
+Nesta Methods
 *   [Innovation Flowchart](http://www.nesta.org.uk/publications/innovation-flowchart) and [PDF](http://www.nesta.org.uk/sites/default/files/innovation_flow_chart.pdf)
 *   [Asking the Right Questions](http://www.nesta.org.uk/publications/asking-right-questions) and [PDF](http://www.nesta.org.uk/sites/default/files/01_resource_03_right_questions.pdf)
 *   [Working with the Right People](http://www.nesta.org.uk/publications/working-right-people) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_working_with_the_right_people.pdf)
@@ -251,6 +246,7 @@ Workshops and Interviews
 *   [Account of Change](http://www.nesta.org.uk/publications/account-change) and [PDF](http://www.nesta.org.uk/sites/default/files/04_tool_0402_account_of_change.pdf)
 *   [Leverage Points](http://www.nesta.org.uk/publications/leverage-points) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_leverage_points.pdf)
 *   [Consolidating Learning from Development](http://www.nesta.org.uk/publications/consolidating-learning-development) and [PDF](http://www.nesta.org.uk/sites/default/files/03_resource_0307_consolidating_learning_from_development.pdf)
+
 
 
 Usability Project Management
