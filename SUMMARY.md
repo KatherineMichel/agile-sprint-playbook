@@ -58,5 +58,5 @@
 * [Combination- Design Sprint](combination-_design_sprint.md)
 * [Combination- User Testing](combination-_user_testing.md)
 * [Extra](extra.md)
-* Combination- Methods
+* [Combination- Methods](combination-_methods.md)
 
