@@ -230,9 +230,6 @@ Survey Reports
 Metrics Report
 * [Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/statistics-review-and-design-implications-template.html)
 
-Card Sort Results Report
-* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
-
 ## How To and Tools
 
 * [Remote Testing](http://www.usability.gov/how-to-and-tools/methods/remote-testing.html)
@@ -253,13 +250,9 @@ Focus Groups, Interviews, Surveys
 * [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
 * [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
 
-Personas, Scenarios, Use Cases
-* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
-* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
-
-Card Sorting
+Usability Card Sorting
 * [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
 
 System Usability Scale (SUS)
 * [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
@@ -409,6 +402,11 @@ IDEO Audience
 DIY Target Audiences and Personas
 *   [Target Group](http://diytoolkit.org/tools/target-group)
 *   [Personas](http://diytoolkit.org/tools/personas-2)
+
+Usability Personas, Scenarios, Use Cases
+* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
+* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 
 IDEO Research
 *   [Analogous Inspiration](http://www.designkit.org/methods/6)
