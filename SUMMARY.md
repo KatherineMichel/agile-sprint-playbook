@@ -60,4 +60,5 @@
 * [Combination- Project Management and Research Sprint](combination-_project_management_and_research_sprint.md)
 * [Extra](extra.md)
 * [Nesta and DIY](nesta_and_diy.md)
+* Combination- Methods
 
