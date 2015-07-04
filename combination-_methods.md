@@ -330,31 +330,31 @@ Project Management
 *   [Create a Pitch](http://www.designkit.org/methods/37)
 *   [Funding Strategy](http://www.designkit.org/methods/54)
 
-Audience
+IDEO Audience
 *   [Define Your Audience](http://www.designkit.org/methods/11)
 *   [Extremes and Mainstreams](http://www.designkit.org/methods/45)
 
-Research
+IDEO Research
 *   [Analogous Inspiration](http://www.designkit.org/methods/6)
 *   [Secondary Research](http://www.designkit.org/methods/21)
 
-Observation, Guided Tours, Immersion, Resource Flow
+IDEO Observation, Guided Tours, Immersion, Resource Flow
 *   [Peers Observing Peers](http://www.designkit.org/methods/47)
 *   [Guided Tour](http://www.designkit.org/methods/46)
 *   [Immersion](http://www.designkit.org/methods/23)
 *   [Resource Flow](http://www.designkit.org/methods/61)
 
-Interviews and Conversations
+IDEO Interviews and Conversations
 *   [Expert Interview](http://www.designkit.org/methods/43)
 *   [Conversation Starters](http://www.designkit.org/methods/44)
 *   [Interview](http://www.designkit.org/methods/2)
 *   [Group Interview](http://www.designkit.org/methods/20)
 
-Brainstorming
+IDEO Brainstorming
 *   [Brainstorm Rules](http://www.designkit.org/methods/28)
 *   [Brainstorm](http://www.designkit.org/methods/1)
 
-Activities
+IDEO Activities
 *   [Card Sort](http://www.designkit.org/methods/24)
 *   [Collage](http://www.designkit.org/methods/25)
 *   [Draw It](http://www.designkit.org/methods/49)
@@ -373,33 +373,10 @@ Activities
 *   [Create Insight Statements](http://www.designkit.org/methods/62)
 *   [Top Five](http://www.designkit.org/methods/15)
 
-Prototyping and Piloting
-*   [Determine What to Prototype](http://www.designkit.org/methods/34)
-*   [Rapid Prototyping](http://www.designkit.org/methods/26)
-*   [Live Prototyping](http://www.designkit.org/methods/18)
-*   [Pilot](http://www.designkit.org/methods/8)
 
-Feedback and Iteration
-*   [Get Feedback](http://www.designkit.org/methods/57)
-*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
-*   [Keep Iterating](http://www.designkit.org/methods/19)
-*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
 
-Sustainability and Growth
-*   [Sustainable Revenue](http://www.designkit.org/methods/16)
-*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
 
 # Nesta DIY Methods
-
-*   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
-*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
-*   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
-*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
-
-Stakeholders
-*   [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
-*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
-*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
 
 Planning Tools
 *   [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
@@ -423,28 +400,14 @@ Workshops and Interviews
 
 *   [Promises Potential Map](http://diytoolkit.org/tools/promises-potential-map-2)
 
-*   [Fast Idea Generator](http://diytoolkit.org/tools/fast-idea-generator-2)
 *   [Thinking Hats](http://diytoolkit.org/tools/thinking-hats-2)
 *   [Value Mapping](http://diytoolkit.org/tools/value-mapping-3)
 *   [Improvement Triggers](http://diytoolkit.org/tools/improvement-triggers)
 *   [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 *   [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
 
-*   [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
-*   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
 ## Nesta Methods
-
-Project Management
-*   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
-*   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
-*   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
-*   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
-*   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
-
-Idea Generation
-*   [Idea Generator Events](http://www.nesta.org.uk/publications/idea-generation-events) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_idea_generation_events.pdf)
-*   [Fast Idea Generator](http://www.nesta.org.uk/publications/fast-idea-generator) and [PDF](http://www.nesta.org.uk/sites/default/files/02_resource_0201_fast_idea_generator.pdf)
 
 *   [Innovation Flowchart](http://www.nesta.org.uk/publications/innovation-flowchart) and [PDF](http://www.nesta.org.uk/sites/default/files/innovation_flow_chart.pdf)
 *   [Asking the Right Questions](http://www.nesta.org.uk/publications/asking-right-questions) and [PDF](http://www.nesta.org.uk/sites/default/files/01_resource_03_right_questions.pdf)
@@ -458,7 +421,41 @@ Idea Generation
 *   [Leverage Points](http://www.nesta.org.uk/publications/leverage-points) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_leverage_points.pdf)
 *   [Consolidating Learning from Development](http://www.nesta.org.uk/publications/consolidating-learning-development) and [PDF](http://www.nesta.org.uk/sites/default/files/03_resource_0307_consolidating_learning_from_development.pdf)
 
-Prototyping
+DIY Project Management
+*   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
+*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
+*   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
+*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
+
+Nesta Project Management
+*   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
+*   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
+*   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
+*   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
+*   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
+
+DIY Stakeholders
+*   [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
+*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
+*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
+
+DIY Idea Generator
+*   [Fast Idea Generator](http://diytoolkit.org/tools/fast-idea-generator-2)
+
+Nesta Idea Generation
+*   [Idea Generator Events](http://www.nesta.org.uk/publications/idea-generation-events) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_idea_generation_events.pdf)
+*   [Fast Idea Generator](http://www.nesta.org.uk/publications/fast-idea-generator) and [PDF](http://www.nesta.org.uk/sites/default/files/02_resource_0201_fast_idea_generator.pdf)
+
+DIY Prototype Testing
+*   [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
+
+IDEO Prototyping and Piloting
+*   [Determine What to Prototype](http://www.designkit.org/methods/34)
+*   [Rapid Prototyping](http://www.designkit.org/methods/26)
+*   [Live Prototyping](http://www.designkit.org/methods/18)
+*   [Pilot](http://www.designkit.org/methods/8)
+
+Nesta Prototyping
 *   [Prototyping Protocol](http://www.nesta.org.uk/publications/prototyping-protocol) and [PDF](http://www.nesta.org.uk/sites/default/files/03_tool_0301_prototype_protocol.pdf)
 *   [Prototyping Framework](http://www.nesta.org.uk/publications/prototyping-framework) and [PDF](http://www.nesta.org.uk/sites/default/files/prototyping_framework.pdf)
 *   [Who to Involve in Prototyping PDF](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_who_to_involve_in_prototyping.pdf)
@@ -470,3 +467,16 @@ Prototyping
 *   [Telephone Template PDF](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_telephonetemplate.pdf)
 *   [Lego Journey Map PDF](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_methodcards.pdf)
 *   [Mapping Scales PDF](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_mappingscales.pdf)
+
+DIY Scaling
+*   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
+
+IDEO Sustainability and Growth
+*   [Sustainable Revenue](http://www.designkit.org/methods/16)
+*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
+
+IDEO Feedback and Iteration
+*   [Get Feedback](http://www.designkit.org/methods/57)
+*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
+*   [Keep Iterating](http://www.designkit.org/methods/19)
+*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
