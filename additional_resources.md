@@ -171,3 +171,9 @@ http://www.measuringu.com/blog/first-click.php
 http://www.gerrymcgovern.com/new-thinking/vital-importance-first-click
 http://www.usabilitybok.org/task-analysis
 https://uxpa.org/resources/external-websites-organizations
+
+Design Kit: The Course for Human-Centered Design
+https://novoed.com/design-kit-q3-2015/
+http://plusacumen.org/courses/hcd-for-social-innovation/
+
+http://plusacumen.org/courses/
