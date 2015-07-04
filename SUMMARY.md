@@ -57,7 +57,7 @@
    * [Venture Analysis](venture_analysis.md)
 * [Combination- Design Sprint](combination-_design_sprint.md)
 * [Combination- User Testing](combination-_user_testing.md)
-* [Combination- Lean Customer Development Post-Sprint](combination-_lean_customer_development_post-sprint.md)
 * [Combination- Project Management and Research Sprint](combination-_project_management_and_research_sprint.md)
+* [Combination- Lean Customer Development Post-Sprint](combination-_lean_customer_development_post-sprint.md)
 * [Extra](extra.md)
 
