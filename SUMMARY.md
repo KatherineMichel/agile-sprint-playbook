@@ -46,6 +46,7 @@
 * [Stanford Institute of Design](stanford_institute_of_design.md)
 * [Nielson Norman Group](nielson_norman_group.md)
 * [IDEO](ideo.md)
+* [Nesta and DIY](nesta_and_diy.md)
 * [Additional Resources](additional_resources.md)
    * [Lean Methodology](lean_methodology.md)
    * [Advertising Methods](advertising_methods.md)
@@ -59,6 +60,5 @@
 * [Combination- Lean Customer Development Post-Sprint](combination-_lean_customer_development_post-sprint.md)
 * [Combination- Project Management and Research Sprint](combination-_project_management_and_research_sprint.md)
 * [Extra](extra.md)
-* [Nesta and DIY](nesta_and_diy.md)
 * Combination- Methods
 
