@@ -8,23 +8,19 @@ Field Guide and Toolkit
 *   [IDEO Design Kit](http://www.designkit.org)
 *   [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
 
-*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills)
-*   [Nesta Publications](http://www.nesta.org.uk/publications)
-
 *   [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit)
-*   [Nesta DIY Tools](http://diytoolkit.org/tools)
-
-Mindsets
-*   [Mindsets](http://www.designkit.org/mindsets)
 
 *   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
 
 Boootcamp Bootleg and Mixtapes
 *   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
 *   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
-*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
-*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
+*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf)
+*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf)
 *   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+
+Mindsets
+*   [Mindsets](http://www.designkit.org/mindsets)
 
 # Design Sprint
 
@@ -112,15 +108,11 @@ Business Model Canvas (thoughtbot)
 
 # Usability Gov
 
-[Government Usability](http://www.usability.gov)
-
 *   [What and Why](http://www.usability.gov/what-and-why/index.html)
 *   [Guidelines](http://guidelines.usability.gov)
 *   [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html)
 *   [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html)
 *   [Get Involved](http://www.usability.gov/get-involved/blog)
-
-## Project Management
 
 ## What and Why
 
@@ -136,13 +128,6 @@ Business Model Canvas (thoughtbot)
 * [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
-## User Centered Design
-
-* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
-* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
-* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
-
 ## How To and Tools
 
 * [Remote Testing](http://www.usability.gov/how-to-and-tools/methods/remote-testing.html)
@@ -155,99 +140,15 @@ Business Model Canvas (thoughtbot)
 * [No Fail Accessibility Testing](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html)
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 
-## Methods
-
-Usability Card Sorting
-* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
-* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
-
-System Usability Scale (SUS)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
-
-User Engagement
-* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
-* [Eye Tracking](http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html)
-
-More
-* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
-* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
-
-## Organization
-
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
-# Stanford Institute of Design Methods
-
-What, Why, How
-*   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdf) 
-*   [Why, How, Laddering](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/why-how-laddering.pdf)
-
-D.School Miscellaneous
-*   [Extreme Users](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/extreme-users.pdf) 
-*   [Empathy Map](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
-*   [Point of View Madlib](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf)
-*   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
-*   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
-
-IDEO Activities
-*   [Card Sort](http://www.designkit.org/methods/24)
-*   [Collage](http://www.designkit.org/methods/25)
-*   [Draw It](http://www.designkit.org/methods/49)
-*   [Mash Ups](http://www.designkit.org/methods/29)
-*   [Download Your Learnings](http://www.designkit.org/methods/12)
-*   [Bundle Ideas](http://www.designkit.org/methods/30)
-*   [Create a Concept](http://www.designkit.org/methods/31)
-*   [Create Frameworks](http://www.designkit.org/methods/14)
-*   [Share Inspiring Stories](http://www.designkit.org/methods/13)
-*   [Role Play](http://www.designkit.org/methods/36)
-*   [Storyboard](http://www.designkit.org/methods/35)
-*   [Get Visual](http://www.designkit.org/methods/53)
-*   [Find Themes](http://www.designkit.org/methods/5)
-*   [Explore Your Hunch](http://www.designkit.org/methods/32)
-*   [Gut Check](http://www.designkit.org/methods/42)
-*   [Create Insight Statements](http://www.designkit.org/methods/62)
-*   [Top Five](http://www.designkit.org/methods/15)
-
-DIY Planning Tools
-*   [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
-*   [SWOT Analysis](http://diytoolkit.org/tools/swot-analysis-2)
-*   [Evidence Planning](http://diytoolkit.org/tools/evidence-planning-2)
-*   [Leaning Loop](http://diytoolkit.org/tools/learning-loop)
-*   [Experience Tour](http://diytoolkit.org/tools/experience-tour-2)
-*   [Storyworld](http://diytoolkit.org/tools/storyworld)
-*   [Causes Diagram](http://diytoolkit.org/tools/causes-diagram)
-*   [Theory of Change](http://diytoolkit.org/tools/theory-of-change)
-
-DIY Workshops and Interviews
-*   [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
-*   [Shadowing](http://diytoolkit.org/tools/shadowing-2)
-*   [Question Ladder](http://diytoolkit.org/tools/question-ladder)
-*   [Interview Guide](http://diytoolkit.org/tools/interview-guide-2)
-
-*   [Promises Potential Map](http://diytoolkit.org/tools/promises-potential-map-2)
-
-*   [Thinking Hats](http://diytoolkit.org/tools/thinking-hats-2)
-*   [Value Mapping](http://diytoolkit.org/tools/value-mapping-3)
-*   [Improvement Triggers](http://diytoolkit.org/tools/improvement-triggers)
-*   [Blueprint](http://diytoolkit.org/tools/blueprint-2)
-*   [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
-
-Nesta Methods
-*   [Innovation Flowchart](http://www.nesta.org.uk/publications/innovation-flowchart) and [PDF](http://www.nesta.org.uk/sites/default/files/innovation_flow_chart.pdf)
-*   [Asking the Right Questions](http://www.nesta.org.uk/publications/asking-right-questions) and [PDF](http://www.nesta.org.uk/sites/default/files/01_resource_03_right_questions.pdf)
-*   [Working with the Right People](http://www.nesta.org.uk/publications/working-right-people) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_working_with_the_right_people.pdf)
-*   [Causes Diagram](http://www.nesta.org.uk/publications/causes-diagram) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_causes_diagram_0.pdf)
-*   [Six Thinking Hats](http://www.nesta.org.uk/publications/six-thinking-hats) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_six_thinking_hats.pdf)
-*   [Divergence and Convergence Diamond](http://www.nesta.org.uk/publications/divergence-and-convergence-diamond) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_divergence_diamond.pdf)
-*   [Blueprinting](http://www.nesta.org.uk/publications/blueprinting) and [PDF](http://www.nesta.org.uk/sites/default/files/blueprint_2.pdf)
-*   [Evidence of Impact](http://www.nesta.org.uk/publications/evidence-impact) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_evidence_of_impact.pdf)
-*   [Account of Change](http://www.nesta.org.uk/publications/account-change) and [PDF](http://www.nesta.org.uk/sites/default/files/04_tool_0402_account_of_change.pdf)
-*   [Leverage Points](http://www.nesta.org.uk/publications/leverage-points) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_leverage_points.pdf)
-*   [Consolidating Learning from Development](http://www.nesta.org.uk/publications/consolidating-learning-development) and [PDF](http://www.nesta.org.uk/sites/default/files/03_resource_0307_consolidating_learning_from_development.pdf)
 
 
+
+
+Usability User Centered Design
+* [User-Centered Design Process Map](http://www.usability.gov/how-to-and-tools/resources/ucd-map.html)
+* [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
+* [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
+* [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
 
 Usability Project Management
 * [Project Management](http://www.usability.gov/what-and-why/project-management.html)
@@ -299,6 +200,9 @@ IDEO Audience
 *   [Define Your Audience](http://www.designkit.org/methods/11)
 *   [Extremes and Mainstreams](http://www.designkit.org/methods/45)
 
+D.School Extreme Users
+*   [Extreme Users](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/extreme-users.pdf) 
+
 DIY Target Audiences and Personas
 *   [Target Group](http://diytoolkit.org/tools/target-group)
 *   [Personas](http://diytoolkit.org/tools/personas-2)
@@ -320,6 +224,9 @@ IDEO Observation, Guided Tours, Immersion, Resource Flow
 *   [Guided Tour](http://www.designkit.org/methods/46)
 *   [Immersion](http://www.designkit.org/methods/23)
 *   [Resource Flow](http://www.designkit.org/methods/61)
+
+Usability Heuristic Evaluations and Expert Reviews
+* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
 
 Usability Focus Groups, Interviews, Surveys
 * [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
@@ -474,3 +381,96 @@ Survey Reports
 
 Metrics Report
 * [Report Template: Metrics PowerPoint (Statistics Review and Design Implications) PPTX](http://www.usability.gov/how-to-and-tools/resources/templates/statistics-review-and-design-implications-template.html)
+
+
+
+
+## Methods
+
+System Usability Scale (SUS)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
+
+User Engagement
+* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
+* [Eye Tracking](http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html)
+
+* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
+
+## Organization
+
+* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
+
+Usability Card Sorting
+* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
+* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
+
+D.School What, Why, How
+*   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdf) 
+*   [Why, How, Laddering](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/why-how-laddering.pdf)
+
+D.School Miscellaneous
+*   [Empathy Map](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/empathy-map.pdf)
+*   [Point of View Madlib](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/point-of-view-madlib.pdf)
+*   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
+*   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
+
+IDEO Activities
+*   [Card Sort](http://www.designkit.org/methods/24)
+*   [Collage](http://www.designkit.org/methods/25)
+*   [Draw It](http://www.designkit.org/methods/49)
+*   [Mash Ups](http://www.designkit.org/methods/29)
+*   [Download Your Learnings](http://www.designkit.org/methods/12)
+*   [Bundle Ideas](http://www.designkit.org/methods/30)
+*   [Create a Concept](http://www.designkit.org/methods/31)
+*   [Create Frameworks](http://www.designkit.org/methods/14)
+*   [Share Inspiring Stories](http://www.designkit.org/methods/13)
+*   [Role Play](http://www.designkit.org/methods/36)
+*   [Storyboard](http://www.designkit.org/methods/35)
+*   [Get Visual](http://www.designkit.org/methods/53)
+*   [Find Themes](http://www.designkit.org/methods/5)
+*   [Explore Your Hunch](http://www.designkit.org/methods/32)
+*   [Gut Check](http://www.designkit.org/methods/42)
+*   [Create Insight Statements](http://www.designkit.org/methods/62)
+*   [Top Five](http://www.designkit.org/methods/15)
+
+DIY Planning Tools
+*   [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
+*   [SWOT Analysis](http://diytoolkit.org/tools/swot-analysis-2)
+*   [Evidence Planning](http://diytoolkit.org/tools/evidence-planning-2)
+*   [Leaning Loop](http://diytoolkit.org/tools/learning-loop)
+*   [Experience Tour](http://diytoolkit.org/tools/experience-tour-2)
+*   [Storyworld](http://diytoolkit.org/tools/storyworld)
+*   [Theory of Change](http://diytoolkit.org/tools/theory-of-change)
+
+DIY Workshops and Interviews
+*   [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
+*   [Shadowing](http://diytoolkit.org/tools/shadowing-2)
+*   [Question Ladder](http://diytoolkit.org/tools/question-ladder)
+*   [Interview Guide](http://diytoolkit.org/tools/interview-guide-2)
+
+*   [Promises Potential Map](http://diytoolkit.org/tools/promises-potential-map-2)
+
+*   [Thinking Hats](http://diytoolkit.org/tools/thinking-hats-2)
+*   [Value Mapping](http://diytoolkit.org/tools/value-mapping-3)
+*   [Improvement Triggers](http://diytoolkit.org/tools/improvement-triggers)
+*   [Blueprint](http://diytoolkit.org/tools/blueprint-2)
+*   [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
+
+Nesta and DIY Causes Diagram
+*   [Causes Diagram](http://diytoolkit.org/tools/causes-diagram)
+*   [Causes Diagram](http://www.nesta.org.uk/publications/causes-diagram) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_causes_diagram_0.pdf)
+
+Nesta Methods
+*   [Innovation Flowchart](http://www.nesta.org.uk/publications/innovation-flowchart) and [PDF](http://www.nesta.org.uk/sites/default/files/innovation_flow_chart.pdf)
+*   [Asking the Right Questions](http://www.nesta.org.uk/publications/asking-right-questions) and [PDF](http://www.nesta.org.uk/sites/default/files/01_resource_03_right_questions.pdf)
+*   [Working with the Right People](http://www.nesta.org.uk/publications/working-right-people) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_working_with_the_right_people.pdf)
+
+*   [Six Thinking Hats](http://www.nesta.org.uk/publications/six-thinking-hats) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_six_thinking_hats.pdf)
+*   [Divergence and Convergence Diamond](http://www.nesta.org.uk/publications/divergence-and-convergence-diamond) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_divergence_diamond.pdf)
+*   [Blueprinting](http://www.nesta.org.uk/publications/blueprinting) and [PDF](http://www.nesta.org.uk/sites/default/files/blueprint_2.pdf)
+*   [Evidence of Impact](http://www.nesta.org.uk/publications/evidence-impact) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_evidence_of_impact.pdf)
+*   [Account of Change](http://www.nesta.org.uk/publications/account-change) and [PDF](http://www.nesta.org.uk/sites/default/files/04_tool_0402_account_of_change.pdf)
+*   [Leverage Points](http://www.nesta.org.uk/publications/leverage-points) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_leverage_points.pdf)
+*   [Consolidating Learning from Development](http://www.nesta.org.uk/publications/consolidating-learning-development) and [PDF](http://www.nesta.org.uk/sites/default/files/03_resource_0307_consolidating_learning_from_development.pdf)
