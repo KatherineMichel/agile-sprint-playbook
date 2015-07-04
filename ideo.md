@@ -93,9 +93,3 @@ Sustainability and Growth
 
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
-
-Design Kit: The Course for Human-Centered Design
-https://novoed.com/design-kit-q3-2015/
-http://plusacumen.org/courses/hcd-for-social-innovation/
-
-http://plusacumen.org/courses/
