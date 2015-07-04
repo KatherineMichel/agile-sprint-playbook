@@ -56,7 +56,7 @@
    * [Project Management Links](project_management_links.md)
    * [Venture Analysis](venture_analysis.md)
 * [Combination- Design Sprint](combination-_design_sprint.md)
-* [Combination- User Testing](combination-_user_testing.md)
 * [Combination- Methods](combination-_methods.md)
+* [Combination- User Testing](combination-_user_testing.md)
 * [Extra](extra.md)
 
