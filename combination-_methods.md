@@ -258,12 +258,8 @@ Personas, Scenarios, Use Cases
 * [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 * [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 
-Card Sorting, Wireframing, Prototyping, Parallel Design
+Card Sorting
 * [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
-* [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
-* [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
-* [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
-* [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
 
 System Usability Scale (SUS)
 * [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
@@ -284,9 +280,7 @@ More
 
 # Stanford Institute of Design Methods
 
-Interviews
-*   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
-*   [Interview for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-for-empathy.pdf) 
+
 
 Stoke, Brainstorming, Selection, Saturation, Group
 *   [Stoke](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf)
@@ -294,10 +288,6 @@ Stoke, Brainstorming, Selection, Saturation, Group
 *   [Facilitate a Brainstorm](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf)
 *   [Selection](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf)
 *   [Saturate and Group](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/saturate-and-group.pdf)
-
-Prototyping
-*   [Prototype for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-for-empathy.pdf)
-*   [Prototype for Test](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf)
 
 What, Why, How
 *   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdf) 
@@ -311,48 +301,6 @@ Miscellaneous
 *   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
 # Ideo Methods
-
-Project Management
-*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
-*   [How We Might](http://www.designkit.org/methods/3)
-*   [Design Principles](http://www.designkit.org/methods/27)
-*   [Recruiting Tools](http://www.designkit.org/methods/22)
-*   [Co-Creation Session](http://www.designkit.org/methods/33)
-*   [Creating a Project Plan](http://www.designkit.org/methods/9)
-*   [Build a Team](http://www.designkit.org/methods/10)
-*   [Business Model Canvas](http://www.designkit.org/methods/41)
-*   [Build Partnerships](http://www.designkit.org/methods/17)
-*   [Roadmap](http://www.designkit.org/methods/7)
-*   [Define Success](http://www.designkit.org/methods/55)
-*   [Measure and Evaluate](http://www.designkit.org/methods/40)
-*   [Staff Your Project](http://www.designkit.org/methods/56)
-*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
-*   [Create a Pitch](http://www.designkit.org/methods/37)
-*   [Funding Strategy](http://www.designkit.org/methods/54)
-
-IDEO Audience
-*   [Define Your Audience](http://www.designkit.org/methods/11)
-*   [Extremes and Mainstreams](http://www.designkit.org/methods/45)
-
-IDEO Research
-*   [Analogous Inspiration](http://www.designkit.org/methods/6)
-*   [Secondary Research](http://www.designkit.org/methods/21)
-
-IDEO Observation, Guided Tours, Immersion, Resource Flow
-*   [Peers Observing Peers](http://www.designkit.org/methods/47)
-*   [Guided Tour](http://www.designkit.org/methods/46)
-*   [Immersion](http://www.designkit.org/methods/23)
-*   [Resource Flow](http://www.designkit.org/methods/61)
-
-IDEO Interviews and Conversations
-*   [Expert Interview](http://www.designkit.org/methods/43)
-*   [Conversation Starters](http://www.designkit.org/methods/44)
-*   [Interview](http://www.designkit.org/methods/2)
-*   [Group Interview](http://www.designkit.org/methods/20)
-
-IDEO Brainstorming
-*   [Brainstorm Rules](http://www.designkit.org/methods/28)
-*   [Brainstorm](http://www.designkit.org/methods/1)
 
 IDEO Activities
 *   [Card Sort](http://www.designkit.org/methods/24)
@@ -388,10 +336,6 @@ Planning Tools
 *   [Causes Diagram](http://diytoolkit.org/tools/causes-diagram)
 *   [Theory of Change](http://diytoolkit.org/tools/theory-of-change)
 
-Target Audiences and Personas
-*   [Target Group](http://diytoolkit.org/tools/target-group)
-*   [Personas](http://diytoolkit.org/tools/personas-2)
-
 Workshops and Interviews
 *   [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
 *   [Shadowing](http://diytoolkit.org/tools/shadowing-2)
@@ -421,6 +365,25 @@ Workshops and Interviews
 *   [Leverage Points](http://www.nesta.org.uk/publications/leverage-points) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_leverage_points.pdf)
 *   [Consolidating Learning from Development](http://www.nesta.org.uk/publications/consolidating-learning-development) and [PDF](http://www.nesta.org.uk/sites/default/files/03_resource_0307_consolidating_learning_from_development.pdf)
 
+
+IDEO Project Management
+*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
+*   [How We Might](http://www.designkit.org/methods/3)
+*   [Design Principles](http://www.designkit.org/methods/27)
+*   [Recruiting Tools](http://www.designkit.org/methods/22)
+*   [Co-Creation Session](http://www.designkit.org/methods/33)
+*   [Creating a Project Plan](http://www.designkit.org/methods/9)
+*   [Build a Team](http://www.designkit.org/methods/10)
+*   [Business Model Canvas](http://www.designkit.org/methods/41)
+*   [Build Partnerships](http://www.designkit.org/methods/17)
+*   [Roadmap](http://www.designkit.org/methods/7)
+*   [Define Success](http://www.designkit.org/methods/55)
+*   [Measure and Evaluate](http://www.designkit.org/methods/40)
+*   [Staff Your Project](http://www.designkit.org/methods/56)
+*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
+*   [Create a Pitch](http://www.designkit.org/methods/37)
+*   [Funding Strategy](http://www.designkit.org/methods/54)
+
 DIY Project Management
 *   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
@@ -439,6 +402,38 @@ DIY Stakeholders
 *   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
 *   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
 
+IDEO Audience
+*   [Define Your Audience](http://www.designkit.org/methods/11)
+*   [Extremes and Mainstreams](http://www.designkit.org/methods/45)
+
+DIY Target Audiences and Personas
+*   [Target Group](http://diytoolkit.org/tools/target-group)
+*   [Personas](http://diytoolkit.org/tools/personas-2)
+
+IDEO Research
+*   [Analogous Inspiration](http://www.designkit.org/methods/6)
+*   [Secondary Research](http://www.designkit.org/methods/21)
+
+IDEO Observation, Guided Tours, Immersion, Resource Flow
+*   [Peers Observing Peers](http://www.designkit.org/methods/47)
+*   [Guided Tour](http://www.designkit.org/methods/46)
+*   [Immersion](http://www.designkit.org/methods/23)
+*   [Resource Flow](http://www.designkit.org/methods/61)
+
+D.School Interviews
+*   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
+*   [Interview for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-for-empathy.pdf) 
+
+IDEO Interviews and Conversations
+*   [Expert Interview](http://www.designkit.org/methods/43)
+*   [Conversation Starters](http://www.designkit.org/methods/44)
+*   [Interview](http://www.designkit.org/methods/2)
+*   [Group Interview](http://www.designkit.org/methods/20)
+
+IDEO Brainstorming
+*   [Brainstorm Rules](http://www.designkit.org/methods/28)
+*   [Brainstorm](http://www.designkit.org/methods/1)
+
 DIY Idea Generator
 *   [Fast Idea Generator](http://diytoolkit.org/tools/fast-idea-generator-2)
 
@@ -454,6 +449,16 @@ IDEO Prototyping and Piloting
 *   [Rapid Prototyping](http://www.designkit.org/methods/26)
 *   [Live Prototyping](http://www.designkit.org/methods/18)
 *   [Pilot](http://www.designkit.org/methods/8)
+
+D.School Prototyping
+*   [Prototype for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-for-empathy.pdf)
+*   [Prototype for Test](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/prototype-to-test.pdf)
+
+Wireframing, Prototyping, Parallel Design
+* [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+* [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
+* [Prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.html)
+* [Parallel Design](http://www.usability.gov/how-to-and-tools/methods/parallel-design.html)
 
 Nesta Prototyping
 *   [Prototyping Protocol](http://www.nesta.org.uk/publications/prototyping-protocol) and [PDF](http://www.nesta.org.uk/sites/default/files/03_tool_0301_prototype_protocol.pdf)
