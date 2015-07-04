@@ -122,12 +122,6 @@ Business Model Canvas (thoughtbot)
 
 ## Project Management
 
-* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
-* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
-* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
-* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
-* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
-
 ## What and Why
 
 * [User Experience](http://www.usability.gov/what-and-why/user-experience.html)
@@ -179,12 +173,6 @@ Position Descriptions and Interview Questions
 * [Position Description: Usability Specialist DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-specialist.html)
 * [Usability Intern Interview Questions & Sample Projects Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-intern-interview-questions-sample-projects-template.html)
 * [Position Description: Usability Intern DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/position-description-usability-intern.html)
-
-Kick-Off Meetings
-* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
-
-Persona Development 
-* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
@@ -340,6 +328,16 @@ Workshops and Interviews
 *   [Consolidating Learning from Development](http://www.nesta.org.uk/publications/consolidating-learning-development) and [PDF](http://www.nesta.org.uk/sites/default/files/03_resource_0307_consolidating_learning_from_development.pdf)
 
 
+Usability Project Management
+* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
+* [Project Team Roles and Responsibilities](http://www.usability.gov/how-to-and-tools/methods/project-team.html)
+* [Develop a Project Plan](http://www.usability.gov/how-to-and-tools/methods/develop-plan.html)
+* [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
+* [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
+
+Usability Kick-Off Meetings
+* [Questions to Ask at Kick-Off Meetings DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/questions-ask-kick-meetings.html)
+
 IDEO Project Management
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
 *   [How We Might](http://www.designkit.org/methods/3)
@@ -388,6 +386,9 @@ Usability Personas, Scenarios, Use Cases
 * [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
 * [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 * [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
+
+Usability Persona Development 
+* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 
 IDEO Research
 *   [Analogous Inspiration](http://www.designkit.org/methods/6)
