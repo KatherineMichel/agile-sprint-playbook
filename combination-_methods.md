@@ -244,12 +244,6 @@ Metrics Report
 
 ## Methods
 
-Focus Groups, Interviews, Surveys
-* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
-* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
-* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
-* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
-
 Usability Card Sorting
 * [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 * [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
@@ -272,15 +266,6 @@ More
 * [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
 # Stanford Institute of Design Methods
-
-
-
-Stoke, Brainstorming, Selection, Saturation, Group
-*   [Stoke](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf)
-*   [Brainstorm Rules](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf)
-*   [Facilitate a Brainstorm](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf)
-*   [Selection](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf)
-*   [Saturate and Group](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/saturate-and-group.pdf)
 
 What, Why, How
 *   [What, Why, How](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/what-why-how.pdf) 
@@ -314,9 +299,6 @@ IDEO Activities
 *   [Create Insight Statements](http://www.designkit.org/methods/62)
 *   [Top Five](http://www.designkit.org/methods/15)
 
-
-
-
 # Nesta DIY Methods
 
 Planning Tools
@@ -342,7 +324,6 @@ Workshops and Interviews
 *   [Improvement Triggers](http://diytoolkit.org/tools/improvement-triggers)
 *   [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 *   [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
-
 
 ## Nesta Methods
 
@@ -418,6 +399,12 @@ IDEO Observation, Guided Tours, Immersion, Resource Flow
 *   [Immersion](http://www.designkit.org/methods/23)
 *   [Resource Flow](http://www.designkit.org/methods/61)
 
+Usability Focus Groups, Interviews, Surveys
+* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
+* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
+* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
+* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
+
 D.School Interviews
 *   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
 *   [Interview for Empathy](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-for-empathy.pdf) 
@@ -431,6 +418,13 @@ IDEO Interviews and Conversations
 IDEO Brainstorming
 *   [Brainstorm Rules](http://www.designkit.org/methods/28)
 *   [Brainstorm](http://www.designkit.org/methods/1)
+
+D.School Stoke, Brainstorming, Selection, Saturation, Group
+*   [Stoke](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/stoke.pdf)
+*   [Brainstorm Rules](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/brainstorm-rules.pdf)
+*   [Facilitate a Brainstorm](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/facilitate-a-brainstorm.pdf)
+*   [Selection](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/selection.pdf)
+*   [Saturate and Group](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/saturate-and-group.pdf)
 
 DIY Idea Generator
 *   [Fast Idea Generator](http://diytoolkit.org/tools/fast-idea-generator-2)
