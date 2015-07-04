@@ -1,5 +1,31 @@
 # Combination
 
+Human Centered Design
+*   [Human Centered Design](http://www.designkit.org/human-centered-design)
+
+Field Guide and Toolkit
+*   [IDEO Field Guide to Human-Centered Design](http://www.designkit.org/resources/1) 
+*   [IDEO Design Kit](http://www.designkit.org)
+*   [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
+
+*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills)
+*   [Nesta Publications](http://www.nesta.org.uk/publications)
+
+*   [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit)
+*   [Nesta DIY Tools](http://diytoolkit.org/tools)
+
+Mindsets
+*   [Mindsets](http://www.designkit.org/mindsets)
+
+*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
+
+Boootcamp Bootleg and Mixtapes
+*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
+*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
+*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
+*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
+*   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+
 # Design Sprint
 
 Throughout the week:
@@ -256,18 +282,7 @@ Card Sort Results Report
 * [No Fail Accessibility Testing](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html)
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 
-# Stanford Institute of Design
-*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
-
-Boootcamp Bootleg and Mixtapes
-*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
-*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
-*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
-*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
-*   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
-
-# Methods
-*   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+# Stanford Institute of Design Methods
 
 Interviews
 *   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
@@ -295,21 +310,7 @@ Miscellaneous
 *   [Storytelling](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/storytelling.pdf)
 *   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
-# Ideo
-*   [IDEO](http://www.ideo.com)
-*   [IDEO Org](http://www.ideo.org)
-
-Human Centered Design
-*   [Human Centered Design](http://www.designkit.org/human-centered-design)
-
-Field Guide and Toolkit
-*   [IDEO Field Guide to Human-Centered Design](http://www.designkit.org/resources/1) 
-*   [IDEO Design Kit](http://www.designkit.org)
-*   [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
-
-## Methods
-
-*   [IDEO Design Kit Methods](http://www.designkit.org/methods)
+# Ideo Methods
 
 Project Management
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
@@ -388,17 +389,7 @@ Sustainability and Growth
 *   [Sustainable Revenue](http://www.designkit.org/methods/16)
 *   [Ways to Grow Framework](http://www.designkit.org/methods/38)
 
-Mindsets
-*   [Mindsets](http://www.designkit.org/mindsets)
-
-# Nesta
-
-*   [Nesta](http://www.nesta.org.uk)
-*   [Nesta DIY](http://diytoolkit.org)
-*   [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit)
-*   [Nesta DIY Tools](http://diytoolkit.org/tools)
-
-## Methods
+# Nesta DIY Methods
 
 *   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
 *   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
@@ -439,16 +430,10 @@ Workshops and Interviews
 *   [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 *   [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
 
-
 *   [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
 *   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
-# Nesta 
-
-*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills)
-*   [Nesta Publications](http://www.nesta.org.uk/publications)
-
-## Methods
+## Nesta Methods
 
 Project Management
 *   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
