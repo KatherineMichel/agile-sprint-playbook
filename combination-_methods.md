@@ -205,6 +205,57 @@ Methods
 *   [Lego Journey Map PDF](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_methodcards.pdf)
 *   [I Like, I Wish, What If](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf)
 
+Design Sprint
+
+Throughout the week:
+* Pitch Practice (thoughtbot)
+* Recap (thoughtbot)
+
+Sprint Summary
+* Where we came from
+* What we got to
+* Major learnings/take aways
+* Where to go next
+
+* Research and Analysis (GV and thoughtbot) 
+* Lightening Demos (GV and thoughtbot)
+* Definitions: The problem, The Value Prop, Success (thoughtbot)
+* The Problem Statement (thoughtbot)
+* Business Model Canvas (thoughtbot)
+* Start an Assumptions Board (thoughtbot)
+* Start an Back-burner Board (thoughtbot)
+* Expert Perspectives (thoughtbot)
+* Gather existing knowledge/research, expose assumptions and unknowns
+* Needs / Wants / Desires
+* [Five Whys](http://www.gamestorming.com/games-for-problem-solving/the-5-whys).
+* [Who / What / Where / When](http://www.gamestorming.com/games-for-any-meeting/help-me-understand)
+* Critical Path
+* Open Card Sorting
+* Divide up user story (GV)
+* Take notes "how might we" (GV and thoughtbot)
+* Mind map (GV and thoughtbot)
+* Crazy Eights (GV and thoughtbot)
+* Storyboard (GV and thoughtbot)
+* Silent critique (GV and thoughtbot)
+* Three-minute critiques (GV)
+* Group critique (thoughtbot)
+* Super vote (GV)
+* Identify biggest risks, determine goals for the prototype
+* Identify and diagram the critical path for the prototype
+* Have a mindset of "Yes and"
+* 3-12-3
+* Discussion and consensus
+* Whiteboard the user story
+* Revisit our risks
+* Identify themes/conflicts our storyboards
+* List the underlying assumptions
+* Assumption / Test Table
+* Final Storyboard
+* Determine prototype medium 
+* Plan interview questions 
+* Make plans for reducing risks not addressed by the prototype 
+Prototype 
+
 Wireframing, Prototyping, Prototype Testing, Piloting, and Parallel Design
 * [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
 * [Creating Wireframes PDF](http://www.usability.gov/how-to-and-tools/resources/templates/creating-wireframes.html)
