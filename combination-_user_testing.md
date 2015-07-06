@@ -40,32 +40,6 @@ Position Descriptions and Interview Questions
 
 ## Methods
 
-Focus Groups, Interviews, Surveys
-* [Focus Groups](http://www.usability.gov/how-to-and-tools/methods/focus-groups.html)
-* [Individual Interviews](http://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
-* [Contextual Interview](http://www.usability.gov/how-to-and-tools/methods/contextual-interview.html)
-* [Online Surveys](http://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
-
-* [Card Sorting](http://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
-* [Report Template: Card Sort Results DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/card-sort-report-template.html)
-
-System Usability Scale (SUS)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-* [System Usability Scale (SUS)](http://www.usability.gov/how-to-and-tools/resources/templates/system-usability-scale-sus.html)
-
-User Engagement
-* [First Click Testing](http://www.usability.gov/how-to-and-tools/methods/first-click-testing.html)
-* [Eye Tracking](http://www.usability.gov/how-to-and-tools/methods/eye-tracking.html)
-
-More
-* [Heuristic Evaluations and Expert Reviews](http://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html)
-* [Task Analysis](http://www.usability.gov/how-to-and-tools/methods/task-analysis.html)
-
-## Organization
-
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
-
 [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
 Usability Study Process and Materials Checklist
@@ -108,13 +82,9 @@ Assemble materials for study team (Usability Study Process and Materials Checkli
 * Set up select pre-test questions in survey software (if necessary) 
 
 Scenarios, Use Cases
-* [Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)
-* [Use Cases](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 * Case Studies (HubSpot)
 
 Persona Development 
-* [Personas](http://www.usability.gov/how-to-and-tools/methods/personas.html)
-* [Persona Development Discussion Guide DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
 * Personas (HubSpot)
 
 Usability Study Process and Materials Checklist
