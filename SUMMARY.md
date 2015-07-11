@@ -46,6 +46,7 @@
 * [Critique](critique.md)
    * [Silent Critique](exercises/thoughtbot-silent-critique.md)
    * [Group Critique](exercises/thoughtbot-group-critique.md)
+* [Prototyping and Pretotyping](prototyping_and_pretotyping.md)
 * [Documents](documents.md)
    * [Pre-Sprint Client Worksheet](thoughtbot/0-pre-sprint-client-worksheet.md)
    * [Pre-Sprint Request for Materials](thoughtbot/0-pre-sprint-request-for-materials.md)
@@ -58,5 +59,4 @@
 * [Combination- Methods](combination-_methods.md)
 * [Combination- User Testing](combination-_user_testing.md)
 * [Extra](extra.md)
-* [Prototyping and Pretotyping](prototyping_and_pretotyping.md)
 
