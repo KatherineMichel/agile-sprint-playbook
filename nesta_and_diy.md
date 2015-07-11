@@ -50,8 +50,5 @@ Workshops and Interviews
 *   [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
 *   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
-# Nesta 
 
-*   [Nesta Develop Your Skills](http://www.nesta.org.uk/develop-your-skills)
-*   [Nesta Publications](http://www.nesta.org.uk/publications)
 
