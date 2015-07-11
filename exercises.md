@@ -1,6 +1,6 @@
 # Exercises
 
-Thoughtbot
+## Thoughtbot
 * Understand Business (Business Model Canvas)
 * Competitive Analysis
 * Customer
