@@ -31,5 +31,7 @@ can draw their UI large enough for the room to see.
 
 ## Examples
 
-![Final Group Sketch](exercises-images/3-12-3.jpg)
-![Final Group Sketch 2](exercises-images/3-12-3-2.jpg)
+Final Group Sketch
+![](exercises-images/3-12-3.jpg)
+Final Group Sketch 2
+![](exercises-images/3-12-3-2.jpg)
