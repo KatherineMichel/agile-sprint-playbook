@@ -25,7 +25,6 @@
    * [Problem Value Prop](business-model-canvas/thoughtbot-problem-value-prop.md)
    * [Business](business-model-canvas/thoughtbot-business.md)
    * [Competitive Analysis](business-model-canvas/thoughtbot-competitive-analysis.md)
-   * [Forces](business-model-canvas/thoughtbot-forces.md)
    * [Inspirational Info Source](business-model-canvas/thoughtbot-inspiration-info-source.md)
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
    * [Risks](business-model-canvas/thoughtbot-risks.md)
