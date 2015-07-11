@@ -33,7 +33,7 @@
    * [Terms](business-model-canvas/thoughtbot-terms.md)
    * [Start an Assumptions Board](business-model-canvas/thoughtbot-assumptions.md)
    * [Start an Back-burner Board](business-model-canvas/thoughtbot-back-burner.md)
-   * Business
+   * [Business](thoughtbot-business.md)
 * [Exercises- Creative](exercises-_creative.md)
    * [Mind Mapping](exercises/thoughtbot-mind-mapping.md)
    * [Crazy Eights](exercises/thoughtbot-crazy-eights.md)
