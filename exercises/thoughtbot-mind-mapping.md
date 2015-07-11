@@ -7,15 +7,15 @@
 ## Best to use when
 
 They are best used to warm up to other exercises
-like [Crazy Eights](2-diverge-crazy-eights.md).
+like [Crazy Eights](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/crazy-eights.md).
 These are best for personal ideas,
 thinking and note taking.
 They shouldn't ever be shared with the group.
 
 They are part in the Google Ventures Diverge day cycle
 along with Crazy Eights,
-[Storyboards](2-diverge-storyboards.md),
-[Silent Critique](2-diverge-silent-critique.md).
+[Storyboards](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md),
+[Silent Critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/silent-critique.md).
 
 ## Instructions
 
