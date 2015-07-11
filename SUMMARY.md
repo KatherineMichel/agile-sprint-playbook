@@ -48,7 +48,6 @@
    * [Previous Sprints Template](previous_sprints_template.md)
 * [Venture Analysis and Pitch](venture_analysis.md)
    * [Pitch Practice](exercises/1-understand-pitch-practice.md)
-* [Example Slide Decks](example_slide_decks.md)
 * [Additional Resources](additional_resources.md)
    * [Usability Gov](usability_gov.md)
    * [Lean Methodology](lean_methodology.md)
