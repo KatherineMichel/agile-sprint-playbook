@@ -190,35 +190,6 @@ Document Libraries
 
 #### Regulatory Agencies, Companies, Financials
 
-Corporate Law
-*   [Corporate Law Wikipedia](http://en.wikipedia.org/wiki/Corporate_law) 
-*   [Internal Revenue Service: Tax Information for Businesses](http://www.irs.gov/Businesses)
-*   [Small Business Administration: Choose Your Business Structure](https://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-your-business-stru)
-*   [LLC Wikipedia](http://en.wikipedia.org/wiki/Limited_liability_company) and [S Corp Wikipedia](http://en.wikipedia.org/wiki/S_corporation)
-*   [Benefitcorp Wikipedia](http://en.wikipedia.org/wiki/Benefit_corporation) 
-*   [Benefitcorp](http://benefitcorp.net) 
-*   [Bcorporation](http://www.bcorporation.net) and [Benefitcorp Website Find a B-Corp](http://www.bcorporation.net/community/find-a-b-corp)
-
-Delaware
-*   [State of Delaware Division of Corporations](http://corp.delaware.gov)  
-*   [Delaware General Corporation Law Wikipedia](http://en.wikipedia.org/wiki/Delaware_General_Corporation_Law) 
-*   [IRS Delaware](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Delaware-3) 
-*   [Becoming a DE Benefit Corp](http://www.benefitcorp.net/storage/documents/Implications_of_Becoming_a_DE_Public_Benefit_Corporation.pdf)
-
-Law and Transaction Services
-*   [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-*   [Cooley](http://www.cooley.com)
-*   [Gunderson Dettmer](http://www.gunder.com)
-*   [Fenwick & West LLP](https://www.fenwick.com/pages/default.aspx) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-*   [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx)
-*   [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com/WSGR/Default.aspx)
-*   [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-*   [Fortis](http://fortisrep.com) 
-
-General Solicitation
-*   [SEC Rule 506](http://www.sec.gov/answers/rule506.htm)
-*   [AngelList General Solicitation](https://angel.co/help/general-solicitation)
-
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
 *   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
