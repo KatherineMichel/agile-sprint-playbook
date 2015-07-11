@@ -36,6 +36,6 @@ that it is clear which sketch they should be on.
 
 ## Examples
 
-![Crazy Eights Example](images/crazy-eights.jpg)
-![Crazy Eights Example](images/crazy-six.jpg)
-![Crazy Eights Example](images/crazy-six-2.jpg)
+![Crazy Eights Example](exercises-images/crazy-eights.jpg)
+![Crazy Eights Example](exercises-images/crazy-six.jpg)
+![Crazy Eights Example](exercises-images/crazy-six-2.jpg)
