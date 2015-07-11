@@ -26,10 +26,6 @@ Website Launch Checklist
    
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
 
-## Gamestorming
-
-*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
-
 #### Growth, Marketing, and Content Resources
 
 Distribution, Growth, Sales Hacking
