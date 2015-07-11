@@ -46,7 +46,6 @@
    * [Who / What / Where / When](exercises/1-understand-who-what-when-where.md)
 * [Usability Gov](usability_gov.md)
 * [Nielson Norman Group](nielson_norman_group.md)
-* [Nesta and DIY](nesta_and_diy.md)
 * [Additional Resources](additional_resources.md)
    * [Lean Methodology](lean_methodology.md)
    * [Advertising Methods](advertising_methods.md)
