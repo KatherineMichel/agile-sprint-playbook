@@ -7,7 +7,7 @@
 ## Best to use when
 
 The Critical Path should be discussed after a
-[Problem Statement](1-understand-problem-statement.md) has been agreed upon.
+[Problem Statement](thoughtbot/1-understand-problem-statement.md) has been agreed upon.
 Once completed, the Critical Path should give a step-by-step map
 of the user's most critical experience,
 from having the problem to solving the problem,
@@ -43,4 +43,4 @@ The end result often looks like the map of a bus or subway line:
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
 
 Example Critical Path
-![](exercises-images/critical-path.jpg)
+![](exercises/exercises-images/critical-path.jpg)
