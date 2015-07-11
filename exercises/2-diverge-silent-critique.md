@@ -37,6 +37,6 @@ vote for their own ideas.
 
 ## Examples
 
-![Silent Voting](images/silent-voting.JPG)
-![Silent Voting](images/storyboards-2.jpg)
-![Silent Voting](images/storyboard.jpg)
+![Silent Voting](exercises-images/silent-voting.JPG)
+![Silent Voting](exercises-images/storyboards-2.jpg)
+![Silent Voting](exercises-images/storyboard.jpg)
