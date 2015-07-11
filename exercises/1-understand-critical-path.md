@@ -42,4 +42,5 @@ The end result often looks like the map of a bus or subway line:
 ![Galen's Critical Path](http://images.thoughtbot.com/the-product-design-sprint/criticalpath.jpg) 
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
 
-![Example Critical Path](exercises-images/critical-path.jpg)
+Example Critical Path
+![](exercises-images/critical-path.jpg)
