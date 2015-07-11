@@ -20,7 +20,7 @@
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
    * [Previous Sprints Template](previous_sprints_template.md)
 * [Thoughtbot Exercises](thoughtbot_design_sprint_methodology.md)
-    * [Understand Business](materials/1-understand-business.md)
+    * [Business Model Canvas](materials/1-understand-business.md)
     * [Competitive Analysis](materials/1-understand-competitive-analysis.md)
     * [Customer](materials/1-understand-customer.md)
     * [Forces](materials/1-understand-forces.md)
