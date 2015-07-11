@@ -1,3 +1,6 @@
+http://www.innovationgames.com/resources/tools-and-templates/
+http://www.innovationgames.com/resources/the-games/
+
 #### Design
 
 Design- General
