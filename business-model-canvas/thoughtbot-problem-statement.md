@@ -32,4 +32,4 @@ What is this product, and is it useful?
 ## Example
 
 Problem Statement
-![](exercises-images/problem-statement.jpg)
+![](business-model-canvas-images/problem-statement.jpg)
