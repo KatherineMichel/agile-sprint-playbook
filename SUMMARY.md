@@ -53,7 +53,6 @@
 * [Venture Analysis and Pitch](venture_analysis.md)
    * [Pitch Practice](exercises/thoughtbot-pitch-practice.md)
 * [Additional Resources](additional_resources.md)
-   * [Usability Gov](usability_gov.md)
    * [Advertising Methods](advertising_methods.md)
    * [Project Management](project_management.md)
 * [Combination- Design Sprint](combination-_design_sprint.md)
