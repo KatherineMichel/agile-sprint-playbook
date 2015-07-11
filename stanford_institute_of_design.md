@@ -1,12 +1,4 @@
-# Stanford Institute of Design
-*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
 
-Boootcamp Bootleg and Mixtapes
-*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
-*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
-*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
-*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
-*   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
 
 # Methods
 *   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
