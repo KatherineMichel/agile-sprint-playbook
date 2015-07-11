@@ -11,10 +11,6 @@
 * [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
-## Organization
-
-* [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
-* [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 
 ## How To and Tools
 
