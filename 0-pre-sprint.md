@@ -1,6 +1,6 @@
 # 0 Pre-Sprint
 
-### Send out [Client Worksheet](materials/0-pre-sprint-client-worksheet.md) and [Request for Materials](materials/0-pre-sprint-request-for-materials.md)
+### Send out [Client Worksheet](0-pre-sprint-client-worksheet.md) and [Request for Materials](0-pre-sprint-request-for-materials.md)
 
 Notify all members of the sprint to set up the expectation of anything that they
 need to complete before the sprint and what to expect during the sprint.
