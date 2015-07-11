@@ -1,13 +1,4 @@
-# Business Model Canvas
-
-* Key Partners
-* Key Activities
-* Key Resources
-* Value Propositions
-* Customer Relationships
-* Possible Channels
-* Customer Segments
-* Possible Revenue Streams
+# Business 
 
 What is your business and what do you envision it to be?
 
