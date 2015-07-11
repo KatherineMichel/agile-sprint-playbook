@@ -1,25 +1,6 @@
 # Usability Gov
 
-## What and Why
-
-* [Information Architecture](http://www.usability.gov/what-and-why/information-architecture.html)
-* [User Interface Design](http://www.usability.gov/what-and-why/user-interface-design.html)
-* [Interaction Design](http://www.usability.gov/what-and-why/interaction-design.html)
-* [Visual Design](http://www.usability.gov/what-and-why/visual-design.html)
-* [Content Strategy](http://www.usability.gov/what-and-why/content-strategy.html)
-* [Accessibility](http://www.usability.gov/what-and-why/accessibility.html)
-* [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
-* [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
-
-
-## How To and Tools
-
-* [User Interface Elements](http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
-* [Color Basic](http://www.usability.gov/how-to-and-tools/methods/color-basics.html)
-* [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
-* [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 * [HHS Usability Lab](http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html)
-* [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 
 ## Usability Gov Links
 
