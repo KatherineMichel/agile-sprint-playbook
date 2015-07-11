@@ -13,7 +13,7 @@ idea to add any more detail to the thought.
 
 ## Instructions:
 
-1. Everyone gathers around a sketch or [Storyboard](2-diverge-storyboards.md).
+1. Everyone gathers around a sketch or [Storyboard](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md).
 * Ask people what they liked about it.
 * Ask the person that had the idea to add any more explanation that they think
 hasn't been covered or if something was misunderstood.
