@@ -1,4 +1,4 @@
-# Exercises
+# Exercises- Creative
 
    * [Mind Mapping](exercises/thoughtbot-mind-mapping.md)
    * [Crazy Eights](exercises/thoughtbot-crazy-eights.md)
