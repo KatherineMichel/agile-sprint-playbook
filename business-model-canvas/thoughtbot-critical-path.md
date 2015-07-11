@@ -43,4 +43,4 @@ The end result often looks like the map of a bus or subway line:
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
 
 Example Critical Path
-![](exercises-images/critical-path.jpg)
+![](business-model-canvas-images/critical-path.jpg)
