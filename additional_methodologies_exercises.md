@@ -25,31 +25,6 @@
    * [Five Whys](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/five-whys.md)
    * [Who / What / Where / When](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/who-what-when-where.md)
    
-## Thoughtbot
-   * [Business Model Canvas](materials/1-understand-business.md)
-   * [Competitive Analysis](materials/1-understand-competitive-analysis.md)
-   * [Customer](materials/1-understand-customer.md)
-   * [Forces](materials/1-understand-forces.md)
-   * [Inspirational Info Source](materials/1-understand-inspiration-info-source.md)
-   * [Problem Statement](exercises/1-understand-problem-statement.md)
-   * [Problem Value Prop](materials/1-understand-problem-value-prop.md)
-   * [Critical Path](exercises/1-understand-critical-path.md)
-   * [Mind Mapping](exercises/2-diverge-mind-mapping.md)
-   * [Crazy Eights](exercises/2-diverge-crazy-eights.md)
-   * [Storyboards](exercises/2-diverge-storyboards.md)
-   * [Silent Critique](exercises/2-diverge-silent-critique.md)
-   * [Group Critique](exercises/2-diverge-group-critique.md)
-   * [3-12-3](exercises/2-diverge-3-12-3.md)
-   * [Open Card Sorting](exercises/1-understand-card-sorting.md)
-   * [Pitch Practice](exercises/1-understand-pitch-practice.md)
-   * [Terms](materials/1-understand-terms.md)
-   * [Start an Assumptions Board](exercises/1-understand-assumptions.md)
-   * [Risks](materials/1-understand-risks.md)
-   * [Start an Back-burner Board](exercises/1-understand-back-burner.md)
-   * [Needs / Wants / Desires](exercises/1-understand-needs-wants-desires.md)
-   * [Five Whys](exercises/1-understand-five-whys.md)
-   * [Who / What / Where / When](exercises/1-understand-who-what-when-where.md)
-
 ## IDEO
 
 Project Management
