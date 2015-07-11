@@ -30,7 +30,7 @@
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
    * [Risks](business-model-canvas/thoughtbot-risks.md)
    * [Terms](business-model-canvas/thoughtbot-terms.md)
-* [Exercises](exercises.md)
+* [Exercises](exercises-_creative.md)
    * [Mind Mapping](exercises/thoughtbot-mind-mapping.md)
    * [Crazy Eights](exercises/thoughtbot-crazy-eights.md)
    * [Storyboards](exercises/thoughtbot-storyboards.md)
