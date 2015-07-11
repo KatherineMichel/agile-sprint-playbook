@@ -27,8 +27,6 @@
 
 ## IDEO
 
-*   [IDEO Design Kit Methods](http://www.designkit.org/methods)
-
 Project Management
 *   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
 *   [How We Might](http://www.designkit.org/methods/3)
@@ -195,8 +193,6 @@ Workshops and Interviews
 *   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
 ## Stanford Institute of Design
-
-*   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
 
 Interviews
 *   [Interview Preparation](http://dschool.stanford.edu/wp-content/themes/dschool/method-cards/interview-preparation.pdf) 
