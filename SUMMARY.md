@@ -44,6 +44,7 @@
    * [Five Whys](exercises/1-understand-five-whys.md)
    * [Who / What / Where / When](exercises/1-understand-who-what-when-where.md)
 * [Usability Gov](usability_gov.md)
+* [Additional Methodologies](additional_methodologies.md)
 * [Stanford Institute of Design](stanford_institute_of_design.md)
 * [Nielson Norman Group](nielson_norman_group.md)
 * [IDEO](ideo.md)
@@ -61,5 +62,4 @@
 * [Combination- User Testing](combination-_user_testing.md)
 * [Combination- Tookits](combination-_tookits.md)
 * [Extra](extra.md)
-* [Additional Methodologies](additional_methodologies.md)
 
