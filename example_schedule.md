@@ -55,7 +55,7 @@ Consolidate notes and write daily summary.
 Everyone participates, you don’t need to be an artist (I’m not!) to sketch and
 visualize your ideas. No ideas are too wild!
 
-#### [Pitch Practice](exercises/pitch-practice.md) (10 min)
+#### [Pitch Practice](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/pitch-practice.md) (10 min)
 #### Recap Day 1, identify biggest risks, determine goals for the prototype (45 min)
 #### Identify and diagram the critical path for the prototype (45 min)
 Write down the user story that is most important for this sprint or that best
@@ -64,11 +64,11 @@ if necessary for the purpose of the iteration exercises.
 
 #### Diverge Cycle (2 hours)
 
-* [Mind Mapping](exercises/mind-mapping.md) (15 min) 
-* [Crazy Eights](exercises/crazy-eights.md) (5 min)
-* [Storyboard](exercises/storyboards.md) (20 min)
-* [Silent critique](exercises/silent-critique.md) (10 min)
-* [Group critique](exercises/group-critique.md) (3-5 min each person)
+* [Mind Mapping](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/mind-mapping.md) (15 min) 
+* [Crazy Eights](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/crazy-eights.md) (5 min)
+* [Storyboard](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md) (20 min)
+* [Silent critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/silent-critique.md) (10 min)
+* [Group critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/group-critique.md) (3-5 min each person)
 
 #### Repeat Diverge Cycle (2 hrs)
 

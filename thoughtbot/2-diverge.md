@@ -20,32 +20,32 @@ These are the core of the [Google Ventures Design Sprint Diverge
 Day](http://www.gv.com/lib/the-product-design-sprint-divergeday2).
 They go through each of these exercises in the oder that they appear
 and expect ideas to build upon each other while doing them. It is best to split
-up the [Critical path](exercises/1-understand-critical-path.md) into 
+up the [Critical path](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/critical-path.md) into 
 stand alone parts and do this cycle for each part.
 
-#### [Mind Mapping](exercises/2-diverge-mind-mapping.md)
+#### [Mind Mapping](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/mind-mapping.md)
 
 A warm up exercise to start generating ideas. People are given time to
 individually explore the problem however they choose to.
 
-#### [Crazy Eights](exercises/2-diverge-crazy-eights.md)
+#### [Crazy Eights](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/crazy-eights.md)
 
 Crazy eights are meant to generate a lot of ideas really quickly. With a forced
 time limit for each sketch people need to think quickly. Doing this exercise
 repetitively generates a lot of varied  ideas.
 
-#### [Storyboards](exercises/2-diverge-storyboards.md)
+#### [Storyboards](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md)
 
 This exercise mimics a movie storyboard. You'll be drawing a flow for the user
 by using Post-its as frames and writing out out a description next to it.
 
-#### [Silent Critique](exercises/2-diverge-silent-critique.md)
+#### [Silent Critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/silent-critique.md)
 
 This critique exercise is a way to get everyones input in a short amount of
 time. At the end of the exercise you'll have a heat map of the ideas people find
 really interesting.
 
-#### [Group Critique](exercises/2-diverge-group-critique.md)
+#### [Group Critique](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/group-critique.md)
 
 This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
@@ -53,7 +53,7 @@ correct any wrong interpretations.
 
 ### Additional Activities for Diverge
 
-#### [3-12-3](exercises/2-diverge-3-12-3.md)
+#### [3-12-3](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/3-12-3.md)
 
 3-12-3 is a good way to generate ideas in a big group and then start to converge
 them down. It is great to do after the Google Ventures Diverge Cycle when there

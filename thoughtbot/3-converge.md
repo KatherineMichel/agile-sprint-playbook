@@ -11,8 +11,8 @@ about what [type of
 prototype](4-prototype.md) will do the
 best job of validating or invalidating it.
 Activities such as
-[Assumption / Test Table](exercises/1-understand-assumptions.md)
-and [Final Storyboard](exercises/2-diverge-storyboards.md)
+[Assumption / Test Table](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/assumptions.md)
+and [Final Storyboard](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md)
 should help the team engage this conversation.
 
 ---
@@ -27,18 +27,18 @@ to solving the same problem.
 Conflicting approaches are helpful because they
 illuminate possible choices for your product.
 
-#### [Assumption / Test Table](exercises/1-understand-assumptions.md)
+#### [Assumption / Test Table](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/assumptions.md)
 
 Review all of the Assumptions that have been collected over the course of the
 sprint. Decide a plan to test them and decide how to determine from the test if
 it is valid or not.
 
-#### [Back Burner Board](exercises/1-understand-back-burner.md)
+#### [Back Burner Board](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/back-burner.md)
 
 As a group review all the Back burner ideas. Document the ones that are still
 applicable and throw away any that aren't.
 
-#### [Final Storyboard](exercises/2-diverge-storyboards.md)
+#### [Final Storyboard](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/storyboards.md)
 
 In this case the Storyboard should be a team effort and should focus
 on what the team will be prototyping. This should be done on a whiteboard so
@@ -51,7 +51,7 @@ One person should be drawing but they shouldn't
 be the one figuring everything out. This
 should be a discussion between the whole sprint team.
 
-#### [3-12-3](exercises/2-diverge-3-12-3.md)
+#### [3-12-3](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/3-12-3.md)
 
 3-12-3 is a good way to generate ideas in a big group and then start to converge
 them down. It is great to do after the Google Ventures Diverge Cycle when there
