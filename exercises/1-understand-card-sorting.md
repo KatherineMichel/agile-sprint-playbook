@@ -35,7 +35,7 @@ For more detailed explanation see [Card Sorting](http://robots.thoughtbot.com/ca
 ## Example
 
 ### Open Card Sorting
-![Open Card Sorting](images/open-card-sorting.jpg)
+![Open Card Sorting](exercises-images/open-card-sorting.jpg)
 
 ### Closed Card Sorting
 ![Closed Card sorting Layout](http://images.thoughtbot.com/cardsorting/CardSorting-CardLayout.png)
