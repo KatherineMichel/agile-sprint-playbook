@@ -41,6 +41,7 @@
    * [Needs / Wants / Desires](exercises/thoughtbot-needs-wants-desires.md)
    * [Five Whys](exercises/thoughtbot-five-whys.md)
    * [Who / What / Where / When](exercises/thoughtbot-who-what-when-where.md)
+* [Exercises- Abstract](exercises-_abstract.md)
 * [Critique](critique.md)
    * [Silent Critique](exercises/thoughtbot-silent-critique.md)
    * [Group Critique](exercises/thoughtbot-group-critique.md)
@@ -59,5 +60,4 @@
 * [Combination- Methods](combination-_methods.md)
 * [Combination- User Testing](combination-_user_testing.md)
 * [Extra](extra.md)
-* [Exercises- Abstract](exercises-_abstract.md)
 
