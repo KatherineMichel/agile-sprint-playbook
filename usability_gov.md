@@ -1,7 +1,5 @@
 # Usability Gov
 
-* [HHS Usability Lab](http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html)
-
 ## Usability Gov Links
 
 http://webstyleguide.com/wsg3/3-information-architecture/index.html
