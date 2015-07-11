@@ -49,7 +49,7 @@ Make sure that each frame is understandable without further verbal explanation.
 Individual Storyboards
 ![](exercises-images/storyboard.jpg)
 Group of Storyboards
-![](exercises-images/storyboards.jpg)
+![](exercises-images/storyboards.JPG)
 Group of Storyboards
 ![](exercises-images/storyboards-2.jpg)
 Individual Storyboards
