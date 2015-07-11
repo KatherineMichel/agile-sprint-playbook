@@ -7,7 +7,7 @@
 ## Best to use when
 
 The Critical Path should be discussed after a
-[Problem Statement](exercises/thoughtbot-problem-statement.md) has been agreed upon.
+[Problem Statement](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/problem-statement.md) has been agreed upon.
 Once completed, the Critical Path should give a step-by-step map
 of the user's most critical experience,
 from having the problem to solving the problem,
