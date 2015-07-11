@@ -150,3 +150,19 @@ Spinoffs
 *   [Product Market Fit Storyboard GitHub](https://github.com/TriKro/product-market-fit-storyboard)
 *   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 *   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
+
+#### Market, Business Models, Pricing, Product Tiers
+  
+Business Models
+*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+
+Product Tiers
+*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
