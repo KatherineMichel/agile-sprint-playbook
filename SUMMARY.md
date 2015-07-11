@@ -28,7 +28,7 @@
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Problem Value Prop](business-model-canvas/thoughtbot-problem-value-prop.md)
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
-   * [Mind Mapping](exercises/thoughtbot-mapping.md)
+   * [Mind Mapping](exercises/thoughtbot-mind-mapping.md)
    * [Crazy Eights](exercises/thoughtbot-crazy-eights.md)
    * [Storyboards](exercises/thoughtbot-storyboards.md)
    * [Silent Critique](exercises/thoughtbot-silent-critique.md)
