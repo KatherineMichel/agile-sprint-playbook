@@ -1,6 +1,6 @@
 # Additional Methodologies
 
-## Ideo
+## IDOEO
 *   [IDEO](http://www.ideo.com)
 *   [IDEO Org](http://www.ideo.org)
 *   [Mindsets](http://www.designkit.org/mindsets)
