@@ -17,6 +17,7 @@
    * [5 Test](5-test.md)
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
 * [Usability Gov](usability_gov.md)
+* [Government Digital](government_digital.md)
 * [Additional Methodologies](additional_methodologies.md)
 * [Exercises](exercises.md)
    * [Business Model Canvas](materials/1-understand-business.md)
