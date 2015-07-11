@@ -9,8 +9,6 @@
 * Customer Segments
 * Possible Revenue Streams
 
-## Thoughtbot
-
 What is your business and what do you envision it to be?
 
 *The Market*
