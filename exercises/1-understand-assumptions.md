@@ -32,4 +32,4 @@ and how you know if that assumption is valid.
 
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
 
-![Assumption Test Example](images/assumption-test.jpg)
+![Assumption Test Example](exercises-images/assumption-test.jpg)
