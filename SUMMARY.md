@@ -57,5 +57,5 @@
 * [Combination- Methods](combination-_methods.md)
 * [Combination- User Testing](combination-_user_testing.md)
 * [Extra](extra.md)
-* Business Model Canvas and Project Management
+* [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
 
