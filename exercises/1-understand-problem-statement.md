@@ -31,4 +31,5 @@ What is this product, and is it useful?
 
 ## Example
 
-![Problem Statement](exercises-images/problem-statement.jpg)
+Problem Statement
+![](exercises-images/problem-statement.jpg)
