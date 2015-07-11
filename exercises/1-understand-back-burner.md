@@ -25,4 +25,5 @@ Trash any that aren't relevant anymore.
 
 ## Example
 
-![Back Burner](exercises-images/back-burner.jpg)
+Back Burner
+![](exercises-images/back-burner.jpg)
