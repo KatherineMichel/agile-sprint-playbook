@@ -104,3 +104,17 @@
 * Innovators List
 
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
+
+
+## Strategy
+
+* PESTLIED
+* Porter’s Five Forces
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
