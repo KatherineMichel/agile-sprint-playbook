@@ -47,7 +47,6 @@
 * [Usability Gov](usability_gov.md)
 * [Stanford Institute of Design](stanford_institute_of_design.md)
 * [Nielson Norman Group](nielson_norman_group.md)
-* [IDEO](ideo.md)
 * [Nesta and DIY](nesta_and_diy.md)
 * [Additional Resources](additional_resources.md)
    * [Lean Methodology](lean_methodology.md)
