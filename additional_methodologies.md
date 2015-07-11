@@ -9,8 +9,9 @@ Human Centered Design
 
 Field Guide and Toolkit
 *   [IDEO Field Guide to Human-Centered Design](http://www.designkit.org/resources/1) 
-*   [IDEO Design Kit](http://www.designkit.org)
 *   [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf) 
+*   [IDEO Design Kit](http://www.designkit.org)
+*   [IDEO Design Kit Methods](http://www.designkit.org/methods)
 
 ## Nesta 
 
@@ -33,3 +34,6 @@ Boootcamp Bootleg and Mixtapes
 *   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
 *   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
 *   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+
+Methods
+*   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
