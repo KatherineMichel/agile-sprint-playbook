@@ -29,4 +29,4 @@ and verify that each feature in is the appropriate section.
 
 ## Examples
 
-![Needs, Wants, Desires](images/needs-wants-desires.jpg)
+![Needs, Wants, Desires](exercises-images/needs-wants-desires.jpg)
