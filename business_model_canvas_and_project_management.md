@@ -10,7 +10,8 @@
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
    * [Risks](business-model-canvas/thoughtbot-risks.md)
    * [Terms](business-model-canvas/thoughtbot-terms.md)
-
+   * [Start an Assumptions Board](business-model-canvas/thoughtbot-assumptions.md)
+   * [Start an Back-burner Board](business-model-canvas/thoughtbot-back-burner.md)
 
 # Lean Customer Development Methodology
 
