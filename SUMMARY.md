@@ -21,7 +21,6 @@
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
-   * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Problem Value Prop](business-model-canvas/thoughtbot-problem-value-prop.md)
    * [Business](business-model-canvas/thoughtbot-business.md)
