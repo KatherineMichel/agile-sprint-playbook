@@ -26,4 +26,4 @@ Trash any that aren't relevant anymore.
 ## Example
 
 Back Burner
-![](exercises-images/back-burner.jpg)
+![](business-model-canvas-images/back-burner.jpg)
