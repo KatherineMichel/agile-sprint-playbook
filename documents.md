@@ -2,6 +2,8 @@
 
 ## Nielson Normal Group
 
+[Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
+
 Appendix B: Sample Scripts and Forms 164
 * Background Questionnaire 164
 * Confirmation Message 166
