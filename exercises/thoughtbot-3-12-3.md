@@ -22,7 +22,7 @@ This game is adapted from
 ## Instructions
 
 1. For the first 3 minutes, open individual brainstorming. This can take the form
-of [Mind Mapping](2-diverge-mind-mapping.md) or [Crazy Eights](2-diverge-crazy-eights.md).
+of [Mind Mapping](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/mind-mapping.md) or [Crazy Eights](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/crazy-eights.md).
 * Split everyone up into groups of 2 or 3. Give each group an Easel Pad so they
 can draw their UI large enough for the room to see.
 * For 12 minutes, let the group share their ideas they came up with in Step 1. Then they should converge in on one idea that they believe is the best and draw it on the Easel Pad.
