@@ -310,8 +310,6 @@ MOOCs
 *   [500 Startups Events](http://500.co/events)
 *   [Startup School](http://www.startupschool.org)
 
-
-
 #### Journalism
 
 Journalism Handbooks
