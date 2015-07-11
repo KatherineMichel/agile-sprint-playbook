@@ -46,7 +46,7 @@ Make sure that each frame is understandable without further verbal explanation.
 
 ## Examples
 
-![Individual Storyboards](images/storyboard.jpg)
-![Group of Storyboards](images/storyboards.jpg)
-![Group of Storyboards](images/storyboards-2.jpg)
-![Individual Storyboards](images/storyboard-2.jpg)
+![Individual Storyboards](exercises-images/storyboard.jpg)
+![Group of Storyboards](exercises-images/storyboards.jpg)
+![Group of Storyboards](exercises-images/storyboards-2.jpg)
+![Individual Storyboards](exercises-images/storyboard-2.jpg)
