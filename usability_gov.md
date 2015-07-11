@@ -14,14 +14,6 @@
 * [Web Analytics](http://www.usability.gov/what-and-why/web-analytics.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
 
-## Usability Testing
-
-* [Usability Testing](http://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
-* [Planning a Usability Test](http://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
-* [Recruiting Usability Test Participants](http://www.usability.gov/how-to-and-tools/methods/recruiting-usability-test-participants.html)
-* [Running a Usability Test](http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html)
-* [Reporting Usability Test Results](http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
-
 ## Organization
 
 * [Organization Structures](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
@@ -29,14 +21,11 @@
 
 ## How To and Tools
 
-* [Remote Testing](http://www.usability.gov/how-to-and-tools/methods/remote-testing.html)
-* [Mobile Device Testing](http://www.usability.gov/how-to-and-tools/methods/mobile-device-testing.html)
 * [Content Inventory](http://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
 * [User Interface Elements](http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
 * [Color Basic](http://www.usability.gov/how-to-and-tools/methods/color-basics.html)
 * [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 * [HHS Usability Lab](http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html)
-* [No Fail Accessibility Testing](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html)
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 
 ## Usability Gov Links
