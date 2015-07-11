@@ -13,7 +13,7 @@
 * Revenue Streams
 * Channels
 
-   * [Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
+   * [Business](business-model-canvas/thoughtbot-business.md)
    * [Competitive Analysis](business-model-canvas/thoughtbot-competitive-analysis.md)
    * [Customer](business-model-canvas/thoughtbot-customer.md)
    * [Forces](business-model-canvas/thoughtbot-forces.md)
