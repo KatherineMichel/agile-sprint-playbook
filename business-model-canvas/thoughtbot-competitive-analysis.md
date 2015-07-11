@@ -16,5 +16,8 @@
 * What do we need to know more about and “how might we” find it out?
   * [add questions to the ‘risks’ doc]
 
+# Gathering Forces
+*Facts that will shape this product/service*
+
 
 
