@@ -6,3 +6,7 @@
 * [User-Centered Design Basics](http://www.usability.gov/what-and-why/user-centered-design.html)
 * [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
 * [Creating a User-Centered Approach in Government](http://www.usability.gov/what-and-why/user-centered-government.html)
+
+## Wikipedia
+
+*   [User Centered Design Wikipedia](http://en.wikipedia.org/wiki/User-centered_design) and [User Experience Wikipedia](http://en.wikipedia.org/wiki/User_experience)
