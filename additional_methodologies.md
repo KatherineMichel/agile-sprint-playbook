@@ -3,6 +3,7 @@
 ## Ideo
 *   [IDEO](http://www.ideo.com)
 *   [IDEO Org](http://www.ideo.org)
+*   [Mindsets](http://www.designkit.org/mindsets)
 
 Human Centered Design
 *   [Human Centered Design](http://www.designkit.org/human-centered-design)
@@ -43,6 +44,7 @@ Boootcamp Bootleg and Mixtapes
 *   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
 *   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
 *   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+
 
 Methods
 *   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
