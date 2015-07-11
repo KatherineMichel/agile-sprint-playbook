@@ -85,4 +85,4 @@ Usability Experience, Research, Evaluation, and Testing
 * [Remote Testing](http://www.usability.gov/how-to-and-tools/methods/remote-testing.html)
 * [Mobile Device Testing](http://www.usability.gov/how-to-and-tools/methods/mobile-device-testing.html)
 * [No Fail Accessibility Testing](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings/no-fail-accessibility-testing.html)
-
+* [HHS Usability Lab](http://www.usability.gov/how-to-and-tools/guidance/hhs-usability-lab.html)
