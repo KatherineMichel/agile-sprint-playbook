@@ -27,6 +27,21 @@ What is your business and what do you envision it to be?
 *What metrics can we measure to monitor our progress and determine success?*
 -------------
 
+# The Problem & The Value Prop
+
+## Problem 1: 
+
+Current Solutions:
+------------------
+
+What does the world look like without this problem?
+----------------------
+
+## The Value Hypothesis (What value will people get from this product?)
+
+For customer segment #1:
+-------------------
+
 # Competitive Analysis
 [Summary of Analytics and Lightning Demos]
 
