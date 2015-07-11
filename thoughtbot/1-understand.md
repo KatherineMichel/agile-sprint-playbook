@@ -98,4 +98,4 @@ Card sorting helps categorize and prioritize features, ideas and different conce
 
 --
 
-### [Example Schedule for Understand](schedules/1-understand.md)
+### [Example Schedule for Understand](thoughtbot/schedules/1-understand.md)
