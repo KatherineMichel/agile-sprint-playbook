@@ -23,7 +23,6 @@
 * [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Problem Value Prop](business-model-canvas/thoughtbot-problem-value-prop.md)
-   * [Business](business-model-canvas/thoughtbot-business.md)
    * [Competitive Analysis](business-model-canvas/thoughtbot-competitive-analysis.md)
    * [Inspirational Info Source](business-model-canvas/thoughtbot-inspiration-info-source.md)
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
