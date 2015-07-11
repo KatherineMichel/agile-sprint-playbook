@@ -18,6 +18,7 @@
        * [Test Sprint Summary](materials/5-test-sprint-summary.md)
 * [Government Digital](government_digital.md)
 * [Additional Methodologies](additional_methodologies.md)
+* [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Exercises](exercises.md)
    * [Business Model Canvas](materials/1-understand-business.md)
    * [Competitive Analysis](materials/1-understand-competitive-analysis.md)
