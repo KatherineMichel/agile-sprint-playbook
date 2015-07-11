@@ -1,6 +1,6 @@
 # Exercises
 
-   * [Business Model Canvas](business-model-canvas/thoughtbot-business-model.md)
+   * [Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Competitive Analysis](business-model-canvas/thoughtbot-competitive-analysis.md)
    * [Customer](business-model-canvas/thoughtbot-customer.md)
    * [Forces](business-model-canvas/thoughtbot-forces.md)
