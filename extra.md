@@ -310,22 +310,6 @@ MOOCs
 *   [500 Startups Events](http://500.co/events)
 *   [Startup School](http://www.startupschool.org)
 
-#### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
-
-*   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
-*   [Disruptive Innovation Wikipedia](http://en.wikipedia.org/wiki/Disruptive_innovation)
-*   [Clay Christensen: The Innovator's Dilemma Wikipedia](http://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) and [Google Books](http://books.google.co.uk/books/about/The_Innovator_s_Dilemma.html?id=SIexi_qgq2gC)  
-*   [The Innovator's Dilemma Explained by Marc Andreessen](https://twitter.com/ValaAfshar/status/587312922709340160)
-*   [How The Innovator's Dilemma Affects You by Mark Suster ](http://www.bothsidesofthetable.com/2010/11/04/understanding-how-the-innovators-dilemma-affects-you) 
-*   [Clay Christensen: Innovator's Solution Google Books](http://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520/ref=pd_bxgy_b_img_b)
-*   [Clay Christensen: Attacker's Advantage](http://www.sciencedirect.com/science/article/pii/004873339300764K)  
-*   [Clay Christensen: Jobs to be Done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done) 
-
-#### Idea State Machine and Idea Maze
-
-*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
-*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
 
 
 #### Journalism
