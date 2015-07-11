@@ -27,6 +27,9 @@ Templates
 * Ebook Templates
 * Checklists
 
+## More
+* [Good Kickoff Meetings](http://goodkickoffmeetings.com)
+
 ## Data Gathering Methods
 
 * Quantitative: Data (analytics)
@@ -67,9 +70,6 @@ Survey Question Type
 * Rating with image
 * Large image choice
 * Open ended with image
-
-## More
-* [Good Kickoff Meetings](http://goodkickoffmeetings.com)
 
 ## Demographics
 
