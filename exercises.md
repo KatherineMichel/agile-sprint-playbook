@@ -109,7 +109,7 @@ Sustainability and Growth
 Mindsets
 *   [Mindsets](http://www.designkit.org/mindsets)
 
-# Stanford Institute of Design
+## Stanford Institute of Design
 
 *   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
 
