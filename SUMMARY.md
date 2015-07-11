@@ -52,7 +52,6 @@
    * [Advertising Methods](advertising_methods.md)
    * [Project Management](project_management.md)
    * [Example Slide Decks](example_slide_decks.md)
-   * [Project Management Links](project_management_links.md)
    * [Venture Analysis](venture_analysis.md)
 * [Combination- Design Sprint](combination-_design_sprint.md)
 * [Combination- Methods](combination-_methods.md)
