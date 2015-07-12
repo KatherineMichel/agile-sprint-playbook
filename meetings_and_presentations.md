@@ -40,7 +40,11 @@ Prepare
 * If appropriate, include prototype/MVP/demo
 
 ## Scorecard
-* Confirm product fills real need, cost, referrals
-* Compare sales results to sales estimates/quota
 
-
+Feedback for
+* Product and features (confirm product fills real need)
+* Intended market
+* Pricing/Cost
+* Distribution
+* Referrals
+* Sales results compared to sales estimates/quota
