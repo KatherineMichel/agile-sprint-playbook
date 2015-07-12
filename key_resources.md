@@ -1,6 +1,6 @@
 # Key Resources
 
-* Identify key resources (critical to success)
+* List key resources (critical to success)
 * How will company find/secure
 * Identify key resource costs
 
