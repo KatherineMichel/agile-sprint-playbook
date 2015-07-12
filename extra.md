@@ -22,10 +22,6 @@ http://plusacumen.org/courses
 
 #### Design
 
-Design- General
-*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
-*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
-
 Google Design Approach
 
 *   [Google Fonts](http://www.google.com/fonts) and [Google Fonts GitHub](https://github.com/google/fonts)  
