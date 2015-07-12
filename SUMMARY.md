@@ -25,7 +25,6 @@
    * [Competitive Analysis](business-model-canvas/thoughtbot-competitive-analysis.md)
    * [Inspirational Info Source](business-model-canvas/thoughtbot-inspiration-info-source.md)
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
-   * [Risks](business-model-canvas/thoughtbot-risks.md)
    * [Terms](business-model-canvas/thoughtbot-terms.md)
    * [Start an Assumptions Board](business-model-canvas/thoughtbot-assumptions.md)
    * [Start an Back-burner Board](business-model-canvas/thoughtbot-back-burner.md)
