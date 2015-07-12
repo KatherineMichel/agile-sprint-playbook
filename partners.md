@@ -8,9 +8,9 @@
 
 ## Partner Types
 
-Strategic Alliances
-Joint new business efforts
-Coopetition
-Key suppliers
-Traffic Partners
+* Strategic alliances
+* Joint new business efforts
+* Coopetition
+* Key suppliers
+* Traffic partners
 
