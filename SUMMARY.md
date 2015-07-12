@@ -24,7 +24,6 @@
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Thought Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
-   * [Terms](business-model-canvas/thoughtbot-terms.md)
    * [Start an Assumptions Board](business-model-canvas/thoughtbot-assumptions.md)
    * [Start an Back-burner Board](business-model-canvas/thoughtbot-back-burner.md)
 * [Exercises- Creative](exercises-_creative.md)
