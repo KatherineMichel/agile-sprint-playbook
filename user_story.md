@@ -1,5 +1,17 @@
 # User Story
 
-## "Before" (without product
+One page "Day in the life of the customer" flow diagram, including:
+* Product vision
+* Product features
+* Product benefits
+* Jobs the product will do
 
-## "After" (with product)
+## "Before" visualized (without product)
+
+## "After" visualized (with product)
+How will the product influence, change the customer's life? 
+
+## World
+How will world be different 18 moths after launch? 
+* 3 years after launch?
+* 10 years after launch?
