@@ -44,39 +44,6 @@ Website Launch Checklist
    
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
 
-#### Growth, Marketing, and Content Resources
-
-Distribution, Growth, Sales Hacking
-*   [Distribution Hacks](http://distributionhacks.com) 
-*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-*   [Saleshacker](http://www.saleshacker.com)
-
-Marketing and Search Engine Land
-*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
-*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
-
-Hiten Shah and Neil Patel
-*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
-*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
-*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
-*   [Quicksprout](http://www.quicksprout.com) 
-
-Popular Tools
-*   [Buffer](https://bufferapp.com)
-*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
-*   [Detour Blog](http://blog.detour.com)
-*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
-*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
-*   [Intercom Blog](http://blog.intercom.io)
-*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
-*   [Moz](http://moz.com) and [Moz Tools](http://moz.com/tools) 
-*   [URX Blog](http://blog.urx.com/urx-blog) 
-
-Digital Novel
-*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
-*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
-*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
-
 #### Popular Tools
 
 Google Products, Office
@@ -151,10 +118,45 @@ Document Libraries
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
 
+MOOCs
+*   [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance), [Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
+
 #### Company and Product Databases
 
 [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 
+#### Growth, Marketing, and Content Resources
+
+Distribution, Growth, Sales Hacking
+*   [Distribution Hacks](http://distributionhacks.com) 
+*   [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+*   [Saleshacker](http://www.saleshacker.com)
+
+Marketing and Search Engine Land
+*   [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
+*   [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
+
+Hiten Shah and Neil Patel
+*   [Hiten Shah Twitter](https://twitter.com/hnshah) and [Neil Patel Twitter](https://twitter.com/neilpatel)
+*   [CrazyEgg](http://www.crazyegg.com) and [CrazyEgg Twitter](https://twitter.com/CrazyEgg)  
+*   [Kissmetrics](https://www.kissmetrics.com), [Kissmetrics Blog](https://blog.kissmetrics.com), [Kissmetrics Twitter](https://twitter.com/KISSmetrics), and [Kissmetrics Slideshare](http://www.slideshare.net/kissmetrics) 
+*   [Quicksprout](http://www.quicksprout.com) 
+
+Popular Tools
+*   [Buffer](https://bufferapp.com)
+*   [Chartbeat](https://chartbeat.com) and [Chartbeat Blog](http://blog.chartbeat.com)
+*   [Detour Blog](http://blog.detour.com)
+*   [HubSpot Blog](http://blog.hubspot.com), [HubSpot Free Marketing Resources](http://www.hubspot.com/free-marketing-resources), [HubSpot Resource Library](https://library.hubspot.com), and [HubSpot Slideshare](http://www.slideshare.net/HubSpot)  
+*   [HubSpot Free PowerPoint Infographic Template Designs](http://blog.hubspot.com/marketing/free-ppt-infographic-templates-designs-ht)
+*   [Intercom Blog](http://blog.intercom.io)
+*   [MailChimp Resources](http://mailchimp.com/resources) and [MailChimp Research](http://mailchimp.com/resources/research)
+*   [Moz](http://moz.com) and [Moz Tools](http://moz.com/tools) 
+*   [URX Blog](http://blog.urx.com/urx-blog) 
+
+Digital Novel
+*   [Econsultancy](https://econsultancy.com) and [Econsultancy Blog](https://econsultancy.com/blog)
+*   [EMarketer Slideshare](http://www.slideshare.net/eMarketerInc) 
+*   [PSFK](http://www.psfk.com) and [PSFK Slideshare](http://www.slideshare.net/PSFK) 
 #### News Sources
 
 Aggregated, Curated News Sources
@@ -191,19 +193,11 @@ Courses
 *   [Peter Thiel Stanford CS183 Course, Notes by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
 *   [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
      
-MOOCs
-*   [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance), [Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
-
 #### Events Lists
 *   [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 *   [Techmeme Events List](http://techmeme.com/events) 
 *   [500 Startups Events](http://500.co/events)
 *   [Startup School](http://www.startupschool.org)
-
-#### Journalism
-
-Journalism Handbooks
-*   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
 
 #### Philosophies, Milestones
 
@@ -225,5 +219,10 @@ Journalism Handbooks
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+
+#### Journalism
+
+Journalism Handbooks
+*   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
 
 [Back to Top](#)
