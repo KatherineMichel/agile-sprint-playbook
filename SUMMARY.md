@@ -23,7 +23,6 @@
 * [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Competitive Analysis](business-model-canvas/thoughtbot-competitive-analysis.md)
-   * [Inspirational Info Source](business-model-canvas/thoughtbot-inspiration-info-source.md)
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
    * [Terms](business-model-canvas/thoughtbot-terms.md)
    * [Start an Assumptions Board](business-model-canvas/thoughtbot-assumptions.md)
