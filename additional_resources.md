@@ -28,6 +28,10 @@ Templates
 * Ebook Templates
 * Checklists
 
+Design- General
+*   [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+*   ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
+
 ## More
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com)
 
