@@ -1,8 +1,10 @@
 # Market
 
-Estimated market size:
+Market type
+
+Market size estimate
 * TAM or Total Available market
 * SAM or Served Available Market
 * Target Market
 
-Market type
+Market Share estimate
