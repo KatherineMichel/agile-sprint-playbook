@@ -1,5 +1,9 @@
 # Business and Financial Model
 
+## Business Model
+
+## Financial Model
+
 ## Revenue and Pricing
 
 Revenue model options
