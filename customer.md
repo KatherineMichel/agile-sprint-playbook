@@ -6,6 +6,10 @@ Define distinctive customer types (day to day users)
 
 ## Influencers, Recommenders
 
-## Economic Buyers
+## "Economic Buyers" 
+(The person whose budget pays for it)
 
-## Decision Makers
+* Does the economic buyer already have budget for product
+* Does budget need to be approved?
+
+## "Decision Makers"
