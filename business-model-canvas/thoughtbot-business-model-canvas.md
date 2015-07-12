@@ -47,10 +47,6 @@ For customer segment #1:
 
 **Analytics: Google AdWords**
 
-**Competitive & Related Products**
-
-**Lightning Demos**
-
 # The Customer(s)
 *Who are your customers or who do you expect them to be?*
 
