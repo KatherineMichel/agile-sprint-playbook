@@ -1,4 +1,10 @@
 # Lightning Demos
 
-* Competitors
-* Related products
+* Competitor products
+* Related/adjacent products
+
+# Competitor Analysis
+
+* Competitive grid
+* Competitive product and pricing information
+* Competitor press releases
