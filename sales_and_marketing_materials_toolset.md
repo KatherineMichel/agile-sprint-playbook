@@ -1,11 +1,10 @@
-# Sales and Marketing Materials Toolset
+# Sales and Marketing Materials Toolset (adapted from Steve Blank, Lean Customer Development) 
 
 * PowerPoint sales presentation
 * Presentation leave-behind folder or brochure
 * White paper or other executive summary
 * Product feature spec sheet
 * Product problem/solution overview
-* Customer testimonials
 * Price lists
 * Customer testimonials
 * Business cards
@@ -13,3 +12,24 @@
 * Price lists
 * Contracts
 * Billing system
+
+Sales Presentations
+* Problem Presentation
+* Solution Presentation
+* Product Presentation
+
+Data Sheets
+* Product data sheet for Existing Market
+* Solution data sheet for New or Clone Market
+* Product and Solution data sheets for Re-segmented Market
+
+For B-to-B companies (three versions)
+* For earlyvangelists
+* For technology gatekeepers
+* For mainstream buyers
+
+For B-to-C companies
+* Shelf talkers
+* Retail packaging
+* Coupons
+* Ad slicks
