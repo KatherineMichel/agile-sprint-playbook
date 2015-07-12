@@ -14,6 +14,9 @@ Sales
 * Secure meeting with the right level of senior management
 * Secure purchase action plan/signed custom proposal, firm commitment
 
+Positioning
+* Validate positioning with customers, analyst/influencers through positioning feedback meetings with script, presentation
+
 Types of meetings
 * 50 initial target customers
 * Channel and Traffic Partners (to test sell)
