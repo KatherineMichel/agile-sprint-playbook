@@ -22,6 +22,9 @@ Types of meetings
 
 ## Presentations
 
-Sales
+Sales Presentations
+* Problem Presentation
+* Solution Presentation
+* Product Presentation
 
 
