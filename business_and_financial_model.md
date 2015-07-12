@@ -40,6 +40,10 @@ Pricing Tactics options
 * Basic operating costs
 * Cash burn
 * Cash at quarter end, by quarter
+* The units/users revenue model and pricing 
+* Product cost, Pricing plan
+* Can you price it with a predicable model?
+* Can you have high gross margins?
 
 ## Customer impact
 
