@@ -19,6 +19,7 @@
        * [Test Sprint Summary](thoughtbot/5-test-sprint-summary.md)
 * [Government Digital](government_digital.md)
 * [Additional Methodologies](additional_methodologies.md)
+   * Key Resources
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
    * Customer
 * [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
