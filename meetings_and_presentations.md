@@ -13,7 +13,6 @@ Prepare
 Sales
 * Secure meeting with the right level of senior management
 * Secure purchase action plan/signed custom proposal, firm commitment
-* Compare to sales estimates/quota
 
 Types of meetings
 * 50 initial target customers
@@ -26,5 +25,18 @@ Sales Presentations
 * Problem Presentation
 * Solution Presentation
 * Product Presentation
+
+Prepare
+* Develop and rehearse presentations
+* Give presentation to several customer types
+* Show customer's perceived problem, show current solution, show startup's proposed solution
+* Describe product (five key features) 
+* Insert multiple prompts to invite customer feedback
+* Do customer interviews for those who heard first "problem presentation" 
+* If appropriate, include prototype/MVP/demo
+
+## Scorecard
+* Confirm product fills real need, cost, referrals
+* Compare sales results to sales estimates/quota
 
 
