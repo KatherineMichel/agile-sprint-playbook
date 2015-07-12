@@ -8,7 +8,7 @@ Market type
 * New
 * Clone
 
-* Different funding needs for different market types
+(Different funding needs for different market types)
 
 Market size estimate
 * TAM or Total Available market
