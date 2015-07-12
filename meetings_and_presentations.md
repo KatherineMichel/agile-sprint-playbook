@@ -9,6 +9,7 @@ Prepare
 * Build master calendar of scheduled appointments
 * Send thank you notes
 * Maintain ongoing, expanding list of contacts
+* Create innovators list
 
 Sales
 * Secure meeting with the right level of senior management
