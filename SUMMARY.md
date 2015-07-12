@@ -23,7 +23,6 @@
    * Customer
 * [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
    * [Thought Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
-       * Customer
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Lightning Demos](lightning_demos.md)
    * [Market](market.md)
