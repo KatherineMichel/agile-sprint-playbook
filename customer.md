@@ -6,6 +6,8 @@ Define distinctive customer types (day to day users)
 
 ## Influencers, Recommenders
 
+List those who could influence a customer’s buying decision
+
 ## "Economic Buyers" 
 (The person whose budget pays for it)
 
@@ -15,5 +17,7 @@ Define distinctive customer types (day to day users)
 ## "Decision Makers"
 
 Person who can kill purchase (for example by not approving budget)
+
+## Potential Saboteurs
 
 ## Become the Customer
