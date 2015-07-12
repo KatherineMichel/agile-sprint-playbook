@@ -13,3 +13,5 @@ Define distinctive customer types (day to day users)
 * Does budget need to be approved?
 
 ## "Decision Makers"
+
+Person who can kill purchase (for example by not approving budget)
