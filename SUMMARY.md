@@ -26,7 +26,7 @@
    * [Lightning Demos](lightning_demos.md)
    * [Market](market.md)
    * [Revenue and Pricing](revenue_and_pricing.md)
-   * Key Resources
+   * [Key Resources](key_resources.md)
    * [Customer](customer.md)
    * [User Story](user_story.md)
    * [Presentations](presentations.md)
