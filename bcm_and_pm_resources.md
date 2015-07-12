@@ -41,17 +41,6 @@
 * Initial Activities to Test
 * Sequential Optimization Plan
 
-## Meetings
-* Contact List
-* Introductory Email, Reference Story, Script, Thank You Notes
-* Master Calendar of Booked Appointments
-
-## Competitors
-* Competitive Grid
-* Competitive and Adjacent Products
-* Competitive Product and Pricing Information
-* Competitor Press Releases
-
 ## Positioning
 * Product Positioning Brief
 * Company Vision and Mission Statements
@@ -71,9 +60,6 @@
 * Product/“Solution” Presentation 
 
 ## Channel Partner and Traffic Partner Meetings
-* Presentation
-* Purchase Action Plan
-* Signed Custom Proposal
 * Orders/Firm Commitments
 
 ## Lists
