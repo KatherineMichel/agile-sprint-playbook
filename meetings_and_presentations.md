@@ -1,9 +1,6 @@
 # Meetings and Presentations
 
-Meetings
-
-Types
-* Sales
+## Meetings
 
 Prepare
 * Research target contacts
@@ -12,3 +9,7 @@ Prepare
 * Build master calendar of scheduled appointments
 * Send thank you notes
 * Maintain ongoing, expanding list of contacts
+
+## Presentations
+
+Sales
