@@ -30,7 +30,7 @@
    * [Customer](customer.md)
    * [Partners](partners.md)
    * [User Story](user_story.md)
-   * [Presentations](presentations.md)
+   * [Meetings and Presentations](meetings_and_presentations.md)
    * [Sales and Marketing Materials Toolset](sales_and_marketing_materials_toolset.md)
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](business-model-canvas/thoughtbot-back-burner.md)
