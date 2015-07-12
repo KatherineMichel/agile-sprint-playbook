@@ -22,3 +22,8 @@ Pricing Tactics options
 * Subscription
 * Leasing
 * Freemium
+
+## Customer impact
+
+* Will your product create network effects?
+* Does it have organic demand versus requiring marketing spend?
