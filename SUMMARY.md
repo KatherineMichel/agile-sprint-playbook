@@ -34,7 +34,7 @@
    * [Meetings and Presentations](meetings_and_presentations.md)
    * [Sales and Marketing Materials Toolset](sales_and_marketing_materials_toolset.md)
    * [Sales](sales.md)
-   * Business and Financial Model
+   * [Business and Financial Model](business_and_financial_model.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
