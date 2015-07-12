@@ -48,9 +48,9 @@
    * [Pitch Practice](exercises/thoughtbot-pitch-practice.md)
 * [Additional Resources](additional_resources.md)
    * [BCM and PM Resources](bcm_and_pm_resources.md)
+   * [Extra](extra.md)
    * [Project Management](project_management.md)
 * [Combination- Design Sprint](combination-_design_sprint.md)
 * [Combination- Methods](combination-_methods.md)
 * [Combination- User Testing](combination-_user_testing.md)
-* [Extra](extra.md)
 
