@@ -84,8 +84,7 @@ Digital Novel
 #### Popular Tools
 
 Google Products, Office
-*   [Google Products](http://www.google.com/intl/en/about/products) 
-*   [List of Google Products Wikipedia](http://en.wikipedia.org/wiki/List_of_Google_products) 
+
 *   [Google Gmail](http://gmail.com)  
 *   [Google Drive](https://www.google.com/drive) 
 *   [Google Docs](https://docs.google.com)  
@@ -113,8 +112,7 @@ Accelerator Resources
   
 Documents
 
-Cap Table, Convertible Bonds, Securities, Equity
-*   [Seth Levine: Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing)
+
 *   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
 *   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 *   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
