@@ -18,6 +18,8 @@
    * [5 Test](thoughtbot/5-test.md)
        * [Test Sprint Summary](thoughtbot/5-test-sprint-summary.md)
 * [Government Digital](government_digital.md)
+* [U.K. Gov](uk_gov.md)
+* [Australian Digital Transformation Office](australian_digital_transformation_office.md)
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
