@@ -15,7 +15,7 @@ Sales
 * Secure purchase action plan/signed custom proposal, firm commitment
 
 Positioning
-* Validate positioning with customers, analyst/influencers through positioning feedback meetings with script, presentation
+* Validate positioning with customers, key analyst/ industry influencers through positioning feedback meetings with script, presentation
 
 Types of meetings
 * 50 initial target customers
