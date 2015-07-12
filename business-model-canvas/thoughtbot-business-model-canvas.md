@@ -91,3 +91,5 @@ Sources of Inspiration
 Valuable articles and other info
 ------------
 *Gather articles and info and add notes on what was valuable. Make sure to update other documents based on learnings.*
+
+# Define: Terms
