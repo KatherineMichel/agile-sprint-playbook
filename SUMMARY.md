@@ -33,7 +33,7 @@
    * [Product and Timeline](product_and_timeline.md)
    * [Meetings and Presentations](meetings_and_presentations.md)
    * [Sales and Marketing Materials Toolset](sales_and_marketing_materials_toolset.md)
-   * Sales
+   * [Sales](sales.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
