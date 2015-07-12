@@ -15,3 +15,5 @@ Define distinctive customer types (day to day users)
 ## "Decision Makers"
 
 Person who can kill purchase (for example by not approving budget)
+
+## Become the Customer
