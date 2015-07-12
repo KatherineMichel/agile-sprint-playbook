@@ -25,7 +25,6 @@
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Competition](competition.md)
    * [Market](market.md)
-   * [Revenue and Pricing](revenue_and_pricing.md)
    * [Business and Financial Model](business_and_financial_model.md)
    * [Key Resources](key_resources.md)
    * [Customer](customer.md)
