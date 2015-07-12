@@ -1,5 +1,8 @@
 # Exercises- Creative
 
+   * [Critical Path](exercises/thoughtbot-critical-path.md)
+   * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
+   * [Start an Assumptions Board](exercises/thoughtbot-assumptions.md)
    * [Mind Mapping](exercises/thoughtbot-mind-mapping.md)
    * [Crazy Eights](exercises/thoughtbot-crazy-eights.md)
    * [Storyboards](exercises/thoughtbot-storyboards.md)
