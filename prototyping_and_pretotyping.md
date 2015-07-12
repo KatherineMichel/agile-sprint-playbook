@@ -19,6 +19,9 @@ Photoshop and Similar
 *   [Inkscape](http://www.inkscape.org/en)  
 *   [Serif](http://www.serif.com) 
 
+Mind Maps
+*   [Google Drawings](https://docs.google.com/drawings) 
+
 Prototyping Software
 *   [Keynote](https://www.apple.com/mac/keynote)
 *   [Keynotopia](http://keynotopia.com) and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
