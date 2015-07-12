@@ -32,7 +32,7 @@
    * [Critical Path](business-model-canvas/thoughtbot-critical-path.md)
    * [Start an Assumptions Board](business-model-canvas/thoughtbot-assumptions.md)
    * [Start an Back-burner Board](business-model-canvas/thoughtbot-back-burner.md)
-   * Customer
+   * [Customer](customer.md)
 * [Exercises- Creative](exercises-_creative.md)
    * [Mind Mapping](exercises/thoughtbot-mind-mapping.md)
    * [Crazy Eights](exercises/thoughtbot-crazy-eights.md)
