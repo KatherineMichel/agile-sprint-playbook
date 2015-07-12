@@ -1,11 +1,12 @@
 # Additional Resources
 
-## User Centered Design
+## Idea State Machine and Idea Maze
 
-## Random Tools
+*   [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
+*   [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
 
-* Idea Maze
-* Product Tiers
+## Product Tiers
+*   [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
 
 ## HubSpot
 
