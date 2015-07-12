@@ -46,15 +46,6 @@ Website Launch Checklist
 
 #### Popular Tools
 
-Google Products, Office
-
-*   [Google Gmail](http://gmail.com)  
-*   [Google Drive](https://www.google.com/drive) 
-*   [Google Docs](https://docs.google.com)  
-*   [Google Drawings](https://docs.google.com/drawings)  
-*   [Google Calendar](https://www.google.com/calendar) 
- 
-
 #### VC, VC Firms, Accelerators, Resources
 
 Angel and VC Firm Resources
