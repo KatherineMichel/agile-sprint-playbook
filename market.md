@@ -1,5 +1,7 @@
 # Market
 
+Overall market knowledge, market map
+
 Market type
 * Different funding needs for different market types
 
