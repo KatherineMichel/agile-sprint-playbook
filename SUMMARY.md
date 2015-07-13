@@ -64,7 +64,7 @@
    * [Pitch Practice](exercises/thoughtbot-pitch-practice.md)
 * [Additional Resources](additional_resources.md)
    * [Research](research.md)
-   * [BCM Resources](bcm_resources.md)
+   * [BCM and Innovator's Dilemma Resources](bcm_and_innovators_dilemma_resources.md)
    * [Project Management](project_management.md)
    * [Extra](extra.md)
    * [Service Design Tools](service_design_tools.md)
