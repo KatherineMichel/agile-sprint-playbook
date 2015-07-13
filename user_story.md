@@ -1,5 +1,10 @@
 # User Story
 
+## Customer Archetype
+
+* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
+* One-page User Story
+
 One page "Day in the life of the customer" flow diagram, including:
 * Product vision
 * Product features
@@ -15,3 +20,6 @@ How will the product influence, change the customer's life?
 How will world be different 18 moths after launch? 
 * 3 years after launch?
 * 10 years after launch?
+
+
+
