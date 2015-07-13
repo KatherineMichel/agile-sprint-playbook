@@ -2,29 +2,17 @@
 
 ## Documents
 
-## Organization
-* Organization Structure (Founders, Investors, Board)
-* Company 3-5 Core Values
-* Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
-* Customer Development/Discovery and Validation Approximate Timeframe
-* 18-Month Schedule of Delivery Dates
-
-## Customer, Workflow, Story
-* Customer Archetypes
-* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
-* One-page User Story
-
-## Board
-* Initial List of Advisory Board Prospects
-* Advisory Board Roadmap
-* Formal Advisory Board List
-
 ## MVP
 * Low Fidelity Minimum Viable Product
 * High Fidelity Minimum Viable Product
 * Dashboard
 * Initial Activities to Test
 * Sequential Optimization Plan
+
+## Customer, Workflow, Story
+* Customer Archetypes
+* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
+* One-page User Story
 
 ## Positioning
 * Product Positioning Brief
