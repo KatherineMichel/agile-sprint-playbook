@@ -1,5 +1,16 @@
 # Research
 
+Business Models
+*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
+*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies) 
+
 Securities and Exchange Commission (SEC)
 *   [EDGAR About](http://www.sec.gov/edgar.shtml), [Edgar Guide](http://www.sec.gov/investor/pubs/edgarguide.htm#.VBDpY_ldXQo), and [EDGAR Search Tools](http://www.sec.gov/edgar/searchedgar/webusers.htm)
 *   [SEC Forms List](http://www.sec.gov/forms) and [Descriptions of SEC Forms](http://www.sec.gov/info/edgar/forms/edgform.pdf)
