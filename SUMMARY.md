@@ -38,7 +38,7 @@
    * [Positioning](positioning.md)
    * [Charts](charts.md)
    * [Organization](organization.md)
-   * Strategy
+   * [Strategy](strategy.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
