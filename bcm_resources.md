@@ -1,12 +1,5 @@
 # Lean Customer Development Methodology
 
-## Distribution Channels
-* Distribution Channel Diagram
-* Distribution Channel Plan
-* Channel Responsibility Map
-* “Food Chain” Drawing
-* Channel Partner's Business Model Drawing
-
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
 
 #### Lean Startup and Launchpad
