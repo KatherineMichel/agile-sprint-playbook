@@ -1,8 +1,5 @@
-# Lean Customer Development Methodology
-
-[Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
-
 #### Lean Startup and Launchpad
+[Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
 
 *   [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
 *   [Eric Ries: The Lean Startup Principles](http://theleanstartup.com/principles), [Lean Startup Wikipedia](http://en.wikipedia.org/wiki/Lean_Startup), [The Lean Startup Wikipedia](http://en.wikipedia.org/wiki/The_Lean_Startup), [Google Books](http://books.google.com/books?id=tvfyz-4JILwC&printsec=frontcover#v=onepage&q&f=false)
