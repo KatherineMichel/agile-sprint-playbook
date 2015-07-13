@@ -1,7 +1,9 @@
 # Service Design Tools
 
-http://www.servicedesigntools.org/glossary
-http://www.servicedesigntools.org/repository
+
+*   [Tools](http://www.servicedesigntools.org/repository)
+*   [Glossary](http://www.servicedesigntools.org/glossary)
+
 http://www.servicedesigntools.org/tools/6
 http://www.servicedesigntools.org/tools/8
 http://www.servicedesigntools.org/tools/9
