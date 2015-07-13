@@ -9,9 +9,6 @@
 * Customer Development/Discovery and Validation Approximate Timeframe
 * 18-Month Schedule of Delivery Dates
 
-## Business Model
-* Business Model Canvas
-
 ## Customer, Workflow, Story
 * Customer Archetypes
 * [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
