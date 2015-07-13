@@ -7,25 +7,30 @@
 *   [Storyboard](http://www.servicedesigntools.org/tools/13)  
 *   [Use Cases](http://www.servicedesigntools.org/tools/19)  
 *   [Personas](http://www.servicedesigntools.org/tools/40)  
+*   [Tomorrow Headlines](http://www.servicedesigntools.org/tools/14)
+
+*   [Heuristic Evaluation](http://www.servicedesigntools.org/tools/16) 
 
 *   [Customer Journey Map](http://www.servicedesigntools.org/tools/8)  
 *   [Blueprint](http://www.servicedesigntools.org/tools/35)  
+*   [Cognitive Walkthrough](http://www.servicedesigntools.org/tools/11)
 
-*   [Storytelling](http://www.servicedesigntools.org/tools/9) 
+*   [Storytelling](http://www.servicedesigntools.org/tools/9)
 
+*   [Mood Map](http://www.servicedesigntools.org/tools/17)
+
+*   [Mind Map](http://www.servicedesigntools.org/tools/15) 
+
+*   [Motivation Matrix](http://www.servicedesigntools.org/tools/20) 
+*   [Mock Up](http://www.servicedesigntools.org/tools/18)
 *   [Experience Prototype](http://www.servicedesigntools.org/tools/21)
 *   [Service Prototype](http://www.servicedesigntools.org/tools/24)
 
 *   [Usability Testing](http://www.servicedesigntools.org/tools/10)
+*   [Wizard of Oz](http://www.servicedesigntools.org/tools/22)
 
-http://www.servicedesigntools.org/tools/11
-http://www.servicedesigntools.org/tools/14
-http://www.servicedesigntools.org/tools/15
-http://www.servicedesigntools.org/tools/16
-http://www.servicedesigntools.org/tools/17
-http://www.servicedesigntools.org/tools/18
-http://www.servicedesigntools.org/tools/20
-http://www.servicedesigntools.org/tools/22
+
+
 http://www.servicedesigntools.org/tools/23
 http://www.servicedesigntools.org/tools/27
 http://www.servicedesigntools.org/tools/28
