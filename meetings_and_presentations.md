@@ -13,7 +13,7 @@ Prepare
 
 Sales
 * Secure meeting with the right level of senior management
-* Secure purchase action plan/signed custom proposal, firm commitment
+* Secure purchase action plan/signed custom proposal, orders/firm commitment
 
 Positioning
 * Validate positioning with customers, key analyst/ industry influencers through positioning feedback meetings with script, presentation
