@@ -85,7 +85,7 @@ Quality
 * [Story mapping](http://guide.agilealliance.org/guide/storymap.html)
 * [Sustainable pace](http://guide.agilealliance.org/guide/sustainable.html)
 * [Task board](http://guide.agilealliance.org/guide/taskboard.html)
-* [TDD](http://guide.agilealliance.org/guide/tdd.html
+* [TDD](http://guide.agilealliance.org/guide/tdd.html)
 * [Team](http://guide.agilealliance.org/guide/team.html)
 * [Team room](http://guide.agilealliance.org/guide/teamroom.html)
 * [Three C's](http://guide.agilealliance.org/guide/threecs.html)
