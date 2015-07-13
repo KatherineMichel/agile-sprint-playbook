@@ -39,7 +39,7 @@
    * [Charts](charts.md)
    * [Organization](organization.md)
    * [Strategy](strategy.md)
-   * MVP
+   * [MVP](mvp.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
