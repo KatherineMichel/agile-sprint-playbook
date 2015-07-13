@@ -1,5 +1,7 @@
 # Product and Timeline
 
+## Product
+
 ## Preliminary Product Specs 
 
 * Estimate current product and follow-on products
