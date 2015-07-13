@@ -40,18 +40,10 @@
 * “Food Chain” Drawing
 * Channel Partner's Business Model Drawing
 
-## Key Presentations
-* Problem Presentation
-* Product/“Solution” Presentation 
-
 ## Channel Partner and Traffic Partner Meetings
 * Orders/Firm Commitments
 
-## Lists
-* Innovators List
-
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
-
 
 ## Strategy
 
