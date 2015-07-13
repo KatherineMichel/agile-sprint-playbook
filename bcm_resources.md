@@ -14,13 +14,6 @@
 * [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
 * One-page User Story
 
-## Positioning
-* Product Positioning Brief
-* Company Vision and Mission Statements
-* Company Message Statement 
-* Product Messaging
-* Positioning Feedback Meetings- Script, Analyst/Influencer Presentation
-
 ## Distribution Channels
 * Distribution Channel Diagram
 * Distribution Channel Plan
