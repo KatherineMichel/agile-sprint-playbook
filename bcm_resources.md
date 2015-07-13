@@ -1,12 +1,5 @@
 # Lean Customer Development Methodology
 
-## MVP
-* Low Fidelity Minimum Viable Product
-* High Fidelity Minimum Viable Product
-* Dashboard
-* Initial Activities to Test
-* Sequential Optimization Plan
-
 ## Distribution Channels
 * Distribution Channel Diagram
 * Distribution Channel Plan
