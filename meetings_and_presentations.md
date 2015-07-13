@@ -23,7 +23,7 @@ Types of meetings
 * Channel and Traffic Partners (to test sell)
 * Key analysts/industry influencers (special script/presentation) to obtain detailed feedback about marketplace/product
 
-## Presentations
+## Key Presentations
 
 Sales Presentations
 * Problem Presentation
