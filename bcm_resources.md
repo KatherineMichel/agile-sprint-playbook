@@ -28,9 +28,6 @@
 * “Food Chain” Drawing
 * Channel Partner's Business Model Drawing
 
-## Channel Partner and Traffic Partner Meetings
-* Orders/Firm Commitments
-
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
 
 ## Strategy
