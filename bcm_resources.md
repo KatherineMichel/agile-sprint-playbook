@@ -25,19 +25,6 @@ Spinoffs
 *   [Social Lean Canvas](http://socialleancanvas.com/the-canvas) 
 *   [Value Proposition Canvas](http://www.peterjthomson.com/2013/11/value-proposition-canvas)
 
-#### Market, Business Models, Pricing, Product Tiers
-  
-Business Models
-*   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
-*   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
-*   [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
-*   [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
-*   [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
-
-Pricing Strategies
-*   [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
-*   [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
-
 #### Creative Destruction, Innovator's Dilemma, and Attacker's Advantage
 
 *   [Joseph Schumpeter: Creative Destruction Wikipedia](http://en.wikipedia.org/wiki/Creative_destruction) 
