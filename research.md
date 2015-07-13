@@ -62,24 +62,6 @@ Regulatory Agencies and Rules
 *   [Small Business Administration](http://www.sba.gov) 
 *   [Generally Accepted Accounting Principles](http://en.wikipedia.org/wiki/Generally_accepted_accounting_principles) and [International Financial Reporting standards](http://en.wikipedia.org/wiki/International_Financial_Reporting_Standards)
 
-Business
-*   [Business Insider](http://www.businessinsider.com)
-*   [Economist](http://www.economist.com)
-*   [Entreprener](http://www.entrepreneur.com)
-*   [Forbes](http://www.forbes.com)
-*   [Harvard Business review](https://hbr.org) 
-*   [Inc.](http://www.inc.com)
-*   [New York Times](http://www.nytimes.com)
-*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
-
-Tech
-*   [Recode](http://recode.net)
-*   [TechCrunch](http://techcrunch.com)
-*   [The Next Web](http://thenextweb.com)
-
-Leaderboard
-*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
-
 Databases
 *   [AngelList](https://angel.co), [AngelList U.K.](https://angel.co/uk), [AngelList API](https://angel.co/api), [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks)  
 *   [Betalist](http://betalist.com)  
@@ -133,6 +115,24 @@ Companies, Financials
 *   [PricewaterhouseCoopers](http://www.pwc.com) 
 *   [Wealthfront Blog](https://blog.wealthfront.com)  
 *   [Glassdoor](http://www.glassdoor.com) and [Glassdoor Blog](http://www.glassdoor.com/blog) 
+
+Business
+*   [Business Insider](http://www.businessinsider.com)
+*   [Economist](http://www.economist.com)
+*   [Entreprener](http://www.entrepreneur.com)
+*   [Forbes](http://www.forbes.com)
+*   [Harvard Business review](https://hbr.org) 
+*   [Inc.](http://www.inc.com)
+*   [New York Times](http://www.nytimes.com)
+*   [Wall Street Journal](http://www.wsj.com), [Wall Street Journal Blog](http://blogs.wsj.com), [Wall Street Journal Venture Capital Blog](http://blogs.wsj.com/venturecapital)
+
+Tech
+*   [Recode](http://recode.net)
+*   [TechCrunch](http://techcrunch.com)
+*   [The Next Web](http://thenextweb.com)
+
+Leaderboard
+*   [Techmeme Leaderboard](http://techmeme.com/lb Leaderboard)
 
 Analyst Groups
 *   [Altimeter Group](http://www.altimetergroup.com), [Altimeter Slideshare](http://www.slideshare.net/Altimeter), and [Altimeter Twitter](https://twitter.com/altimetergroup) 
