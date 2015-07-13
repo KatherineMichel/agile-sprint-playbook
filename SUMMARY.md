@@ -21,7 +21,7 @@
 * [Government Digital](government_digital.md)
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
-* [Business Model Canvas and Project Management](business_model_canvas_and_project_management.md)
+* [Business Model Canvas](business_model_canvas.md)
    * [Thought Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Competition](competition.md)
