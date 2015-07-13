@@ -60,7 +60,7 @@
    * [Pitch Practice](exercises/thoughtbot-pitch-practice.md)
 * [Additional Resources](additional_resources.md)
    * [Research](research.md)
-   * [BCM and PM Resources](bcm_and_pm_resources.md)
+   * [BCM Resources](bcm_resources.md)
    * [Project Management](project_management.md)
    * [Extra](extra.md)
 * [Combination- Design Sprint](combination-_design_sprint.md)
