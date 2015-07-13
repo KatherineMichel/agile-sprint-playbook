@@ -3,7 +3,6 @@
 *   [Project Management Wikipedia](http://en.wikipedia.org/wiki/Project_management)  
 *   [List of Project Management Topics](http://en.wikipedia.org/wiki/List_of_project_management_topics) 
 *   [Project Management Category Wikipedia](http://en.wikipedia.org/wiki/Category:Project_management) 
-
 Project Management Associations
 *   [Association for Project Management](http://www.apm.org.uk)  
 *   [Project Management Institute](http://www.pmi.org) 
