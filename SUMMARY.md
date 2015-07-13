@@ -62,6 +62,7 @@
    * [Previous Sprints Template](previous_sprints_template.md)
 * [Venture Analysis and Pitch](venture_analysis.md)
    * [Pitch Practice](exercises/thoughtbot-pitch-practice.md)
+* [Research](research.md)
 * [Additional Resources](additional_resources.md)
    * [Research](research.md)
    * [BCM and Innovator's Dilemma Resources](bcm_and_innovators_dilemma_resources.md)
