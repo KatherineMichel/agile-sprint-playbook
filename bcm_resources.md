@@ -19,10 +19,6 @@
 * Advisory Board Roadmap
 * Formal Advisory Board List
 
-## Product
-* Preliminary Product Specs 
-* Product Feature List/Product Benefit List (Prioritized)
-
 ## MVP
 * Low Fidelity Minimum Viable Product
 * High Fidelity Minimum Viable Product
@@ -59,8 +55,11 @@
 
 ## Strategy
 
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
+*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+
 * PESTLIED
-* Porter’s Five Forces
 * ANSOF
 * Strategic Groups
 * Resource-Based Approach
