@@ -1,18 +1,11 @@
 # Lean Customer Development Methodology
 
-## Documents
-
 ## MVP
 * Low Fidelity Minimum Viable Product
 * High Fidelity Minimum Viable Product
 * Dashboard
 * Initial Activities to Test
 * Sequential Optimization Plan
-
-## Customer, Workflow, Story
-* Customer Archetypes
-* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
-* One-page User Story
 
 ## Distribution Channels
 * Distribution Channel Diagram
