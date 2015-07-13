@@ -67,6 +67,7 @@
    * [BCM Resources](bcm_resources.md)
    * [Project Management](project_management.md)
    * [Extra](extra.md)
+   * Service Design Tools
 * [Combination- Design Sprint](combination-_design_sprint.md)
 * [Combination- Methods](combination-_methods.md)
 * [Combination- User Testing](combination-_user_testing.md)
