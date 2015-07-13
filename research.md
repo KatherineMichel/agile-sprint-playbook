@@ -1,5 +1,25 @@
 # Research
 
+Trends and Surveys
+*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)
+*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
+*   [SurveyMonkey](https://www.surveymonkey.com)
+
+General Research
+*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
+*   [Google Books](https://books.google.com)
+*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
+*   [Google Scholar](https://scholar.google.com)
+  
+Industry and Product Classifications
+*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
 Business Models
 *   [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
 *   [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
@@ -124,15 +144,6 @@ Analyst Groups
 *   [Pew Research](http://www.pewresearch.org), [Pew Research Fact Tank](http://www.pewresearch.org/fact-tank), [Pew Global](http://www.pewglobal.org), [Pew Internet](http://pewinternet.org), and [Pew Forum](http://www.pewforum.org) 
 *   [RedMonk Twitter](https://twitter.com/redmonk)  
 
-Industry and Product Classifications
-*   [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-*   [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-*   [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-*   [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-*   [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
 International and Development Data
 *   [Digital Economy and Society Index (DESI)](https://ec.europa.eu/digital-agenda/en/digital-economy-and-society-index-desi) and [Reports](https://ec.europa.eu/digital-agenda/en/download-scoreboard-reports)
 *   [Human Development Index](http://en.wikipedia.org/wiki/Human_Development_Index)  
@@ -162,13 +173,3 @@ U.K. and U.S. Data
 *   [U.S. Open Government Initiative](https://www.whitehouse.gov/open) and [U.S. Open Government Twitter](https://twitter.com/OpenGov)
 *   [U.S. Project Open Data](https://project-open-data.cio.gov)
 
-General Research
-*   [Heilmeier Questions](http://design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
-*   [Google Books](https://books.google.com)
-*   [Google Books Ngram Viewer](https://books.google.com/ngrams/graph)
-*   [Google Scholar](https://scholar.google.com)
-*   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-Surveys
-*   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
-*   [SurveyMonkey](https://www.surveymonkey.com)
