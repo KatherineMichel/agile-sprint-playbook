@@ -1,6 +1,5 @@
 # Service Design Tools
 
-
 http://www.servicedesigntools.org/glossary
 http://www.servicedesigntools.org/repository
 http://www.servicedesigntools.org/tools/6
