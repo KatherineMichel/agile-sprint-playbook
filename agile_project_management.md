@@ -36,6 +36,10 @@ Quality
 * [Website Requirements](http://www.usability.gov/how-to-and-tools/methods/requirements.html)
 * [Kick-Off Meeting](http://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html)
 
+## Agile Allegiance
+
+* [Resources](http://agilealliance.org/resources)
+* [Site Map](http://agilealliance.org/site-map)
 
 * [Acceptance testing](http://guide.agilealliance.org/guide/acceptance.html)
 * [ATDD](http://guide.agilealliance.org/guide/atdd.html)
