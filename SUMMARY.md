@@ -36,7 +36,7 @@
    * [Sales and Marketing Materials Toolset](sales_and_marketing_materials_toolset.md)
    * [Sales](sales.md)
    * [Positioning](positioning.md)
-   * [Organizational Chart](organizational_chart.md)
+   * [Charts](charts.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
