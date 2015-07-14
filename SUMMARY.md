@@ -18,7 +18,7 @@
    * [4 Prototype](thoughtbot/4-prototype.md)
    * [5 Test](thoughtbot/5-test.md)
        * [Test Sprint Summary](thoughtbot/5-test-sprint-summary.md)
-* [Documents](documents.md)
+* [Usability Gov User Testing Documents](usability_gov_user_testing_documents.md)
    * [Pre-Sprint Client Worksheet](thoughtbot/0-pre-sprint-client-worksheet.md)
    * [Pre-Sprint Request for Materials](thoughtbot/0-pre-sprint-request-for-materials.md)
    * [Previous Sprints Template](previous_sprints_template.md)
