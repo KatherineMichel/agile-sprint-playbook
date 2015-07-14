@@ -50,6 +50,12 @@ Boootcamp Bootleg and Mixtapes
 Methods
 *   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
 
+## The Digital Tookit for the Arts
+
+*   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit)
+*   [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
+
+
 ## U.K. Gov
 
 *   [Discovery](https://www.gov.uk/service-manual/phases/discovery.html)
