@@ -1,6 +1,31 @@
 # Additional Methodologies
 
+
+From Gitub
+
+
+
+
+
+
+
+
+The Digital Tookit for the Arts
+*   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
+
+U.K. Gov
+*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
+*   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases), [Discovery](https://www.gov.uk/service-manual/phases/discovery.html), [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Beta](https://www.gov.uk/service-manual/phases/beta), [Live](https://www.gov.uk/service-manual/phases/live), and [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
+*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
+
+Usability Gov
+*   [Government Usability](http://www.usability.gov), [What and Why](http://www.usability.gov/what-and-why/index.html), [Guidelines](http://guidelines.usability.gov), [Methods](http://www.usability.gov/how-to-and-tools/methods/index.html), [Templates](http://www.usability.gov/how-to-and-tools/resources/templates.html), and [Get Involved](http://www.usability.gov/get-involved/blog)
+*   
+
 ## Australian Digital Transformation Office
+
+Australia Digital Transformation Office
+*   [Australia Digital Transformation Office How to Apply the Standard](https://www.dto.gov.au/standard/how-apply-standard)
 
 ## IDEO
 *   [IDEO](http://www.ideo.com)
@@ -25,9 +50,7 @@ Field Guide and Toolkit
 
 ## Nesta DIY
 
-*   [Nesta DIY](http://diytoolkit.org)
-*   [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit)
-*   [Nesta DIY Tools](http://diytoolkit.org/tools)
+*   [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
 
 ## Nielson Norman Group
 
@@ -39,17 +62,15 @@ Field Guide and Toolkit
 *   [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
 
 ## Stanford Institute of Design
-*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start)
 
-Boootcamp Bootleg and Mixtapes
-*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf)
-*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses) 
-*   [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf) 
-*   [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf) 
-*   [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+*   [How Should I Start](http://dschool.stanford.edu/dgift/chart-a-new-course/how-should-i-start), [Use Our Methods](http://dschool.stanford.edu/use-our-methods)
+*   [Bootcamp Bootleg](http://dschool.stanford.edu/wp-content/uploads/2013/10/METHODCARDS-v3-slim.pdf),
+*   [Mixtapes](http://dschool.stanford.edu/dgift/chart-a-new-courses), [Understand Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/understand-mixtape-v8.pdf), [Experiment Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/experiment-mixtape-v8.pdf), [Ideate Mixtape](http://dschool.stanford.edu/wp-content/uploads/2012/02/ideate-mixtape-v8.pdf) 
+ 
 
-Methods
-*   [Stanford Institute of Design: Use Our Methods](http://dschool.stanford.edu/use-our-methods) 
+
+
+
 
 ## The Digital Tookit for the Arts
 
