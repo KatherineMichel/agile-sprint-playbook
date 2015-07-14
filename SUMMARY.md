@@ -22,6 +22,7 @@
    * [Pre-Sprint Client Worksheet](thoughtbot/0-pre-sprint-client-worksheet.md)
    * [Pre-Sprint Request for Materials](thoughtbot/0-pre-sprint-request-for-materials.md)
    * [Previous Sprints Template](previous_sprints_template.md)
+* [Nielson Norman User Testing Documents](nielson_norman_user_testing_documents.md)
 * [Government Digital](government_digital.md)
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
