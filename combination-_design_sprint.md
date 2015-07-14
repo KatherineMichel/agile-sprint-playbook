@@ -25,15 +25,6 @@ Throughout the week:
 * Expert Perspectives (thoughtbot)
 
 Business Model Canvas (thoughtbot)
-* Value Propositions
-* Customer Segments
-* Customer Relationships
-* Key Partners
-* Key Activities
-* Key Resources
-* Cost Structure
-* Revenue Streams
-* Channels
 
 ## thoughtbot Activities
 
