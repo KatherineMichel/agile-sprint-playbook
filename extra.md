@@ -46,10 +46,6 @@ Accelerator Resources
 *   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake)
   
 Documents
-*   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
-*   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-*   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
-
 500 Startups, Tech Stars, and YCombinator Docs/RFS
 *   [500 Startups Keep It Simple Security](http://500.co/kiss)  
 *   [Tech Stars Docs](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
@@ -70,15 +66,9 @@ Document Libraries
 *   [Docracy Documents](http://www.docracy.com/application/dochome) 
 *   [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
 *   [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
-*   [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github)
-*   [Mattermark Aquihire](http://www.scribd.com/doc/127459918/Example-Simple-Asset-Purchase-Agreement) 
 *   [National Venture Capital Association Model Legal Documents](http://nvca.org/resources/model-legal-documents)
 *   [Next View Ventures Blog](http://nextviewventures.com/blog) and [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources) 
 *   [Orrick's (Docracy) Documents](http://www.docracy.com/doc/showalluserdocs?sortBy=3&amp;amp;amp;page=1&amp;amp;amp;userId=10881), [Orrick's Start Up Forms Library](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-*   [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
-*   [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
-*   [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
-*   [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
 *   [Rocket Lawyer](https://www.rocketlawyer.com) 
 *   [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
 *   [Shake Simply Legal](http://www.shakelaw.com) 
@@ -87,9 +77,6 @@ Document Libraries
 *   [Venture Docs](https://venturedocs.com/documents)  
 *   [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator)  
 *   [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://dealbuilder.wsgr.com)
-
-MOOCs
-*   [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance), [Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
 
 #### Company and Product Databases
 
@@ -182,17 +169,11 @@ Courses
 *   [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 *   [Mark Cranney: Sales Process](https://a16z.files.wordpress.com/2014/05/cranney_salesprocess.jpg) 
 *   [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-*   [New York Times: Innovation Report](http://www.scribd.com/doc/224332847/NYT-Innovation-Report-2014) 
 *   [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
 *   [Reid Hoffman: "world-changing startups need to be premised on 'Accurate Contrarian Theories'"](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=1685)
 *   [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
 *   [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 *   [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 *   [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-
-#### Journalism
-
-Journalism Handbooks
-*   [BBC Journalism Academy- 12 Months Trial](http://www.bbc.co.uk/academy/journalism) and [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages)
 
 [Back to Top](#)
