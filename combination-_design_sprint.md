@@ -24,15 +24,6 @@ Business Model Canvas
 *   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
 *   [Business Model Canvas](http://www.designkit.org/methods/41)
 Business Model Canvas (thoughtbot)
-* Value Propositions
-* Customer Segments
-* Customer Relationships
-* Key Partners
-* Key Activities
-* Key Resources
-* Cost Structure
-* Revenue Streams
-* Channels
 
 Business Plan
 *   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
