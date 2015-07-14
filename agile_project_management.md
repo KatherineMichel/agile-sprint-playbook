@@ -50,6 +50,10 @@ Project Management Software
 * [Resources](http://agilealliance.org/resources)
 * [Site Map](http://agilealliance.org/site-map)
 
+* [Project chartering](http://guide.agilealliance.org/guide/project-chartering.html)
+* [Planning poker](http://guide.agilealliance.org/guide/poker.html)
+* [Version control](http://guide.agilealliance.org/guide/versioncontrol.html)
+
 * [Usability testing](http://guide.agilealliance.org/guide/usability.html)
 * [User stories](http://guide.agilealliance.org/guide/user-stories.html)
 * [Facilitation](http://guide.agilealliance.org/guide/facilitation.html)
@@ -92,8 +96,6 @@ Project Management Software
 * [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
 * [Pair programming](http://guide.agilealliance.org/guide/pairing.html)
 * [Points (estimates in)](http://guide.agilealliance.org/guide/points-estimates-in.html)
-* [Planning poker](http://guide.agilealliance.org/guide/poker.html)
-* [Project chartering](http://guide.agilealliance.org/guide/project-chartering.html)
 * [Refactoring](http://guide.agilealliance.org/guide/refactoring.html)
 * [Relative estimation](http://guide.agilealliance.org/guide/relative.html)
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
@@ -110,4 +112,3 @@ Project Management Software
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
 * [Unit testing](http://guide.agilealliance.org/guide/unittest.html)
 * [Velocity](http://guide.agilealliance.org/guide/velocity.html)
-* [Version control](http://guide.agilealliance.org/guide/versioncontrol.html)
