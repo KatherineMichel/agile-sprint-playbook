@@ -5,7 +5,7 @@ U.S. Digital Services
 *   [CIO Playbook](http://playbook.cio.gov) and [CIO Playbook GitHub](https://github.com/whitehouse/playbook)  
 
 U.S. 
-*   [18F](https://18f.gsa.gov), [18F GitHub](https://github.com/18F), and [18F Guides](https://pages.18f.gov/guides)
+*   [18F](https://18f.gsa.gov), [18F GitHub](https://github.com/18F), [18F Guides](https://pages.18f.gov/guides), and [18F Guides GitHub](https://github.com/18F/pages)
 *   [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 *   [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
 *   [Code for America](http://www.codeforamerica.org)
