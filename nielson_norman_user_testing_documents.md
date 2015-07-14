@@ -5,16 +5,20 @@
 [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 
 Appendix B: Sample Scripts and Forms 164
-* Interview Topics for Meeting with the System Team 169
-* Interview Questions for the System Team 170
-* Participant Database Information to Track 175
+
 * Participant Summary Table 183
 
-* Sample Questions for Eliciting Sensitive Information 59 and 167 (Nielson Norman)
-* Sample Questions for Eliciting Web Experience 60-61, 168 (Nielson Norman)
-* Sample Participant Screening Script and Questionnaire 65-71, 176 (Nielson Norman)
-* Sample Script for Preliminary Contact by Study Sponsor 58, 183 (Nielson Norman)
-* Confirmation Message 166 (Nielson Norman)
+* Sample Filled-In Participant Summary Table 97 and 183
+* Participant Database Information to Track 175
+
+* Interview Topics for Meeting with the System Team 169
+* Interview Questions for the System Team 170
+
+* Sample Questions for Eliciting Sensitive Information 59 and 167
+* Sample Questions for Eliciting Web Experience 60-61, 168
+* Sample Participant Screening Script and Questionnaire 65-71, 176
+* Sample Script for Preliminary Contact by Study Sponsor 58, 183
+* Confirmation Message 166
 
 * Sample Background Questionnaire 108, 164
 * Dealing with Unqualified Participants 167
