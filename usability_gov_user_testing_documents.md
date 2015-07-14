@@ -23,9 +23,9 @@ Appendix B: Sample Scripts and Forms 164
 * Voucher Form 185
 * Thank-You Note 185
 
-## Usability Gov
+# Usability Gov User Testing Documents
 
-### Planning
+## Planning
 
 Overview Documents
 * [UX Study Overview Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/ux-study-overview-template.html)
@@ -57,7 +57,7 @@ Persona Development
 Measurable Usability Goals
 * [Measurable Usability Goals Template DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/measurable-usability-goals-template.html)
 
-### Initiation
+## Initiation
 
 Test Screener
 * [Usability Test Screener: Government website DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/usability-test-screener-government-site.html)
@@ -82,7 +82,7 @@ Receipts (Adult and Minor)
 * [Receipt Form: Usability Test Compensation Receipt Form (Adult) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-adult.html)
 * [Receipt Form: Usability Test Compensation (Minor) DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/receipt-form-usability-test-compensation-minor.html)
 
-### Reports
+## Reports
 
 Usability Test Results Reports
 * [Report Template: Usability Test DOCX](http://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
