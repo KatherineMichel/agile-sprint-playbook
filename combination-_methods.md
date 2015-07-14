@@ -245,12 +245,21 @@ Sprint Summary
 * Three-minute critiques (GV)
 * Group critique (thoughtbot)
 * Super vote (GV)
+* Repeat
+
+## thoughtbot Day 2: Diverge Day
 * Identify biggest risks, determine goals for the prototype
 * Identify and diagram the critical path for the prototype
+
+### Additional Activities
 * Have a mindset of "Yes and"
 * 3-12-3
+
+## GV Day 3: Decide Day
 * Discussion and consensus
 * Whiteboard the user story
+
+## thoughtbot Day 3: Converge Day
 * Revisit our risks
 * Identify themes/conflicts our storyboards
 * List the underlying assumptions
@@ -260,6 +269,8 @@ Sprint Summary
 * Plan interview questions 
 * Make plans for reducing risks not addressed by the prototype 
 Prototype 
+
+## Day 4: Prototype Day
 
 Wireframing, Prototyping, Prototype Testing, Piloting, and Parallel Design
 * [Wireframing](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
