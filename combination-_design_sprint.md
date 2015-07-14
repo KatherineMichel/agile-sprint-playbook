@@ -1,6 +1,3 @@
-Usability Project Management
-* [Project Management](http://www.usability.gov/what-and-why/project-management.html)
-
 Problem Definition
 *   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
 *   [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
