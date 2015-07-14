@@ -67,4 +67,3 @@
    * [Service Design Tools](service_design_tools.md)
    * [Project Management Extra](project_management_extra.md)
    * [Extra](extra.md)
-* [Combination- User Testing](combination-_user_testing.md)
