@@ -17,6 +17,7 @@ Project Management Software
 
 Project Management Methodologies
 *   [Agile Management Wikipedia](http://en.wikipedia.org/wiki/Agile_management) 
+*   [Agile Manifesto](http://agilemanifesto.org/iso/en/principles.html) 
 *   [PMI Agile Toolbox](http://www.pmi.org/Certification/New-PMI-Agile-Certification/PMI-Agile-Toolbox.aspx) 
 *   [Extreme Programming Wikipedia](http://en.wikipedia.org/wiki/Extreme_programming)
 *   [Extreme Programming](http://www.extremeprogramming.org) 
