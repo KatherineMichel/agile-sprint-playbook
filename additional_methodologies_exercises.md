@@ -188,7 +188,6 @@ Workshops and Interviews
 *   [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 *   [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
 
-
 *   [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
 *   [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
