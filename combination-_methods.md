@@ -217,6 +217,7 @@ Sprint Summary
 * Major learnings/take aways
 * Where to go next
 
+## Day 1: Understanding Day
 * Research and Analysis (GV and thoughtbot) 
 * Lightening Demos (GV and thoughtbot)
 * Definitions: The problem, The Value Prop, Success (thoughtbot)
@@ -225,12 +226,16 @@ Sprint Summary
 * Start an Assumptions Board (thoughtbot)
 * Start an Back-burner Board (thoughtbot)
 * Expert Perspectives (thoughtbot)
+
+## thoughtbot Activities
 * Gather existing knowledge/research, expose assumptions and unknowns
 * Needs / Wants / Desires
 * [Five Whys](http://www.gamestorming.com/games-for-problem-solving/the-5-whys).
 * [Who / What / Where / When](http://www.gamestorming.com/games-for-any-meeting/help-me-understand)
 * Critical Path
 * Open Card Sorting
+
+## Day 2: Diverge Day
 * Divide up user story (GV)
 * Take notes "how might we" (GV and thoughtbot)
 * Mind map (GV and thoughtbot)
