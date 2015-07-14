@@ -22,19 +22,8 @@ http://plusacumen.org/courses
 
 #### Design
 
-Design Schools and Philosophies
-*   [D-Lab MIT](http://d-lab.mit.edu) 
-
 Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
-
-#### Google Ventures Design Sprint
-
-*   [Basecamp: A Shorthand for Designing UI Flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
-
-* [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
-   
-*   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
 
 #### Popular Tools
 
@@ -57,8 +46,6 @@ Accelerator Resources
 *   [YCombinator](http://ycombinator.com), [YCList](http://yclist.com), [YCombinator Handshake](http://www.ycombinator.com/handshake)
   
 Documents
-
-
 *   [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
 *   [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
 *   [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
