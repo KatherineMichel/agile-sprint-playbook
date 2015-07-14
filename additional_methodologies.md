@@ -6,6 +6,7 @@ Australia Digital Transformation Office
 *   [Australia Digital Transformation Office How to Apply the Standard](https://www.dto.gov.au/standard/how-apply-standard)
 
 ## IDEO
+
 *   [IDEO](http://www.ideo.com)
 *   [IDEO Org](http://www.ideo.org)
 *   [Mindsets](http://www.designkit.org/mindsets)
@@ -49,8 +50,8 @@ Field Guide and Toolkit
 
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 
+## U.K. Gov
 
-U.K. Gov
 *   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
 *   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases), [Discovery](https://www.gov.uk/service-manual/phases/discovery.html), [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Beta](https://www.gov.uk/service-manual/phases/beta), [Live](https://www.gov.uk/service-manual/phases/live), and [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
 *   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
