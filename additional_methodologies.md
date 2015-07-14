@@ -52,8 +52,7 @@ Methods
 
 ## The Digital Tookit for the Arts
 
-*   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit)
-*   [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
+*   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 
 
 ## U.K. Gov
