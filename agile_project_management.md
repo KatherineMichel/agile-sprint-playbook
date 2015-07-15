@@ -54,6 +54,7 @@ Project Management Software
 * [Planning poker](http://guide.agilealliance.org/guide/poker.html)
 * [Version control](http://guide.agilealliance.org/guide/versioncontrol.html)
 * [Pair programming](http://guide.agilealliance.org/guide/pairing.html)
+* [Refactoring](http://guide.agilealliance.org/guide/refactoring.html)
 
 * [Usability testing](http://guide.agilealliance.org/guide/usability.html)
 * [User stories](http://guide.agilealliance.org/guide/user-stories.html)
@@ -111,7 +112,6 @@ Project Management Software
 * [Milestone retrospective](http://guide.agilealliance.org/guide/milestone-retro.html)
 * [Mock objects](http://guide.agilealliance.org/guide/mocks.html)
 * [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
-* [Refactoring](http://guide.agilealliance.org/guide/refactoring.html)
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
 * [Sign up for tasks](http://guide.agilealliance.org/guide/sign-up-for-tasks.html)
 * [Task board](http://guide.agilealliance.org/guide/taskboard.html)
