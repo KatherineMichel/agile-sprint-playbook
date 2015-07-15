@@ -6,9 +6,9 @@
 * Business Plan
 * Strategy/SWOT Analysis
 * Project Plan/Lean/Agile
+* SMART/Define Success, Measure and Evaluate
 * Stakeholders
 * Future
-* SMART/Define Success, Measure and Evaluate
 * Kick-Off Meeting
 * Create a Pitch, Funding Strategy, Setting up a Venture
 * Storytelling
