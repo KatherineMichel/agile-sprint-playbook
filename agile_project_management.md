@@ -63,7 +63,14 @@ Project Management Software
 * [Story splitting](http://guide.agilealliance.org/guide/split.html)
 * [Story mapping](http://guide.agilealliance.org/guide/storymap.html)
 * [Role-feature-reason](http://guide.agilealliance.org/guide/rolefeature.html)
+* [Three C's](http://guide.agilealliance.org/guide/threecs.html)
 
+* [Team](http://guide.agilealliance.org/guide/team.html)
+* [Team room](http://guide.agilealliance.org/guide/teamroom.html)
+* [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
+
+* [Sustainable pace](http://guide.agilealliance.org/guide/sustainable.html)
+* [Timebox](http://guide.agilealliance.org/guide/timebox.html)
 * [Estimation](http://guide.agilealliance.org/guide/estimation.html)
 * [Velocity](http://guide.agilealliance.org/guide/velocity.html)
 
@@ -84,6 +91,7 @@ Project Management Software
 * [Integration](http://guide.agilealliance.org/guide/integration.html)
 * [Iteration](http://guide.agilealliance.org/guide/iteration.html)
 * [Iterative development](http://guide.agilealliance.org/guide/iterative.html)
+* [TDD](http://guide.agilealliance.org/guide/tdd.html)
 * [Unit testing](http://guide.agilealliance.org/guide/unittest.html)
 
 * [Burndown chart](http://guide.agilealliance.org/guide/burndown.html)
@@ -106,12 +114,5 @@ Project Management Software
 * [Rules of simplicity](http://guide.agilealliance.org/guide/rules-of-simplicity.html)
 * [Scrum of Scrums](http://guide.agilealliance.org/guide/scrumofscrums.html)
 * [Sign up for tasks](http://guide.agilealliance.org/guide/sign-up-for-tasks.html)
-* [Sustainable pace](http://guide.agilealliance.org/guide/sustainable.html)
 * [Task board](http://guide.agilealliance.org/guide/taskboard.html)
-* [TDD](http://guide.agilealliance.org/guide/tdd.html)
-* [Team](http://guide.agilealliance.org/guide/team.html)
-* [Team room](http://guide.agilealliance.org/guide/teamroom.html)
-* [Three C's](http://guide.agilealliance.org/guide/threecs.html)
-* [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
-* [Timebox](http://guide.agilealliance.org/guide/timebox.html)
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
