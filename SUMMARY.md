@@ -69,5 +69,5 @@
    * [Service Design Tools](service_design_tools.md)
    * [Project Management Extra](project_management_extra.md)
    * [Extra](extra.md)
-* List
+* [List](list.md)
 
