@@ -77,6 +77,7 @@ Project Management Software
 * [Collective ownership](http://guide.agilealliance.org/guide/cco.html)
 * [Three questions](http://guide.agilealliance.org/guide/threeqs.html)
 * [Information radiators](http://guide.agilealliance.org/guide/information-radiator.html)
+* [Burndown chart](http://guide.agilealliance.org/guide/burndown.html)
 * [Task board](http://guide.agilealliance.org/guide/taskboard.html)
 * [Sign up for tasks](http://guide.agilealliance.org/guide/sign-up-for-tasks.html)
 * [Niko-niko calendar](http://guide.agilealliance.org/guide/nikoniko.html)
@@ -112,7 +113,6 @@ Project Management Software
 * [Mock objects](http://guide.agilealliance.org/guide/mocks.html)
 * [TDD](http://guide.agilealliance.org/guide/tdd.html)
 * [Unit testing](http://guide.agilealliance.org/guide/unittest.html)
-
-* [Burndown chart](http://guide.agilealliance.org/guide/burndown.html)
 * [CRC cards](http://guide.agilealliance.org/guide/crc.html)
+
 * [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
