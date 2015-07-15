@@ -28,7 +28,7 @@
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Business Model Canvas](business_model_canvas.md)
-   * [Thought Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
+   * [Thoughtbot Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Competition](competition.md)
    * [Market](market.md)
