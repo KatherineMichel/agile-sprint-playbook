@@ -8,8 +8,6 @@
 
 *   [Value Chain Wikipedia](http://en.wikipedia.org/wiki/Value_chain)
 
-Kickoff Meeting
-
 ## Notable Proposals and Pitch Decks
 
 *   [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
