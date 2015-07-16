@@ -4,6 +4,7 @@ Beginnings
 * Problem Definition Statement
 
 Business
+* Venture Analysis
 * Statement of Work
 * Business Case/Business Plan
 * Requirements
