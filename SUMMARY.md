@@ -46,7 +46,6 @@
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Additional Resources](additional_resources.md)
-   * [Business Model Canvas](business_model_canvas.md)
    * [Lean Customer Development](lean_customer_development.md)
    * [Research](research.md)
    * [Extra](extra.md)
