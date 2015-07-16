@@ -3,13 +3,9 @@
 What is your business and what do you envision it to be?
 
 * The Problem
-* Market
 * Opportunity
 * Vision
-* Lightning Demos
 * Analytics: Google AdWords
-* What does success look like?
-* Define Terminology
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
 * "Who are your customers or who do you expect them to be?"
