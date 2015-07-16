@@ -51,6 +51,5 @@
    * [Business Model Canvas](business_model_canvas.md)
    * [Lean Customer Development](lean_customer_development.md)
    * [Research](research.md)
-   * [Project Management Extra](project_management_extra.md)
    * [Extra](extra.md)
 
