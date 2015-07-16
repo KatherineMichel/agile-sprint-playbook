@@ -22,12 +22,18 @@ Strategic Analysis
 * Lightning Demos
 * Competitor Analysis
 
-Design Sprint
+Customers
+* Customer Journey Map
+* Customer Segments
+* Motivation
+* Resource Flow
 
-Customers and Use Case
+Personas, Use Cases, Role Play
 * Personas
 * Use Cases
 * Role Play and Script
+
+Design Sprint
 
 Input and Feedback
 * Heuristic Evaluation
@@ -72,9 +78,6 @@ Organization
 * Business Plan
 * Project Plan
 * SMART/Define Success, Measure and Evaluate
-* Customer Journey Map
-* Customer Segments
-* Motivation
-* Resource Flow
+
 
 
