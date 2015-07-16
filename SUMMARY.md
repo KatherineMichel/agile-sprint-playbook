@@ -31,7 +31,6 @@
 * [Business Model Canvas](business_model_canvas.md)
    * [Thoughtbot Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
-   * [Market](market.md)
    * [Business and Financial Model](business_and_financial_model.md)
    * [Key Resources](key_resources.md)
    * [Meetings and Presentations](meetings_and_presentations.md)
