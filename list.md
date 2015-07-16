@@ -1,6 +1,7 @@
 # My Toolkit
 
 Set Up
+* Project Approach: Agile/Scrum, Waterfall
 * Phases
 * Project Team Roles and Responsibilities
 * Stakeholders
