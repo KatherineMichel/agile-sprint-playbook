@@ -1,5 +1,7 @@
 ## Google Ventures Design Sprint
 
+[Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
+
 ## Design
 
 http://www.google.com/design/#resources
