@@ -17,7 +17,7 @@ Project
 * Project Team Roles and Responsibilities
 * Stakeholders
 * Critical Path
-* Define Success (What does it look like?), Measurement and Evaluation
+* Define Success (What does success look like?), Measurement and Evaluation
 * SMART
 * Timeline
 
@@ -106,3 +106,6 @@ Going Forward
 Organization
 * Organization Chart
 * Advisory Board Roadmap
+
+Terminology
+* Define Terminology
