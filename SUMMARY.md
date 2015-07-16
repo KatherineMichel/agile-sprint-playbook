@@ -47,7 +47,6 @@
    * [Organization](organization.md)
    * [Strategy](strategy.md)
    * [MVP](mvp.md)
-   * [Distribution Channels](distribution_channels.md)
    * [Lean Customer Development](lean_customer_development.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
