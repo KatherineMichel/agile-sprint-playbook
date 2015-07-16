@@ -45,7 +45,6 @@
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Additional Resources](additional_resources.md)
    * [User Centered Design](user-centered-design.md)
-   * [Government Digital](government_digital.md)
    * [Business Model Canvas](business_model_canvas.md)
    * [Lean Customer Development](lean_customer_development.md)
    * [Research](research.md)
