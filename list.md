@@ -1,14 +1,19 @@
 # My Toolkit
 
-Set Up
+Beginnings
+* Problem Definition Statement
+
+Business
+* Business Plan
+
+Project
+* Project Definition Plan
 * Project Approach: Agile/Scrum, Lean, Waterfall
 * Phases
 * Project Team Roles and Responsibilities
 * Stakeholders
 * Timeline
-
-Beginnings
-* Problem Definition Statement
+* SMART/Define Success, Measure and Evaluate
 
 Business Model Canvas
 * Value Proposition
@@ -23,10 +28,13 @@ Strategic Analysis
 * Competitor Analysis
 
 Customers
-* Customer Journey Map
 * Customer Segments
 * Motivation
 * Resource Flow
+* Customer Journey Map
+
+Visualizing the Future
+* Day in the Life of a Customer
 
 Personas, Use Cases, Role Play
 * Personas
@@ -65,19 +73,9 @@ Presentations
 * Narrative
 * Pitch
 
-Visualizing the Future
-
 Going Forward
 * Feedback and Iteration
 * Scaling, Sustainability, and Growth
 
 Organization
 * Advisory Board Roadmap
-
-
-* Business Plan
-* Project Plan
-* SMART/Define Success, Measure and Evaluate
-
-
-
