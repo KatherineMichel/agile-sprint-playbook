@@ -5,3 +5,7 @@ https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#government-f
 https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#pretotyping
 
 https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#prototyping
+
+https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#venture-analysis
+
+https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#notable-proposals-and-pitch-decks
