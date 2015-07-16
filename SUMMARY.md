@@ -49,7 +49,6 @@
    * [Prototyping and Pretotyping](prototyping_and_pretotyping.md)
    * [Government Digital](government_digital.md)
    * [Business Model Canvas](business_model_canvas.md)
-   * [Thoughtbot Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Lean Customer Development](lean_customer_development.md)
    * [Research](research.md)
    * [Project Management Extra](project_management_extra.md)
