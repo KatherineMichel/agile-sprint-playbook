@@ -10,7 +10,7 @@ What is your business and what do you envision it to be?
 * Analytics: Google AdWords
 * What does success look like?
 * Define Terminology
-* Sources of inspiratoin
+* Sources of inspiration
 
 
 
