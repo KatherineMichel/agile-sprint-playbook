@@ -11,38 +11,29 @@ What is your business and what do you envision it to be?
 * Long term business goals: 1 year from now
 * Metrics: monitor progress, determine success
 * Valuable articles, notes and other info
-
-
-## Problem 1: 
-
-Current Solutions:
-------------------
-
-What does the world look like without this problem?
-----------------------
+* Current Solutions:
+* What does the world look like without this problem?
 
 ## The Value Hypothesis (What value will people get from this product?)
 
 For customer segment #1:
 -------------------
 
-**Customer Segment #1**
-
 * What do we already know? (the facts)
 * What do we need to know more about and “how might we” find it out?
   * [add questions to the ‘risks’ doc]
 
-# Thoughtbot Risks
+# Thoughtbot Risks 
 
 *Identify all assumptions and knowledge gaps that introduce risk. Gathering them here will help us in assessing the riskiest ones and making actionable plans for reducing that risk so we can move forward confidently and as risk averse as possible.*
 
-# Thoughtbot Assumptions
+## Thoughtbot Assumptions
 
 * Assumptions about our product
 * Assumptions about the the market/problem
 * Assumptions about the customers
 
-# Thoughtbot Questions
+## Thoughtbot Questions
 
 * Questions about the customer
 * Questions about the market/problem
