@@ -4,9 +4,11 @@ Beginnings
 * Problem Definition Statement
 
 Business
-* Business Plan
+* Statement of Work
+* Business Case/Business Plan
 
 Project
+* Project Charter
 * Project Definition Plan
 * Project Approach: Agile/Scrum, Lean, Waterfall
 * Phases
