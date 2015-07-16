@@ -1,7 +1,7 @@
 # My Toolkit
 
 Set Up
-* Project Approach: Agile/Scrum, Waterfall
+* Project Approach: Agile/Scrum, Lean, Waterfall
 * Phases
 * Project Team Roles and Responsibilities
 * Stakeholders
@@ -70,7 +70,7 @@ Organization
 
 
 * Business Plan
-* Project Plan/Lean/Agile
+* Project Plan
 * SMART/Define Success, Measure and Evaluate
 * Customer Journey Map
 * Customer Segments
