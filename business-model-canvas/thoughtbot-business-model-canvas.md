@@ -65,11 +65,6 @@ For customer segment #1:
 * Questions about the market/problem
 * Questions about our product
 
-# Inspirational Info Source
-
-TODO: find a way to make this more visual
-TODO: info sources should just be referenced when info from that source is captured
-
 Valuable articles and other info
 ------------
 *Gather articles and info and add notes on what was valuable. Make sure to update other documents based on learnings.*
