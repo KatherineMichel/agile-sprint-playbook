@@ -48,7 +48,6 @@
    * [User Centered Design](user-centered-design.md)
    * [Prototyping and Pretotyping](prototyping_and_pretotyping.md)
    * [Government Digital](government_digital.md)
-   * [Service Design Tools](service_design_tools.md)
    * [Business Model Canvas](business_model_canvas.md)
    * [Thoughtbot Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Lean Customer Development](lean_customer_development.md)
