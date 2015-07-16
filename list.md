@@ -71,5 +71,9 @@ Organization
 * Business Plan
 * Project Plan/Lean/Agile
 * SMART/Define Success, Measure and Evaluate
+* Customer Journey Map
+* Customer Segments
+* Motivation
+* Resource Flow
 
 
