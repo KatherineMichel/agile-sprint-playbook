@@ -1,4 +1,6 @@
-# Distribution Channels
+# Lean Customer Development
+
+## Distribution Channels
 
 * Distribution Channel Diagram
 * Distribution Channel Plan
