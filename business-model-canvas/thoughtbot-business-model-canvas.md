@@ -2,9 +2,7 @@
 
 What is your business and what do you envision it to be?
 
-* The Problem
 * Opportunity
-* Vision
 * Analytics: Google AdWords
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
