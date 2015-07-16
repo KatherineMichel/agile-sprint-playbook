@@ -32,7 +32,6 @@
    * [Thoughtbot Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
    * [Business and Financial Model](business_and_financial_model.md)
-   * [Key Resources](key_resources.md)
    * [Meetings and Presentations](meetings_and_presentations.md)
    * [Sales and Marketing Materials Toolset](sales_and_marketing_materials_toolset.md)
    * [Lean Customer Development](lean_customer_development.md)
