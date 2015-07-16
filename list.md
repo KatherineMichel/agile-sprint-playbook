@@ -1,4 +1,4 @@
-# List
+# My Toolkit
 
 Set Up
 * Phases
@@ -59,7 +59,7 @@ Going Forward
 * Strategy/SWOT Analysis
 * Project Plan/Lean/Agile
 * SMART/Define Success, Measure and Evaluate
-* Peers Observing Peers, Immersion,  Guided Tours, Experience Tour, Shadowing, Task Analysis
+* Tour
 * Blueprint
 * Usability Heuristic Evaluations, Expert Reviews, Expert Interview
 
