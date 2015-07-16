@@ -9,6 +9,8 @@ What is your business and what do you envision it to be?
 * Lightning Demos
 * Analytics: Google AdWords
 * What does success look like?
+* Define Terminology
+* Sources of inspiratoin
 
 
 
@@ -71,12 +73,6 @@ For customer segment #1:
 TODO: find a way to make this more visual
 TODO: info sources should just be referenced when info from that source is captured
 
-Sources of Inspiration
-----------------------
-*Gather sources of inspiration and take notes on what is inspiring.*
-
 Valuable articles and other info
 ------------
 *Gather articles and info and add notes on what was valuable. Make sure to update other documents based on learnings.*
-
-# Define: Terms
