@@ -11,7 +11,7 @@ What is your business and what do you envision it to be?
 * What does success look like?
 * Define Terminology
 * Sources of inspiration
-
+* "Gathering Forces: Facts that will shape this product/service"
 
 
 *What are the immediate business goals?*
@@ -48,9 +48,6 @@ For customer segment #1:
 * What do we already know? (the facts)
 * What do we need to know more about and “how might we” find it out?
   * [add questions to the ‘risks’ doc]
-
-# Gathering Forces
-*Facts that will shape this product/service*
 
 ## Risks
 
