@@ -30,6 +30,8 @@ Strategic Analysis
 * Lightning Demos
 * Competitor Analysis
 
+Market Analysis
+
 Customers
 * Customer Segments
 * Motivation
@@ -38,6 +40,8 @@ Customers
 
 Visualizing the Future
 * Day in the Life of a Customer
+* Tomorrow's Headline
+* Tomorrow's SEC Filing
 
 Personas, Use Cases, Role Play
 * Personas
@@ -77,6 +81,8 @@ Presentations
 * Pitch
 
 Going Forward
+* Roadmap
+* Product Specifications
 * Feedback and Iteration
 * Scaling, Sustainability, and Growth
 
