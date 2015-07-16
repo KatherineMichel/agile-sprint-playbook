@@ -42,13 +42,11 @@ Strategic Analysis
 Market Analysis
 
 Customers
-* Customer Segments
 * Motivation
 * Resource Flow
-* Customer Journey Map
 
 Visualizing the Future
-* Day in the Life of a Customer
+* Customer Journey Map/Day in the Life of a Customer (Before and After)
 * Tomorrow's Headline
 * Tomorrow's SEC Filing
 
