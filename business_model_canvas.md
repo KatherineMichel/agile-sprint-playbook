@@ -1,6 +1,0 @@
-# Lean Startup and Launchpad
-
-
-
-
-
