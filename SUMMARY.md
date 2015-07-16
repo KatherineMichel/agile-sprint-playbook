@@ -45,7 +45,6 @@
    * [Positioning](positioning.md)
    * [Charts](charts.md)
    * [Organization](organization.md)
-   * [Strategy](strategy.md)
    * [Lean Customer Development](lean_customer_development.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
