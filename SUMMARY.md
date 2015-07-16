@@ -54,6 +54,5 @@
    * [Venture Analysis and Pitch](venture_analysis.md)
    * [Research](research.md)
    * [Project Management Extra](project_management_extra.md)
-   * [Lean Startup](lean_startup.md)
    * [Extra](extra.md)
 
