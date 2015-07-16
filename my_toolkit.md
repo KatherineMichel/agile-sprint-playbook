@@ -22,15 +22,15 @@ Project
 * Timeline
 
 Business Model Canvas
-* Value Propositions
-* Customer Segments
-* Customer Relationships
-* Key Partners
-* Key Activities
-* Key Resources
-* Cost Structure
-* Revenue Streams
-* Channels
+* Value Propositions (What do you do?)
+* Customer (Audience) Segments (Who do you help?)
+* Key Partners (Who will help you?)
+* Key Activities (How do you do it?)
+* Key Resources (What do you need?)
+* Distribution Channels (How do you reach them?)
+* Customer (Audience) Relationships (How do you interact?)
+* Cost Structure (What will it cost?)
+* Revenue Streams (How much will you make?)
 
 Kick-Off Meeting
 
