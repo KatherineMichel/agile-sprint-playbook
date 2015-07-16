@@ -20,7 +20,15 @@ Project
 * Timeline
 
 Business Model Canvas
-* Value Proposition
+* Value Propositions
+* Customer Segments
+* Customer Relationships
+* Key Partners
+* Key Activities
+* Key Resources
+* Cost Structure
+* Revenue Streams
+* Channels
 
 Kick-Off Meeting
 
