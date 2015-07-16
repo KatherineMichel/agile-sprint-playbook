@@ -2,6 +2,7 @@
 
 * [GitHub README](README.md)
 * [Introduction](introduction.md)
+* [My Toolkit](my_toolkit.md)
 * [Previous Sprints](previous-sprints.md)
 * [Agile Project Management](agile_project_management.md)
 * [User Centered Design](user-centered-design.md)
@@ -69,5 +70,4 @@
    * [Service Design Tools](service_design_tools.md)
    * [Project Management Extra](project_management_extra.md)
    * [Extra](extra.md)
-* [My Toolkit](my_toolkit.md)
 
