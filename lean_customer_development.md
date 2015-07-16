@@ -1,5 +1,13 @@
 # Lean Customer Development
 
+## Organizational Chart
+
+### Company Organizational Chart
+
+### Users, Buyers, Channels
+
+### Customer Influence Map
+
 ## Strategy
 
 *   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
