@@ -12,6 +12,7 @@ What is your business and what do you envision it to be?
 * Define Terminology
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
+* "Who are your customers or who do you expect them to be?"
 
 
 *What are the immediate business goals?*
@@ -39,9 +40,6 @@ What does the world look like without this problem?
 
 For customer segment #1:
 -------------------
-
-# The Customer(s)
-*Who are your customers or who do you expect them to be?*
 
 **Customer Segment #1**
 
