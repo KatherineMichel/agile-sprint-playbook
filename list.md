@@ -6,6 +6,7 @@ Beginnings
 Business
 * Statement of Work
 * Business Case/Business Plan
+* Requirements
 
 Project
 * Project Charter
