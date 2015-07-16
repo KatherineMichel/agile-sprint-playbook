@@ -48,6 +48,7 @@
    * [Strategy](strategy.md)
    * [MVP](mvp.md)
    * [Distribution Channels](distribution_channels.md)
+   * Lean Customer Development
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
