@@ -1,6 +1,6 @@
 # My Toolkit
 
-Beginnings
+Beginnings, Problem
 * Problem Definition Statement
 
 Business
@@ -52,7 +52,7 @@ Customers
 * Motivation
 * Resource Flow
 
-Visualizing the Future
+Vision: Visualizing the Future
 * Customer Journey Map/Day in the Life of a Customer (Before and After)
 * Tomorrow's Headline
 * Tomorrow's SEC Filing
