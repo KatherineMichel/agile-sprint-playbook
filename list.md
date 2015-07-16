@@ -33,6 +33,9 @@ Presentations
 * Narrative
 * Pitch
 
+Going Forward
+* Feedback and Iteration
+* Scaling, Sustainability, and Growth
 
 * Problem Definition
 * Project Team
@@ -45,13 +48,9 @@ Presentations
 * Kick-Off Meeting
 * Peers Observing Peers, Immersion,  Guided Tours, Experience Tour, Shadowing, Task Analysis
 * Blueprint
-* Personas, Use Cases, Role Play
 * Usability Heuristic Evaluations, Expert Reviews, Expert Interview
 * Website Requirements
 * Card Sorting 
 * Parallel Design
 * Conversations
-* Artistic Methods
-* Feedback and Iteration
-* System Usability Scale (SUS)
-* Scaling, Sustainability, and Growth
+
