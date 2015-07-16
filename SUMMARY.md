@@ -38,7 +38,6 @@
    * [Customer](customer.md)
    * [Partners](partners.md)
    * [User Story](user_story.md)
-   * [Product and Timeline](product_and_timeline.md)
    * [Meetings and Presentations](meetings_and_presentations.md)
    * [Sales and Marketing Materials Toolset](sales_and_marketing_materials_toolset.md)
    * [Lean Customer Development](lean_customer_development.md)
