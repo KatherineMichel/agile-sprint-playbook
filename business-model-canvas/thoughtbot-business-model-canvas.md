@@ -2,14 +2,11 @@
 
 What is your business and what do you envision it to be?
 
-*The Market*
-------------
+* Market
+* Opportunity
+* Vision
 
-*The  opportunity*
------------------
 
-*What is the vision?*
---------------------
 
 *What are the immediate business goals?*
 --------------------------------------
