@@ -16,6 +16,7 @@ Project
 * Phases
 * Project Team Roles and Responsibilities
 * Stakeholders
+* Critical Path
 * Define Success (What does it look like?), Measurement and Evaluation
 * SMART
 * Timeline
@@ -66,10 +67,11 @@ Input and Feedback
 * Survey
 
 Creative
-* Brainstorm
-* Collage
+* Crazy Eights
 * Storyboard
 * Mindmap
+* Brainstorm
+* Collage
 * System Map
 
 Web Design
