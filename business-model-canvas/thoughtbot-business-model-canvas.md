@@ -9,12 +9,9 @@ What is your business and what do you envision it to be?
 * "Who are your customers or who do you expect them to be?"
 * Immediate business goals: in 1 month, 3 months, 6 months
 * Long term business goals: 1 year from now
+* Metrics: monitor progress, determine success
+* Valuable articles, notes and other info
 
-
-
-
-*What metrics can we measure to monitor our progress and determine success?*
--------------
 
 ## Problem 1: 
 
@@ -35,22 +32,18 @@ For customer segment #1:
 * What do we need to know more about and “how might we” find it out?
   * [add questions to the ‘risks’ doc]
 
-## Risks
+# Thoughtbot Risks
 
 *Identify all assumptions and knowledge gaps that introduce risk. Gathering them here will help us in assessing the riskiest ones and making actionable plans for reducing that risk so we can move forward confidently and as risk averse as possible.*
 
-# Assumptions
+# Thoughtbot Assumptions
 
 * Assumptions about our product
 * Assumptions about the the market/problem
 * Assumptions about the customers
 
-# Questions
+# Thoughtbot Questions
 
 * Questions about the customer
 * Questions about the market/problem
 * Questions about our product
-
-Valuable articles and other info
-------------
-*Gather articles and info and add notes on what was valuable. Make sure to update other documents based on learnings.*
