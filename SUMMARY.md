@@ -23,7 +23,7 @@
 * [Thoughtbot User Testing Documents](thoughtbot_user_testing_documents.md)
    * [Pre-Sprint Client Worksheet](thoughtbot/0-pre-sprint-client-worksheet.md)
    * [Pre-Sprint Request for Materials](thoughtbot/0-pre-sprint-request-for-materials.md)
-* [Thoughtbot Exercises](exercises.md)
+* [Thoughtbot Exercises](thoughtbot_exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
    * [Start an Back-burner Board](exercises/thoughtbot-back-burner.md)
    * [Start an Assumptions Board](exercises/thoughtbot-assumptions.md)
