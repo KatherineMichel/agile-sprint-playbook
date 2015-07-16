@@ -42,7 +42,6 @@
    * [Meetings and Presentations](meetings_and_presentations.md)
    * [Sales and Marketing Materials Toolset](sales_and_marketing_materials_toolset.md)
    * [Sales](sales.md)
-   * [Positioning](positioning.md)
    * [Lean Customer Development](lean_customer_development.md)
 * [Exercises](exercises.md)
    * [Critical Path](exercises/thoughtbot-critical-path.md)
