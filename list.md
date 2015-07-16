@@ -12,8 +12,9 @@ Project
 * Phases
 * Project Team Roles and Responsibilities
 * Stakeholders
+* Define Success (What does it look like?), Measurement and Evaluation
+* SMART
 * Timeline
-* SMART/Define Success, Measure and Evaluate
 
 Business Model Canvas
 * Value Proposition
@@ -78,4 +79,5 @@ Going Forward
 * Scaling, Sustainability, and Growth
 
 Organization
+* Organization Chart
 * Advisory Board Roadmap
