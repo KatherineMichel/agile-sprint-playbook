@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [My Toolkit](my_toolkit.md)
 * [My Previous Sprints](my_previous_sprints.md)
-* [Agile Project Management](agile_project_management.md)
+* [Project Management](project_management.md)
 * [User Centered Design](user-centered-design.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google_ventures_research_and_design_sprint_methodology.md)
    * [GV Research Sprint Methodology](google-ventures/gv_research_sprint_methodology.md)
