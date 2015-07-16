@@ -5,6 +5,8 @@ What is your business and what do you envision it to be?
 * Market
 * Opportunity
 * Vision
+* Lightning Demos
+* Analytics: Google AdWords
 
 
 
@@ -38,11 +40,6 @@ What does the world look like without this problem?
 
 For customer segment #1:
 -------------------
-
-# Competitive Analysis
-[Summary of Analytics and Lightning Demos]
-
-**Analytics: Google AdWords**
 
 # The Customer(s)
 *Who are your customers or who do you expect them to be?*
