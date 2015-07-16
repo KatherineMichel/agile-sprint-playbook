@@ -44,7 +44,6 @@
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Additional Resources](additional_resources.md)
-   * [Venture Analysis and Pitch](venture_analysis.md)
    * [User Centered Design](user-centered-design.md)
    * [Prototyping and Pretotyping](prototyping_and_pretotyping.md)
    * [Government Digital](government_digital.md)
