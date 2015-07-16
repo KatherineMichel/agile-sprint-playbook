@@ -78,6 +78,8 @@ User Testing
 Design Principles
 
 Presentations
+* Referrals/Double Opt-In Intros
+* Venture and Funding Strategy
 * Narrative
 * Pitch
 
