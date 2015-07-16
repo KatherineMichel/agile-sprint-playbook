@@ -1,5 +1,15 @@
 # Research
 
+# Venture Analysis
+
+https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#venture-analysis
+
+## Notable Proposals and Pitch Decks
+
+https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#notable-proposals-and-pitch-decks
+
+https://www.slideshare.net/create
+
 Trends and Surveys
 *   [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)
 *   [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home) and [Pricing](http://www.google.com/insights/consumersurveys/pricing)
