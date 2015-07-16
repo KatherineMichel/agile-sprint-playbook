@@ -1,5 +1,39 @@
 # List
 
+Kick-Off Meeting
+
+Visualizing the Future
+
+Design Principles
+
+Research and Design Sprint
+
+Customers and Use Case
+* Personas
+* Use Cases
+* Role Play and Script
+
+Input and Feedback
+* Tour
+* Interview
+* Focus Group
+* Survey
+
+Creative
+* Brainstorm
+* Collage
+* Storyboard
+
+User Testing
+* Wireframe
+* Prototype
+* Pilot
+
+Presentations
+* Narrative
+* Pitch
+
+
 * Problem Definition
 * Project Team
 * Business Model Canvas
@@ -8,24 +42,16 @@
 * Project Plan/Lean/Agile
 * SMART/Define Success, Measure and Evaluate
 * Stakeholders
-* Future
 * Kick-Off Meeting
-* Create a Pitch, Funding Strategy, Setting up a Venture
-* Storytelling
 * Peers Observing Peers, Immersion,  Guided Tours, Experience Tour, Shadowing, Task Analysis
 * Blueprint
 * Personas, Use Cases, Role Play
 * Usability Heuristic Evaluations, Expert Reviews, Expert Interview
-* Research
 * Website Requirements
 * Card Sorting 
-* Focus Groups, Interviews, Conversations, Surveys
-* Workshops: Creative Workshop, Co-Creation Session
-* Design
-* Brainstorming
+* Parallel Design
+* Conversations
 * Artistic Methods
-* Parallel Design, Mockup, Wireframing, Prototyping, Prototype Testing, Piloting
-* Simple Usability Tools
 * Feedback and Iteration
 * System Usability Scale (SUS)
 * Scaling, Sustainability, and Growth
