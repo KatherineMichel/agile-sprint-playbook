@@ -2,7 +2,7 @@
 
 Set Up
 * Phases
-* Project Team
+* Project Team Roles and Responsibilities
 * Stakeholders
 
 Beginnings
