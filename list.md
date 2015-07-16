@@ -29,6 +29,8 @@ Creative
 * Brainstorm
 * Collage
 * Storyboard
+* Mindmap
+* System Map
 
 User Testing
 * Wireframe
