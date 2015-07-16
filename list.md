@@ -13,7 +13,9 @@ Business Model Canvas
 
 Kick-Off Meeting
 
-Research and Design Sprint
+Research Sprint
+
+Design Sprint
 
 Customers and Use Case
 * Personas
@@ -21,6 +23,7 @@ Customers and Use Case
 * Role Play and Script
 
 Input and Feedback
+* Heuristic Evaluation
 * Tour
 * Interview
 * Focus Group
@@ -54,6 +57,10 @@ Visualizing the Future
 Going Forward
 * Feedback and Iteration
 * Scaling, Sustainability, and Growth
+
+Organization
+* Advisory Board Roadmap
+
 
 * Business Plan
 * Strategy/SWOT Analysis
