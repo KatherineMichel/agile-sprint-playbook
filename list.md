@@ -1,5 +1,11 @@
 # List
 
+Beginnings
+* Problem Definition Statement
+* Value Proposition
+
+Business Model Canvas
+
 Kick-Off Meeting
 
 Visualizing the Future
@@ -45,7 +51,6 @@ Going Forward
 * Project Plan/Lean/Agile
 * SMART/Define Success, Measure and Evaluate
 * Stakeholders
-* Kick-Off Meeting
 * Peers Observing Peers, Immersion,  Guided Tours, Experience Tour, Shadowing, Task Analysis
 * Blueprint
 * Usability Heuristic Evaluations, Expert Reviews, Expert Interview
