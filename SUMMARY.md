@@ -45,7 +45,6 @@
 * [Business Model Canvas](business_model_canvas.md)
    * [Thoughtbot Business Model Canvas](business-model-canvas/thoughtbot-business-model-canvas.md)
    * [Problem Statement](business-model-canvas/thoughtbot-problem-statement.md)
-   * [Meetings and Presentations](meetings_and_presentations.md)
    * [Lean Customer Development](lean_customer_development.md)
 * [Additional Resources](additional_resources.md)
    * [Venture Analysis and Pitch](venture_analysis.md)
