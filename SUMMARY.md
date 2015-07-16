@@ -69,6 +69,6 @@
 * [Additional Resources](additional_resources.md)
    * [Service Design Tools](service_design_tools.md)
    * [Project Management Extra](project_management_extra.md)
+   * [Lean Startup](lean_startup.md)
    * [Extra](extra.md)
-* [Lean Startup](lean_startup.md)
 
