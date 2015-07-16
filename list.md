@@ -4,6 +4,7 @@ Set Up
 * Phases
 * Project Team Roles and Responsibilities
 * Stakeholders
+* Timeline
 
 Beginnings
 * Problem Definition Statement
@@ -14,6 +15,11 @@ Business Model Canvas
 Kick-Off Meeting
 
 Research Sprint
+
+Strategic Analysis
+* SWOT
+* Lightning Demos
+* Competitor Analysis
 
 Design Sprint
 
@@ -63,11 +69,7 @@ Organization
 
 
 * Business Plan
-* Strategy/SWOT Analysis
 * Project Plan/Lean/Agile
 * SMART/Define Success, Measure and Evaluate
-* Tour
-* Blueprint
-* Usability Heuristic Evaluations, Expert Reviews, Expert Interview
 
 
