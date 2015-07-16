@@ -13,11 +13,8 @@ What is your business and what do you envision it to be?
 * Valuable articles, notes and other info
 * Current Solutions:
 * What does the world look like without this problem?
-
-## The Value Hypothesis (What value will people get from this product?)
-
-For customer segment #1:
--------------------
+* For customer segment #1
+* "The Value Hypothesis (What value will people get from this product?)"
 
 * What do we already know? (the facts)
 * What do we need to know more about and “how might we” find it out?
