@@ -1,12 +1,6 @@
 # Research
 
-# Venture Analysis
-
-https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#venture-analysis
-
 ## Notable Proposals and Pitch Decks
-
-https://github.com/KatherineMichel/tech-and-venture-capital-toolkit#notable-proposals-and-pitch-decks
 
 https://www.slideshare.net/create
 
