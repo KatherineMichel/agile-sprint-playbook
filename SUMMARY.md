@@ -40,6 +40,7 @@
    * [Five Whys](exercises/thoughtbot-five-whys.md)
    * [Who / What / Where / When](exercises/thoughtbot-who-what-when-where.md)
 * [Usability Gov User Testing Documents](usability_gov_user_testing_documents.md)
+   * [Usability Study Process and Materials Checklist](usability_study_process_and_materials_checklist.md)
 * [Nielson Norman User Testing Documents](nielson_norman_user_testing_documents.md)
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
