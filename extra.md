@@ -1,5 +1,7 @@
 ## Google Ventures Design Sprint
 
+https://www.slideshare.net/create
+
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
 
 ## Design
