@@ -37,16 +37,6 @@ Templates
 * Ebook Templates
 * Checklists
 
-## More
-* [Good Kickoff Meetings](http://goodkickoffmeetings.com)
-
-## Gamestorming
-
-*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
-
-http://www.innovationgames.com/resources/tools-and-templates/
-http://www.innovationgames.com/resources/the-games/
-
 ## Usability Gov Links
 
 http://webstyleguide.com/wsg3/3-information-architecture/index.html
