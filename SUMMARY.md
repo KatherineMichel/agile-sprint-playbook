@@ -1,6 +1,6 @@
 # Summary
 
-* [GitHub README](README.md)
+* [About](README.md)
 * [Introduction](introduction.md)
 * [My Work](my_work.md)
    * [My Research and Design Sprint Methodology](my_toolkit.md)
