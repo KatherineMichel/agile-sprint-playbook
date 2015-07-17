@@ -1,7 +1,5 @@
 # Research
 
-## Notable Proposals and Pitch Decks
-
 https://www.slideshare.net/create
 
 Trends and Surveys
