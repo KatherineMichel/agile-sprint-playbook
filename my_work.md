@@ -12,8 +12,10 @@
 
 * The Global United Methodist Church Reimagined
 
-# Tech and Venture Capital Toolkit
+## My Resources
 
-https://github.com/KatherineMichel/tech-and-venture-capital-toolkit
+* [Tech and Venture Capital Toolkit](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit)
+
+
 
 
