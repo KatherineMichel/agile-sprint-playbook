@@ -1,5 +1,16 @@
 # Additional Resources
 
+## Kick Off Meetings
+
+* [Good Kick Off Meetings](http://goodkickoffmeetings.com)
+
+## Games
+
+*  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
+
+http://www.innovationgames.com/resources/tools-and-templates/
+http://www.innovationgames.com/resources/the-games/
+
 ## Website Launch Checklist
 *   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
 
