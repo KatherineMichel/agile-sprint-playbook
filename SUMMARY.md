@@ -5,7 +5,6 @@
 * [My Work](my_work.md)
    * [My Research and Design Sprint Methodology](my_toolkit.md)
    * [Tech and Venture Capital Toolkit](tech_and_venture_capital_toolkit.md)
-   * [My Previous Sprints](my_previous_sprints.md)
    * [Project Management](project_management.md)
 * [User Centered Design](user-centered-design.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google_ventures_research_and_design_sprint_methodology.md)
