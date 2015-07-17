@@ -192,9 +192,3 @@ http://plusacumen.org/courses/hcd-for-social-innovation/
 
 http://plusacumen.org/courses
 
-#### Design
-
-Website Launch Checklist
-*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
-
-[Back to Top](#)
