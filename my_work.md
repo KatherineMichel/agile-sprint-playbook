@@ -10,7 +10,7 @@
 
 ## My Previous Sprints
 
-* The Global United Methodist Church Reimagined
+* [The Global United Methodist Church Reimagined](https://www.gitbook.com/book/katherinemichel/the-global-united-methodist-church-reimagined/details)
 
 ## My Resources
 
