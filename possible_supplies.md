@@ -5,6 +5,7 @@
 General
 * A place to meet
 * Wall or board
+* Whiteboard
 * Paper (small, large sheets)
 * Post-its
 * Pens
