@@ -158,14 +158,14 @@ Board
 * Advisory Board Roadmap
 * Formal Advisory Board List
 
-## MVP
+MVP
 * Low Fidelity Minimum Viable Product
 * High Fidelity Minimum Viable Product
 * Dashboard
 * Initial Activities to Test
 * Sequential Optimization Plan
 
-## Sales and Marketing Materials Toolset (adapted from Steve Blank, Lean Customer Development) 
+Sales and Marketing Materials Toolset (adapted from Steve Blank, Lean Customer Development) 
 
 * PowerPoint sales presentation
 * Presentation leave-behind folder or brochure
@@ -200,3 +200,15 @@ For B-to-C companies
 * Retail packaging
 * Coupons
 * Ad slicks
+
+Scorecard
+
+Feedback for
+* Product and features (confirm product fills real need)
+* Intended market
+* Pricing/Cost
+* Distribution
+* Referrals
+* Sales results compared to sales estimates/quota
+
+Spreadsheet
