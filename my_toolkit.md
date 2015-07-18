@@ -80,6 +80,10 @@ Distribution Channels
 * “Food Chain” Drawing
 * Channel Partner's Business Model Drawing
 
+Customer impact
+* Will your product create network effects?
+* Does it have organic demand versus requiring marketing spend?
+
 Pricing Tactics options
 * Value pricing
 * Competitive pricing
