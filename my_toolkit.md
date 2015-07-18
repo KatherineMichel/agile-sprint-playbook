@@ -229,7 +229,9 @@ Product Benefit List
 * Do the benefits needs to be explained?
 
 Organization
+* Organization Structure (Founders, Investors, Board)
 * Organization Chart
+* Company 3-5 Core Values
 
 Board
 * Initial List of Advisory Board Prospects
