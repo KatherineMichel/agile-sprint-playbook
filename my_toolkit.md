@@ -14,6 +14,14 @@ Business
 * Business Case/Business Plan
 * Requirements
 
+Business Plan Example
+* Executive Summary
+* Business Overview
+* Sales and Marketing
+* Finances, Planning
+* Staff and Management Team
+* Operations and Resources
+
 Project
 * Project Charter
 * Project Definition Plan
