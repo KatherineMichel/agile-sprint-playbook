@@ -155,51 +155,41 @@ Create two problem presentations for multi-sided markets
 
 ## Customer
 
-### Customer Archetype
+Customer Archetype
+* Define distinctive customer types (day to day users)
+* Become the customer
 
-Define distinctive customer types (day to day users)
+Influencers, Recommenders
+* List those who could influence a customer’s buying decision
 
-### Influencers, Recommenders
-
-List those who could influence a customer’s buying decision
-
-### "Economic Buyers" 
-(The person whose budget pays for it)
-
+"Economic Buyers" (The person whose budget pays for it)
 * Does the economic buyer already have budget for product
 * Does budget need to be approved?
 
-### "Decision Makers"
+"Decision Makers"* 
+* Person who can kill purchase (for example by not approving budget)
 
-Person who can kill purchase (for example by not approving budget)
-
-### Potential Saboteurs
-
-### Become the Customer
+Potential Saboteurs
 
 ## Partners
 
-### Key Partners
-
+Key Partners
 * List key partners (target/necessary) 
 * What they will provide
 * What company will give in return ("value exchange")
 
-### Partner Types
-
+Partner Types
 * Strategic alliances
 * Joint new business efforts
 * Coopetition
 * Key suppliers
 * Traffic partners
 
-## Organizational Chart
-
-### Company Organizational Chart
-
-### Users, Buyers, Channels
-
-### Customer Influence Map
+## Charts
+* Organizational Chart
+* Company Organizational Chart
+* Users, Buyers, Channels
+* Customer Influence Map
 
 ## Strategy
 
