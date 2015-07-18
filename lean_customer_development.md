@@ -118,17 +118,6 @@ Customer Archetype
 * Estimate current product and follow-on products
 * Will there be a series of products? 
 
-### Product Feature List
-
-* List product features, review and prioritize list
-* 10 one- or two-sentence descriptions of product features
-
-### Product Benefit List
-
-* List benefits through customer's eyes
-* Under the features, summarize benefits for each
-* Do the benefits needs to be explained?
-
 ### Timeline
 
 * Product timeline 18 months out
@@ -149,7 +138,7 @@ One page "Day in the life of the customer" flow diagram, including:
 * Product benefits
 * Jobs the product will do
 
-### "Before" visualized (without product)
+"Before" visualized (without product)
 
 ### "After" visualized (with product)
 How will the product influence, change the customer's life? 
