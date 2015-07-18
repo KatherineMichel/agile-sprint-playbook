@@ -67,18 +67,6 @@ What is your business and what do you envision it to be?
 * Company Organizational Chart
 * Users, Buyers, Channels
 
-## Sales
-
-* Customer Access Map
-* Sales Channel Action Plan
-* Sales Roadmap, Sales Playbook
-* Sales Strategy Map (how account is entered, who is called on, order of calls, presentation)
-* Sales process flowchart
-* Implementation Plan
-* Sales channel management
-* Team members given responsibilities
-* Steps identified to close a sale, deliver product
-
 * [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
 * One-page User Story
 
