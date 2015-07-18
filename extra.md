@@ -8,9 +8,6 @@ What is your business and what do you envision it to be?
 
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
-* Metrics: monitor progress, determine success
-* Current Solutions:
-* What does the world look like without this problem?
 * For customer segment #1
 
 * Valuable articles, notes and other info
