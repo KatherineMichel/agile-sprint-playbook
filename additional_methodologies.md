@@ -20,6 +20,9 @@ Field Guide and Toolkit
 *   [IDEO Design Kit](http://www.designkit.org)
 *   [IDEO Design Kit Methods](http://www.designkit.org/methods)
 
+## LEGO® SERIOUS PLAY®
+*   [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
+
 ## Nesta 
 
 *   [Nesta](http://www.nesta.org.uk)
