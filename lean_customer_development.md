@@ -97,14 +97,10 @@ Customer Archetype
 * Steps identified to close a sale, deliver product
 
 ### Preliminary Product Specs 
-
-* Estimate current product and follow-on products
-* Will there be a series of products? 
-
-### Timeline
-
 * Product timeline 18 months out
 * List key follow-on product enhancements
+* Estimate current product and follow-on products
+* Will there be a series of products? 
 * Product enhancements anticipated up to 18 months
 * MVP delivery date/features
 
