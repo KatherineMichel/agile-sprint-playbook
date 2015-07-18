@@ -59,16 +59,7 @@ What is your business and what do you envision it to be?
 * Company Organizational Chart
 * Users, Buyers, Channels
 
-## Organization
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
-* 18-Month Schedule of Product Delivery Dates
 
 * Immediate business goals: in 1 month, 3 months, 6 months
 * Long term business goals: 1 year from now
-
-### Preliminary Product Specs 
-* List key follow-on product enhancements
-* Estimate current product and follow-on products
-* Will there be a series of products? 
-* Product enhancements anticipated up to 18 months
-* MVP delivery date/features
