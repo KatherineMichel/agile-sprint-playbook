@@ -119,23 +119,16 @@ Customer Archetype
 * Company Organizational Chart
 * Users, Buyers, Channels
 
-## Distribution Channels
-
-* Distribution Channel Diagram
-* Distribution Channel Plan
-* Channel Responsibility Map
-* “Food Chain” Drawing
-* Channel Partner's Business Model Drawing
-
 ## Organization
 * Organization Structure (Founders, Investors, Board)
 * Company 3-5 Core Values
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
-* Customer Development/Discovery and Validation Approximate Timeframe
 * 18-Month Schedule of Delivery Dates
 
 * Immediate business goals: in 1 month, 3 months, 6 months
 * Long term business goals: 1 year from now
+
+* Customer Development/Discovery and Validation Approximate Timeframe
 
 ## Positioning
 
