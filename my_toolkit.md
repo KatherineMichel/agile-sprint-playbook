@@ -16,7 +16,7 @@ Business Model Canvas
 * Cost Structure (What will it cost?)
 * Revenue Streams (How much will you make?)
 
-## Partners
+## Key Partners
 
 Key Partners
 * List key partners (target/necessary) 
@@ -29,6 +29,20 @@ Partner Types
 * Coopetition
 * Key suppliers
 * Traffic partners
+
+## Key Resources
+
+* List key resources (critical to success)
+* How will company find/secure
+* Identify key resource costs
+
+Key Resources Types
+
+* Physical resources
+* Financial resources
+* Human resources
+* Intellectual property
+* Other key resources
 
 Beginnings, Problem
 * Problem Definition Statement
