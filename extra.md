@@ -8,7 +8,6 @@ What is your business and what do you envision it to be?
 
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
-* For customer segment #1
 
 * Valuable articles, notes and other info
 * What do we already know? (the facts)
