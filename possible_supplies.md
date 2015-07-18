@@ -26,3 +26,8 @@ Fieldwork
 * Travel
 * Accommodation
 * Tools for work
+
+Real World Testing
+* Space
+* Staff
+* Permits
