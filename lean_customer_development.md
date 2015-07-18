@@ -84,21 +84,6 @@ Customer Archetype
 
 * Customer Development/Discovery and Validation Approximate Timeframe
 
-## Positioning
-
-### Company Messaging/Positioning Statement
-
-* Company description
-* Vision
-* Mission statement
-
-### Product Messaging/Positioning Statement
-
-* Product Positioning Brief
-* Condenses Value Proposition into single phrase or sentence
-* Match product positioning with market type
-* Validate positioning with customers, analyst/influencers
-
 ## Sales
 
 * Customer Access Map
@@ -110,8 +95,6 @@ Customer Archetype
 * Sales channel management
 * Team members given responsibilities
 * Steps identified to close a sale, deliver product
-
-## Product and Timeline
 
 ### Preliminary Product Specs 
 
