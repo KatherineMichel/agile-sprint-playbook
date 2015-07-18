@@ -27,14 +27,11 @@
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
 
 * "Gathering Forces: Facts that will shape this product/service"
-
 * Valuable articles, notes and other info
 * What do we already know? (the facts)
 * What do we need to know more about and “how might we” find it out?
   * [add questions to the ‘risks’ doc]
   
-https://www.slideshare.net/create
-
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
 
 ## Design
