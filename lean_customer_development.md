@@ -63,12 +63,6 @@ What is your business and what do you envision it to be?
 
 ### Dependency analysis
 
-## Customer
-
-Customer Archetype
-* Define distinctive customer types (day to day users)
-* Become the customer
-
 ## Charts
 * Company Organizational Chart
 * Users, Buyers, Channels
