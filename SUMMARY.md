@@ -46,4 +46,5 @@
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Additional Resources](additional_resources.md)
    * [Possible Supplies](possible_supplies.md)
+   * [Possible Team Members](possible_team_members.md)
    * [Extra](extra.md)
