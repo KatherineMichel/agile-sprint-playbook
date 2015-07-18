@@ -20,6 +20,7 @@ Research and Prototyping
 * Prototyping materials
 * Internet connection
 * Research materials
+* Spreadsheet program
 
 Fieldwork
 * Travel
