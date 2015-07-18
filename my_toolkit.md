@@ -221,7 +221,7 @@ Vision: Visualizing the Future
 * Tomorrow's Headline
 * Tomorrow's SEC Filing
 
-How will world be different 18 moths after launch? 
+How will world be different 18 months after launch? 
 * 3 years after launch?
 * 10 years after launch?
 
