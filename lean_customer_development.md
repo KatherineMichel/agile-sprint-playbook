@@ -233,17 +233,3 @@ How will world be different 18 moths after launch?
 ## Meetings and Presentations
 
 ### Key Presentations
-
-Sales Presentations
-* Problem Presentation
-* Solution Presentation
-* Product Presentation
-
-Prepare
-* Develop and rehearse presentations
-* Give presentation to several customer types
-* Show customer's perceived problem, show current solution, show startup's proposed solution
-* Describe product (five key features) 
-* Insert multiple prompts to invite customer feedback
-* Do customer interviews for those who heard first "problem presentation" 
-* If appropriate, include prototype/MVP/demo
