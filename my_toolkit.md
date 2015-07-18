@@ -241,9 +241,21 @@ Types of meetings
 * Channel and Traffic Partners (to test sell)
 * Key analysts/industry influencers (special script/presentation) to obtain detailed feedback about marketplace/product
 
-Scorecard
+Key Sales Presentations
+* Problem Presentation
+* Solution Presentation
+* Product Presentation
 
-Feedback for
+Preparation and Presentations
+* Develop and rehearse presentations
+* Give presentation to several customer types
+* Show customer's perceived problem, show current solution, show startup's proposed solution
+* Describe product (five key features) 
+* Insert multiple prompts to invite customer feedback
+* Do customer interviews for those who heard first "problem presentation" 
+* If appropriate, include prototype/MVP/demo
+
+Scorecard (Feedback for)
 * Product and features (confirm product fills real need)
 * Intended market
 * Pricing/Cost
