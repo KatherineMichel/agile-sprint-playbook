@@ -18,7 +18,7 @@ General
 
 Research and Prototyping
 * Prototyping materials
-* Internet connection
+* Computer, internet connection
 * Research materials
 * Spreadsheet program
 
