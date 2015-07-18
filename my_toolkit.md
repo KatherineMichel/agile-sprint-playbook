@@ -92,7 +92,21 @@ Kick-Off Meeting
 Research Sprint
 
 Strategic Analysis
-* SWOT
+*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
+*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+
+* PESTLIED
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
+
+Competitors
 * Lightning Demos
 * Competitor Analysis
 
