@@ -240,7 +240,12 @@ Going Forward
 * Feedback and Iteration
 * Scaling, Sustainability, and Growth
 
-Product Specifications
+Preliminary/Product Specifications
+* 18-month schedule of product delivery dates
+* MVP delivery date/features
+* List key follow-on product enhancements anticipated
+* Estimate current product and follow-on products
+* Will there be a series of products? 
 
 Product Feature List
 * List product features, review and prioritize list
