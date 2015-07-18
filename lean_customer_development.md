@@ -2,7 +2,6 @@
 
 What is your business and what do you envision it to be?
 
-* Analytics: Google AdWords
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
 * Metrics: monitor progress, determine success
@@ -100,5 +99,3 @@ How will world be different 18 moths after launch?
 * Will there be a series of products? 
 * Product enhancements anticipated up to 18 months
 * MVP delivery date/features
-
-* Customer Development/Discovery and Validation Approximate Timeframe
