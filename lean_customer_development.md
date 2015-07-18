@@ -92,20 +92,6 @@ Pricing Tactics options
 * Will your product create network effects?
 * Does it have organic demand versus requiring marketing spend?
 
-## Key Resources
-
-* List key resources (critical to success)
-* How will company find/secure
-* Identify key resource costs
-
-### Types of Key Resources
-
-* Physical resources
-* Financial resources
-* Human resources
-* Intellectual property
-* Other key resources
-
 ### Dependency analysis
 
 ## Market
