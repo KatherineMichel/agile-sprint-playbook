@@ -1,48 +1,7 @@
 # My Toolkit
 
-Business Model Canvas
-# Business Model Canvas
-
-   * [Business Model Canvas](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
-[![](business-model-canvas/the-business-model-canvas.jpg)](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
-
-* Value Propositions (What do you do?)
-* Customer (Audience) Segments (Who do you help?)
-* Key Partners (Who will help you?)
-* Key Activities (How do you do it?)
-* Key Resources (What do you need?)
-* Distribution Channels (How do you reach them?)
-* Customer (Audience) Relationships (How do you interact?)
-* Cost Structure (What will it cost?)
-* Revenue Streams (How much will you make?)
-
-## Key Partners
-
-Key Partners
-* List key partners (target/necessary) 
-* What they will provide
-* What company will give in return ("value exchange")
-
-Partner Types
-* Strategic alliances
-* Joint new business efforts
-* Coopetition
-* Key suppliers
-* Traffic partners
-
-## Key Resources
-
-* List key resources (critical to success)
-* How will company find/secure
-* Identify key resource costs
-
-Key Resources Types
-
-* Physical resources
-* Financial resources
-* Human resources
-* Intellectual property
-* Other key resources
+Terminology
+* Define Terminology
 
 Beginnings, Problem
 * Problem Definition Statement
@@ -64,6 +23,46 @@ Project
 * Define Success (What does success look like?), Measurement and Evaluation
 * SMART
 * Timeline
+
+Business Model Canvas
+
+   * [Business Model Canvas](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
+[![](business-model-canvas/the-business-model-canvas.jpg)](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
+
+* Value Propositions (What do you do?)
+* Customer (Audience) Segments (Who do you help?)
+* Key Partners (Who will help you?)
+* Key Activities (How do you do it?)
+* Key Resources (What do you need?)
+* Distribution Channels (How do you reach them?)
+* Customer (Audience) Relationships (How do you interact?)
+* Cost Structure (What will it cost?)
+* Revenue Streams (How much will you make?)
+
+Key Partners
+* List key partners (target/necessary) 
+* What they will provide
+* What company will give in return ("value exchange")
+
+Partner Types
+* Strategic alliances
+* Joint new business efforts
+* Coopetition
+* Key suppliers
+* Traffic partners
+
+Key Resources
+* List key resources (critical to success)
+* How will company find/secure
+* Identify key resource costs
+
+Key Resources Types
+
+* Physical resources
+* Financial resources
+* Human resources
+* Intellectual property
+* Other key resources
 
 Kick-Off Meeting
 
@@ -139,8 +138,12 @@ Board
 * Advisory Board Roadmap
 * Formal Advisory Board List
 
-Terminology
-* Define Terminology
+## MVP
+* Low Fidelity Minimum Viable Product
+* High Fidelity Minimum Viable Product
+* Dashboard
+* Initial Activities to Test
+* Sequential Optimization Plan
 
 ## Sales and Marketing Materials Toolset (adapted from Steve Blank, Lean Customer Development) 
 
