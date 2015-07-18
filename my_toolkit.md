@@ -3,8 +3,9 @@
 Terminology
 * Define Terminology
 
-Beginnings, Problem
+Beginnings, Problem, Idea, Vision
 * Problem Definition Statement
+* Business Idea and Vision
 
 Business
 * Venture Analysis
