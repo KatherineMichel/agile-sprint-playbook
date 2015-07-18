@@ -35,25 +35,6 @@ What is your business and what do you envision it to be?
 
 # Business and Financial Model
 
-### Revenue and Pricing
-
-Revenue model options
-* Sales
-* Subscriptions
-* Pay-per-use
-* Referral
-* Affiliate
-
-Pricing Tactics options
-* Value pricing
-* Competitive pricing
-* Volume pricing
-* Portfolio pricing
-* Razor/razor blade model
-* Subscription
-* Leasing
-* Freemium
-
 ### Considerations
 
 * Prospect conversion rates
@@ -168,6 +149,9 @@ Customer Archetype
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
 * Customer Development/Discovery and Validation Approximate Timeframe
 * 18-Month Schedule of Delivery Dates
+
+* Immediate business goals: in 1 month, 3 months, 6 months
+* Long term business goals: 1 year from now
 
 ## Positioning
 
