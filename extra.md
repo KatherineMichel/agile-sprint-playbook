@@ -4,8 +4,6 @@
 
 * Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
 
-What is your business and what do you envision it to be?
-
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
 
