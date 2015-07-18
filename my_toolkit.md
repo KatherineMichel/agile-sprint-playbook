@@ -6,6 +6,7 @@ Terminology
 Beginnings, Problem, Idea, Vision
 * Problem Definition Statement
 * Business Idea and Vision
+* Inspiration
 
 Business
 * Venture Analysis
