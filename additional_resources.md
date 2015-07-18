@@ -9,9 +9,6 @@
 *  [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 *  [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and  [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
 
-## Website Launch Checklist
-*   [Website Launch Checklist for Web Designers GitHub](https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers)  
-
 ## Data Gathering Methods
 
 * Quantitative: Data (analytics)
