@@ -63,34 +63,6 @@ What is your business and what do you envision it to be?
 
 ### Dependency analysis
 
-## Market
-
-Overall market knowledge, market map
-
-### Market type
-* Existing
-* Resegmented
-* New
-* Clone
-
-(Different funding needs for different market types)
-
-### Market size estimate
-
-* TAM or Total Available market
-* SAM or Served Available Market
-* Target Market
-
-### Market Share estimate
-
-### Verify Product/Market Fit
-
-### Multi-sided Market
-
-Learn how other side works, buys, how to optimize, how to address each side of the market, other distribution channel, create sales roadmap
-
-Create two problem presentations for multi-sided markets
-
 ## Customer
 
 Customer Archetype
@@ -141,8 +113,6 @@ Customer Archetype
 
 ## Product and Timeline
 
-### Product
-
 ### Preliminary Product Specs 
 
 * Estimate current product and follow-on products
@@ -188,7 +158,3 @@ How will the product influence, change the customer's life?
 How will world be different 18 moths after launch? 
 * 3 years after launch?
 * 10 years after launch?
-
-## Meetings and Presentations
-
-### Key Presentations
