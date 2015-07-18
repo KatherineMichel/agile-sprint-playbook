@@ -168,6 +168,17 @@ Influencers, Recommenders
 
 Potential Saboteurs
 
+One page "Day in the life of the customer" user story, including:
+* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
+* Product vision
+* Product features
+* Product benefits
+* Jobs the product will do
+
+Before and After
+* "Before" visualized (without product)
+* "After" visualized (with product) (How will the product influence, change the customer's life?)
+
 Vision: Visualizing the Future
 * Customer Journey Map/Day in the Life of a Customer (Before and After)
 * Tomorrow's Headline
