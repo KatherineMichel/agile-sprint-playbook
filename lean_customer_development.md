@@ -35,14 +35,7 @@ What is your business and what do you envision it to be?
 * Questions about our product
 
 
-# Lean Customer Development
-
-
 # Business and Financial Model
-
-## Business Model
-
-### Financial Model
 
 ### Revenue and Pricing
 
@@ -143,22 +136,9 @@ Customer Archetype
 * Define distinctive customer types (day to day users)
 * Become the customer
 
-Influencers, Recommenders
-* List those who could influence a customer’s buying decision
-
-"Economic Buyers" (The person whose budget pays for it)
-* Does the economic buyer already have budget for product
-* Does budget need to be approved?
-
-"Decision Makers"* 
-* Person who can kill purchase (for example by not approving budget)
-
-Potential Saboteurs
-
 ## Charts
 * Company Organizational Chart
 * Users, Buyers, Channels
-* Customer Influence Map
 
 ## Strategy
 
