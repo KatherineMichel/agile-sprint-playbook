@@ -18,22 +18,6 @@ What is your business and what do you envision it to be?
 * What do we need to know more about and “how might we” find it out?
   * [add questions to the ‘risks’ doc]
 
-# Thoughtbot Risks 
-
-*Identify all assumptions and knowledge gaps that introduce risk. Gathering them here will help us in assessing the riskiest ones and making actionable plans for reducing that risk so we can move forward confidently and as risk averse as possible.*
-
-## Thoughtbot Assumptions
-
-* Assumptions about our product
-* Assumptions about the the market/problem
-* Assumptions about the customers
-
-## Thoughtbot Questions
-
-* Questions about the customer
-* Questions about the market/problem
-* Questions about our product
-
 ### Considerations
 
 * Prospect conversion rates
