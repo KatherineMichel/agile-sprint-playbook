@@ -205,11 +205,12 @@ User Testing
 
 Design Principles
 
-Presentations
-* Referrals/Double Opt-In Intros
-* Venture and Funding Strategy
-* Narrative
-* Pitch
+MVP
+* Low Fidelity Minimum Viable Product
+* High Fidelity Minimum Viable Product
+* Dashboard
+* Initial Activities to Test
+* Sequential Optimization Plan
 
 Going Forward
 * Roadmap
@@ -235,12 +236,17 @@ Board
 * Advisory Board Roadmap
 * Formal Advisory Board List
 
-MVP
-* Low Fidelity Minimum Viable Product
-* High Fidelity Minimum Viable Product
-* Dashboard
-* Initial Activities to Test
-* Sequential Optimization Plan
+Company Messaging/Positioning Statement
+
+* Company description
+* Vision
+* Mission statement
+
+Product Messaging/Positioning Statement
+* Product Positioning Brief
+* Condenses Value Proposition into single phrase or sentence
+* Match product positioning with market type
+* Validate positioning with customers, analyst/influencers
 
 Sales and Marketing Materials Toolset (adapted from Steve Blank, Lean Customer Development) 
 
@@ -314,6 +320,12 @@ Types of meetings
 * 50 initial target customers
 * Channel and Traffic Partners (to test sell)
 * Key analysts/industry influencers (special script/presentation) to obtain detailed feedback about marketplace/product
+
+VC Presentations
+* Referrals/Double Opt-In Intros
+* Venture and Funding Strategy
+* Narrative
+* Pitch
 
 Scorecard (Feedback for)
 * Product and features (confirm product fills real need)
