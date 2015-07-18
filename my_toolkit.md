@@ -240,6 +240,10 @@ Going Forward
 * Feedback and Iteration
 * Scaling, Sustainability, and Growth
 
+Business Goals
+* Immediate business goals: in 1 month, 3 months, 6 months
+* Long term business goals: 1 year from now
+
 Preliminary/Product Specifications
 * 18-month schedule of product delivery dates
 * MVP delivery date/features
