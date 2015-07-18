@@ -6,7 +6,6 @@ What is your business and what do you envision it to be?
 * Analytics: Google AdWords
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
-* "Who are your customers or who do you expect them to be?"
 * Immediate business goals: in 1 month, 3 months, 6 months
 * Long term business goals: 1 year from now
 * Metrics: monitor progress, determine success
