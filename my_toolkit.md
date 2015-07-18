@@ -39,6 +39,9 @@ Business Model Canvas
 * Cost Structure (What will it cost?)
 * Revenue Streams (How much will you make?)
 
+Value Proposition
+* What value will people get from this product?
+
 Key Partners
 * List key partners (target/necessary) 
 * What they will provide
