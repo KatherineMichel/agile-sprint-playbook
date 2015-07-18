@@ -45,6 +45,7 @@
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Additional Resources](additional_resources.md)
+   * [Possible Phases](possible_phases.md)
    * [Possible Supplies](possible_supplies.md)
    * [Possible Roles](possible_roles.md)
    * [Extra](extra.md)
