@@ -70,6 +70,23 @@ Key Resources Types
 * Intellectual property
 * Other key resources
 
+Pricing Tactics options
+* Value pricing
+* Competitive pricing
+* Volume pricing
+* Portfolio pricing
+* Razor/razor blade model
+* Subscription
+* Leasing
+* Freemium
+
+Revenue model options
+* Sales
+* Subscriptions
+* Pay-per-use
+* Referral
+* Affiliate
+
 Kick-Off Meeting
 
 Research Sprint
