@@ -229,18 +229,6 @@ Prepare
 * Maintain ongoing, expanding list of contacts
 * Create innovators list
 
-Sales
-* Secure meeting with the right level of senior management
-* Secure purchase action plan/signed custom proposal, orders/firm commitment
-
-Positioning
-* Validate positioning with customers, key analyst/ industry influencers through positioning feedback meetings with script, presentation
-
-Types of meetings
-* 50 initial target customers
-* Channel and Traffic Partners (to test sell)
-* Key analysts/industry influencers (special script/presentation) to obtain detailed feedback about marketplace/product
-
 Key Sales Presentations
 * Problem Presentation
 * Solution Presentation
@@ -254,6 +242,18 @@ Preparation and Presentations
 * Insert multiple prompts to invite customer feedback
 * Do customer interviews for those who heard first "problem presentation" 
 * If appropriate, include prototype/MVP/demo
+
+Sales
+* Secure meeting with the right level of senior management
+* Secure purchase action plan/signed custom proposal, orders/firm commitment
+
+Positioning
+* Validate positioning with customers, key analyst/ industry influencers through positioning feedback meetings with script, presentation
+
+Types of meetings
+* 50 initial target customers
+* Channel and Traffic Partners (to test sell)
+* Key analysts/industry influencers (special script/presentation) to obtain detailed feedback about marketplace/product
 
 Scorecard (Feedback for)
 * Product and features (confirm product fills real need)
