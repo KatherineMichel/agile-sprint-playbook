@@ -42,6 +42,9 @@ Business Model Canvas
 Value Proposition
 * What value will people get from this product?
 
+Customer Segments
+* "Who are your customers or who do you expect them to be?"
+
 Key Partners
 * List key partners (target/necessary) 
 * What they will provide
