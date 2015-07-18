@@ -55,11 +55,6 @@ What is your business and what do you envision it to be?
 * Can you price it with a predicable model?
 * Can you have high gross margins?
 
-### Customer impact
-
-* Will your product create network effects?
-* Does it have organic demand versus requiring marketing spend?
-
 ## Charts
 * Company Organizational Chart
 * Users, Buyers, Channels
