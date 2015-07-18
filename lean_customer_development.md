@@ -2,16 +2,15 @@
 
 What is your business and what do you envision it to be?
 
-* Opportunity
 * Analytics: Google AdWords
 * Sources of inspiration
 * "Gathering Forces: Facts that will shape this product/service"
 * Metrics: monitor progress, determine success
-* Valuable articles, notes and other info
 * Current Solutions:
 * What does the world look like without this problem?
 * For customer segment #1
 
+* Valuable articles, notes and other info
 * What do we already know? (the facts)
 * What do we need to know more about and “how might we” find it out?
   * [add questions to the ‘risks’ doc]
@@ -91,23 +90,6 @@ Overall market knowledge, market map
 Learn how other side works, buys, how to optimize, how to address each side of the market, other distribution channel, create sales roadmap
 
 Create two problem presentations for multi-sided markets
-
-## Competition
-
-### Lightning Demos
-
-* Competitor/potential competitor products
-* Related/adjacent products
-* Innovators in the space
-
-### Competitor Analysis
-
-* Competitive grid
-* Time spent using competitor and adjacent products
-* Competitor company description, vision, mission statement, product positioning statement for comparison
-* Competitor traffic analysis/measurement
-* Competitive product and pricing information
-* Competitor press releases
 
 ## Customer
 
