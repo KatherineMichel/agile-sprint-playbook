@@ -288,15 +288,3 @@ Prepare
 * Insert multiple prompts to invite customer feedback
 * Do customer interviews for those who heard first "problem presentation" 
 * If appropriate, include prototype/MVP/demo
-
-### Scorecard
-
-Feedback for
-* Product and features (confirm product fills real need)
-* Intended market
-* Pricing/Cost
-* Distribution
-* Referrals
-* Sales results compared to sales estimates/quota
-
-### Spreadsheet
