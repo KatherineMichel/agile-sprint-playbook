@@ -186,13 +186,6 @@ Potential Saboteurs
 * “Food Chain” Drawing
 * Channel Partner's Business Model Drawing
 
-## MVP
-* Low Fidelity Minimum Viable Product
-* High Fidelity Minimum Viable Product
-* Dashboard
-* Initial Activities to Test
-* Sequential Optimization Plan
-
 ## Organization
 * Organization Structure (Founders, Investors, Board)
 * Company 3-5 Core Values
