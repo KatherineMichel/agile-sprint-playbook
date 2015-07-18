@@ -34,9 +34,6 @@ What is your business and what do you envision it to be?
 * Questions about the market/problem
 * Questions about our product
 
-
-# Business and Financial Model
-
 ### Considerations
 
 * Prospect conversion rates
