@@ -20,7 +20,7 @@ Project
 * Project Team Roles and Responsibilities
 * Stakeholders
 * Critical Path
-* Define Success (What does success look like?), Measurement and Evaluation
+* Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress, determine success)
 * SMART
 * Timeline
 
@@ -213,6 +213,9 @@ Vision: Visualizing the Future
 How will world be different 18 moths after launch? 
 * 3 years after launch?
 * 10 years after launch?
+
+World Without the Problem
+* What does the world look like without this problem?
 
 Design Sprint
 
