@@ -106,9 +106,8 @@ Strategic Analysis
 * Kant
 * Kotter
 
-Competitors
+Competitor Analysis
 * Lightning Demos
-* Competitor Analysis
 
 Market Analysis
 
