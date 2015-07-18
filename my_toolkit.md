@@ -133,7 +133,11 @@ Going Forward
 
 Organization
 * Organization Chart
+
+Board
+* Initial List of Advisory Board Prospects
 * Advisory Board Roadmap
+* Formal Advisory Board List
 
 Terminology
 * Define Terminology
