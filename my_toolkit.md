@@ -44,6 +44,7 @@ Value Proposition
 
 Customer Segments
 * Who are your customers or who do you expect them to be?
+* Define distinctive customer types (day to day users)
 
 Key Partners
 * List key partners (target/necessary) 
@@ -151,6 +152,7 @@ Verify Product/Market Fit
 Customers
 * Motivation
 * Resource Flow
+* Become the customer
 
 Customer Influence Map
 
@@ -172,7 +174,7 @@ Vision: Visualizing the Future
 * Tomorrow's SEC Filing
 
 Personas, Use Cases, Role Play
-* Personas
+* Customer Archetype/Personas
 * Use Cases
 * Role Play and Script
 
