@@ -84,6 +84,8 @@ Customer impact
 * Will your product create network effects?
 * Does it have organic demand versus requiring marketing spend?
 
+Business Model, Financial Model
+
 Pricing Tactics options
 * Value pricing
 * Competitive pricing
