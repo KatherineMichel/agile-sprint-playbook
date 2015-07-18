@@ -67,15 +67,6 @@ What is your business and what do you envision it to be?
 * Company Organizational Chart
 * Users, Buyers, Channels
 
-## Organization
-* Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
-* 18-Month Schedule of Delivery Dates
-
-* Immediate business goals: in 1 month, 3 months, 6 months
-* Long term business goals: 1 year from now
-
-* Customer Development/Discovery and Validation Approximate Timeframe
-
 ## Sales
 
 * Customer Access Map
@@ -87,18 +78,6 @@ What is your business and what do you envision it to be?
 * Sales channel management
 * Team members given responsibilities
 * Steps identified to close a sale, deliver product
-
-### Preliminary Product Specs 
-* Product timeline 18 months out
-* List key follow-on product enhancements
-* Estimate current product and follow-on products
-* Will there be a series of products? 
-* Product enhancements anticipated up to 18 months
-* MVP delivery date/features
-
-## User Story
-
-### Customer Archetype
 
 * [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
 * One-page User Story
@@ -118,3 +97,20 @@ How will the product influence, change the customer's life?
 How will world be different 18 moths after launch? 
 * 3 years after launch?
 * 10 years after launch?
+
+## Organization
+* Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
+* 18-Month Schedule of Delivery Dates
+
+* Immediate business goals: in 1 month, 3 months, 6 months
+* Long term business goals: 1 year from now
+
+### Preliminary Product Specs 
+* Product timeline 18 months out
+* List key follow-on product enhancements
+* Estimate current product and follow-on products
+* Will there be a series of products? 
+* Product enhancements anticipated up to 18 months
+* MVP delivery date/features
+
+* Customer Development/Discovery and Validation Approximate Timeframe
