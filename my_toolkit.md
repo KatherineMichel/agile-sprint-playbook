@@ -45,6 +45,7 @@ Value Proposition
 Customer Segments
 * Who are your customers or who do you expect them to be?
 * Define distinctive customer types (day to day users)
+* For customer segment #1, 2, 3...
 
 Key Partners
 * List key partners (target/necessary) 
