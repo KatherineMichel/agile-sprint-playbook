@@ -168,6 +168,11 @@ Influencers, Recommenders
 
 Potential Saboteurs
 
+Personas, Use Cases, Role Play
+* Customer Archetype/Personas
+* Use Cases
+* Role Play and Script
+
 One page "Day in the life of the customer" user story, including:
 * [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
 * Product vision
@@ -184,10 +189,9 @@ Vision: Visualizing the Future
 * Tomorrow's Headline
 * Tomorrow's SEC Filing
 
-Personas, Use Cases, Role Play
-* Customer Archetype/Personas
-* Use Cases
-* Role Play and Script
+How will world be different 18 moths after launch? 
+* 3 years after launch?
+* 10 years after launch?
 
 Design Sprint
 
