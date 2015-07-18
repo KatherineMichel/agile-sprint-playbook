@@ -1,17 +1,3 @@
-## Charts
-* Users, Buyers, Channels
-* Company Organizational Chart
-
-* Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
-
-* Sources of inspiration
-* "Gathering Forces: Facts that will shape this product/service"
-
-* Valuable articles, notes and other info
-* What do we already know? (the facts)
-* What do we need to know more about and “how might we” find it out?
-  * [add questions to the ‘risks’ doc]
-
 ### Considerations
 
 * Prospect conversion rates
@@ -34,8 +20,19 @@
 * Can you price it with a predicable model?
 * Can you have high gross margins?
 
-## Google Ventures Design Sprint
+## Charts
+* Users, Buyers, Channels
+* Company Organizational Chart
 
+* Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
+
+* "Gathering Forces: Facts that will shape this product/service"
+
+* Valuable articles, notes and other info
+* What do we already know? (the facts)
+* What do we need to know more about and “how might we” find it out?
+  * [add questions to the ‘risks’ doc]
+  
 https://www.slideshare.net/create
 
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
@@ -51,7 +48,6 @@ http://www.google.com/design/#resources
 
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
 *   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)
-
 
 ## HubSpot
 
