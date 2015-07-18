@@ -127,6 +127,26 @@ Lightning Demos
 * Innovators in the space
 
 Market Analysis
+* Overall market knowledge
+* Market map
+
+Market type (Different funding needs for different market types)
+* Existing
+* Resegmented
+* New
+* Clone
+
+Market size estimate
+* TAM or Total Available market
+* SAM or Served Available Market
+* Target Market
+
+Market Share estimate
+
+Multi-sided Market
+Learn how other side works, buys, how to optimize, how to address each side of the market, other distribution channel, create sales roadmap, create two problem presentations for multi-sided markets
+
+Verify Product/Market Fit
 
 Customers
 * Motivation
