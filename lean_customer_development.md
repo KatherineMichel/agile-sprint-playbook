@@ -60,8 +60,6 @@ What is your business and what do you envision it to be?
 * Will your product create network effects?
 * Does it have organic demand versus requiring marketing spend?
 
-### Dependency analysis
-
 ## Charts
 * Company Organizational Chart
 * Users, Buyers, Channels
