@@ -71,6 +71,8 @@ Key Resources Types
 * Intellectual property
 * Other key resources
 
+Dependency analysis
+
 Distribution Channels
 * Distribution Channel Diagram
 * Distribution Channel Plan
