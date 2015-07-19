@@ -205,6 +205,8 @@ Personas, Use Cases, Role Play
 * Use Cases
 * Role Play and Script
 
+Customer Journey
+
 One page "Day in the life of the customer" user story, including:
 * [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
 * Product vision
@@ -216,17 +218,15 @@ Before and After
 * "Before" visualized (without product)
 * "After" visualized (with product) (How will the product influence, change the customer's life?)
 
-Vision: Visualizing the Future
-* Customer Journey Map/Day in the Life of a Customer (Before and After)
-* Tomorrow's Headline
-* Tomorrow's SEC Filing
-
-How will world be different 18 months after launch? 
+World 
+What does the world look like without this problem? 
+* How will world be different 18 months after launch? 
 * 3 years after launch?
 * 10 years after launch?
 
-World Without the Problem
-* What does the world look like without this problem?
+Tomorrow
+* Tomorrow's headline
+* Tomorrow's SEC Filing
 
 Design Sprint
 
