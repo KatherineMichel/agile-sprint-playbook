@@ -29,13 +29,10 @@
 * [The team](https://www.dto.gov.au/standard/how-apply-standard/team)
 * [Usability testing](https://www.dto.gov.au/standard/how-apply-standard/usability-testing)
 * [User research (chart)](ttps://www.dto.gov.au/standard/how-apply-standard/user-research)
-* []()
-
+* [User-centred design](https://www.dto.gov.au/standard/how-apply-standard/user-centred-design)
+* [Using APIs](https://www.dto.gov.au/standard/how-apply-standard/using-apis)
+* [Using open standards](https://www.dto.gov.au/standard/how-apply-standard/using-open-standards)
+* [Using social media to engage users](https://www.dto.gov.au/standard/how-apply-standard/using-social-media-engage-users)
+* [Writing digital content](https://www.dto.gov.au/standard/how-apply-standard/writing-digital-content)
 
 https://www.dto.gov.au/standard/how-apply-standard/testing-services#guerrilla
-
-https://www.dto.gov.au/standard/how-apply-standard/user-centred-design
-https://www.dto.gov.au/standard/how-apply-standard/using-apis
-https://www.dto.gov.au/standard/how-apply-standard/using-open-standards
-https://www.dto.gov.au/standard/how-apply-standard/using-social-media-engage-users
-https://www.dto.gov.au/standard/how-apply-standard/writing-digital-content
