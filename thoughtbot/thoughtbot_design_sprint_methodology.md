@@ -2,9 +2,10 @@
 
 ![](phases.png)
 
-* [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
-* [thoughtbot playbook](http://playbook.thoughtbot.com/#product-design-sprint)
-*   [thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
+* [Thoughtbot's Product Design Sprint Blog Post](http://robots.thoughtbot.com/the-product-design-sprint)
+* [Thoughtbot's DIY Design Sprints Blog Post](hhttps://robots.thoughtbot.com/diy-design-sprints)
+* [Thoughtbot Playbook](http://playbook.thoughtbot.com/#product-design-sprint)
+*   [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
 *   [Design Sprint Book](http://www.designsprintbook.com)
 
 # Product Design Sprint
@@ -142,11 +143,11 @@ to your own board to help guide and document your sprint.
 
 ## Credits
 
-[![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
+[![Thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
 
 ## License
 
-Copyright © 2015 [thoughtbot, inc](http://thoughtbot.com).
+Copyright © 2015 [Thoughtbot, inc](http://thoughtbot.com).
 The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
