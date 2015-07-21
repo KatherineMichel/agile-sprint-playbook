@@ -75,3 +75,22 @@ The team
 * [Digital Leader](https://www.gov.uk/service-manual/the-team/digital-leader.html)
 * [User researcher skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
 * [Content Designer](https://www.gov.uk/service-manual/the-team/content-designer.html)
+
+Development
+* [Governance](https://www.gov.uk/service-manual/governance/index.html)
+* [Assurance for digital services](https://www.gov.uk/service-manual/governance/assurance-for-digital-services.html)
+* [Assurance from those outside the service team](https://www.gov.uk/service-manual/governance/assurance-from-those-outside-the-service-team.html)
+* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
+* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
+* [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
+* [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
+* [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
+* [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
+* [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
+* [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
+* [Introduction to governance for service delivery](https://www.gov.uk/service-manual/governance/introduction-to-governance-for-service-delivery.html)
+* [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
+
+
+https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html
+https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html
