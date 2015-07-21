@@ -26,6 +26,7 @@ User Research and Testing
 * [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
 
 Websites
+* [Domain Names](https://www.gov.uk/service-manual/domain-names/index.html)
 * [Browsers and devices](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html)
 * [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
 * [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
