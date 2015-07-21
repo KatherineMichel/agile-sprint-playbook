@@ -76,19 +76,21 @@ The team
 
 Development
 * [Governance](https://www.gov.uk/service-manual/governance/index.html)
+* [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
+* [Introduction to governance for service delivery](https://www.gov.uk/service-manual/governance/introduction-to-governance-for-service-delivery.html)
+* [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
 * [Assurance for digital services](https://www.gov.uk/service-manual/governance/assurance-for-digital-services.html)
 * [Assurance from those outside the service team](https://www.gov.uk/service-manual/governance/assurance-from-those-outside-the-service-team.html)
+* [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
+* [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
+* [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
+* [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
+* [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
+
+Scaling and Governance
 * [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
 * [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
 * [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
-* [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
-* [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
-* [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
-* [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
-* [Introduction to governance for service delivery](https://www.gov.uk/service-manual/governance/introduction-to-governance-for-service-delivery.html)
-* [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
-* [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
-* [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
 
 * [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
 * [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
