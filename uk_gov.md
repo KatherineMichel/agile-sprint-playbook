@@ -1,5 +1,9 @@
 # U.K. Gov
 
+Funding
+* [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
+
+Agile
 * [Agile](https://www.gov.uk/service-manual/agile/index.html)
 * [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
 * [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
@@ -84,7 +88,6 @@ Development
 * [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
 * [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
 * [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
-* [Funding your digital service](https://www.gov.uk/service-manual/governance/funding-your-digital-service.html)
 * [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
 * [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
 * [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
