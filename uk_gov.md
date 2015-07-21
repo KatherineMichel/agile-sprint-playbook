@@ -36,6 +36,11 @@ Websites
 * [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
+Assisted Digital
+* [Assisted digital](https://www.gov.uk/service-manual/assisted-digital/index.html)
+* [Assisted digital action plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html)
+* [Researching assisted digital users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
+
 The team
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
 * [The team](https://www.gov.uk/service-manual/the-team/index.html)
