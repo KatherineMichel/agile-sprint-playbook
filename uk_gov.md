@@ -41,12 +41,6 @@ Websites
 * [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
 * [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
 
-* [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
-* [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
-* [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
-* [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
-* [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
-
 Measurement
 * [Measurement](https://www.gov.uk/service-manual/measurement/index.html)
 * [Performance Platform](https://www.gov.uk/service-manual/measurement/performance-platform.html)
@@ -96,5 +90,10 @@ Development
 * [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
 * [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
 
+* [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
+* [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
+* [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
+* [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
+* [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
 
