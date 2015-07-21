@@ -18,21 +18,18 @@ Testing
 * [Usability testing](https://www.dto.gov.au/standard/how-apply-standard/usability-testing)
 * [Testing web accessibility](https://www.dto.gov.au/standard/how-apply-standard/testing-web-accessibility)
 
-
+Government and Services
+* [Government as a platform](https://www.dto.gov.au/standard/how-apply-standard/government-platform)
+* [Common government solutions](https://www.dto.gov.au/standard/how-apply-standard/common-government-solutions)
+* [Building digital services](https://www.dto.gov.au/standard/how-apply-standard/building-digital-services)
+* [Building secure services](https://www.dto.gov.au/standard/how-apply-standard/building-secure-services)
+* [Designing inclusive services](https://www.dto.gov.au/standard/how-apply-standard/designing-inclusive-services)
 
 * [Analytics tools](https://www.dto.gov.au/standard/how-apply-standard/analytics-tools)
 * [Assisted digital](https://www.dto.gov.au/standard/how-apply-standard/assisted-digital)
 * [Branding](https://www.dto.gov.au/standard/how-apply-standard/branding)
-* [Building digital services](https://www.dto.gov.au/standard/how-apply-standard/building-digital-services)
-* [Building secure services](https://www.dto.gov.au/standard/how-apply-standard/building-secure-services)
-* [Common government solutions](https://www.dto.gov.au/standard/how-apply-standard/common-government-solutions)
-* [Designing inclusive services](https://www.dto.gov.au/standard/how-apply-standard/designing-inclusive-services)
-* [Government as a platform](https://www.dto.gov.au/standard/how-apply-standard/government-platform)
 * [Integrating offline activity](https://www.dto.gov.au/standard/how-apply-standard/integrating-offline-activity)
-* [Making content accessible](https://www.dto.gov.au/standard/how-apply-standard/making-content-accessible)
 * [Measurement](https://www.dto.gov.au/standard/how-apply-standard/measurement)
-* [Using social media to engage users](https://www.dto.gov.au/standard/how-apply-standard/using-social-media-engage-users)
-* [Writing digital content](https://www.dto.gov.au/standard/how-apply-standard/writing-digital-content)
 
 https://www.dto.gov.au/standard/how-apply-standard/testing-services#guerrilla
 
@@ -40,6 +37,11 @@ Websites
 * [Selecting a content management system](https://www.dto.gov.au/standard/how-apply-standard/selecting-content-management-system)
 * [Domain names](https://www.dto.gov.au/standard/how-apply-standard/domain-names)
 * [Common website elements](https://www.dto.gov.au/standard/how-apply-standard/common-website-elements)
+
+Social Media and Content
+* [Using social media to engage users](https://www.dto.gov.au/standard/how-apply-standard/using-social-media-engage-users)
+* [Writing digital content](https://www.dto.gov.au/standard/how-apply-standard/writing-digital-content)
+* [Making content accessible](https://www.dto.gov.au/standard/how-apply-standard/making-content-accessible)
 
 Identity and Privacy
 * [Identity assurance](https://www.dto.gov.au/standard/how-apply-standard/identity-assurance)
