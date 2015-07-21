@@ -2,9 +2,6 @@
 
 ## Methods
 
-* [Assisted digital](https://www.dto.gov.au/standard/how-apply-standard/assisted-digital)
-* [Integrating offline activity](https://www.dto.gov.au/standard/how-apply-standard/integrating-offline-activity)
-
 Team and Culture
 * [The team](https://www.dto.gov.au/standard/how-apply-standard/team)
 * [Recruitment](https://www.dto.gov.au/standard/how-apply-standard/recruitment)
@@ -32,6 +29,8 @@ Government and Services
 * [Building digital services](https://www.dto.gov.au/standard/how-apply-standard/building-digital-services)
 * [Building secure services](https://www.dto.gov.au/standard/how-apply-standard/building-secure-services)
 * [Designing inclusive services](https://www.dto.gov.au/standard/how-apply-standard/designing-inclusive-services)
+* [Assisted digital](https://www.dto.gov.au/standard/how-apply-standard/assisted-digital)
+* [Integrating offline activity](https://www.dto.gov.au/standard/how-apply-standard/integrating-offline-activity)
 
 Websites
 * [Selecting a content management system](https://www.dto.gov.au/standard/how-apply-standard/selecting-content-management-system)
