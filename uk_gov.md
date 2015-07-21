@@ -10,6 +10,8 @@
 * [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
 * [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
 
+Service Design Phases
+* [Service Design Phases](https://www.gov.uk/service-manual/phases/index.html)
 
 User Centered Design and User Needs
 * [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
@@ -18,6 +20,7 @@ User Centered Design and User Needs
 User Research and Testing
 * [User-centred design in alpha and beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
 * [An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
+* [Accessibility Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
 * [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
 * [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
 * [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
@@ -33,7 +36,7 @@ Websites
 * [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
-
+The team
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
 * [The team](https://www.gov.uk/service-manual/the-team/index.html)
 * [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
