@@ -90,7 +90,8 @@ Development
 * [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
 * [Introduction to governance for service delivery](https://www.gov.uk/service-manual/governance/introduction-to-governance-for-service-delivery.html)
 * [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
+* [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
+* [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
 
 
-https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html
-https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html
+
