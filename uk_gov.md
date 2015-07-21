@@ -1,20 +1,38 @@
 # U.K. Gov
 
+* [Agile](https://www.gov.uk/service-manual/agile/index.html)
+* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
+* [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
+* [Quality](https://www.gov.uk/service-manual/agile/quality.html)
+* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
+* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
+* [Training and learning about agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
+* [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
+* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
+
+
+User Centered Design and User Needs
 * [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
-* [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
+* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+
+User Research and Testing
+* [User-centred design in alpha and beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
 * [An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
-* [Browsers and devices](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html)
+* [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
 * [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
+* [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
+
+Websites
+* [Browsers and devices](https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html)
+* [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
+* [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
+
 * [Choosing appropriate formats](https://www.gov.uk/service-manual/user-centred-design/choosing-appropriate-formats.html)
 * [Data visualisation](https://www.gov.uk/service-manual/user-centred-design/data-visualisation.html)
-* [GOV.UK header and footer](https://www.gov.uk/service-manual/user-centred-design/resources/header-footer.html)
-* [How users read](https://www.gov.uk/service-manual/user-centred-design/how-users-read.html)
 * [Print forms](https://www.gov.uk/service-manual/user-centred-design/print-forms.html)
 * [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
-* [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
-* [User-centred design in alpha and beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
-* [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
+
 
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
 * [The Team](https://www.gov.uk/service-manual/the-team/index.html)
