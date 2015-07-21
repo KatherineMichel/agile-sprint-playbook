@@ -2,6 +2,9 @@
 
 ## Methods
 
+* [Assisted digital](https://www.dto.gov.au/standard/how-apply-standard/assisted-digital)
+* [Integrating offline activity](https://www.dto.gov.au/standard/how-apply-standard/integrating-offline-activity)
+
 Team and Culture
 * [The team](https://www.dto.gov.au/standard/how-apply-standard/team)
 * [Recruitment](https://www.dto.gov.au/standard/how-apply-standard/recruitment)
@@ -15,8 +18,13 @@ User Research
 
 Testing
 * [Testing services](https://www.dto.gov.au/standard/how-apply-standard/testing-services)
+* [Guerrilla Testing services](https://www.dto.gov.au/standard/how-apply-standard/testing-services#guerrilla)
 * [Usability testing](https://www.dto.gov.au/standard/how-apply-standard/usability-testing)
 * [Testing web accessibility](https://www.dto.gov.au/standard/how-apply-standard/testing-web-accessibility)
+
+Analytics and Measurement
+* [Analytics tools](https://www.dto.gov.au/standard/how-apply-standard/analytics-tools)
+* [Measurement](https://www.dto.gov.au/standard/how-apply-standard/measurement)
 
 Government and Services
 * [Government as a platform](https://www.dto.gov.au/standard/how-apply-standard/government-platform)
@@ -25,20 +33,13 @@ Government and Services
 * [Building secure services](https://www.dto.gov.au/standard/how-apply-standard/building-secure-services)
 * [Designing inclusive services](https://www.dto.gov.au/standard/how-apply-standard/designing-inclusive-services)
 
-* [Analytics tools](https://www.dto.gov.au/standard/how-apply-standard/analytics-tools)
-* [Assisted digital](https://www.dto.gov.au/standard/how-apply-standard/assisted-digital)
-* [Branding](https://www.dto.gov.au/standard/how-apply-standard/branding)
-* [Integrating offline activity](https://www.dto.gov.au/standard/how-apply-standard/integrating-offline-activity)
-* [Measurement](https://www.dto.gov.au/standard/how-apply-standard/measurement)
-
-https://www.dto.gov.au/standard/how-apply-standard/testing-services#guerrilla
-
 Websites
 * [Selecting a content management system](https://www.dto.gov.au/standard/how-apply-standard/selecting-content-management-system)
 * [Domain names](https://www.dto.gov.au/standard/how-apply-standard/domain-names)
 * [Common website elements](https://www.dto.gov.au/standard/how-apply-standard/common-website-elements)
 
-Social Media and Content
+Branding, Social Media and Content
+* [Branding](https://www.dto.gov.au/standard/how-apply-standard/branding)
 * [Using social media to engage users](https://www.dto.gov.au/standard/how-apply-standard/using-social-media-engage-users)
 * [Writing digital content](https://www.dto.gov.au/standard/how-apply-standard/writing-digital-content)
 * [Making content accessible](https://www.dto.gov.au/standard/how-apply-standard/making-content-accessible)
