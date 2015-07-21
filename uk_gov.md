@@ -13,6 +13,12 @@
 Service Design Phases
 * [Service design phases](https://www.gov.uk/service-manual/phases/index.html)
 
+Governance
+* [Governing the alpha phase](https://www.gov.uk/service-manual/phases/index.html)
+* [Governing the beta phase](https://www.gov.uk/service-manual/governance/governing-the-beta-phase.html)
+* [Governing the discovery phase](https://www.gov.uk/service-manual/governance/governing-the-discovery-phase.html)
+* [Governing the live phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
+
 User Centered Design and User Needs
 * [User-centred design](https://www.gov.uk/service-manual/user-centred-design/index.html)
 * [User needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
