@@ -131,11 +131,10 @@ Operations
 * [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
 * [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
 * [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
+* [Uptime and availability](https://www.gov.uk/service-manual/operations/uptime-and-availability.html)
+* [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
+* [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
 
-
-https://www.gov.uk/service-manual/operations/uptime-and-availability.html
-https://www.gov.uk/service-manual/operations/web-operations-stories.html
-https://www.gov.uk/service-manual/operations/penetration-testing.html
 
 https://www.gov.uk/service-manual/identity-assurance/index.html
 https://www.gov.uk/service-manual/technology/index.html
