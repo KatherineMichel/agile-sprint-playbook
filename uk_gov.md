@@ -135,15 +135,14 @@ Operations
 * [User stories for web operations](https://www.gov.uk/service-manual/operations/web-operations-stories.html)
 * [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
 
-
-https://www.gov.uk/service-manual/identity-assurance/index.html
-https://www.gov.uk/service-manual/technology/index.html
-https://www.gov.uk/service-manual/technology/culture-that-supports-change.html
-https://www.gov.uk/service-manual/technology/end-user-devices.html
-https://www.gov.uk/service-manual/technology/government-as-a-platform.html
-https://www.gov.uk/service-manual/technology/open-data.html
-https://www.gov.uk/service-manual/technology/security-as-enabler.html
-https://www.gov.uk/service-manual/technology/service-integration.html
-https://www.gov.uk/service-manual/technology/spending-controls.html
-https://www.gov.uk/service-manual/technology/architecture.html
-https://www.gov.uk/service-manual/technology/code-of-practice.html
+* [GOV.UK Verify guidance](https://www.gov.uk/service-manual/identity-assurance/index.html)
+* [Guidance for CTOs](https://www.gov.uk/service-manual/technology/index.html)
+* [Creating a culture that supports change](https://www.gov.uk/service-manual/technology/culture-that-supports-change.html)
+* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
+* [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
+* [Open data](https://www.gov.uk/service-manual/technology/open-data.html)
+* [Security as enabler](https://www.gov.uk/service-manual/technology/security-as-enabler.html)
+* [Service integration and management](https://www.gov.uk/service-manual/technology/service-integration.html)
+* [Spending controls](https://www.gov.uk/service-manual/technology/spending-controls.html)
+* [Technology architecture](https://www.gov.uk/service-manual/technology/architecture.html)
+* [Technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html)
