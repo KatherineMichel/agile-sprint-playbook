@@ -44,11 +44,10 @@
 * [Nielson Norman User Testing Documents](nielson_norman_user_testing_documents.md)
 * [IDEO Design Methods](ideo_design_methods.md)
 * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
+* [U.K. Gov](uk_gov.md)
 * [Additional Methodologies](additional_methodologies.md)
 * [Additional Methodologies Exercises](additional_methodologies_exercises.md)
 * [Additional Resources](additional_resources.md)
-   * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
-   * [U.K. Gov](uk_gov.md)
    * [Zurb](zurb.md)
    * [Extra](extra.md)
 
