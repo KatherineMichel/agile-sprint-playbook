@@ -112,13 +112,15 @@ Making Software
 * [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
 * [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
 * [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
+* [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
+* [Sandbox and staging servers](https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html)
+* [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
+* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
+* [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
 
 
-https://www.gov.uk/service-manual/making-software/release-strategies.html
-https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html
-https://www.gov.uk/service-manual/making-software/standalone-apps.html
-https://www.gov.uk/service-manual/making-software/code-testing.html
-https://www.gov.uk/service-manual/making-software/logins.html
+
+
 https://www.gov.uk/service-manual/making-software/open-source.html
 https://www.gov.uk/service-manual/making-software/version-control.html
 
