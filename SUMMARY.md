@@ -43,6 +43,7 @@
    * [Usability Study Process and Materials Checklist](usability_study_processand_materials_checklist.md)
 * [Nielson Norman User Testing Documents](nielson_norman_user_testing_documents.md)
 * [IDEO Design Methods](ideo_design_methods.md)
+* [Stanford Institute of Design](stanford_institute_of_design.md)
 * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
 * [U.K. Gov](uk_gov.md)
 * [Additional Methodologies](additional_methodologies.md)
