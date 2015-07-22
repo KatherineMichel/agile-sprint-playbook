@@ -48,7 +48,6 @@
 * [Service Design Tools](service_design_tools.md)
 * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
 * [U.K. Gov](uk_gov.md)
-* [Additional Methodologies](additional_methodologies.md)
 * [Additional Resources](additional_resources.md)
    * [Zurb](zurb.md)
    * [Extra](extra.md)
