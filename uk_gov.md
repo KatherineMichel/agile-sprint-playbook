@@ -117,12 +117,9 @@ Making Software
 * [Standalone mobile apps](https://www.gov.uk/service-manual/making-software/standalone-apps.html)
 * [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
 * [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
+* [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
+* [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
 
-
-
-
-https://www.gov.uk/service-manual/making-software/open-source.html
-https://www.gov.uk/service-manual/making-software/version-control.html
 
 https://www.gov.uk/service-manual/operations/index.html
 https://www.gov.uk/service-manual/operations/cloud-security.html
