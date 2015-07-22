@@ -120,17 +120,19 @@ Making Software
 * [Using open source software](https://www.gov.uk/service-manual/making-software/open-source.html)
 * [Version control](https://www.gov.uk/service-manual/making-software/version-control.html)
 
+Operations
+* [Operating a service](https://www.gov.uk/service-manual/operations/index.html)
+* [Cloud security](https://www.gov.uk/service-manual/operations/cloud-security.html)
+* [Devops](https://www.gov.uk/service-manual/operations/devops.html)
+* [Helpdesk](https://www.gov.uk/service-manual/operations/helpdesk.html)
+* [Hosting](https://www.gov.uk/service-manual/operations/hosting.html)
+* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
+* [Managing user support](https://www.gov.uk/service-manual/operations/managing-user-support.html)
+* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
+* [Operating a service.gov.uk subdomain](https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html)
+* [Service management](https://www.gov.uk/service-manual/operations/service-management.html)
 
-https://www.gov.uk/service-manual/operations/index.html
-https://www.gov.uk/service-manual/operations/cloud-security.html
-https://www.gov.uk/service-manual/operations/devops.html
-https://www.gov.uk/service-manual/operations/helpdesk.html
-https://www.gov.uk/service-manual/operations/hosting.html
-https://www.gov.uk/service-manual/operations/load-and-performance-testing.html
-https://www.gov.uk/service-manual/operations/managing-user-support.html
-https://www.gov.uk/service-manual/operations/monitoring.html
-https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html
-https://www.gov.uk/service-manual/operations/service-management.html
+
 https://www.gov.uk/service-manual/operations/uptime-and-availability.html
 https://www.gov.uk/service-manual/operations/web-operations-stories.html
 https://www.gov.uk/service-manual/operations/penetration-testing.html
