@@ -18,11 +18,6 @@
 
 *   [Nesta DIY](http://diytoolkit.org), [Nesta DIY Toolkit](http://diytoolkit.org/download-diy-toolkit), and [Nesta DIY Tools](http://diytoolkit.org/tools)
 
-# Service Design Tools
-
-*   [Tools](http://www.servicedesigntools.org/repository)
-*   [Glossary](http://www.servicedesigntools.org/glossary)
-
 ## The Digital Tookit for the Arts
 
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
