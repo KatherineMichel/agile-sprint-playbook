@@ -98,4 +98,52 @@ Scaling and Governance
 * [Privacy note template for services](https://www.gov.uk/service-manual/content-designers/privacy-note-template-for-services.html)
 * [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
+Making Software
+* [Making software](https://www.gov.uk/service-manual/making-software/index.html)
+* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
+* [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
+* [Choosing technology](https://www.gov.uk/service-manual/making-software/choosing-technology.html)
+* [Configuration management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
+* [Cookies](https://www.gov.uk/service-manual/making-software/cookies.html)
+* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
+* [Development environments](https://www.gov.uk/service-manual/making-software/development-environment.html)
+* [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
+* [Information security](https://www.gov.uk/service-manual/making-software/information-security.html)
+* [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
+* [Open standards and licensing](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
+* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
 
+
+https://www.gov.uk/service-manual/making-software/release-strategies.html
+https://www.gov.uk/service-manual/making-software/sandbox-and-staging-servers.html
+https://www.gov.uk/service-manual/making-software/standalone-apps.html
+https://www.gov.uk/service-manual/making-software/code-testing.html
+https://www.gov.uk/service-manual/making-software/logins.html
+https://www.gov.uk/service-manual/making-software/open-source.html
+https://www.gov.uk/service-manual/making-software/version-control.html
+
+https://www.gov.uk/service-manual/operations/index.html
+https://www.gov.uk/service-manual/operations/cloud-security.html
+https://www.gov.uk/service-manual/operations/devops.html
+https://www.gov.uk/service-manual/operations/helpdesk.html
+https://www.gov.uk/service-manual/operations/hosting.html
+https://www.gov.uk/service-manual/operations/load-and-performance-testing.html
+https://www.gov.uk/service-manual/operations/managing-user-support.html
+https://www.gov.uk/service-manual/operations/monitoring.html
+https://www.gov.uk/service-manual/operations/operating-servicegovuk-subdomains.html
+https://www.gov.uk/service-manual/operations/service-management.html
+https://www.gov.uk/service-manual/operations/uptime-and-availability.html
+https://www.gov.uk/service-manual/operations/web-operations-stories.html
+https://www.gov.uk/service-manual/operations/penetration-testing.html
+
+https://www.gov.uk/service-manual/identity-assurance/index.html
+https://www.gov.uk/service-manual/technology/index.html
+https://www.gov.uk/service-manual/technology/culture-that-supports-change.html
+https://www.gov.uk/service-manual/technology/end-user-devices.html
+https://www.gov.uk/service-manual/technology/government-as-a-platform.html
+https://www.gov.uk/service-manual/technology/open-data.html
+https://www.gov.uk/service-manual/technology/security-as-enabler.html
+https://www.gov.uk/service-manual/technology/service-integration.html
+https://www.gov.uk/service-manual/technology/spending-controls.html
+https://www.gov.uk/service-manual/technology/architecture.html
+https://www.gov.uk/service-manual/technology/code-of-practice.html
