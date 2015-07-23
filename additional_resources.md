@@ -6,9 +6,8 @@
 
 ## U.S. Aid Learning Lab
 
-*   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide)
+*   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
 *   [U.S. Aid Learning Guide Results Framework](http://usaidlearninglab.org/learning-guide/results-framework)
-*   [U.S. Aid Learning Lab Program Cycle Learning Guide Beta](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
 
 ## U.S. Government Digital Services
 
