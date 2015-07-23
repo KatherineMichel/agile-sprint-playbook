@@ -1,9 +1,14 @@
 # Additional Methodologies, Resources, Phases, Supplies
 
-
 ## Interaction Design Encyclopedia
 
 *   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia), [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
+
+## U.S. Aid Learning Lab
+
+*   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide)
+*   [U.S. Aid Learning Guide Results Framework](http://usaidlearninglab.org/learning-guide/results-framework)
+*   [U.S. Aid Learning Lab Program Cycle Learning Guide Beta](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
 
 ## U.S. Government Digital Services
 
