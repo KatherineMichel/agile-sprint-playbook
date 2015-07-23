@@ -1,31 +1,32 @@
-# Additional Resources
+# Additional Methodologies, Resources, Phases, Supplies
 
-## Additional Methodologies
 
-Interaction Design Encyclopedia
+## Interaction Design Encyclopedia
+
 *   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia), [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
+
+## U.S. Government Digital Services
 
 *   [CIO Tech Federal Acquisition Regulation (FAR) Playbook](https://playbook.cio.gov/techfar), [CIO Tech Federal Acquisition Regulation (FAR) Playbook GitHub](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md), and [CIO Tech Federal Acquisition Regulation (FAR) Playbook PDF](https://playbook.cio.gov/assets/TechFAR%20Handbook_2014-08-07.pdf)
 
-### HubSpot
+## HubSpot
 
 *   [HubSpot Library](https://library.hubspot.com)
 
-### LEGO® SERIOUS PLAY®
+## LEGO® SERIOUS PLAY®
+
 *   [LEGO® SERIOUS PLAY® Method](http://www.lego.com/en-us/seriousplay/the-method)
 
-### The Digital Tookit for the Arts
+## The Digital Tookit for the Arts
 
 *   [The Digital Tookit for the Arts](http://artsdigitalrnd.org.uk/toolkit) and [The Digital Tookit for the Arts PDF](http://artsdigitalrnd.org.uk/wp-content/uploads/2015/06/Digital_Toolkit_Screen.pdf) 
 
-### The Prince's Trust
+## The Prince's Trust
 
 *   [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
 *   [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
 *   [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
 *   [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
-
-# Possible Phases, Supplies
 
 ## Strategyzer
 
