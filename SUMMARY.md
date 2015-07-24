@@ -45,7 +45,6 @@
    * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
    * [IDEO](ideo.md)
    * [Nesta DIY](nesta_diy.md)
-   * [Nielson Norman User Testing](nielson_norman_user_testing.md)
    * [Zurb](zurb.md)
 * [Additional Resources](additional_resources.md)
    * [Extra](extra.md)
