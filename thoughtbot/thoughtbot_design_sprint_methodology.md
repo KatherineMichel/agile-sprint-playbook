@@ -6,6 +6,7 @@
 * [Thoughtbot's DIY Design Sprints Blog Post](hhttps://robots.thoughtbot.com/diy-design-sprints)
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com/#product-design-sprint)
 *   [Thoughtbot Design Sprint- Materials GitHub](https://github.com/thoughtbot/design-sprint)
+*   [Template for finding people on Craigslist](https://gist.github.com/croaky/1a1ff3902b4321984b0b) and [A simple consent form](https://gist.github.com/croaky/bf97025689b019293f78)
 *   [Design Sprint Book](http://www.designsprintbook.com)
 
 # Product Design Sprint
