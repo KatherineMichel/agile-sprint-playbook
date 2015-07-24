@@ -35,6 +35,5 @@
    * [Five Whys](exercises/thoughtbot-five-whys.md)
    * [Who / What / Where / When](exercises/thoughtbot-who-what-when-where.md)
 * [Usability Study Process and Materials Checklist](usability_study_process_and_materials_checklist.md)
-* [Additional Resources](additional_resources.md)
-   * [Extra](extra.md)
+* [Extra](extra.md)
 
