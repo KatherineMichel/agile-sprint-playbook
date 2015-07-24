@@ -2,7 +2,6 @@
 
 * [About](README.md)
 * [Introduction](introduction.md)
-* [My Research and Design Sprint Methodology](my_toolkit.md)
 * [User Centered Design](user-centered-design.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google_ventures_research_and_design_sprint_methodology.md)
    * [GV Research Sprint Methodology](google-ventures/gv_research_sprint_methodology.md)
