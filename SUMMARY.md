@@ -43,7 +43,6 @@
    * [Usability Study Process and Materials Checklist](usability_study_processand_materials_checklist.md)
 * [Additional Methodologies](additional_methodologies.md)
    * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
-   * [IDEO](ideo.md)
    * [Zurb](zurb.md)
 * [Additional Resources](additional_resources.md)
    * [Extra](extra.md)
