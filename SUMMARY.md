@@ -45,7 +45,7 @@
     * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
     * [IDEO Design Methods](ideo_design_methods.md)
     * [Nesta DIY](nesta_diy.md)
-    * [Nielson Norman User Testing Documents](nielson_norman_user_testing_documents.md)
+    * [Nielson Norman User Testing](nielson_norman_user_testing.md)
     * [Service Design Tools](service_design_tools.md)
     * [Stanford Institute of Design](stanford_institute_of_design.md)
     * [U.K. Gov](uk_gov.md)
