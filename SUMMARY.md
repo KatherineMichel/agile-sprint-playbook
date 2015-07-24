@@ -43,7 +43,7 @@
    * [Usability Study Process and Materials Checklist](usability_study_processand_materials_checklist.md)
 * [Additional Methodologies](additional_methodologies.md)
     * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
-    * [IDEO Design Methods](ideo_design_methods.md)
+    * [IDEO](ideo_.md)
     * [Nesta DIY](nesta_diy.md)
     * [Nielson Norman User Testing](nielson_norman_user_testing.md)
     * [Service Design Tools](service_design_tools.md)
