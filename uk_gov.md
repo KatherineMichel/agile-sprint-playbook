@@ -5,7 +5,6 @@
 ## Frameworks
 
 *   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases), [Discovery](https://www.gov.uk/service-manual/phases/discovery.html), [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Beta](https://www.gov.uk/service-manual/phases/beta), [Live](https://www.gov.uk/service-manual/phases/live), and [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
-*   [Chief Technology Officers](https://www.gov.uk/service-manual/chief-technology-officers), [Service Managers](https://www.gov.uk/service-manual/service-managers), [Technical Architect](https://www.gov.uk/service-manual/technical-architects),  [Designers](https://www.gov.uk/service-manual/designers), [Developers](https://www.gov.uk/service-manual/developers), [User Researchers](https://www.gov.uk/service-manual/user-researchers), [Web Ops](https://www.gov.uk/service-manual/web-ops), [Performance Analysts](https://www.gov.uk/service-manual/performance-analysts), and [Content Designers](https://www.gov.uk/service-manual/content-designers)
 *   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
 
 ## Methods
@@ -67,6 +66,8 @@ Assisted Digital
 * [Researching assisted digital users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
 
 The team
+*   [Chief Technology Officers](https://www.gov.uk/service-manual/chief-technology-officers), [Service Managers](https://www.gov.uk/service-manual/service-managers), [Technical Architect](https://www.gov.uk/service-manual/technical-architects),  [Designers](https://www.gov.uk/service-manual/designers), [Developers](https://www.gov.uk/service-manual/developers), [User Researchers](https://www.gov.uk/service-manual/user-researchers), [Web Ops](https://www.gov.uk/service-manual/web-ops), [Performance Analysts](https://www.gov.uk/service-manual/performance-analysts), and [Content Designers](https://www.gov.uk/service-manual/content-designers)
+
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
 * [The team](https://www.gov.uk/service-manual/the-team/index.html)
 * [Job Descriptions](https://www.gov.uk/service-manual/the-team/recruitment/job-descriptions.html)
