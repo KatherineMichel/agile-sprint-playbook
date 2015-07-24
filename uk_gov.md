@@ -1,11 +1,8 @@
 # U.K. Gov
 
-*   [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
-
 ## Frameworks
 
 *   [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases), [Discovery](https://www.gov.uk/service-manual/phases/discovery.html), [Alpha](https://www.gov.uk/service-manual/phases/alpha.html), [Beta](https://www.gov.uk/service-manual/phases/beta), [Live](https://www.gov.uk/service-manual/phases/live), and [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
-*   [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), and [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide)
 
 ## Methods
 
