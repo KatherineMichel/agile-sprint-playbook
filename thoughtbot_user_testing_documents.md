@@ -1,1 +1,0 @@
-# Thoughtbot User Testing Documents
