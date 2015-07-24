@@ -50,7 +50,6 @@
    * [Stanford Institute of Design](stanford_institute_of_design.md)
    * [U.K. Gov](uk_gov.md)
    * [Zurb](zurb.md)
-   * [18F](18f.md)
 * [Additional Resources](additional_resources.md)
    * [Extra](extra.md)
 
