@@ -35,8 +35,7 @@
    * [Needs / Wants / Desires](exercises/thoughtbot-needs-wants-desires.md)
    * [Five Whys](exercises/thoughtbot-five-whys.md)
    * [Who / What / Where / When](exercises/thoughtbot-who-what-when-where.md)
-* [Usability Gov User Testing Documents](usability_gov_user_testing_documents.md)
-   * [Usability Study Process and Materials Checklist](usability_study_processand_materials_checklist.md)
+* [Usability Study Process and Materials Checklist](usability_study_processand_materials_checklist.md)
 * [Additional Resources](additional_resources.md)
    * [Extra](extra.md)
 
