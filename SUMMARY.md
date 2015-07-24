@@ -42,7 +42,6 @@
 * [Usability Gov User Testing Documents](usability_gov_user_testing_documents.md)
    * [Usability Study Process and Materials Checklist](usability_study_processand_materials_checklist.md)
 * [Additional Methodologies](additional_methodologies.md)
-   * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
    * [Zurb](zurb.md)
 * [Additional Resources](additional_resources.md)
    * [Extra](extra.md)
