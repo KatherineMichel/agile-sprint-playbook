@@ -44,7 +44,6 @@
 * [Additional Methodologies](additional_methodologies.md)
    * [Australian Government Digital Transformation Office](australian_government_digital_transformation_office.md)
    * [IDEO](ideo.md)
-   * [Nesta DIY](nesta_diy.md)
    * [Zurb](zurb.md)
 * [Additional Resources](additional_resources.md)
    * [Extra](extra.md)
