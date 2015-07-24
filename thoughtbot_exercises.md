@@ -24,5 +24,3 @@
    * [Needs / Wants / Desires](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/needs-wants-desires.md)
    * [Five Whys](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/five-whys.md)
    * [Who / What / Where / When](https://github.com/thoughtbot/design-sprint/blob/master/Exercises/who-what-when-where.md)
-
-
