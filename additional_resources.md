@@ -4,6 +4,10 @@
 
 *   [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia), [Card Sorting](https://www.interaction-design.org/encyclopedia/card_sorting.html), and [Personas](https://www.interaction-design.org/encyclopedia/personas.html)
 
+## Knowledge Sharing Toolkit
+
+*   [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
+
 ## U.S. Aid Learning Lab
 
 *   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
