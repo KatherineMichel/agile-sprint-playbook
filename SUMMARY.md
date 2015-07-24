@@ -48,7 +48,6 @@
    * [Nielson Norman User Testing](nielson_norman_user_testing.md)
    * [Service Design Tools](service_design_tools.md)
    * [Stanford Institute of Design](stanford_institute_of_design.md)
-   * [U.K. Gov](uk_gov.md)
    * [Zurb](zurb.md)
 * [Additional Resources](additional_resources.md)
    * [Extra](extra.md)
