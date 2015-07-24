@@ -1,8 +1,5 @@
 # Service Design Tools
 
-*   [Tools](http://www.servicedesigntools.org/repository)
-*   [Glossary](http://www.servicedesigntools.org/glossary)
-
 ## Methods
 
 *   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
