@@ -1,13 +1,5 @@
 # Additional Methodologies, Resources, Phases, Supplies
 
-## U.S. Aid Learning Lab
-
-*   [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
-*   [U.S. Aid Project Design Development and Implementation](http://usaidlearninglab.org/learning-guide/project-design-development-implementation), [U.S. Aid Project Design](http://usaidlearninglab.org/learning-guide/project-design), and [U.S. Aid Project Implementation](http://usaidlearninglab.org/learning-guide/project-implementation-overview)
-*   [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
-*   [U.S. Aid Library](http://usaidlearninglab.org/library)
-*   [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
-
 ## HubSpot
 
 *   [HubSpot Library](https://library.hubspot.com)
