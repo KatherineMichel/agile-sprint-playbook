@@ -49,7 +49,6 @@
    * [Service Design Tools](service_design_tools.md)
    * [Stanford Institute of Design](stanford_institute_of_design.md)
    * [U.K. Gov](uk_gov.md)
-   * [U.S. Gov](us_gov.md)
    * [Zurb](zurb.md)
    * [18F](18f.md)
 * [Additional Resources](additional_resources.md)
