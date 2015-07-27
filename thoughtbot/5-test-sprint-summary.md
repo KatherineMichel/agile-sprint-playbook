@@ -7,7 +7,7 @@ ideas of what to build, we lacked a specific vision for how to harness software
 to 1) solve the main problem of planning a wedding and 2) sustain a viable
 business by optimizing its engagement with customers.”
 
-## Sprint Summary:  What we got to
+# Sprint Summary:  What we got to
 Example: “By the end of the Sprint, we had developed a clearer product vision and better
 understanding of the problem and our potential customers: the core problem is
 that for potential brides, grooms, and their loved ones, the experience of
@@ -33,7 +33,7 @@ To reflect our insights and test our assumptions, we built a simple prototype
 and tested it with individuals in and close to our target market and were able
 to get positive validation of the assumptions we intended to test.”
 
-## Sprint Summary: Major learnings/take aways
+# Sprint Summary: Major learnings/take aways
 
 Example:
 
@@ -54,7 +54,7 @@ Example:
     more straightforward and inviting than  existing and popular wedding
     planning sites.
 
-## Sprint Summary: Where to go next
+# Sprint Summary: Where to go next
 
 Next steps following the design sprint:
 
