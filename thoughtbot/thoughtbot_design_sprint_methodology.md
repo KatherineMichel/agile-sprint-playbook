@@ -1,4 +1,4 @@
-# thoughtbot Design Sprint Methodology
+# Thoughtbot Design Sprint Methodology
 
 ![](phases.png)
 
