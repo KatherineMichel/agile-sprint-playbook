@@ -1,6 +1,5 @@
 # U.K. Gov
 
-U.K. Gov
 *   [Digital Transformation](https://www.gov.uk/transformation)
 *   [U.K. Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and [U.K. Government Digital Service Blog](https://gds.blog.gov.uk)
 *   [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
