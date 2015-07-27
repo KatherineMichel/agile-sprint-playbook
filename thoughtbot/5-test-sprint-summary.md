@@ -1,4 +1,4 @@
-## Sprint Summary: Where we came from
+# Sprint Summary: Where we came from
 Example: “We began the design sprint with a product and business concept that
 had yet to be fleshed out with customer and market research, an investigation of
 potential business models, and prototypes with which to test the potential
