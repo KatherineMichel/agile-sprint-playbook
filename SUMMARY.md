@@ -6,6 +6,7 @@
    * [GV Research Sprint Methodology](google-ventures/gv_research_sprint_methodology.md)
    * [GV Design Sprint Methodology](google-ventures/gv_design_sprint_methodology.md)
    * [GV User Testing Methodology](google-ventures/gv_user_testing_methodology.md)
+* [Google Design Sprint](google_design_sprint.md)
 * [Thoughtbot Design Sprint Methodology](thoughtbot/thoughtbot_design_sprint_methodology.md)
    * [0 Pre-Sprint](thoughtbot/0-pre-sprint.md)
    * [Pre-Sprint Client Worksheet](thoughtbot/0-pre-sprint-client-worksheet.md)
