@@ -1,7 +1,8 @@
 # Research and Design Sprints
 
-Table of Contents
+A GitBook Documenting the Research and Design Sprint Methodologies I Use
 
+Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google_ventures_research_and_design_sprint_methodology.md)
@@ -23,13 +24,9 @@ Table of Contents
    * [Previous Sprints Template](previous_sprints_template.md)
 * [U.K. Gov](uk_gov.md)
 
-A GitBook Documenting the Research and Design Sprint Methodologies I Use: 
-<br> 
-<br>
 GitBook: http://katherinemichel.gitbooks.io/research-and-design-sprints
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/research-and-design-sprints
-
 
 © [Katherine Michel](https://twitter.com/katimichel) 2015
 
