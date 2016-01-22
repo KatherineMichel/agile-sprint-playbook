@@ -2,6 +2,8 @@
 
 A GitBook Documenting the Research and Design Sprint Methodologies I Use
 
+![](cover.jpg)
+
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
