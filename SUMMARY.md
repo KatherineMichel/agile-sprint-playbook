@@ -2,6 +2,8 @@
 
 * [About](README.md)
 * [Introduction](introduction.md)
+* [Scrum Body of Knowledge](scrum-body-of-knowledge.md)
+* [Google Ventures Research and Design Sprint Methodology](google-ventures/google_ventures_research_and_design_sprint_methodology.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google_ventures_research_and_design_sprint_methodology.md)
    * [GV Research Sprint Methodology](google-ventures/gv_research_sprint_methodology.md)
    * [GV Design Sprint Methodology](google-ventures/gv_design_sprint_methodology.md)
