@@ -26,7 +26,7 @@ Table of Contents
    * [Previous Sprints Template](previous_sprints_template.md)
 * [U.K. Gov](uk_gov.md)
 
-GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content
+GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/agile-sprint-playbook
 
