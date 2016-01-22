@@ -1,4 +1,4 @@
-# Research and Design Sprints
+# Agile Sprint Playbook
 
 A GitBook Documenting the Research and Design Sprint Methodologies I Use
 
@@ -24,9 +24,9 @@ Table of Contents
    * [Previous Sprints Template](previous_sprints_template.md)
 * [U.K. Gov](uk_gov.md)
 
-GitBook: http://katherinemichel.gitbooks.io/research-and-design-sprints
+GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook
 <br> 
-GitHub Repo: https://github.com/KatherineMichel/research-and-design-sprints
+GitHub Repo: https://github.com/KatherineMichel/agile-sprint-playbook
 
 © [Katherine Michel](https://twitter.com/katimichel) 2015
 
