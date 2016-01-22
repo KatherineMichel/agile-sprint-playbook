@@ -1,6 +1,6 @@
 # Agile Sprint Playbook
 
-A GitBook Documenting the Research and Design Sprint Methodologies I Use
+A GitBook Documenting My Agile Sprint Playbook (Project Management, Research, Design, Development)
 
 ![](cover.jpg)
 
