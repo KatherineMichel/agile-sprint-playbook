@@ -13,7 +13,7 @@
    * [0 Pre-Sprint](thoughtbot/0-pre-sprint.md)
    * [Pre-Sprint Client Worksheet](thoughtbot/0-pre-sprint-client-worksheet.md)
    * [Pre-Sprint Request for Materials](thoughtbot/0-pre-sprint-request-for-materials.md)
-   * [Example Schedule](thoughtbot/example_schedule.md)
+   * [Example Schedule](thoughtbot/example-schedule.md)
    * [1 Understand](thoughtbot/1-understand.md)
    * [2 Diverge](thoughtbot/2-diverge.md)
    * [3 Converge](thoughtbot/3-converge.md)
