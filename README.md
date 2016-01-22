@@ -30,6 +30,4 @@ GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook
 <br> 
 GitHub Repo: https://github.com/KatherineMichel/agile-sprint-playbook
 
-© [Katherine Michel](https://twitter.com/katimichel) 2015
-
-
+© [Katherine Michel](https://twitter.com/katimichel) 2015-2016
