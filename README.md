@@ -25,7 +25,7 @@ Table of Contents
    * [5 Test](thoughtbot/5-test.md)
        * [Test Sprint Summary](thoughtbot/5-test-sprint-summary.md)
    * [Previous Sprints Template](previous-sprints-template.md)
-* [U.K. Gov](uk-gov.md)
+* [U.K. Gov](uk-gov/uk-gov.md)
 
 GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
 <br> 
