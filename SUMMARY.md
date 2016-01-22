@@ -4,7 +4,6 @@
 * [Introduction](introduction.md)
 * [Scrum Body of Knowledge](scrum-body-of-knowledge/scrum-body-of-knowledge.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google-ventures-research-and-design-sprint-methodology.md)
-* [Google Ventures Research and Design Sprint Methodology](google-ventures/google-ventures-research-and-design-sprint-methodology.md)
    * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
    * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
    * [Google Ventures User Testing Methodology](google-ventures/google-ventures-user-testing-methodology.md)
