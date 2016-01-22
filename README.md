@@ -2,7 +2,7 @@
 
 A GitBook Documenting the Research and Design Sprint Methodologies I Use
 
-![](cover_small.jpg)
+![](cover.jpg)
 
 Table of Contents
 * [About](README.md)
