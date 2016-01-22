@@ -20,5 +20,5 @@
    * [4 Prototype](thoughtbot/4-prototype.md)
    * [5 Test](thoughtbot/5-test.md)
        * [Test Sprint Summary](thoughtbot/5-test-sprint-summary.md)
-   * [Previous Sprints Template](previous_sprints_template.md)
-* [U.K. Gov](uk_gov.md)
+   * [Previous Sprints Template](previous-sprints-template.md)
+* [U.K. Gov](uk-gov.md)
