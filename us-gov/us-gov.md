@@ -16,6 +16,9 @@ U.S. Gov- 18F
 U.S. Gov.- Consumer Financial Protection Bureau
 * [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
 
+U.S. Gov- Department of Veterans Affairs
+* [Department of Veterans Affairs Playbook](https://www.vets.gov/playbook)
+
 U.S. Gov.- Miscellaneous
 * [DigitalGov Resources](http://www.digitalgov.gov/resources)  
 * [Ed Tech Developers](http://tech.ed.gov/developers) and [Ed Tech Developers Toolkit](http://tech.ed.gov/files/2015/04/Developer-Toolkit.pdf)
