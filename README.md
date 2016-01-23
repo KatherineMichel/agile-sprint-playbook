@@ -30,6 +30,7 @@ Table of Contents
    * [Planning Document Templates](usability-gov/planning-document-templates.md)
    * [Questions to Ask at Kickoff Meetings](usability-gov/questions-to-ask-at-kickoff-meetings.md)
    * [Persona Development Discussion Guide](usability-gov/persona-development-discussion-guide.md)
+   * [Report Template Content](usability-gov/report-template-content.md)
 * [Nielson Norman](nielson-norman/nielson-norman.md)
 * [Appendix](appendix/appendix.md)      
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
