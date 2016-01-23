@@ -27,6 +27,7 @@ Table of Contents
     * [Previous Sprints Template](thoughtbot/previous-sprints-template.md)
 * [U.K. Gov](uk-gov/uk-gov.md)
 * [Usability Gov](usability-gov/usability-gov.md)
+   * [Planning Document Templates](usability-gov/planning-document-templates.md)
    * [Questions to Ask at Kickoff Meetings](usability-gov/questions-to-ask-at-kickoff-meetings.md)
    * [Persona Development Discussion Guide](usability-gov/persona-development-discussion-guide.md)
 * [Nielson Norman](nielson-norman/nielson-norman.md)
