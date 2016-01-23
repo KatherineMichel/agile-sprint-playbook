@@ -31,10 +31,11 @@ Table of Contents
 * [Appendix](appendix/appendix.md)      
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
     * [Design Sprint Methods Summary](appendix/design-sprint-methods-summary.md)
+    * [User Research Data Gathering Methods](appendix/user-research-data-gathering-methods.md)
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
     * [Example Demographics](appendix/example-demographics.md)
     * [Branded Documents](appendix/branded-documents.md)
-    * [User Research Data Gathering Methods](appendix/user-research-data-gathering-methods.md)
+    * [Advertising Methods](appendix/advertising-methods.md)
 
 GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
 <br> 
