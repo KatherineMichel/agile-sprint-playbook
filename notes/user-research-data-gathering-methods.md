@@ -1,6 +1,4 @@
-### User Research Data Gathering Methods
-
-# Data Gathering Methods
+# User Research Data Gathering Methods
 
 Method
 * Surveys/polls
@@ -15,7 +13,6 @@ Channel
 * Telephone
 * Mail
 * In person/on the street
-
 
 Methods and Channels
 * Quantitative: Data (analytics)
