@@ -34,3 +34,10 @@ Lightning Demos/Lightning Presentations
 * Related/adjacent products
 * Innovators in the space
 * Case Study
+
+# Exercises
+
+## Critique
+
+   * [Silent Critique](exercises/thoughtbot-silent-critique.md)
+   * [Group Critique](exercises/thoughtbot-group-critique.md)
