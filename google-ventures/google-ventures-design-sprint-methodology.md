@@ -2,7 +2,7 @@
 
 * Google Ventures [Design](http://www.gv.com/library/design)
   *   [Google Ventures Design Sprint](http://www.gv.com/sprint) 
-  * [Before the sprint: Prepare](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
+  * [Before the Sprint: Prepare](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
   *   [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
   * [Day 1: Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1)
   * [Day 2: Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2)
@@ -12,7 +12,7 @@
   * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
   
 Supporting Docs
-*   [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
+*  [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
 ## People and Supplies
 
