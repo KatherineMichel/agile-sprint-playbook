@@ -29,3 +29,4 @@
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
     * [Example Demographics](appendix/example-demographics.md)
     * [Branded Documents](appendix/branded-documents.md)
+    * [User Research Data Gathering Methods](appendix/user-research-data-gathering-methods.md)
