@@ -1,8 +1,9 @@
 # Google Ventures Design Sprint Methodology
 
-* Google Ventures [Design](http://www.gv.com/library/design)
-  *   [Google Ventures Design Sprint](http://www.gv.com/sprint) 
-  * [Before the Sprint: Prepare](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
+* [Google Ventures Library- Design](http://www.gv.com/library/design) and [Google Ventures Design Studio](http://www.gv.com/#design-studio)
+* [Google Ventures Design Sprint Book](http://www.thesprintbook.com)
+*   [Google Ventures Design Sprint](http://www.gv.com/sprint) 
+  * [Before the Sprint: Prepare (Setting the Stage)](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
   *   [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
   * [Day 1: Understand](http://www.gv.com/lib/the-product-design-sprint-understandday-1)
   * [Day 2: Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2)
@@ -10,7 +11,10 @@
   * [Day 4: Prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4)
   * [Day 5: Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5)
   * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
-  
+
+Supporting Music
+* [Dave Brubeck: Blue Rondo A La Turk](https://www.youtube.com/watch?v=PD21CBN6KkE)  
+
 Supporting Docs
 *  [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
 
