@@ -27,6 +27,7 @@ Table of Contents
    * [Previous Sprints Template](thoughtbot/previous-sprints-template.md)
 * [U.K. Gov](uk-gov/uk-gov.md)
 * [Appendix](appendix/appendix.md)
+  * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
 
 GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
 <br> 
