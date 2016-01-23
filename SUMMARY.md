@@ -22,6 +22,7 @@
     * [Previous Sprints Template](thoughtbot/previous-sprints-template.md)
 * [U.K. Gov](uk-gov/uk-gov.md)
 * [Usability Gov](usability-gov/usability-gov.md)
+* [Nielson Norman](nielson-norman/nielson-norman.md)
 * [Appendix](appendix/appendix.md)      
     * [Research Sprint Methods Summary](methods-summaries/research-sprint-methods-summary.md)
     * [Design Sprint Methods Summary](methods-summaries/design-sprint-methods-summary.md)
