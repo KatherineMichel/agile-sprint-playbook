@@ -2,7 +2,7 @@
 
 * [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
 
-## The Scrum Body of Knowledge Summary of Scrum Processes
+## Summary of Scrum Processes
 
 Initiate Phase: 
 * Create Project Vision (8.1)
