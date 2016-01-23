@@ -30,6 +30,7 @@
    * [Report Template Content](usability-gov/report-template-content.md)
 * [Nielson Norman](nielson-norman/nielson-norman.md)
 * [Appendix](appendix/appendix.md)      
+    * [Launch Checklists](appendix/launch-checklists.md)
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
     * [Design Sprint Methods Summary](appendix/design-sprint-methods-summary.md)
     * [User Research Data Gathering Methods](appendix/user-research-data-gathering-methods.md)
