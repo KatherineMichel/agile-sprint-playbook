@@ -35,6 +35,7 @@
     * [User Research Data Gathering Methods](appendix/user-research-data-gathering-methods.md)
     * [Survey Question Examples](appendix/survey-question-examples.md)
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
+    * [S-1 Components](appendix/s-1-components.md) 
     * [Example Demographics](appendix/example-demographics.md)
     * [Branded Documents](appendix/branded-documents.md)
     * [Advertising Methods](appendix/advertising-methods.md)
