@@ -14,7 +14,7 @@ Table of Contents
    * [Google Ventures User Testing Methodology](google-ventures/google-ventures-user-testing-methodology.md)
 * [Google Design Sprint](google/google-design-sprint.md)
 * [Thoughtbot Design Sprint Methodology](thoughtbot/thoughtbot-design-sprint-methodology.md)
-   * [0 Pre-Sprint](thoughtbot/0-pre-sprint.md)
+   * [0 Pre-Sprint](thoughtbot/phases/0-pre-sprint.md)
    * [Pre-Sprint Client Worksheet](thoughtbot/0-pre-sprint-client-worksheet.md)
    * [Pre-Sprint Request for Materials](thoughtbot/0-pre-sprint-request-for-materials.md)
    * [Example Schedule](thoughtbot/example-schedule.md)
