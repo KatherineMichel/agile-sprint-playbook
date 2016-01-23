@@ -17,6 +17,8 @@ Supporting Music
 
 Supporting Docs
 *  [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja)  
+Google Ventures Design Sprint- Fast Co (Basically Redundant)
+* [Fast Co Google Ventures How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint), [Fast Co Google Ventures From Google Ventures, The 6 Ingredients You Need To Run A Design Sprint (Setting the Stage)](http://www.fastcodesign.com/1672889/from-google-ventures-the-6-ingredients-you-need-to-run-a-design-sprint), [Fast Co Google Ventures The First Step In A Design Challenge: Build Team Understanding](http://www.fastcodesign.com/1672905/the-first-step-in-a-design-challenge-build-team-understanding), [Fast Co Google Ventures Design Sprint The 8 Steps To Creating A Great Storyboard](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard), [Fast Co Google Ventures Design Sprint How To Decide What Ideas To Prototype](http://www.fastcodesign.com/1672929/how-to-decide-what-ideas-to-prototype), and [Fast Co Google Ventures Design Sprint A Lightning-Fast Way To Make A Digital Prototype](http://www.fastcodesign.com/1672940/a-lightning-fast-way-to-make-a-digital-prototype) 
 
 ## People and Supplies
 
