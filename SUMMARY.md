@@ -31,3 +31,4 @@
     * [Example Demographics](appendix/example-demographics.md)
     * [Branded Documents](appendix/branded-documents.md)
     * [Advertising Methods](appendix/advertising-methods.md)
+    * [Research and Design Sprint Examples](appendix/research-and-design-sprint-examples.md)
