@@ -23,6 +23,7 @@
 * [U.K. Gov](uk-gov/uk-gov.md)
 * [Usability Gov](usability-gov/usability-gov.md)
    * [Questions to Ask at Kickoff Meetings](usability-gov/questions-to-ask-at-kickoff-meetings.md)
+   * [Persona Development Discussion Guide](usability-gov/persona-development-discussion-guide.md)
 * [Nielson Norman](nielson-norman/nielson-norman.md)
 * [Appendix](appendix/appendix.md)      
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
