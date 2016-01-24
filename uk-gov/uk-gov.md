@@ -25,12 +25,6 @@ Governance
 * [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
 * [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
 
-* [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
-
-Assisted Digital
-* [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
-* [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
-
 The Team
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
 * [The team](https://www.gov.uk/service-manual/the-team/index.html)
