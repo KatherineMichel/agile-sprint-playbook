@@ -63,15 +63,6 @@ Activities
 * [Create Insight Statements](http://www.designkit.org/methods/62)
 * [Top Five](http://www.designkit.org/methods/15)
 
-Prototyping and Piloting
-* [Determine What to Prototype](http://www.designkit.org/methods/34)
-* [Rapid Prototyping](http://www.designkit.org/methods/26)
-* [Live Prototyping](http://www.designkit.org/methods/18)
-* [Pilot](http://www.designkit.org/methods/8)
-
-Mindsets
-* [Mindsets](http://www.designkit.org/mindsets)
-
 ## Interaction Design Encyclopedia
 
 * [Emotion and Website Design](https://www.interaction-design.org/encyclopedia/emotion_and_website_design.html)
