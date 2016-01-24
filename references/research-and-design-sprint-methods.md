@@ -8,20 +8,20 @@ User Research Subguides
 * [Professional Research Methods](https://www.dto.gov.au/standard/design-guides/user-research/professional-research-methods)
 
 * [High Level Design](https://www.dto.gov.au/standard/design-guides/user-research/high-level-design)
-* [Affinity Diagramming](https://www.dto.gov.au/standard/design-guides/user-research/affinity-diagramming/)
-* [Ethonographic Research](https://www.dto.gov.au/standard/design-guides/user-research/ethnographic-research/)
-* [Interviews](https://www.dto.gov.au/standard/design-guides/user-research/interviews/)
+* [Affinity Diagramming](https://www.dto.gov.au/standard/design-guides/user-research/affinity-diagramming)
+* [Ethonographic Research](https://www.dto.gov.au/standard/design-guides/user-research/ethnographic-research)
+* [Interviews](https://www.dto.gov.au/standard/design-guides/user-research/interviews)
 * [Workshops](https://www.dto.gov.au/standard/design-guides/user-research/workshops)
 * [Scenarios](https://www.dto.gov.au/standard/design-guides/user-research/scenarios)
 * [User Pathways](https://www.dto.gov.au/standard/design-guides/user-research/user-pathways)
 * [User Stories](https://www.dto.gov.au/standard/design-guides/user-research/user-stories)
 * [Personas](https://www.dto.gov.au/standard/design-guides/user-research/personas)
-* [Card Sorting](https://www.dto.gov.au/standard/design-guides/user-research/card-sorting/)
+* [Card Sorting](https://www.dto.gov.au/standard/design-guides/user-research/card-sorting)
 * [Wireframing](https://www.dto.gov.au/standard/design-guides/user-research/wireframing)
-* [Prototyping](https://www.dto.gov.au/standard/design-guides/user-research/prototyping/)
+* [Prototyping](https://www.dto.gov.au/standard/design-guides/user-research/prototyping)
 
 http://webguide.gov.au
-https://www.dto.gov.au/standard/design-guides/case-study-improving-website-user-experiences/
+https://www.dto.gov.au/standard/design-guides/case-study-improving-website-user-experiences
 https://www.dto.gov.au/standard/design-guides/making-content-accessible
 
 Testing
@@ -42,58 +42,6 @@ Government and Services
 ## Gamestorming
 
 ## IDEO
-
-### Phases
-
-* Process
-* Inspiration
-* Ideation
-* Implementation
-
-### Possible Roles
-
-* Design Team
-* Project Lead
-* Person you’re designing for
-* Key Partners, Stakeholders
-* Expert
-* Staff
-* Community Members
-* Interviewer
-* Interviewees
-
-### Possible Supplies
-
-General
-* A place to meet
-* Wall or board
-* Whiteboard
-* Paper (small, large sheets)
-* Post-its
-* Pens
-* Notebook
-* Magazines
-* Glue
-* Tape
-* Art supplies
-* Camera 
-
-Research and Prototyping
-* Prototyping materials
-* Computer, internet connection
-* Research materials
-* Spreadsheet program
-
-Fieldwork
-* Travel
-* Accommodation
-* Tools for work
-* Contact
-
-Real World Testing
-* Space
-* Staff
-* Permits
 
 ### Methods
 
