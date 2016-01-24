@@ -11,7 +11,7 @@ I fill out the Google Ventures [Recruiting Screener Worksheet](https://www.dropb
 I use [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to create the Recruiting Screener. The results are automatically collected in a spreadsheet in Google Drive. 
 
 ## Recruiting Screener Ad
-Google Ventures often uses a [Craig's List ad](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png) with a link to the Recruiting Screener to recruit users. Alternatively, I have sent an email ad with a link to the Recruiting Screener to members of a mailing list.
+Google Ventures often uses a [Craig's List ad](https://www.dropbox.com/s/fmbjfm7bneqj3a4/Google-Ventures-Research-Sprint-Sample-Craigslist-ad.png) with a link to the Recruiting Screener to recruit users. Alternatively, I have sent an email ad with a link to the Recruiting Screener to members of a mailing list.
 
 ## Contacting Prospective Users
 
@@ -29,7 +29,7 @@ After the phone calls, I send each confirmed participant a follow up email. In e
 * NDA (if needed)
 * A request that prospective users reply to confirm
 
-Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](http://www.gv.com/wp-content/uploads/2014/07/Google-Ventures-Research-Sprint-Sample-NDA.pdf)). 
+Google Ventures suggests including in the email a link to a non-disclosure agreement ([Google Ventures Example Non-Disclosure Agreement](https://www.dropbox.com/s/cma6wpctkgbw72n/Google-Ventures-Research-Sprint-Sample-NDA.pdf)). 
 
 ## User Interviews
 
