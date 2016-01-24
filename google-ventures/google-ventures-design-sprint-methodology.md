@@ -1,5 +1,9 @@
 # Google Ventures Design Sprint Methodology
 
+Useful Links
+* [Google Ventures Library- Design](https://library.gv.com/tagged/design) and [Google Ventures Design Studio](http://www.gv.com/#design-studio)
+* [Google Ventures Design Sprint Book](http://www.thesprintbook.com)
+
 * [Google Ventures Design Sprint](http://www.gv.com/sprint) 
   * [Before the Sprint: Prepare (Setting the Stage)](http://www.gv.com/lib/the-product-design-sprint-settingthestage)
     * [Google Ventures Design Sprint Supply List](http://amzn.com/lm/RS9AYY6BTLDCM)
