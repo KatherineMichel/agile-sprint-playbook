@@ -19,3 +19,10 @@ Service Design Phases
 * [Beta](https://www.gov.uk/service-manual/phases/beta) and [Governing the Beta Phase](https://www.gov.uk/service-manual/governance/governing-the-beta-phase.html)
 * [Live](https://www.gov.uk/service-manual/phases/live) and [Governing the Live Phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
 * [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
+
+Prototypes
+* [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
+
+Accessibility
+* [Accessibility testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
+* [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
