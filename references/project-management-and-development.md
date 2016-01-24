@@ -150,7 +150,6 @@ Agile Practices
 ## Australian Government Digital Transformation Office Project Management
 
 https://www.dto.gov.au/standard/design-guides/search-engine-optimisation
-https://www.dto.gov.au/standard/design-guides/online-writing
 https://www.dto.gov.au/standard/design-guides/common-website-elements/online-content-requirements
 https://www.dto.gov.au/standard/design-guides/common-website-elements/ministerial-content
 https://www.dto.gov.au/standard/design-guides/common-website-elements/metadata
@@ -162,50 +161,51 @@ https://www.dto.gov.au/standard/design-guides/common-website-elements/content-li
 https://www.dto.gov.au/standard/design-guides/common-website-elements/common-government-content-and-features
 https://www.dto.gov.au/standard/design-guides/common-website-elements/caretaker-conventions
 https://www.dto.gov.au/standard/design-guides/statistical-data-integration
-https://www.dto.gov.au/standard/design-guides/secure-services
 https://www.dto.gov.au/standard/design-guides/authentication-frameworks/national-e-authentication-framework
 https://www.dto.gov.au/standard/design-guides/authentication-frameworks/gatekeeper-public-key-infrastructure-framework
 https://www.dto.gov.au/standard/design-guides/authentication-frameworks
 https://www.dto.gov.au/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework
 https://www.dto.gov.au/standard/design-guides/records-management
-https://www.dto.gov.au/standard/design-guides/service-integration
+
+http://webguide.gov.au
+* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
+* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
+* [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
 
 Team and Culture
-*   [The team](https://www.dto.gov.au/standard/design-guides/the-team)
-*   [Recruitment](https://www.dto.gov.au/standard/design-guides/the-team/team-recruitment)
-*   [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
+* [The team](https://www.dto.gov.au/standard/design-guides/the-team)
+* [Recruitment](https://www.dto.gov.au/standard/design-guides/the-team/team-recruitment)
 
 Analytics and Measurement
-*   [Analytics tools](https://www.dto.gov.au/standard/design-guides/analytics-tools)
-*   [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
+* [Analytics tools](https://www.dto.gov.au/standard/design-guides/analytics-tools)
 
 Development
 
 Open Source
-*   [Using open standards](https://www.dto.gov.au/standard/design-guides/open-standards)
-*   [Sharing source code](https://www.dto.gov.au/standard/design-guides/code-sharing)
-*   [Using APIs](https://www.dto.gov.au/standard/design-guides/api)
-*   [Open data](https://www.dto.gov.au/standard/design-guides/open-data)
+* [Using open standards](https://www.dto.gov.au/standard/design-guides/open-standards)
+* [Sharing source code](https://www.dto.gov.au/standard/design-guides/code-sharing)
+* [Using APIs](https://www.dto.gov.au/standard/design-guides/api)
+* [Open data](https://www.dto.gov.au/standard/design-guides/open-data)
 
 Identity and Privacy
-*   [Identity assurance](https://www.dto.gov.au/standard/design-guides/identity-assurance)
-*   [Privacy requirements](https://www.dto.gov.au/standard/design-guides/privacy)
+* [Identity assurance](https://www.dto.gov.au/standard/design-guides/identity-assurance)
+* [Privacy requirements](https://www.dto.gov.au/standard/design-guides/privacy)
 
 Websites
-*   [Content management system](https://www.dto.gov.au/standard/design-guides/content-management-system)
-*   [Domain names](https://www.dto.gov.au/standard/design-guides/domain-names)
-*   [Common website elements](https://www.dto.gov.au/standard/design-guides/common-website-elements)
+* [Content management system](https://www.dto.gov.au/standard/design-guides/content-management-system)
+* [Domain names](https://www.dto.gov.au/standard/design-guides/domain-names)
+* [Common website elements](https://www.dto.gov.au/standard/design-guides/common-website-elements)
 
 Branding, Social Media and Content
-*   [Branding](https://www.dto.gov.au/standard/design-guides/branding)
-*   [Social media](https://www.dto.gov.au/standard/design-guides/social-media)
-*   [Writing digital content](https://www.dto.gov.au/design-guides/guide/writing-digital-content)
-*   [Making content accessible](https://www.dto.gov.au/design-guides/guide/making-content-accessible)
+* [Branding](https://www.dto.gov.au/standard/design-guides/branding)
+* [Social media](https://www.dto.gov.au/standard/design-guides/social-media)
+* [Writing digital content](https://www.dto.gov.au/standard/design-guides/online-writing)
+* [Making content accessible](https://www.dto.gov.au/standard/design-guides/making-content-accessible)
 
 Case Studies
-*   [Case Study: Connecting with customers on social media](https://www.dto.gov.au/standard/design-guides/case-study-connecting-with-users-on-social-media)
-*   [Case Study: Improving website user experiences](https://www.dto.gov.au/standard/design-guides/case-study-improving-website-user-experiences)
-*   [Case Study: Opening Government Data with the NationalMap](https://www.dto.gov.au/standard/design-guides/case-study-opening-government-data-with-the-nationalmap)
+* [Case Study: Connecting with customers on social media](https://www.dto.gov.au/standard/design-guides/case-study-connecting-with-users-on-social-media)
+* [Case Study: Improving website user experiences](https://www.dto.gov.au/standard/design-guides/case-study-improving-website-user-experiences)
+* [Case Study: Opening Government Data with the NationalMap](https://www.dto.gov.au/standard/design-guides/case-study-opening-government-data-with-the-nationalmap)
 
 ## Design Kit 
 
