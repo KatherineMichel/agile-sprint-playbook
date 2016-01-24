@@ -1,7 +1,7 @@
 # Australian Gov
 
 * [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
-* [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
+* [Australia Digital Service Standard](https://www.dto.gov.au/standard), [Australia Digital Service Standard GitHub](https://github.com/AusDTO/Digital-Service-Standard), [Principles of Digital Service Design](https://www.dto.gov.au/standard/principles-digital-service-design), and [How to Apply the Standard](https://www.dto.gov.au/standard/service-design-process)
 * [Australia Digital Transformation Office Design Guides](https://www.dto.gov.au/design-guides)
 * [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
 * [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
