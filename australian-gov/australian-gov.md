@@ -1,10 +1,9 @@
 # Australian Gov
 
 * [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
-* [Australia Digital Service Standard](https://www.dto.gov.au/standard) and [Australia Digital Service Standard GitHub](https://github.com/AusDTO/Digital-Service-Standard)
+* [Australia Digital Service Standard](https://www.dto.gov.au/standard) and [Australia Digital Service Standard GitHub](https://github.com/AusDTO/Digital-Service-Standard), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard) and [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
 * [Australia Digital Transformation Office Design Guides](https://www.dto.gov.au/design-guides)
-* [Australia Digital Transformation Plan](https://www.dto.gov.au/standard/digital-transformation-plan), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard), [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
-* [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary) and [Sitemap](https://www.dto.gov.au/sitemap)
+* [Australia Digital Glossary](https://www.dto.gov.au/standard/glossary)
 
 Australian Government Web Guide (Deprecated)
 * [Australian Government Web Guide (Deprecated)](http://webguide.gov.au)
