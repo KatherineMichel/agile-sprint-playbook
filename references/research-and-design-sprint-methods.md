@@ -129,6 +129,9 @@ Prototyping
 
 ### Methods
 
+Creative Workshop
+* [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
+
 Planning Tools
 * [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
 * [SWOT Analysis](http://diytoolkit.org/tools/swot-analysis-2)
@@ -157,10 +160,9 @@ Interviews
 * [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 * [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
 
-* [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
-
-* [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
 * [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
+
+* [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
 ## New Zealand Government Web Toolkit
 
@@ -292,28 +294,8 @@ Miscellaneous
 
 ### Methods
 
-Development
-* [Governance](https://www.gov.uk/service-manual/governance/index.html)
-* [Governance principles](https://www.gov.uk/service-manual/governance/governance-principles.html)
-* [Introduction to governance for service delivery](https://www.gov.uk/service-manual/governance/introduction-to-governance-for-service-delivery.html)
-* [Governance across the life of a service](https://www.gov.uk/service-manual/governance/governance-across-the-life-of-a-service.html)
-* [Assurance for digital services](https://www.gov.uk/service-manual/governance/assurance-for-digital-services.html)
-* [Assurance from those outside the service team](https://www.gov.uk/service-manual/governance/assurance-from-those-outside-the-service-team.html)
-* [Self assurance by agile teams](https://www.gov.uk/service-manual/governance/self-assurance-by-agile-teams.html)
-* [How delivery teams manage their work](https://www.gov.uk/service-manual/governance/how-delivery-teams-manage-their-work.html)
-* [Setting up the right reporting](https://www.gov.uk/service-manual/governance/setting-up-the-right-reporting.html)
-* [What to expect from the show and tell](https://www.gov.uk/service-manual/governance/what-to-expect-from-the-show-and-tell.html)
-* [Seeing progress](https://www.gov.uk/service-manual/governance/seeing-progress.html)
-
-* [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
-
 User Centred Design Methods
 * [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
-* [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
-
-Accessibility
-* [Accessibility testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
-* [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
 
 User Research and Testing
 * [An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
