@@ -32,6 +32,7 @@
    * [Persona Development Discussion Guide](usability-gov/persona-development-discussion-guide.md)
    * [Report Template Content](usability-gov/report-template-content.md)
 * [Nielson Norman](nielson-norman/nielson-norman.md)
+* [IDEO](ideo/ideo.md)
 * [Appendix](appendix/appendix.md)      
     * [Launch Checklists](appendix/launch-checklists.md)
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
