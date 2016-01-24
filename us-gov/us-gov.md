@@ -9,10 +9,27 @@ U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.
 U.S. Gov.- General Services Administration
 * [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov) 
 
+## 18F
+
 U.S. Gov- 18F
 * [18F](https://18f.gsa.gov) and [18F Guides](https://pages.18f.gov/guides)
 * [18F Grouplets](https://pages.18f.gov/grouplet-playbook) and [18F Methods](https://methods.18f.gov)
 * [18F Accessibility GitHub](https://pages.18f.gov/accessibility)
+
+Agile Project Management
+* [Agile Principles and Practices](https://pages.18f.gov/agile)
+* [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
+
+Development
+* [Frontend](https://pages.18f.gov/frontend)
+* [Analytics](https://github.com/18F/analytics-standards)
+* [Content](https://pages.18f.gov/content-guide)
+
+* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
+* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
+* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
+* [Before you Ship](https://pages.18f.gov/before-you-ship)
+* [APIs](https://github.com/18f/api-standards)
 
 U.S. Gov.- Consumer Financial Protection Bureau
 * [Consumer Financial Protection Bureau Design Manual](https://cfpb.github.io/design-manual)
