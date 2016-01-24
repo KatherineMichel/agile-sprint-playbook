@@ -7,32 +7,36 @@
 User Research Subguides
 * [Professional Research Methods](https://www.dto.gov.au/standard/design-guides/user-research/professional-research-methods)
 
-* [High Level Design](https://www.dto.gov.au/design-guides/subguides/high-level-design)
-* [Affinity Diagramming](https://www.dto.gov.au/design-guides/subguides/affinity-diagramming)
-* [Ethonographic Research](https://www.dto.gov.au/design-guides/subguides/ethnographic-research)
-* [Interviews](https://www.dto.gov.au/design-guides/subguides/interviews)
-* [Workshops](https://www.dto.gov.au/design-guides/subguides/workshops)
-* [Scenarios](https://www.dto.gov.au/design-guides/subguides/scenarios)
-* [User Pathways](https://www.dto.gov.au/design-guides/subguides/user-pathways)
-* [User Stories](https://www.dto.gov.au/design-guides/subguides/user-stories)
-* [Personas](https://www.dto.gov.au/design-guides/subguides/personas)
-* [Card Sorting](https://www.dto.gov.au/design-guides/subguides/card-sorting)
-* [Wireframing](https://www.dto.gov.au/design-guides/subguides/wireframing)
-* [Prototyping](https://www.dto.gov.au/design-guides/subguides/prototyping)
+* [High Level Design](https://www.dto.gov.au/standard/design-guides/user-research/high-level-design)
+* [Affinity Diagramming](https://www.dto.gov.au/standard/design-guides/user-research/affinity-diagramming/)
+* [Ethonographic Research](https://www.dto.gov.au/standard/design-guides/user-research/ethnographic-research/)
+* [Interviews](https://www.dto.gov.au/standard/design-guides/user-research/interviews/)
+* [Workshops](https://www.dto.gov.au/standard/design-guides/user-research/workshops)
+* [Scenarios](https://www.dto.gov.au/standard/design-guides/user-research/scenarios)
+* [User Pathways](https://www.dto.gov.au/standard/design-guides/user-research/user-pathways)
+* [User Stories](https://www.dto.gov.au/standard/design-guides/user-research/user-stories)
+* [Personas](https://www.dto.gov.au/standard/design-guides/user-research/personas)
+* [Card Sorting](https://www.dto.gov.au/standard/design-guides/user-research/card-sorting/)
+* [Wireframing](https://www.dto.gov.au/standard/design-guides/user-research/wireframing)
+* [Prototyping](https://www.dto.gov.au/standard/design-guides/user-research/prototyping/)
+
+http://webguide.gov.au
+https://www.dto.gov.au/standard/design-guides/case-study-improving-website-user-experiences/
+https://www.dto.gov.au/standard/design-guides/making-content-accessible
 
 Testing
 * [Testing Services](https://www.dto.gov.au/design-guides/guide/testing-services)
 * [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
-* [Usability Testing](https://www.dto.gov.au/design-guides/guide/usability-testing)
-* [Testing Web Accessibility](https://www.dto.gov.au/design-guides/guide/testing-web-accessibility)
+* [Usability Testing](https://www.dto.gov.au/standard/design-guides/usability-testing)
+* [Testing Web Accessibility](https://www.dto.gov.au/standard/design-guides/testing-web-accessibility)
 
 Government and Services
 * [Government as a platform](https://www.dto.gov.au/design-guides/guide/government-platform)
 * [Common government solutions](https://www.dto.gov.au/design-guides/guide/common-government-solutions)
 * [Building digital services](https://www.dto.gov.au/design-guides/guide/building-digital-services)
 * [Building secure services](https://www.dto.gov.au/design-guides/guide/building-secure-services)
-* [Designing inclusive services](https://www.dto.gov.au/design-guides/guide/designing-inclusive-services)
-* [Assisted digital](https://www.dto.gov.au/design-guides/guide/assisted-digital)
+* [Designing inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services)
+* [Assisted digital](https://www.dto.gov.au/standard/design-guides/assisted-digital)
 * [Integrating offline activity](https://www.dto.gov.au/design-guides/guide/integrating-offline-activity)
 
 ## Gamestorming
