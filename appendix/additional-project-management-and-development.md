@@ -134,24 +134,6 @@ Timeframe
 
 ## Design Kit 
 
-Project Management
-* [Frame Your Design Challenge](http://www.designkit.org/methods/60)
-* [How We Might](http://www.designkit.org/methods/3)
-* [Design Principles](http://www.designkit.org/methods/27)
-* [Recruiting Tools](http://www.designkit.org/methods/22)
-* [Co-Creation Session](http://www.designkit.org/methods/33)
-* [Creating a Project Plan](http://www.designkit.org/methods/9)
-* [Build a Team](http://www.designkit.org/methods/10)
-* [Business Model Canvas](http://www.designkit.org/methods/41)
-* [Build Partnerships](http://www.designkit.org/methods/17)
-* [Roadmap](http://www.designkit.org/methods/7)
-* [Define Success](http://www.designkit.org/methods/55)
-* [Measure and Evaluate](http://www.designkit.org/methods/40)
-* [Staff Your Project](http://www.designkit.org/methods/56)
-* [Capabilities Quicksheet](http://www.designkit.org/methods/39)
-* [Create a Pitch](http://www.designkit.org/methods/37)
-* [Funding Strategy](http://www.designkit.org/methods/54)
-
 Stakeholders
 * [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
 * [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
