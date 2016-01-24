@@ -1,9 +1,5 @@
 # Research and Design Sprint Methods
 
-## 18F
-
-* [Accessibility](https://pages.18f.gov/accessibility)
-
 ## Australian Government Digital Transformation Office
 
 ### User Centred Design
