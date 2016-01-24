@@ -33,6 +33,7 @@ Table of Contents
    * [Agile Project Management](australian-gov/agile-project-management.md) 
 * [New Zealand Gov](new-zealand-gov/new-zealand-gov.md)
 * [Usability Gov](usability-gov/usability-gov.md)
+   * [Project Management and Development](usability-gov/project-management-and-development.md)
    * [Usability Study Process and Materials Checklist](usability-gov/usability-study-process-and-materials-checklist.md)
    * [Planning Document Templates](usability-gov/planning-document-templates.md)
    * [Questions to Ask at Kickoff Meetings](usability-gov/questions-to-ask-at-kickoff-meetings.md)
