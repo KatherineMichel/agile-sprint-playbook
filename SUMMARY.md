@@ -37,6 +37,7 @@
 * [Nielson Norman](nielson-norman/nielson-norman.md)
 * [IDEO](ideo/ideo.md)
 * [Appendix](appendix/appendix.md)      
+    * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
     * [Launch Checklists](appendix/launch-checklists.md)
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
     * [Design Sprint Methods Summary](appendix/design-sprint-methods-summary.md)
