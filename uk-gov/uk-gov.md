@@ -11,9 +11,6 @@ Digital Standards
 * [U.K. Government Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default), [Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-standard.html), and [Design Standards](https://www.gov.uk/design-principles)
 * [U.K. Government Standards Hub](http://standards.data.gov.uk)
 
-Service Design
-* [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
-
 Governance
 * [Governance Principles Blog Post](https://digitaltransformation.blog.gov.uk/2014/06/24/governance-principles) and [Governance Principles](https://www.gov.uk/service-manual/governance/governance-principles)
 
