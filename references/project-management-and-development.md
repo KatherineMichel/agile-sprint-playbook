@@ -1,5 +1,32 @@
 # Project Management and Development
 
+## Wikipedia
+
+Agile Practices
+* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+* [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
+* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
+* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
+
+* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
+* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
+* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
+* [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
+* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
+* [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
+
+* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
+
 # Agile Development
 
 * Agile Modeling
@@ -48,31 +75,6 @@ Development
 * [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
 * [Before you Ship](https://pages.18f.gov/before-you-ship)
 * [APIs](https://github.com/18f/api-standards)
-
-Agile Practices
-* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-* [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
-* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
-* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-
-* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-* [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
-* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
-* [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
-
-* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
 
 ## Agile Allegiance
 
@@ -379,16 +381,3 @@ Design and Development
 * [Writing for the Web](http://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 * [Multimedia and Training](http://www.usability.gov/how-to-and-tools/resources/multimedia-and-trainings.html)
 * [Glossary](http://www.usability.gov/what-and-why/glossary/index.html)
-
-## U.K. Gov Agile 
-
-Project Management
-* [Agile](https://www.gov.uk/service-manual/agile/index.html)
-* [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
-* [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
-* [Training and learning about agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
-* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
-* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
-* [Quality](https://www.gov.uk/service-manual/agile/quality.html)
-* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
