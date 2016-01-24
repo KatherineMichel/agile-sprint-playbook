@@ -5,7 +5,7 @@
 ## Recruiting Screener Worksheet
 
 I fill out the Google Ventures [Recruiting Screener Worksheet](https://www.dropbox.com/s/5kmofdms00sbh84/Google-Ventures-Research-Sprint-Screener-Worksheet.pdf) to prepare for user recruitment
-![](google-ventures-images/recruiting-screener-worksheet.jpg)
+![](images/recruiting-screener-worksheet.jpg)
 
 ## Recruiting Screener
 I use [Google Forms](https://support.google.com/docs/answer/87809?hl=en) to create the Recruiting Screener. The results are automatically collected in a spreadsheet in Google Drive. 
@@ -33,7 +33,7 @@ Google Ventures suggests including in the email a link to a non-disclosure agree
 
 ## User Interviews
 
-![](google-ventures-images/do-not-disturb-sign.jpg)
+![](images/do-not-disturb-sign.jpg)
 
 The user testing interviews are done using the prototype that was the end result of the Design Sprint. 
 
@@ -41,19 +41,19 @@ The user testing interviews are done using the prototype that was the end result
 
 I use Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
 
-![](google-ventures-images/interview-worksheet-1.jpg)
+![](images/interview-worksheet-1.jpg)
 
-![](google-ventures-images/interview-worksheet-2.jpg)
+![](images/interview-worksheet-2.jpg)
 
-![](google-ventures-images/interview-worksheet-3.jpg)
+![](images/interview-worksheet-3.jpg)
 
-![](google-ventures-images/interview-worksheet-4.jpg)
+![](images/interview-worksheet-4.jpg)
 
-![](google-ventures-images/interview-worksheet-5.jpg)
+![](images/interview-worksheet-5.jpg)
 
-![](google-ventures-images/interview-worksheet-6.jpg)
+![](images/interview-worksheet-6.jpg)
 
-![](google-ventures-images/interview-worksheet-7.jpg)
+![](images/interview-worksheet-7.jpg)
 
 #### Example Use Case
 
@@ -65,5 +65,5 @@ I use Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.co
 
 Example [HEART/Goals-Signals-Metrics](https://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product) chart from Google Ventures
 
-![](google-ventures-images/heart-goals-signals-metrics.jpg)
+![](images/heart-goals-signals-metrics.jpg)
 
