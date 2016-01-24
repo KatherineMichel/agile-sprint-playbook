@@ -306,15 +306,11 @@ User Centred Design Methods
 User Research Qualitative Techniques
 * [Ethnographic Research](https://www.gov.uk/service-manual/user-centred-design/user-research/ethnographic-research)
 * [Expert Review](https://www.gov.uk/service-manual/user-centred-design/user-research/expert-review.html)
-* [Guerrilla Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/guerrilla-testing.html)
-* [Same Day User Testing (Online Qualitative)](https://www.gov.uk/service-manual/user-centred-design/user-research/same-day-user-testing.html)
-* [Lab Based User Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/lab-based-user-testing.html)
 * [Focus Groups, Mini Groups, and 1:1 Interviews](https://www.gov.uk/service-manual/user-centred-design/user-research/focus-groups-mini-groups-interviews)
 * [Community User Groups](https://www.gov.uk/service-manual/user-centred-design/user-research/community-user-groups.html)
 
 User Research Quantitative
 * [User Research Surveys](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-surveys)
-* [Remote Usability](https://www.gov.uk/service-manual/user-centred-design/user-research/remote-usability.html)
 * [Online Research Panels](https://www.gov.uk/service-manual/user-centred-design/user-research/online-research-panels.html)
 * [Online Omnibus Survey](https://www.gov.uk/service-manual/user-centred-design/user-research/online-omnibus-survey.html)
 
