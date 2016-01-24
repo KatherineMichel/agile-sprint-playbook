@@ -13,8 +13,6 @@
 * [User Stories](https://www.dto.gov.au/standard/design-guides/user-research/user-stories)
 * [Personas](https://www.dto.gov.au/standard/design-guides/user-research/personas)
 * [Card Sorting](https://www.dto.gov.au/standard/design-guides/user-research/card-sorting)
-* [Wireframing](https://www.dto.gov.au/standard/design-guides/user-research/wireframing)
-* [Prototyping](https://www.dto.gov.au/standard/design-guides/user-research/prototyping)
 
 ## Gamestorming
 
@@ -145,8 +143,7 @@ Target Audiences and Personas
 * [Target Group](http://diytoolkit.org/tools/target-group)
 * [Personas](http://diytoolkit.org/tools/personas-2)
 
-Workshops and Interviews
-* [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
+Interviews
 * [Shadowing](http://diytoolkit.org/tools/shadowing-2)
 * [Question Ladder](http://diytoolkit.org/tools/question-ladder)
 * [Interview Guide](http://diytoolkit.org/tools/interview-guide-2)
@@ -160,8 +157,10 @@ Workshops and Interviews
 * [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 * [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
 
-* [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
 * [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
+
+* [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
+* [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
 
 ## New Zealand Government Web Toolkit
 
