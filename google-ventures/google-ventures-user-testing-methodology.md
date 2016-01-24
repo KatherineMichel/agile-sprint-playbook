@@ -39,7 +39,7 @@ The user testing interviews are done using the prototype that was the end result
 
 ### Interview Guide 
 
-I use Google Ventures ["User Research, Quick 'n' Dirty,"](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
+I use Google Ventures ["User Research, Quick 'n' Dirty,"](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf) as an interview planning resource.
 
 ![](google-ventures-images/interview-worksheet-1.jpg)
 
