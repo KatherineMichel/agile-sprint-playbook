@@ -167,10 +167,6 @@ Workshops and Interviews
 
 ### Methods
 
-* [Analytics](https://webtoolkit.govt.nz/guidance/service-design/tools/analytics)
-
-* [Usability](https://webtoolkit.govt.nz/guidance/service-design/tools/usability)
-
 * [Ethnography](https://webtoolkit.govt.nz/guidance/service-design/tools/ethnography)
 * [Focus Group](https://webtoolkit.govt.nz/guidance/service-design/tools/focus-groups)
 * [In Depth Interviews](https://webtoolkit.govt.nz/guidance/service-design/tools/in-depth-interviews)
@@ -184,11 +180,6 @@ Workshops and Interviews
 * [Scenarios](https://webtoolkit.govt.nz/guidance/service-design/tools/scenarios)
 * [Typologies](https://webtoolkit.govt.nz/guidance/service-design/tools/typologies)
 * [Personas](https://webtoolkit.govt.nz/guidance/service-design/tools/personas)
-
-* [Protopying](https://webtoolkit.govt.nz/guidance/service-design/tools/prototyping)
-* [Recruiting Users](https://webtoolkit.govt.nz/guidance/service-design/tools/recruiting-users)
-* [Tree Testing](https://webtoolkit.govt.nz/guidance/service-design/tools/tree-testing)
-* [User Testing Analysis](https://webtoolkit.govt.nz/guidance/service-design/tools/user-testing-analysis)
 
 ## Service Design Tools 
 
