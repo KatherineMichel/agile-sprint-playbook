@@ -1,5 +1,8 @@
 # Agile Project Management
 
+User Research Briefs
+* [User Research Briefs](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-briefs) and [Example Briefs](https://www.gov.uk/service-manual/assets/documents/IDAQualBrief.pdf)
+
 Project Management
 * [Agile](https://www.gov.uk/service-manual/agile/index.html)
 * [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
