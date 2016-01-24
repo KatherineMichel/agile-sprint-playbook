@@ -1,4 +1,4 @@
-# Service Design Phases
+# Service Design
 
 Service Design Phases (Research and Design Sprint)
 * [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html)
