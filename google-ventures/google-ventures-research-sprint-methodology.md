@@ -8,7 +8,7 @@
   * [Day 3](http://www.gv.com/lib/the-gv-research-sprint-day-3)
   * [Day 4](http://www.gv.com/lib/the-gv-research-sprint-day-4) 
 
-* [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](http://www.gv.com/wp-content/uploads/2013/02/User-Research-Workshop_Google-Ventures_Feb2013.pdf)  
+* [Google Ventures Research Quick and Dirty Research](http://www.gv.com/lib/user-research-quick-and-dirty) and [PDF](https://www.dropbox.com/s/6kef5x79ap8f9v7/User-Research-Workshop_Google-Ventures_Feb2013.pdf?dl=0)  
 * [Google Ventures Research Plan and Interview Guide](http://www.gv.com/ds-redirect/images/content/research-worksheet.pdf)  
 ## Supporting Docs
 
