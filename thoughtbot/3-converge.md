@@ -59,7 +59,7 @@ seems to be more ideas and no really strong direction forward.
 
 ---
 
-### [Example Schedule for Converge](thoughtbot/schedules/3-converge.md)
+### [Example Schedule for Converge](schedules/3-converge.md)
 
 ---
 
