@@ -46,7 +46,7 @@ how many people visit.
 
 ---
 
-### [Example Schedule for Validate](thoughtbot/schedules/5-test.md)
+### [Example Schedule for Validate](schedules/5-test.md)
 
 ---
 
