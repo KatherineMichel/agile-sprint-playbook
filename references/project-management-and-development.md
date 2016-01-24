@@ -35,44 +35,44 @@ Timeframe
 ## 18F
 
 Agile Project Management
-*   [Agile Principles and Practices](https://pages.18f.gov/agile)
-*   [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
+* [Agile Principles and Practices](https://pages.18f.gov/agile)
+* [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
 
 Development
-*   [Frontend](https://pages.18f.gov/frontend)
-*   [Analytics](https://github.com/18F/analytics-standards)
-*   [Content](https://pages.18f.gov/content-guide)
+* [Frontend](https://pages.18f.gov/frontend)
+* [Analytics](https://github.com/18F/analytics-standards)
+* [Content](https://pages.18f.gov/content-guide)
 
-*   [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
-*   [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
-*   [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
-*   [Before you Ship](https://pages.18f.gov/before-you-ship)
-*   [APIs](https://github.com/18f/api-standards)
+* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
+* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
+* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
+* [Before you Ship](https://pages.18f.gov/before-you-ship)
+* [APIs](https://github.com/18f/api-standards)
 
 Agile Practices
-*   [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-*   [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-*   [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-*   [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-*   [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-*   [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
-*   [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
-*   [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-*   [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-*   [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
-*   [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
-*   [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-*   [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
-*   [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
+* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
+* [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
+* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
+* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
 
-*   [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-*   [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-*   [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-*   [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
-*   [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
-*   [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
+* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
+* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
+* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
+* [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
+* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
+* [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
 
-*   [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
+* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
 
 ## Agile Allegiance
 
@@ -145,7 +145,7 @@ Agile Practices
 * [Unit testing](http://guide.agilealliance.org/guide/unittest.html)
 * [CRC cards](http://guide.agilealliance.org/guide/crc.html)
 
-*   [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
+* [Ubiquitous language](http://guide.agilealliance.org/guide/ubiquitous.html)
 
 ## Australian Government Digital Transformation Office Project Management
 
@@ -210,64 +210,64 @@ Case Studies
 ## Design Kit 
 
 Project Management
-*   [Frame Your Design Challenge](http://www.designkit.org/methods/60)
-*   [How We Might](http://www.designkit.org/methods/3)
-*   [Design Principles](http://www.designkit.org/methods/27)
-*   [Recruiting Tools](http://www.designkit.org/methods/22)
-*   [Co-Creation Session](http://www.designkit.org/methods/33)
-*   [Creating a Project Plan](http://www.designkit.org/methods/9)
-*   [Build a Team](http://www.designkit.org/methods/10)
-*   [Business Model Canvas](http://www.designkit.org/methods/41)
-*   [Build Partnerships](http://www.designkit.org/methods/17)
-*   [Roadmap](http://www.designkit.org/methods/7)
-*   [Define Success](http://www.designkit.org/methods/55)
-*   [Measure and Evaluate](http://www.designkit.org/methods/40)
-*   [Staff Your Project](http://www.designkit.org/methods/56)
-*   [Capabilities Quicksheet](http://www.designkit.org/methods/39)
-*   [Create a Pitch](http://www.designkit.org/methods/37)
-*   [Funding Strategy](http://www.designkit.org/methods/54)
+* [Frame Your Design Challenge](http://www.designkit.org/methods/60)
+* [How We Might](http://www.designkit.org/methods/3)
+* [Design Principles](http://www.designkit.org/methods/27)
+* [Recruiting Tools](http://www.designkit.org/methods/22)
+* [Co-Creation Session](http://www.designkit.org/methods/33)
+* [Creating a Project Plan](http://www.designkit.org/methods/9)
+* [Build a Team](http://www.designkit.org/methods/10)
+* [Business Model Canvas](http://www.designkit.org/methods/41)
+* [Build Partnerships](http://www.designkit.org/methods/17)
+* [Roadmap](http://www.designkit.org/methods/7)
+* [Define Success](http://www.designkit.org/methods/55)
+* [Measure and Evaluate](http://www.designkit.org/methods/40)
+* [Staff Your Project](http://www.designkit.org/methods/56)
+* [Capabilities Quicksheet](http://www.designkit.org/methods/39)
+* [Create a Pitch](http://www.designkit.org/methods/37)
+* [Funding Strategy](http://www.designkit.org/methods/54)
 
 Stakeholders
-*   [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
-*   [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
-*   [Experience Map](http://diytoolkit.org/tools/experience-map-2)
+* [Bulding Partneships Map](http://diytoolkit.org/tools/building-partnerships-map-2)
+* [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
+* [Experience Map](http://diytoolkit.org/tools/experience-map-2)
 
 ## IDEO 
 
 Project Management
 
 Sustainability and Growth
-*   [Sustainable Revenue](http://www.designkit.org/methods/16)
-*   [Ways to Grow Framework](http://www.designkit.org/methods/38)
+* [Sustainable Revenue](http://www.designkit.org/methods/16)
+* [Ways to Grow Framework](http://www.designkit.org/methods/38)
 
 Development
-*   [Get Feedback](http://www.designkit.org/methods/57)
-*   [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
-*   [Keep Iterating](http://www.designkit.org/methods/19)
-*   [Keep Getting Feedback](http://www.designkit.org/methods/59)
+* [Get Feedback](http://www.designkit.org/methods/57)
+* [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
+* [Keep Iterating](http://www.designkit.org/methods/19)
+*  Keep Getting Feedback](http://www.designkit.org/methods/59)
 
 ## Nesta 
 
 Project Management
-*   [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
-*   [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
-*   [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
-*   [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
-*   [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
+* [Business Model Canvas](http://www.nesta.org.uk/publications/business-model-canvas) and [PDF](http://www.nesta.org.uk/sites/default/files/business_model_canvas_2.pdf)
+* [Problem Definition](http://www.nesta.org.uk/publications/problem-definition) and [PDF](http://www.nesta.org.uk/sites/default/files/skills_problem_definition.pdf)
+* [Business Plan Template PDF (Prototyping Framework)](http://www.nesta.org.uk/sites/default/files/prototyping_toolkit_businessplantemplate.pdf)
+* [Setting up a Venture](http://www.nesta.org.uk/publications/setting-venture) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0501_setting_up_a_venture.pdf)
+* [Funding Sources](http://www.nesta.org.uk/publications/funding-sources) and [PDF](http://www.nesta.org.uk/sites/default/files/05_resource_0502_funding_sources_revised.pdf)
 
 ## Nesta DIY 
 
 Project Management
-*   [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
-*   [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
-*   [Business Plan](http://diytoolkit.org/tools/business-plan-2)
-*   [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
+* [Business Model Canvas](http://diytoolkit.org/tools/business-model-canvas)
+* [Innovation Flowchart](http://diytoolkit.org/tools/innovation-flowchart-2)
+* [Business Plan](http://diytoolkit.org/tools/business-plan-2)
+* [Critical Tasks List](http://diytoolkit.org/tools/critical-tasks-list-2)
 
 ## Service Design Tools 
 
 Project Management
-*   [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
-*   [Specification](http://www.servicedesigntools.org/tools/27)
+* [Task Analysis Grid](http://www.servicedesigntools.org/tools/137)
+* [Specification](http://www.servicedesigntools.org/tools/27)
 
 ## U.K. Gov 
 
