@@ -2,16 +2,11 @@
 
 ## Australian Government Digital Transformation Office
 
-### User Centred Design
-* [User-centred design](https://www.dto.gov.au/design-guides/guide/user-centred-design)
-
 ### Methods
 
-User Research
-* [User Research (chart)](https://www.dto.gov.au/design-guides/guide/user-research)
-
 User Research Subguides
-* [Professional Research Methods](https://www.dto.gov.au/design-guides/subguides/professional-research-methods)
+* [Professional Research Methods](https://www.dto.gov.au/standard/design-guides/user-research/professional-research-methods)
+
 * [High Level Design](https://www.dto.gov.au/design-guides/subguides/high-level-design)
 * [Affinity Diagramming](https://www.dto.gov.au/design-guides/subguides/affinity-diagramming)
 * [Ethonographic Research](https://www.dto.gov.au/design-guides/subguides/ethnographic-research)
