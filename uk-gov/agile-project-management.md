@@ -14,10 +14,6 @@ Project Management
 * [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
 * [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
 
-## U.K. Gov 
-
-Project Management
-
 Scaling and Governance
 * [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
 * [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
