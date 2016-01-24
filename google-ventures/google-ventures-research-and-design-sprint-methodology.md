@@ -3,8 +3,8 @@
 Google Research and Design Sprints take 5 days to complete and happen simultaneously. 
 
 Process
-* Research Sprint
-* Design Sprint
-  * Prototype
-  * User Testing
+* Research Sprint (Days 1-4)
+* Design Sprint (Days 1-4)
+  * Prototype (Day 4)
+  * User Testing (Day 5)
 
