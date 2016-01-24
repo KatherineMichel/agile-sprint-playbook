@@ -25,6 +25,10 @@ Service Design Phases
 
 Prototypes
 * [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
+* [Remote Usability](https://www.gov.uk/service-manual/user-centred-design/user-research/remote-usability.html)
+* [Guerrilla Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/guerrilla-testing.html)
+* [Same Day User Testing (Online Qualitative)](https://www.gov.uk/service-manual/user-centred-design/user-research/same-day-user-testing.html)
+* [Lab Based User Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/lab-based-user-testing.html)
 
 Assisted Digital
 * [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
