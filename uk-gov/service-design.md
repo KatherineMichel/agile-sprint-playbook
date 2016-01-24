@@ -3,6 +3,9 @@
 Service Design
 * [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
 
+What your service should look like
+* [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
+
 Service Design Phases (Research and Design Sprint)
 * [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html)
 
@@ -22,6 +25,10 @@ Service Design Phases
 
 Prototypes
 * [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
+
+Assisted Digital
+* [Assisted Digital Information Template](https://www.gov.uk/service-manual/assets/documents/assisted-digital-information-template.pdf)
+* [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
 
 Accessibility
 * [Accessibility testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
