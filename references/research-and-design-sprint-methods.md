@@ -114,6 +114,8 @@ Prototyping
 
 Creative Workshop
 * [Creative Workshop](http://diytoolkit.org/tools/creative-workshop-2)
+* [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
+* [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
 Planning Tools
 * [Problem Definition](http://diytoolkit.org/tools/problem-definition-2)
@@ -142,10 +144,6 @@ Interviews
 * [Improvement Triggers](http://diytoolkit.org/tools/improvement-triggers)
 * [Blueprint](http://diytoolkit.org/tools/blueprint-2)
 * [Marketing Mix](http://diytoolkit.org/tools/marketing-mix-2)
-
-* [Prototype Testing Plan](http://diytoolkit.org/tools/prototype-testing-plan)
-
-* [Scaling Plan Tool](http://diytoolkit.org/tools/scaling-plan-tool)
 
 ## New Zealand Government Web Toolkit
 
