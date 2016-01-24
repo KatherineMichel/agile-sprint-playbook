@@ -16,3 +16,9 @@
   * Daily stand-ups
   * Sprint planning and reviews
   * Retrospectives
+
+User Centred Design
+* [User-centred design](https://www.dto.gov.au/standard/design-guides/user-centred-design)
+
+User Research
+* [User Research (chart)](https://www.dto.gov.au/standard/design-guides/user-research)
