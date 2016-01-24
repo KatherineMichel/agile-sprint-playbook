@@ -59,23 +59,6 @@ Timeframe
 * Relative Estimation
 * Milestone Retrospective
 
-## 18F
-
-Agile Project Management
-* [Agile Principles and Practices](https://pages.18f.gov/agile)
-* [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
-
-Development
-* [Frontend](https://pages.18f.gov/frontend)
-* [Analytics](https://github.com/18F/analytics-standards)
-* [Content](https://pages.18f.gov/content-guide)
-
-* [Open Source Guidebook](https://pages.18f.gov/open-source-guide)
-* [Automated Testing Cookbook](https://pages.18f.gov/testing-cookbook)
-* [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook)
-* [Before you Ship](https://pages.18f.gov/before-you-ship)
-* [APIs](https://github.com/18f/api-standards)
-
 ## Agile Allegiance
 
 * [Subway](http://guide.agilealliance.org/subway.html)
