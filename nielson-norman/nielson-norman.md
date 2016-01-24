@@ -10,6 +10,15 @@
 * [Nielson Norman Group How to Recruit Participants for Usability Studies Report](http://media.nngroup.com/media/reports/free/How_To_Recruit_Participants_for_Usability_Studies.pdf)
 * [Nielson Norman Group How to Conduct Eyetracking Studies Report](http://media.nngroup.com/media/reports/free/How_to_Conduct_Eyetracking_Studies.pdf)
 
+Articles
+* [Which UX Research Methods](http://www.nngroup.com/articles/which-ux-research-methods)
+* [Interviewing Users](http://www.nngroup.com/articles/interviewing-users)
+* [Why You Only Need to Test with Five Users](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users)
+* [Task Scenarios Usability Testing](http://www.nngroup.com/articles/task-scenarios-usability-testing)
+* [Remote Usability Tests](http://www.nngroup.com/articles/remote-usability-tests)
+* [Mental Models (referenced in Card Sorting)](http://www.nngroup.com/articles/mental-models)
+* [How Little Do Users Read](http://www.nngroup.com/articles/how-little-do-users-read)
+
 ## User Testing Documents
 
 Appendix B: Sample Scripts and Forms 164
