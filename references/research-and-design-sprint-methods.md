@@ -294,17 +294,14 @@ Miscellaneous
 
 ### Methods
 
-User Centred Design Methods
-* [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
-
-User Research and Testing
+User Research
 * [An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
-
-User Research Background Techniques
 * [User Research Tools](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-tools.html)
-* [User Research Briefs](https://www.gov.uk/service-manual/user-centred-design/user-research/user-research-briefs) and [Example Briefs](https://www.gov.uk/service-manual/assets/documents/IDAQualBrief.pdf)
 * [Survey Designs](https://www.gov.uk/service-manual/user-centred-design/user-research/survey-design)
 * [Sampling Methodologies](https://www.gov.uk/service-manual/user-centred-design/user-research/sampling-methodologies.html)
+
+User Centred Design Methods
+* [Card sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
 
 User Research Qualitative Techniques
 * [Ethnographic Research](https://www.gov.uk/service-manual/user-centred-design/user-research/ethnographic-research)
