@@ -38,6 +38,7 @@
 * [IDEO](ideo/ideo.md)
 * [Nesta and DIY Toolkit](nesta-and-diy-toolkit/nesta-and-diy-toolkit.md)
 * [Appendix](appendix/appendix.md)      
+    * [Customer Development](appendix/customer-development.md)
     * [Research and Design Sprint Methods](appendix/research-and-design-sprint-methods.md)
     * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
     * [Launch Checklists](appendix/launch-checklists.md)
