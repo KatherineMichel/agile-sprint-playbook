@@ -234,20 +234,6 @@ Stakeholders
 * [People Connections Map](http://diytoolkit.org/tools/people-connections-map)
 * [Experience Map](http://diytoolkit.org/tools/experience-map-2)
 
-## IDEO 
-
-Project Management
-
-Sustainability and Growth
-* [Sustainable Revenue](http://www.designkit.org/methods/16)
-* [Ways to Grow Framework](http://www.designkit.org/methods/38)
-
-Development
-* [Get Feedback](http://www.designkit.org/methods/57)
-* [Integrate Feedback and Iterate](http://www.designkit.org/methods/4)
-* [Keep Iterating](http://www.designkit.org/methods/19)
-*  Keep Getting Feedback](http://www.designkit.org/methods/59)
-
 ## Nesta 
 
 Project Management
