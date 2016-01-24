@@ -1,5 +1,14 @@
 # IDEO
 
+Mindsets
+* [Mindsets](http://www.designkit.org/mindsets)
+
+Prototyping and Piloting
+* [Determine What to Prototype](http://www.designkit.org/methods/34)
+* [Rapid Prototyping](http://www.designkit.org/methods/26)
+* [Live Prototyping](http://www.designkit.org/methods/18)
+* [Pilot](http://www.designkit.org/methods/8)
+
 ## Phases
 
 * Process
