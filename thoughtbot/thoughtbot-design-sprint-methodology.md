@@ -21,7 +21,7 @@ It contains guidelines that should not be followed exactly.
 Each sprint should be tailored to the individual project.
 It is written by and for the thoughtbot team.
 
-* [Previous Sprints](thoughtbot/previous-sprints-template.md)
+* [Previous Sprints Template](thoughtbot/previous-sprints-template.md)
 * [Pre-Sprint Preparation](0-pre-sprint.md)
 * [Understand Phase](1-understand.md)
 * [Diverge Phase](2-diverge.md)
