@@ -20,13 +20,6 @@ Methods and Channels
 * Online, Email, Telephone, Mail, In person/on the street
 * Sampling Methodologies
 
-IDEO Possible Supplies: Fieldwork Materials  (IDEO)
-* Travel
-* Accommodation
-* Tools for work
-* Contact
-* Forms
-
 Studies
 * Context of Use Analysis
 * Context of Use Methods
