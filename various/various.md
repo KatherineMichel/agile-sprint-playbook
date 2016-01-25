@@ -6,6 +6,16 @@ Dockyard Version
 Hanno Version
 * [Hanno Design Thinking](https://github.com/wearehanno/designthinking/wiki)
 
+WebAIM and Alt 
+* [WebAIM](http://webaim.org) and [WebAIM Wikipedia](https://en.wikipedia.org/wiki/WebAIM)
+* [WebAIM Alternative Text](http://webaim.org/techniques/alttext) and [Alt Attribute Wikipedia](https://en.wikipedia.org/wiki/Alt_attribute)
+
+Usability Net
+* [Usability Net](http://www.usabilitynet.org)
+
+* [W3 Standards](http://www.w3.org/standards) and [W3 Web Accessibility Initiative](http://www.w3.org/WAI)
+* [WAI Site Usability Testing Questions](http://www.w3.org/WAI/EO/Drafts/UCD/questions.html) and [See also Usability Gov](http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
+
 Xplaner and Games
 * [Xplaner](http://xplaner.com), [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 * [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
