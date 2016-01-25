@@ -12,14 +12,17 @@ U.S. Gov.- General Services Administration
 ## 18F
 
 U.S. Gov- 18F
-* [18F](https://18f.gsa.gov) and [18F Guides](https://pages.18f.gov/guides)
-* [18F Grouplets](https://pages.18f.gov/grouplet-playbook) and [18F Methods](https://methods.18f.gov)
-* [18F Accessibility GitHub](https://pages.18f.gov/accessibility)
+* [18F](https://18f.gsa.gov)
+* [18F Guides](https://pages.18f.gov/guides)
+* [Interagency Agreement](https://pages.18f.gov/iaa-forms)
 
 Agile Project Management
+* [18F Grouplets](https://pages.18f.gov/grouplet-playbook)  
 * [Agile Principles and Practices](https://pages.18f.gov/agile)
 * [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
 * [Lean Product Design](https://pages.18f.gov/lean-product-design)
+* [Methods](https://methods.18f.gov)
+* [18F Accessibility GitHub](https://pages.18f.gov/accessibility)
 
 Development
 * [Frontend](https://pages.18f.gov/frontend)
