@@ -19,6 +19,7 @@ U.S. Gov- 18F
 Agile Project Management
 * [Agile Principles and Practices](https://pages.18f.gov/agile)
 * [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
+* [Lean Product Design](https://pages.18f.gov/lean-product-design)
 
 Development
 * [Frontend](https://pages.18f.gov/frontend)
