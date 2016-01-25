@@ -1,4 +1,6 @@
-# Survey Question Examples
+# Miscellaneous
+
+## Survey Question Examples
 
 * Single Answer (yes/no)
 * Rating
