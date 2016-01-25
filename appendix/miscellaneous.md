@@ -1,6 +1,6 @@
 # Miscellaneous
 
-## Demographics
+## Example Demographics
 
 * Total population
 * Urban, rural, farm
