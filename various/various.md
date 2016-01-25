@@ -13,6 +13,13 @@ WebAIM and Alt
 Usability Net
 * [Usability Net](http://www.usabilitynet.org)
 
+U.S. Aid Learning Lab
+* [U.S. Aid Learning Guide](http://usaidlearninglab.org/learning-guide/program-cycle-learning-guide-beta)
+* [U.S. Aid Project Design Development and Implementation](http://usaidlearninglab.org/learning-guide/project-design-development-implementation), [U.S. Aid Project Design](http://usaidlearninglab.org/learning-guide/project-design), and [U.S. Aid Project Implementation](http://usaidlearninglab.org/learning-guide/project-implementation-overview)
+* [U.S. Aid Learning Guide Glossary](http://usaidlearninglab.org/learning-guide/glossary)
+* [U.S. Aid Library](http://usaidlearninglab.org/library)
+* [U.S. Aid Lab Notes](http://usaidlearninglab.org/lab-notes)
+
 * [W3 Standards](http://www.w3.org/standards) and [W3 Web Accessibility Initiative](http://www.w3.org/WAI)
 * [WAI Site Usability Testing Questions](http://www.w3.org/WAI/EO/Drafts/UCD/questions.html) and [See also Usability Gov](http://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
 
