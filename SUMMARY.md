@@ -28,7 +28,7 @@
 * [Australian Gov](australian-gov/australian-gov.md)
    * [Agile Project Management](australian-gov/agile-project-management.md) 
 * [New Zealand Gov](new-zealand-gov/new-zealand-gov.md)
-* [Stanford Institute of Design](stanford-instute-of-design/stanford-institute-of-design.md)
+* [Stanford Institute of Design](stanford-institute-of-design/stanford-institute-of-design.md)
 * [Usability Gov](usability-gov/usability-gov.md)
    * [Project Management and Development](usability-gov/project-management-and-development.md)
    * [Usability Study Process and Materials Checklist](usability-gov/usability-study-process-and-materials-checklist.md)
