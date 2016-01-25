@@ -42,7 +42,6 @@
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
     * [Design Sprint Methods Summary](appendix/design-sprint-methods-summary.md)
     * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
-    * [User Research Data Gathering Methods](appendix/user-research-data-gathering-methods.md)
     * [Customer Development](appendix/customer-development.md)
     * [Sitemap](appendix/sitemap.md)
     * [Launch Checklists](appendix/launch-checklists.md)
