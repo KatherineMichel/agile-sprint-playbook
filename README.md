@@ -44,6 +44,7 @@ Table of Contents
 * [Nielson Norman](nielson-norman/nielson-norman.md)
 * [IDEO](ideo/ideo.md)
 * [Nesta and DIY Toolkit](nesta-and-diy-toolkit/nesta-and-diy-toolkit.md)
+* [Various](various/various.md)
 * [Appendix](appendix/appendix.md)      
     * [Research and Design Sprint Methods](appendix/research-and-design-sprint-methods.md)
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
