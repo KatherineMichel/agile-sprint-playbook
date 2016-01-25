@@ -46,6 +46,7 @@ Table of Contents
     * [Customer Development](appendix/customer-development.md)
     * [Research and Design Sprint Methods](appendix/research-and-design-sprint-methods.md)
     * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
+    * [Sitemap](appendix/sitemap.md)
     * [Launch Checklists](appendix/launch-checklists.md)
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
     * [Design Sprint Methods Summary](appendix/design-sprint-methods-summary.md)
