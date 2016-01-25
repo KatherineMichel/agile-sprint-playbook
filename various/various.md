@@ -6,6 +6,8 @@ Dockyard Version
 Hanno Version
 * [Hanno Design Thinking](https://github.com/wearehanno/designthinking/wiki)
 
+* [HubSpot Library](https://library.hubspot.com)
+
 WebAIM and Alt 
 * [WebAIM](http://webaim.org) and [WebAIM Wikipedia](https://en.wikipedia.org/wiki/WebAIM)
 * [WebAIM Alternative Text](http://webaim.org/techniques/alttext) and [Alt Attribute Wikipedia](https://en.wikipedia.org/wiki/Alt_attribute)
