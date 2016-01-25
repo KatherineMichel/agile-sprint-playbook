@@ -48,7 +48,6 @@
     * [Miscellaneous](appendix/miscellaneous.md)
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
     * [S-1 Components](appendix/s-1-components.md) 
-    * [Example Demographics](appendix/example-demographics.md)
     * [Branded Documents](appendix/branded-documents.md)
     * [Advertising Methods](appendix/advertising-methods.md)
     * [Research and Design Sprint Examples](appendix/research-and-design-sprint-examples.md)
