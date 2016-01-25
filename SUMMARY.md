@@ -45,7 +45,7 @@
     * [Customer Development](appendix/customer-development.md)
     * [Sitemap](appendix/sitemap.md)
     * [Launch Checklists](appendix/launch-checklists.md)
-    * [Survey Question Examples](appendix/survey-question-examples.md)
+    * [Miscellaneous](appendix/miscellaneous.md)
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
     * [S-1 Components](appendix/s-1-components.md) 
     * [Example Demographics](appendix/example-demographics.md)
