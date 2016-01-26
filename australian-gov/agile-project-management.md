@@ -2,24 +2,15 @@
 
 ## Australian Government Digital Transformation Office Project Management
 
-[Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
-https://www.dto.gov.au/standard/service-design-and-delivery-process
-https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery
+* [Building Digital Services](https://www.dto.gov.au/standard/design-guides/building-digital-services)
+* [Service Design and Delivery Process](https://www.dto.gov.au/standard/service-design-and-delivery-process)
+* [Discovery](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery)
+* [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
+* [Designing Inclusive Services](https://www.dto.gov.au/standard/design-guides/inclusive-services)
+* [Assisted Digital](https://www.dto.gov.au/standard/design-guides/assisted-digital)
+* [Integrating Offline Activity](https://www.dto.gov.au/standard/design-guides/service-integration)
 
-http://webguide.gov.au
-* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
-* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
-* [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
-
-Government and Services
-* [Common government solutions](https://www.dto.gov.au/standard/common-solutions)
-* [Government as a platform](https://www.dto.gov.au/standard/design-guides/government-as-a-platform)
-* [Building digital services](https://www.dto.gov.au/standard/design-guides/building-digital-services)
-* [Building secure services](https://www.dto.gov.au/standard/design-guides/secure-services)
-* [Designing inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services)
-* [Assisted digital](https://www.dto.gov.au/standard/design-guides/assisted-digital)
-* [Integrating offline activity](https://www.dto.gov.au/standard/design-guides/service-integration)
-
+Agile
 * [Agile](https://www.dto.gov.au/standard/design-guides/agile)
 
 * User stories
@@ -38,14 +29,14 @@ Government and Services
   * Retrospectives
 
 Team and Culture
-* [The team](https://www.dto.gov.au/standard/design-guides/the-team)
+* [The Team](https://www.dto.gov.au/standard/design-guides/the-team)
 * [Recruitment](https://www.dto.gov.au/standard/design-guides/the-team/team-recruitment)
 
 User Centred Design
-* [User-centred design](https://www.dto.gov.au/standard/design-guides/user-centred-design)
+* [User-Centred Design](https://www.dto.gov.au/standard/design-guides/user-centred-design)
 
 User Research
-* [User Research (chart)](https://www.dto.gov.au/standard/design-guides/user-research)
+* [User Research (Chart)](https://www.dto.gov.au/standard/design-guides/user-research)
 
 User Research Subguides
 * [Professional Research Methods](https://www.dto.gov.au/standard/design-guides/user-research/professional-research-methods)
@@ -65,10 +56,10 @@ Testing
 Development
 
 Open Source
-* [Using open standards](https://www.dto.gov.au/standard/design-guides/open-standards)
-* [Sharing source code](https://www.dto.gov.au/standard/design-guides/code-sharing)
+* [Using Open Standards](https://www.dto.gov.au/standard/design-guides/open-standards)
+* [Sharing Source Code](https://www.dto.gov.au/standard/design-guides/code-sharing)
 * [Using APIs](https://www.dto.gov.au/standard/design-guides/api)
-* [Open data](https://www.dto.gov.au/standard/design-guides/open-data)
+* [Open Data](https://www.dto.gov.au/standard/design-guides/open-data)
 
 Auth and Records Management
 * [Authentication Frameworks](https://www.dto.gov.au/standard/design-guides/authentication-frameworks)
@@ -89,23 +80,23 @@ https://www.dto.gov.au/standard/design-guides/common-website-elements/common-gov
 https://www.dto.gov.au/standard/design-guides/common-website-elements/caretaker-conventions
 
 Identity and Privacy
-* [Identity assurance](https://www.dto.gov.au/standard/design-guides/identity-assurance)
-* [Privacy requirements](https://www.dto.gov.au/standard/design-guides/privacy)
+* [Identity Assurance](https://www.dto.gov.au/standard/design-guides/identity-assurance)
+* [Privacy Requirements](https://www.dto.gov.au/standard/design-guides/privacy)
 
 Websites
-* [Content management system](https://www.dto.gov.au/standard/design-guides/content-management-system)
-* [Domain names](https://www.dto.gov.au/standard/design-guides/domain-names)
-* [Common website elements](https://www.dto.gov.au/standard/design-guides/common-website-elements)
+* [Content Management System](https://www.dto.gov.au/standard/design-guides/content-management-system)
+* [Domain Names](https://www.dto.gov.au/standard/design-guides/domain-names)
+* [Common Website Elements](https://www.dto.gov.au/standard/design-guides/common-website-elements)
 
 Branding, Social Media and Content
 * [Branding](https://www.dto.gov.au/standard/design-guides/branding)
-* [Social media](https://www.dto.gov.au/standard/design-guides/social-media)
-* [Writing digital content](https://www.dto.gov.au/standard/design-guides/online-writing)
-* [Making content accessible](https://www.dto.gov.au/standard/design-guides/making-content-accessible)
+* [Social Media](https://www.dto.gov.au/standard/design-guides/social-media)
+* [Writing Digital Content](https://www.dto.gov.au/standard/design-guides/online-writing)
+* [Making Content Accessible](https://www.dto.gov.au/standard/design-guides/making-content-accessible)
 
 Statistical Data Integration, Analytics, and Measurement
 * [Statistical Data Integration](https://www.dto.gov.au/standard/design-guides/statistical-data-integration)
-* [Analytics tools](https://www.dto.gov.au/standard/design-guides/analytics-tools)
+* [Analytics Tools](https://www.dto.gov.au/standard/design-guides/analytics-tools)
 * [Search Engine Optimisation](https://www.dto.gov.au/standard/design-guides/search-engine-optimisation)
 
 Case Studies
