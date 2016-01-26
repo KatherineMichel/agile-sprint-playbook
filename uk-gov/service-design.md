@@ -4,7 +4,7 @@ Service Design
 * [U.K. Government Service Design Manual](https://www.gov.uk/service-manual), [U.K. Government Service Design Manual Start](https://www.gov.uk/service-manual/start), and [U.K. Government Service Design Manual Browse](https://www.gov.uk/service-manual/browse)
 
 What your service should look like
-* [What your service should look like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
+* [What Your Service Should Look Like](https://www.gov.uk/service-manual/user-centred-design/service-user-experience.html)
 
 Service Design Phases (Research and Design Sprint)
 * [U.K. Government Service Design Phases](https://www.gov.uk/service-manual/phases/index.html)
@@ -23,8 +23,11 @@ Service Design Phases
 * [Live](https://www.gov.uk/service-manual/phases/live) and [Governing the Live Phase](https://www.gov.uk/service-manual/governance/governing-the-live-phase.html)
 * [Retirement](https://www.gov.uk/service-manual/phases/retirement.html)
 
+Card Sorting
+* [Card Sorting](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html)
+
 Prototypes
-* [Working with prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
+* [Working with Prototypes](https://www.gov.uk/service-manual/user-centred-design/working-with-prototypes.html)
 * [Remote Usability](https://www.gov.uk/service-manual/user-centred-design/user-research/remote-usability.html)
 * [Guerrilla Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/guerrilla-testing.html)
 * [Same Day User Testing (Online Qualitative)](https://www.gov.uk/service-manual/user-centred-design/user-research/same-day-user-testing.html)
@@ -35,5 +38,5 @@ Assisted Digital
 * [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html), [Assisted Digital Action Plan](https://www.gov.uk/service-manual/assisted-digital/action-plan.html), and [Researching Assisted Digital Users](https://www.gov.uk/service-manual/assisted-digital/assisted-digital-user-research.html)
 
 Accessibility
-* [Accessibility testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
+* [Accessibility Testing](https://www.gov.uk/service-manual/user-centred-design/user-research/accessibility-testing.html)
 * [Accessibility](https://www.gov.uk/service-manual/user-centred-design/accessibility.html)
