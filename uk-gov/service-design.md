@@ -12,6 +12,7 @@ Service Design Phases (Research and Design Sprint)
 User Centered Design and User Needs
 * [User-Centred Design](https://www.gov.uk/service-manual/user-centred-design/index.html)
 * [User Needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
+* [An Introduction to User Research Techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
 
 User Centred Design in Alpha and Beta
 * [User Centred Design in Alpha and Beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
