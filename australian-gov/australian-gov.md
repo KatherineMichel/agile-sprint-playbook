@@ -8,6 +8,10 @@
 * [Australia Digital Common Solutions](https://www.dto.gov.au/standard/common-solutions)
 * [Australia Digital Case Studies](https://www.dto.gov.au/standard/case-studies)
 
+Government and Services
+* [Government as a Platform](https://www.dto.gov.au/standard/design-guides/government-as-a-platform)
+* [Building Secure Services](https://www.dto.gov.au/standard/design-guides/secure-services)
+
 Australian Government Web Guide (Deprecated)
 * [Australian Government Web Guide (Deprecated)](http://webguide.gov.au)
 * [Australian Government Web Guide (Deprecated), Usability](http://webguide.gov.au/accessibility-usability), [Australian Government Web Guide (Deprecated), Usability Testing](http://webguide.gov.au/accessibility-usability/usability-testing), and [Australian Government Web Guide (deprecated), User Needs Analysis](http://webguide.gov.au/accessibility-usability/user-needs-analysis)
