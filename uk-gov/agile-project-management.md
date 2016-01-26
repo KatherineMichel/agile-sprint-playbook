@@ -82,7 +82,7 @@ Making Software
 * [Managing software dependencies](https://www.gov.uk/service-manual/making-software/dependency-management.html)
 * [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
 * [Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)
-* [Deployment software](https://www.gov.uk/service-manual/making-software/deployment.html)
+* [Deploying software](https://www.gov.uk/service-manual/making-software/deployment.html)
 * [Releasing software](https://www.gov.uk/service-manual/making-software/release-strategies.html)
 * [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
 * [User accounts and logins](https://www.gov.uk/service-manual/making-software/logins.html)
