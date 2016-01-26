@@ -29,4 +29,3 @@ Content and Style Guide
 * [U.K. Government Content Publishing](https://www.gov.uk/government-digital-guidance/content-publishing), [U.K. Government Content Design](https://www.gov.uk/guidance/content-design), [Writing for U.K. Gov](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), [U.K. Government Style Guide](https://www.gov.uk/guidance/style-guide), and [U.K. Government Style Guide A to Z](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
 * [U.K. Government Performance](https://www.gov.uk/performance) and [U.K. Government Performance by Device Type](https://www.gov.uk/performance/site-activity/device-type)
-* [Print Form Template](https://www.gov.uk/service-manual/assets/documents/print-forms/template-form.pdf)
