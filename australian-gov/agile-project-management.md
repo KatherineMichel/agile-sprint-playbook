@@ -73,7 +73,6 @@ http://webguide.gov.au
 * [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
 * [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
 
-https://www.dto.gov.au/standard/design-guides/common-website-elements/online-content-requirements
 https://www.dto.gov.au/standard/design-guides/common-website-elements/ministerial-content
 https://www.dto.gov.au/standard/design-guides/common-website-elements/metadata
 https://www.dto.gov.au/standard/design-guides/common-website-elements/foi-act-and-information-publication-scheme
@@ -97,6 +96,7 @@ Branding, Social Media and Content
 * [Branding](https://www.dto.gov.au/standard/design-guides/branding)
 * [Social Media](https://www.dto.gov.au/standard/design-guides/social-media)
 * [Writing Digital Content](https://www.dto.gov.au/standard/design-guides/online-writing)
+* [Online Content Requirements](https://www.dto.gov.au/standard/design-guides/common-website-elements/online-content-requirements)
 * [Making Content Accessible](https://www.dto.gov.au/standard/design-guides/making-content-accessible)
 
 Statistical Data Integration, Analytics, and Measurement
