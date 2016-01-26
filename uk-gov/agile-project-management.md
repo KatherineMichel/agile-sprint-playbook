@@ -5,13 +5,13 @@ User Research Briefs
 
 The Team
 * [Recruitment](https://www.gov.uk/service-manual/the-team/recruitment/index.html)
-* [The team](https://www.gov.uk/service-manual/the-team/index.html)
+* [The Team](https://www.gov.uk/service-manual/the-team/index.html)
 * [Job Descriptions](https://www.gov.uk/service-manual/the-team/recruitment/job-descriptions.html)
 * [Recruitment Hub](https://www.gov.uk/service-manual/the-team/recruitment/hub.html)
-* [Working with specialist suppliers](https://www.gov.uk/service-manual/the-team/working-with-specialists.html)
-* [Your working environment](https://www.gov.uk/service-manual/the-team/working-environment.html)
-* [Technology leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
-* [Accessibility skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
+* [Working with Specialist Suppliers](https://www.gov.uk/service-manual/the-team/working-with-specialists.html)
+* [Your Working Environment](https://www.gov.uk/service-manual/the-team/working-environment.html)
+* [Technology Leadership](https://www.gov.uk/service-manual/the-team/recruitment/scs-orgdesign.html)
+* [Accessibility Skills](https://www.gov.uk/service-manual/the-team/accessibility.html)
 
 Roles
 * [Chief Technology Officers Resources](https://www.gov.uk/service-manual/chief-technology-officers)
@@ -19,8 +19,8 @@ Roles
 * [Service Managers Resources](https://www.gov.uk/service-manual/service-managers) and [Service Managers Skills](https://www.gov.uk/service-manual/the-team/service-manager.html)
 * [Delivery Manager](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
 * [Developers Resources](https://www.gov.uk/service-manual/developers) and [Developer Skills](https://www.gov.uk/service-manual/the-team/developer.html)
-* [Web Operations Resources](https://www.gov.uk/service-manual/web-ops) and [Web Operations skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
-* [Designers Resources](https://www.gov.uk/service-manual/designers) and [Designer skills](https://www.gov.uk/service-manual/the-team/designer.html)
+* [Web Operations Resources](https://www.gov.uk/service-manual/web-ops) and [Web Operations Skills](https://www.gov.uk/service-manual/the-team/web-operations.html)
+* [Designers Resources](https://www.gov.uk/service-manual/designers) and [Designer Skills](https://www.gov.uk/service-manual/the-team/designer.html)
 * [Digital Leader](https://www.gov.uk/service-manual/the-team/digital-leader.html)
 * [User Researchers Resources](https://www.gov.uk/service-manual/user-researchers) and [User Researcher Skills](https://www.gov.uk/service-manual/the-team/user-researcher.html)
 * [Content Designers Resources](https://www.gov.uk/service-manual/content-designers) and [Content Designer Skills](https://www.gov.uk/service-manual/the-team/content-designer.html)
@@ -28,18 +28,18 @@ Roles
 
 Project Management
 * [Agile](https://www.gov.uk/service-manual/agile/index.html)
-* [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
-* [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
-* [Training and learning about agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
-* [Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
-* [Continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
+* [What Agile Looks Like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html)
+* [Features of Agile](https://www.gov.uk/service-manual/agile/features-of-agile.html)
+* [Training and Learning about Agile](https://www.gov.uk/service-manual/agile/training-and-learning.html)
+* [Writing User Stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
+* [Continuous Delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html)
 * [Quality](https://www.gov.uk/service-manual/agile/quality.html)
-* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-* [Running retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
+* [Testing in an Agile Environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
+* [Running Retrospectives](https://www.gov.uk/service-manual/agile/running-retrospectives.html)
 
 Scaling and Governance
-* [When to scale up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
-* [Scaling a service team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
+* [When to Scale Up](https://www.gov.uk/service-manual/governance/when-to-scale-up.html)
+* [Scaling a Service Team](https://www.gov.uk/service-manual/governance/scaling-a-service-team.html)
 * [Governing a service after scaling up](https://www.gov.uk/service-manual/governance/governing-a-service-after-scaling-up.html)
 
 * [Government as a platform](https://www.gov.uk/service-manual/technology/government-as-a-platform.html)
