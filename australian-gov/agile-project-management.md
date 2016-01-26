@@ -68,35 +68,23 @@ Auth and Records Management
 * [Third Party Identity Services Assurance Framework](https://www.dto.gov.au/standard/design-guides/authentication-frameworks/third-party-identity-services-assurance-framework)
 * [Records Management](https://www.dto.gov.au/standard/design-guides/records-management)
 
-http://webguide.gov.au
-* [Creating cultural change](https://www.dto.gov.au/design-guides/guide/creating-cultural-change)
-* [Measurement](https://www.dto.gov.au/design-guides/guide/measurement)
-* [Guerrilla Testing services](https://www.dto.gov.au/design-guides/guide/testing-services#guerrilla)
-
-https://www.dto.gov.au/standard/design-guides/common-website-elements/ministerial-content
-https://www.dto.gov.au/standard/design-guides/common-website-elements/metadata
-https://www.dto.gov.au/standard/design-guides/common-website-elements/foi-act-and-information-publication-scheme
-https://www.dto.gov.au/standard/design-guides/common-website-elements/files-list-harradine-report
-https://www.dto.gov.au/standard/design-guides/common-website-elements/cookies
-https://www.dto.gov.au/standard/design-guides/common-website-elements/contracts
-https://www.dto.gov.au/standard/design-guides/common-website-elements/content-licensing
-https://www.dto.gov.au/standard/design-guides/common-website-elements/common-government-content-and-features
-https://www.dto.gov.au/standard/design-guides/common-website-elements/caretaker-conventions
-
 Identity and Privacy
 * [Identity Assurance](https://www.dto.gov.au/standard/design-guides/identity-assurance)
 * [Privacy Requirements](https://www.dto.gov.au/standard/design-guides/privacy)
+* [Cookies](https://www.dto.gov.au/standard/design-guides/common-website-elements/cookies)
 
 Websites
 * [Content Management System](https://www.dto.gov.au/standard/design-guides/content-management-system)
 * [Domain Names](https://www.dto.gov.au/standard/design-guides/domain-names)
 * [Common Website Elements](https://www.dto.gov.au/standard/design-guides/common-website-elements)
+* [Metadata](https://www.dto.gov.au/standard/design-guides/common-website-elements/metadata)
 
 Branding, Social Media and Content
 * [Branding](https://www.dto.gov.au/standard/design-guides/branding)
 * [Social Media](https://www.dto.gov.au/standard/design-guides/social-media)
 * [Writing Digital Content](https://www.dto.gov.au/standard/design-guides/online-writing)
 * [Online Content Requirements](https://www.dto.gov.au/standard/design-guides/common-website-elements/online-content-requirements)
+* [Content Licensing](https://www.dto.gov.au/standard/design-guides/common-website-elements/content-licensing)
 * [Making Content Accessible](https://www.dto.gov.au/standard/design-guides/making-content-accessible)
 
 Statistical Data Integration, Analytics, and Measurement
