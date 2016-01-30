@@ -23,6 +23,7 @@ Zed A. Shaw's Bottom-Up Process
 
 Django
 * [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
+* [Django Sprint Ideas](https://code.djangoproject.com/wiki/SprintIdeas)
 * [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
 * [Sprint Information Template](https://code.djangoproject.com/wiki/SprintTemplate)
 
