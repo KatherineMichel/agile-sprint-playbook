@@ -39,6 +39,7 @@
 * [New Zealand Gov](new-zealand-gov/new-zealand-gov.md)
 * [IDEO](ideo/ideo.md)
     * [Possible Roles and Supplies](ideo/possible-roles-and-supplies.md)
+    * [Project Management](ideo/project-management.md)
 * [Code Sprints](code-sprints/code-sprints.md)
 * [Various](various/various.md)
 * [Appendix](appendix/appendix.md)      
