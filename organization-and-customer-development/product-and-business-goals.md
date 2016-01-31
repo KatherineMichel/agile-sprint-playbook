@@ -1,4 +1,4 @@
-# MVP and Product
+# Product and Business Goals
 
 ## MVP
 
@@ -29,3 +29,18 @@ Product Benefit List
 * List benefits through customer's eyes
 * Under the features, summarize benefits for each
 * Do the benefits needs to be explained?
+
+## Business Goals
+
+High Level Business Goals
+* Immediate business goals: in 1 month, 3 months, 6 months
+* Long term business goals: 1 year from now
+
+Timeframe
+* 18-month schedule of product delivery dates
+* MVP delivery date/features
+
+Going Forward
+* Roadmap
+* Feedback and Iteration
+* Scaling (Scaling Planning Tool), Sustainable Revenue, Ways to Grow
