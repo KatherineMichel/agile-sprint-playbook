@@ -11,6 +11,12 @@ U.S. Gov.- General Services Administration
 
 ## 18F
 
+Agile Development Method Phases
+* Discover
+* Decide
+* Make
+* Validate
+
 U.S. Gov- 18F
 * [18F](https://18f.gsa.gov)
 * [18F Guides](https://pages.18f.gov/guides)
