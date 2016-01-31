@@ -1,34 +1,20 @@
 # Research Sprint Methods Summary
 
-## Vision
+## Getting Started
 
-Beginnings, Problem, Idea, Vision
-* Problem Statement/Problem Definition Statement
-* Business Idea and Vision
+Definition
+* Problem Statement
+* Idea
 * Inspiration
 
-World
-* What does the world look like without this problem? 
-* How will world be different 18 months after launch? 
-* 3 years after launch?
-* 10 years after launch?
+## Users
 
-Creating Cultural Change
-
-Future Workshop
-* Tomorrow Headlines
-* Tomorrow SEC Filing
-* Poster
-
-## Customers
-
-Target
-* Target Audiences/Target Group
-* Define Your Audience
-* Extremes and Mainstreams, Extreme Users
+Audience/Users
+* Define Target Audiences/Group
+* Extreme/Mainstream Users
 * Current Users, Potential Users, User Segments
 
-Personas, Use Cases, Role Play
+Personas and Scenarios
 * Customer Archetype/Personas ((a.k.a. "Character Profile")
 * User Story, Scenarios, Use Cases/Use Case Diagram, User Pathways
 * Typologies
@@ -44,6 +30,21 @@ Customer Journey Map
 One page "Day in the life of the customer" user story, including:
 * [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
 
+## Vision for Future
+
 Before and After
 * "Before" visualized (without product)
 * "After" visualized (with product) (How will the product influence, change the customer's life?)
+
+World
+* What does the world look like without this problem? 
+* How will world be different 18 months after launch? 
+* 3 years after launch?
+* 10 years after launch?
+
+Creating Cultural Change
+
+Future Workshop
+* Tomorrow Headlines
+* Tomorrow SEC Filing
+* Poster
