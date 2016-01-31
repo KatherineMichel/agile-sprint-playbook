@@ -3,9 +3,13 @@
 * [IDEO](http://www.ideo.com), [IDEO Org](http://www.ideo.org), [IDEO Design Kit](http://www.designkit.org), [IDEO Design Kit Methods](http://www.designkit.org/methods), [IDEO Human Centered Design Toolkit](http://d1r3w4d5z5a88i.cloudfront.net/assets/toolkit/IDEO.org_HCD_ToolKit_English-5fef26ba5fa5761a3b021057d1d4a851.pdf), and [IDEO Field Guide](http://www.designkit.org/resources/1)
 * [IDEO Design Thinking for Educators/Toolkit](http://www.designthinkingforeducators.com)
 * [Design Kit: The Course for Human-Centered Design](http://plusacumen.org/courses/hcd-for-social-innovation) 
-
-Mindsets
 * [Mindsets](http://www.designkit.org/mindsets)
+
+Phases
+* Process
+* Inspiration
+* Ideation
+* Implementation
 
 ## Project Management
 
@@ -43,55 +47,3 @@ Prototyping and Piloting
 * [Live Prototyping](http://www.designkit.org/methods/18)
 * [Pilot](http://www.designkit.org/methods/8)
 
-## Phases
-
-* Process
-* Inspiration
-* Ideation
-* Implementation
-
-## Possible Roles
-
-* Design Team
-* Project Lead
-* Person you’re designing for
-* Key Partners, Stakeholders
-* Expert
-* Staff
-* Community Members
-* Interviewer
-* Interviewees
-
-## Possible Supplies
-
-General
-* A place to meet
-* Wall or board
-* Whiteboard
-* Paper (small, large sheets)
-* Post-its
-* Pens
-* Notebook
-* Magazines
-* Glue
-* Tape
-* Art supplies
-* Camera 
-
-Research and Prototyping
-* Prototyping materials
-* Computer, internet connection
-* Research materials
-* Spreadsheet program
-
-Fieldwork
-* Travel
-* Accommodation
-* Tools for work
-* Contact
-* Forms
-
-Real World Testing
-* Space
-* Staff
-* Permits
