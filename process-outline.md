@@ -19,7 +19,7 @@ Design Sprint
 
 ## Thoughtbot
 
-Design Sprint
+Product Design Sprint
 * Day 1: Understand
 * Day 2: Diverge
 * Day 3: Converge
