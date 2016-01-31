@@ -2,6 +2,16 @@
 
 ## Project Analysis and Design
 
+### Django
+
+Django
+* [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
+* [Django Sprint Ideas](https://code.djangoproject.com/wiki/SprintIdeas)
+* [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
+* [Sprint Information Template](https://code.djangoproject.com/wiki/SprintTemplate)
+
+### Zed A. Shaw
+
 Inspiration from Zed A. Shaw's [Learn Python the Hard Way- Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html) and Django Girls Tutorial [Django Models Section](http://tutorial.djangogirls.org/en/django_models/index.html)
 
 Zed A. Shaw's Top-Down Process
@@ -21,11 +31,12 @@ Zed A. Shaw's Bottom-Up Process
     5. Go back and refine the code, possibly throwing it out and starting over.
     6. Repeat, moving on to some other piece of the problem.
 
-Django
-* [Django Sprints](https://code.djangoproject.com/wiki/Sprints)
-* [Django Sprint Ideas](https://code.djangoproject.com/wiki/SprintIdeas)
-* [Sprint Hosting How-To](https://code.djangoproject.com/wiki/SprintHostingHowto)
-* [Sprint Information Template](https://code.djangoproject.com/wiki/SprintTemplate)
+### Infocom
+
+A Cabinet of Infocom Curiousities (sic) — November 23, 2015
+*   [A Cabinet of Infocom Curiousities (sic)](http://ascii.textfiles.com/archives/4834)
+
+### MediaPublic
 
 MediaPublic
 * [MediaPublic GitHub](https://github.com/mediapublic/mediapublic)
