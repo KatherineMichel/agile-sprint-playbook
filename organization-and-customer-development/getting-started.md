@@ -2,14 +2,6 @@
 
 ## Project Management and Preparation
 
-## 18F 
-
-Agile Development Method Phases
-* Discover
-* Decide
-* Make
-* Validate
-
 ## U.K. and Australian Government Service Design Phases
 
 * Discovery
