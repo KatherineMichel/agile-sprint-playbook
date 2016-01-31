@@ -2,6 +2,8 @@
 
 * [Business Model Canvas](http://businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 
+![](images/business-model-canvas.jpg)
+
 * Value Propositions (What do you do?)
 * Customer (Audience) Segments (Who do you help?)
 * Key Partners (Who will help you?)
