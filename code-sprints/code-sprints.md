@@ -2,6 +2,9 @@
 
 ## Project Analysis and Design
 
+* Front-End
+* Back-End
+
 ### Django
 
 Django
