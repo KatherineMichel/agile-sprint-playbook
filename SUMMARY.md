@@ -46,8 +46,6 @@
     * [Design Sprint Methods Summary](appendix/design-sprint-methods-summary.md)
     * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
     * [Customer Development](appendix/customer-development.md)
-    * [Sitemap](appendix/sitemap.md)
-    * [Launch Checklists](appendix/launch-checklists.md)
     * [Miscellaneous](appendix/miscellaneous.md)
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
     * [S-1 Components](appendix/s-1-components.md) 
