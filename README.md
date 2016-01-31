@@ -7,6 +7,7 @@ A GitBook Documenting My Agile Sprint Playbook (Project Management, Research, De
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
+   * [Previous Sprints](previous-sprints.md)
 * [Process Outline](process-outline.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google-ventures-research-and-design-sprint-methodology.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
