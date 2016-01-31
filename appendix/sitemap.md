@@ -12,10 +12,10 @@ See list of common website pages
 * [A Planning Checklist for Your New Website](http://www.sitesuite.com.au/article/a-planning-checklist-for-your-new-website)
 
 Example Pages
-*   Blog homepage
-*   Entry “detail” page
-*   Comment action
-*   “index” page
-*   “detail” page
-*   "results” page
-*   action
+* Blog homepage
+* Entry “detail” page
+* Comment action
+* “index” page
+* “detail” page
+* "results” page
+* action
