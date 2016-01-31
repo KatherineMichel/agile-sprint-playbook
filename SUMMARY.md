@@ -5,7 +5,7 @@
    * [Previous Sprints](previous-sprints.md)
 * [Process Outline](process-outline.md)
     * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
-    * [Customer Development](appendix/customer-development.md)
+    * [Customer Development](customer-development/customer-development.md)
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
