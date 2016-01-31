@@ -34,7 +34,7 @@ Agile Development Method Phases
 * Make
 * Validate
 
-## U.K. Government Service Design Phases
+## U.K. and Australian Government Service Design Phases
 
 * Discovery
 * Alpha
