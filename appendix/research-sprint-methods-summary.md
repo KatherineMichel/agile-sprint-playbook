@@ -282,16 +282,16 @@ Verify Product/Market Fit
 * Valuable articles, notes and other info
 * What do we already know? (the facts)
 * What do we need to know more about and “how might we” find it out?
-  * [add questions to the ‘risks’ doc]
+* [add questions to the ‘risks’ doc]
   
 [Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
 
 ## Strategic Analysis
 
 Strategic Analysis
-*   [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
-*   [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
-*   [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+* [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+* [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
+* [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
 
 * PESTLIED
 * ANSOF
