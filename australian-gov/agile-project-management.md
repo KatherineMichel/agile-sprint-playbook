@@ -1,6 +1,6 @@
 # Agile Project Management
 
-## Australian Government Digital Transformation Office Project Management
+## Project Management
 
 * [Building Digital Services](https://www.dto.gov.au/standard/design-guides/building-digital-services)
 * [Service Design and Delivery Process](https://www.dto.gov.au/standard/service-design-and-delivery-process)
@@ -53,7 +53,7 @@ Testing
 * [Usability Testing](https://www.dto.gov.au/standard/design-guides/usability-testing)
 * [Testing Web Accessibility](https://www.dto.gov.au/standard/design-guides/testing-web-accessibility)
 
-Development
+## Development
 
 Open Source
 * [Using Open Standards](https://www.dto.gov.au/standard/design-guides/open-standards)
