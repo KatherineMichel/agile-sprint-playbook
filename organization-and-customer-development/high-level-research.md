@@ -34,20 +34,6 @@ Personas, Use Cases, Role Play
 * Typologies
 * Role Play and Script
 
-Customer Journey
-Customer Journey Map
-
-One page "Day in the life of the customer" user story, including:
-* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
-* Product vision
-* Product features
-* Product benefits
-* Jobs the product will do
-
-Before and After
-* "Before" visualized (without product)
-* "After" visualized (with product) (How will the product influence, change the customer's life?)
-
 Customers
 * Motivation (Pleasure or Pain)
 * Resource Flow
@@ -56,3 +42,19 @@ Customers
 Become the Customer
 * Customer's Motivation
 * Customer's Resource Flow
+
+Customer Journey
+Customer Journey Map
+
+One page "Day in the life of the customer" user story, including:
+* [Customer Workflow Diagram](http://steveblank.com/?attachment_id=8997) 
+
+Product
+* Product vision
+* Product features
+* Product benefits
+* Jobs the product will do
+
+Before and After
+* "Before" visualized (without product)
+* "After" visualized (with product) (How will the product influence, change the customer's life?)
