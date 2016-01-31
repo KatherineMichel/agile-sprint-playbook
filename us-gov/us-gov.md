@@ -9,29 +9,6 @@ U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.
 U.S. Gov.- General Services Administration
 * [U.S. General Services Administration U.S. Public Participation Playbook Open Beta](https://participation.usa.gov) 
 
-U.S. Digital Services Playbook Digital Plays
-* Understand what people need
-* Address the whole experience, from start to finish
-* Make it simple and intuitive
-* Build the service using agile and iterative practices
-* Structure budgets and contracts to support delivery
-* Assign one leader and hold that person accountable
-* Bring in experienced teams
-* Choose a modern technology stack
-* Deploy in a flexible hosting environment
-* Automate testing and deployments
-* Manage security and privacy through reusable processes
-* Use data to drive decisions
-* Default to open
-
-## 18F
-
-Agile Development Method Phases
-* Discover
-* Decide
-* Make
-* Validate
-
 U.S. Gov- 18F
 * [18F](https://18f.gsa.gov)
 * [18F Guides](https://pages.18f.gov/guides)
