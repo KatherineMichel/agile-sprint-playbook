@@ -17,12 +17,12 @@ U.S. Gov- 18F
 * [Interagency Agreement](https://pages.18f.gov/iaa-forms)
 
 Agile Project Management
-* [18F Grouplets](https://pages.18f.gov/grouplet-playbook)  
+* [Grouplets](https://pages.18f.gov/grouplet-playbook)  
 * [Agile Principles and Practices](https://pages.18f.gov/agile)
 * [Everyone Owns the Problem](https://pages.18f.gov/agile/2-everyone.html)
 * [Lean Product Design](https://pages.18f.gov/lean-product-design)
 * [Methods](https://methods.18f.gov)
-* [18F Accessibility GitHub](https://pages.18f.gov/accessibility)
+* [Accessibility GitHub](https://pages.18f.gov/accessibility)
 
 Development
 * [Frontend](https://pages.18f.gov/frontend)
