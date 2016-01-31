@@ -9,7 +9,9 @@ Table of Contents
 * [Introduction](introduction.md)
    * [Previous Sprints](previous-sprints.md)
 * [Process Outline](process-outline.md)
-   * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
+    * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
+    * [Customer Development](appendix/customer-development.md)
+    * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
@@ -49,12 +51,10 @@ Table of Contents
 * [Various](various/various.md)
 * [Appendix](appendix/appendix.md)      
     * [Research and Design Sprint Methods](appendix/research-and-design-sprint-methods.md)
-    * [Research Sprint Methods Summary](appendix/research-sprint-methods-summary.md)
     * [Research and Design Sprint Methods Summary](appendix/research-and-design-sprint-methods-summary.md)
     * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
-    * [Customer Development](appendix/customer-development.md)
     * [Miscellaneous](appendix/miscellaneous.md)
-    * [S-1 Components](appendix/s-1-components.md) 
+    * [S-1 Components](appendix/s-1-components.md)
 
 GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
 <br> 
