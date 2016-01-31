@@ -26,6 +26,14 @@ Product Design Sprint
 * Day 4: Prototype
 * Day 5: Test
 
+## IDEO
+
+Phases
+* Process
+* Inspiration
+* Ideation
+* Implementation
+
 ## 18F 
 
 Agile Development Method Phases
