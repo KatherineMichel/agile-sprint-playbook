@@ -22,6 +22,25 @@ Hanno Version
 HubSpot Library
 * [HubSpot Library](https://library.hubspot.com)
 
+HubSpot Tools
+* Personas
+* Case Studies
+* Fact Sheet Templates
+
+HubSpot Campaign Planning and Project Management
+* RFP
+* Marketing Budgets
+* Marketing Reports
+* SMART Marketing
+* Kickoff
+
+HubSpot Templates
+* PowerPoint Templates
+* Blog Templates
+* Infographic
+* Ebook Templates
+* Checklists
+
 Nesta
 * [Nesta](http://www.nesta.org.uk), 
 * [Nesta Creative Enterprise Toolkit](http://www.nesta.org.uk/publications/creative-enterprise-toolkit) and [Nesta Creative Enterprise Toolkit PDF](http://www.nesta.org.uk/sites/default/files/cet_books_1-4.pdf)
