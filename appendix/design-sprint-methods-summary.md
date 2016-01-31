@@ -21,34 +21,6 @@
 * Retrospectives/Heartbeat Retrospective
 * Niko-Niko Calendar (Mood Board)
 
-## Possible Roles
-
-* Design Team
-* Project Lead
-* Person you’re designing for
-* Key Partners, Stakeholders
-* Expert
-* Staff
-* Community Members
-* Interviewer
-* Interviewees
-
-## Possible Supplies
-
-IDEO Possible Supplies: Design Sprint (IDEO)
-* A place to meet
-* Wall or board
-* Whiteboard
-* Paper (small, large sheets)
-* Post-its
-* Pens
-* Notebook
-* Magazines
-* Glue
-* Tape
-* Art supplies
-* Camera 
-
 ## Workshop
 
 Creative Workshop
