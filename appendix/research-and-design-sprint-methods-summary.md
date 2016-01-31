@@ -81,7 +81,9 @@ Internationalization and Localization
 * Internationalization
 * Localization
 
-## Agile-Scrum Software Development/Project Management (and Kanban)
+## Design Sprint Methods
+
+### Agile-Scrum Software Development/Project Management (and Kanban)
 
 * Project Chartering (Example: Rich Picture)
 * Cross Functional Team
@@ -102,7 +104,7 @@ Internationalization and Localization
 * Retrospectives/Heartbeat Retrospective
 * Niko-Niko Calendar (Mood Board)
 
-## Workshop
+### Workshop
 
 Creative Workshop
 * Facilitator, Moderator
@@ -250,7 +252,7 @@ Retirement
 * Life of a service
 * Graceful Degradation
 
-## Other Planning Tools
+### Other Planning Tools
 
 Other Planning Tools
 * Innovation Flowchart
