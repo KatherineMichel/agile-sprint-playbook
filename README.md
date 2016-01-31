@@ -10,7 +10,7 @@ Table of Contents
    * [Previous Sprints](previous-sprints.md)
 * [Process Outline](process-outline.md)
    * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
-* [Google Ventures Research and Design Sprint Methodology](google-ventures/google-ventures-research-and-design-sprint-methodology.md)
+* [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
     * [Google Ventures User Testing Methodology](google-ventures/google-ventures-user-testing-methodology.md)
