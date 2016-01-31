@@ -26,6 +26,14 @@ Product Design Sprint
 * Day 4: Prototype
 * Day 5: Test
 
+## 18F 
+
+Agile Development Method Phases
+* Discover
+* Decide
+* Make
+* Validate
+
 ## Scrum Body of Knowledge
 
 * [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
