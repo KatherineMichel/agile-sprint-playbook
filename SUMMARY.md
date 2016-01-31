@@ -25,7 +25,6 @@
 * [Usability Gov Study](usability-gov/usability-gov-study.md)
     * [Usability Gov Study Methodology](usability-gov/usability-gov-study-methodology.md)
     * [Project Management and Development](usability-gov/project-management-and-development.md)
-      * [Usability Study Process and Materials Checklist](usability-gov/templates-and-guides/usability-study-process-and-materials-checklist.md)
       * [Planning Document Templates](usability-gov/planning-document-templates.md)
       * [Questions to Ask at Kickoff Meetings](usability-gov/templates-and-guides/questions-to-ask-at-kickoff-meetings.md)
       * [Persona Development Discussion Guide](usability-gov/templates-and-guides/persona-development-discussion-guide.md)
