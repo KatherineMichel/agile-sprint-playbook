@@ -52,18 +52,3 @@ Product Messaging/Positioning Statement
 * Condenses Value Proposition into single phrase or sentence
 * Match product positioning with market type
 * Validate positioning with customers, analyst/influencers
-
-## Business Goals
-
-High Level Business Goals
-* Immediate business goals: in 1 month, 3 months, 6 months
-* Long term business goals: 1 year from now
-
-Timeframe
-* 18-month schedule of product delivery dates
-* MVP delivery date/features
-
-Going Forward
-* Roadmap
-* Feedback and Iteration
-* Scaling (Scaling Planning Tool), Sustainable Revenue, Ways to Grow
