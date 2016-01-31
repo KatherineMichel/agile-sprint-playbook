@@ -1,11 +1,5 @@
 # Australian Gov
 
-Australian Government Service Design Phases
-* Discovery
-* Alpha
-* Beta
-* Live
-
 * [Australia Digital Transformation Office](https://www.dto.gov.au) and [Australia Digital Transformation Blog Post](http://www.pm.gov.au/media/2015-01-23/establishment-digital-transformation-office)
 * [Australia Digital Service Standard](https://www.dto.gov.au/standard) and [Australia Digital Service Standard GitHub](https://github.com/AusDTO/Digital-Service-Standard), [Scope of the Standard](https://www.dto.gov.au/standard/scope-digital-service-standard) and 
 * [Australia Digital Design Principles](https://www.dto.gov.au/standard/design-principles)
