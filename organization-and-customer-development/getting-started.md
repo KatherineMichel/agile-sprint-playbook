@@ -2,30 +2,6 @@
 
 ## Project Management and Preparation
 
-## Google Ventures
-
-Research Sprint
-* Day 1: Start Recruiting Participants
-* Day 2: Schedule Participants and Draft Interview Guide
-* Day 3: Finalize Schedule and Complete Interview Guide
-* Day 4: Interview Participants and Summarize Findings
-
-Design Sprint
-* Day 1: Understand
-* Day 2: Diverge
-* Day 3: Decide
-* Day 4: Prototype
-* Day 5: Validate
-
-## Thoughtbot
-
-Product Design Sprint
-* Day 1: Understand
-* Day 2: Diverge
-* Day 3: Converge
-* Day 4: Prototype
-* Day 5: Test
-
 ## IDEO
 
 Phases
@@ -98,8 +74,6 @@ Digital Service Plays
 * Manage security and privacy through reusable processes
 * Use data to drive decisions
 * Default to open
-
-## Business Development
 
 ## Customer Development
 
