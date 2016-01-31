@@ -1,5 +1,7 @@
 # Various
 
+## Research and Design Sprint Methods
+
 Dockyard Version
 * [Dockyard Design Sprints](https://dockyard.com/design-sprints) and [Dockyard Design Sprints GitHub](https://github.com/dockyard/design-sprints)
 
@@ -45,7 +47,20 @@ Xplaner and Games
 * [Xplaner](http://xplaner.com), [Gamestorming](http://www.gamestorming.com),  [Gamestorming Wiki](http://www.gamestorming.com/the-wiki), and [Gamestorming Book](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172)
 * [Innovation Games: Games](http://www.innovationgames.com/resources/the-games) and [Innovation Games: Tools and Templates](http://www.innovationgames.com/resources/tools-and-templates)
 
-Miscellaneous
+## Research and Design Sprint Examples
+
+BBC Design Sprint Blog Post
+* [BBC Design Sprint Blog Post](http://www.bbc.co.uk/blogs/internet/entries/60392136-1685-39c4-84bc-b8b2f54f6556)
+* [BBC Design Sprint 2 GitHub](https://github.com/BBC/timelines-design-sprint-2-prototypes/tree/gh-pages)  
+
+Francis Cortez Design Sprint
+* [Francis Cortez Design Sprint #1](http://franciscortez.com/design-sprint)  
+* [Francis Cortez Design Sprint #2](https://medium.com/@makeshowlearn/personal-design-sprint-ii-food-tracking-af853a78a210)
+* [Francis Cortez Design Sprint #3](https://medium.com/@makeshowlearn/personal-design-sprint-iii-prompts-10949cc4cf6b)  
+* [Francis Cortez Design Sprint #3 Prototype GitHub](https://github.com/makeshowlearn/framer-prompts)
+
+## Miscellaneous
+
 * [Good Kick Off Meetings](http://goodkickoffmeetings.com)
 * [Interaction Design Encyclopedia](https://www.interaction-design.org/encyclopedia)
 * [Knowledge Sharing Toolkit](http://www.kstoolkit.org)
