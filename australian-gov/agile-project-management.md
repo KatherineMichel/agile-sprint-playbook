@@ -2,13 +2,41 @@
 
 ## Project Management
 
+Team and Culture
+* [The Team](https://www.dto.gov.au/standard/design-guides/the-team)
+* [Recruitment](https://www.dto.gov.au/standard/design-guides/the-team/team-recruitment)
+
+Building Digital Services
 * [Building Digital Services](https://www.dto.gov.au/standard/design-guides/building-digital-services)
+
+High level Design
+* [High Level Design](https://www.dto.gov.au/standard/design-guides/user-research/high-level-design)
+
+Service Design and Delivery
 * [Service Design and Delivery Process](https://www.dto.gov.au/standard/service-design-and-delivery-process)
+
+Service Design Phases
 * [Discovery](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery)
+* Alpha
+* Beta
+* Live
 * [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
+
+Inclusion and Assistance
 * [Designing Inclusive Services](https://www.dto.gov.au/standard/design-guides/inclusive-services)
 * [Assisted Digital](https://www.dto.gov.au/standard/design-guides/assisted-digital)
+
+Integrating Offline Activity
 * [Integrating Offline Activity](https://www.dto.gov.au/standard/design-guides/service-integration)
+
+User Centred Design
+* [User-Centred Design](https://www.dto.gov.au/standard/design-guides/user-centred-design)
+
+User Research
+* [User Research (Chart)](https://www.dto.gov.au/standard/design-guides/user-research)
+
+User Research Subguides
+* [Professional Research Methods](https://www.dto.gov.au/standard/design-guides/user-research/professional-research-methods)
 
 Agile
 * [Agile](https://www.dto.gov.au/standard/design-guides/agile)
@@ -27,28 +55,6 @@ Agile
   * Daily stand-ups
   * Sprint planning and reviews
   * Retrospectives
-
-Team and Culture
-* [The Team](https://www.dto.gov.au/standard/design-guides/the-team)
-* [Recruitment](https://www.dto.gov.au/standard/design-guides/the-team/team-recruitment)
-
-User Centred Design
-* [User-Centred Design](https://www.dto.gov.au/standard/design-guides/user-centred-design)
-
-User Research
-* [User Research (Chart)](https://www.dto.gov.au/standard/design-guides/user-research)
-
-User Research Subguides
-* [Professional Research Methods](https://www.dto.gov.au/standard/design-guides/user-research/professional-research-methods)
-
-High level Design
-* [High Level Design](https://www.dto.gov.au/standard/design-guides/user-research/high-level-design)
-
-Service Design Phases
-* Discovery
-* Alpha
-* Beta
-* Live
 
 Wireframing and Prototyping
 * [Wireframing](https://www.dto.gov.au/standard/design-guides/user-research/wireframing)
