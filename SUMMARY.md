@@ -38,7 +38,6 @@
    * [Agile Project Management](australian-gov/agile-project-management.md) 
 * [New Zealand Gov](new-zealand-gov/new-zealand-gov.md)
 * [IDEO](ideo/ideo.md)
-* [Nesta and DIY Toolkit](nesta-and-diy-toolkit/nesta-and-diy-toolkit.md)
 * [Code Sprints](code-sprints/code-sprints.md)
 * [Various](various/various.md)
 * [Appendix](appendix/appendix.md)      
