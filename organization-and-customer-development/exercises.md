@@ -1,7 +1,7 @@
 # Exercises
 
-![](idea-maze.jpg)
+![](images/idea-maze.jpg)
 
-![](business-model-canvas.jpg)
+![](images/business-model-canvas.jpg)
 
-![](product-tiers.png)
+![](images/product-tiers.png)
