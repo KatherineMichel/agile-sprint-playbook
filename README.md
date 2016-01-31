@@ -18,6 +18,7 @@ Table of Contents
     * [Vision](organization-and-customer-development/vision.md)
     * [MVP and Product](organization-and-customer-development/mvp-and-product.md)
 * [Scrum Body of Knowledge](scrum-body-of-knowledge/scrum-body-of-knowledge.md)
+    * [Scrum Body of Knowledge Phases](scrum-body-of-knowledge/scrum-body-of-knowledge-phases.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
