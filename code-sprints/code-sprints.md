@@ -34,7 +34,7 @@ Zed A. Shaw's Bottom-Up Process
 ### Infocom
 
 A Cabinet of Infocom Curiousities (sic) — November 23, 2015
-*   [A Cabinet of Infocom Curiousities (sic)](http://ascii.textfiles.com/archives/4834)
+* [A Cabinet of Infocom Curiousities (sic)](http://ascii.textfiles.com/archives/4834)
 
 ### MediaPublic
 
