@@ -23,8 +23,6 @@ Articles
 
 Appendix B: Sample Scripts and Forms 164
 
-* Participant Summary Table 183
-
 * Sample Filled-In Participant Summary Table 97 and 183
 * Participant Database Information to Track 175
 
