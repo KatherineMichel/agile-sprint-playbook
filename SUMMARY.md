@@ -6,7 +6,7 @@
 * [Process Outline](process-outline.md)
     * [Getting Started](organization-and-customer-development/getting-started.md)
     * [Organization and Customer Development](organization-and-customer-development/organization-and-customer-development.md)
-    * [Sales and Meetings](sales-and-meetings.md)
+    * [Sales and Meetings](organization-and-customer-development/sales-and-meetings.md)
     * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
     * [Product Tiers](organization-and-customer-development/product-tiers.md)
