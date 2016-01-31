@@ -1,4 +1,4 @@
-# Google Ventures Research and Design Sprint Methodology
+# Google Ventures Research and Design Sprint
 
 Google Research and Design Sprints take 5 days to complete and happen simultaneously. 
 
