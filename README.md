@@ -16,7 +16,7 @@ Table of Contents
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
     * [Product Tiers](organization-and-customer-development/product-tiers.md)
     * [Vision](organization-and-customer-development/vision.md)
-    * [MVP and Product](organization-and-customer-development/mvp-and-product.md)
+    * [Product and Business Goals](organization-and-customer-development/product-and-business-goals.md)
 * [Scrum Body of Knowledge](scrum-body-of-knowledge/scrum-body-of-knowledge.md)
     * [Scrum Body of Knowledge Phases](scrum-body-of-knowledge/scrum-body-of-knowledge-phases.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
