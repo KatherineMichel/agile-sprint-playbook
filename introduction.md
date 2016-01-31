@@ -10,19 +10,3 @@ The purpose of the Research and Design Sprint is to design and user test a minim
 The process can also be a lot of fun :)
 
 Continue on to the next chapter to see the results of some of my Research and Design Sprints.
-
-## General Sprint Framework
-
-* Project Management
-* Research Sprint (Days 1-4)
-* Design Sprint (Days 1-4)
-  * Prototype (Day 4)
-   * User Testing (Day 5)
-
-Scrum 
-* Front-End and Back-End
-
-Startup
-* Business Plan
-* Pitch
-* Organizational Design
