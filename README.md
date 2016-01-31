@@ -12,6 +12,7 @@ Table of Contents
     * [High Level Research](organization-and-customer-development/high-level-research.md)
     * [Organization and Customer Development](organization-and-customer-development/organization-and-customer-development.md)
     * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
+    * [S-1 Components](organization-and-customer-development](s-1-components.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
@@ -54,7 +55,6 @@ Table of Contents
     * [Research and Design Sprint Methods Summary](appendix/research-and-design-sprint-methods-summary.md)
     * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
     * [Miscellaneous](appendix/miscellaneous.md)
-    * [S-1 Components](appendix/s-1-components.md)
 
 GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
 <br> 
