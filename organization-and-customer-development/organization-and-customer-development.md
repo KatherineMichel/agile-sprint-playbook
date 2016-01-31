@@ -1,8 +1,5 @@
 # Organization and Customer Development
 
-Startup
-* Pitch
-
 ## Business Analysis and Plan
 
 Business
