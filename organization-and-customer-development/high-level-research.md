@@ -1,7 +1,5 @@
 # Research Sprint Methods Summary
 
-Idea Maze (Competitive Analysis)
-
 ## Vision
 
 Beginnings, Problem, Idea, Vision
