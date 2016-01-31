@@ -1,4 +1,4 @@
-# Definition
+# Getting Started
 
 ## Problem, Idea, Inspiration
 
