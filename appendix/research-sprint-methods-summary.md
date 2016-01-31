@@ -2,7 +2,6 @@
 
 Idea Maze (Competitive Analysis)
 
-
 # User Research Data Gathering Methods
 
 Method
