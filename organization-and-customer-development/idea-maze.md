@@ -1,3 +1,3 @@
 # Idea Maze (Competitive Analysis)
 
-![](idea-maze.jpg)
+![](images/idea-maze.jpg)
