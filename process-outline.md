@@ -2,7 +2,7 @@
 
 ## Project Management and Preparation
 
-## Google Ventures and Thoughtbot
+## Google Ventures
 
 Research Sprint
 * Day 1: Start Recruiting Participants
@@ -16,6 +16,15 @@ Design Sprint
 * Day 3: Decide
 * Day 4: Prototype
 * Day 5: Validate
+
+## Thoughtbot
+
+Design Sprint
+* Day 1: Understand
+* Day 2: Diverge
+* Day 3: Converge
+* Day 4: Prototype
+* Day 5: Test
 
 ## Scrum Body of Knowledge
 
