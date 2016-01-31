@@ -9,7 +9,7 @@ Table of Contents
 * [Introduction](introduction.md)
    * [Previous Sprints](previous-sprints.md)
 * [Process Outline](process-outline.md)
-    * [High Level Research](organization-and-customer-development/high-level-research.md)
+    * [Getting Started](organization-and-customer-development/getting-started.md)
     * [Organization and Customer Development](organization-and-customer-development/organization-and-customer-development.md)
     * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
