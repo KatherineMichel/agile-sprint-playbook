@@ -5,10 +5,5 @@
 * [Design Kit: The Course for Human-Centered Design](http://plusacumen.org/courses/hcd-for-social-innovation) 
 * [Mindsets](http://www.designkit.org/mindsets)
 
-Phases
-* Process
-* Inspiration
-* Ideation
-* Implementation
 
 
