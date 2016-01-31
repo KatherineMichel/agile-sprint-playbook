@@ -14,6 +14,12 @@ User Centered Design and User Needs
 * [User Needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html)
 * [An Introduction to User Research Techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)
 
+Service Design Phases
+* Discovery
+* Alpha
+* Beta
+* Live
+
 User Centred Design in Alpha and Beta
 * [User Centred Design in Alpha and Beta](https://www.gov.uk/service-manual/user-centred-design/user-centred-design-alpha-beta.html)
 
