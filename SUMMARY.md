@@ -7,7 +7,7 @@
     * [High Level Research](organization-and-customer-development/high-level-research.md)
     * [Organization and Customer Development](organization-and-customer-development/organization-and-customer-development.md)
     * [S-1 Components](organization-and-customer-development/s-1-components.md)
-    * [Business Model Canvas](business-model-canvas/business-model-canvas.md)
+    * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
