@@ -50,4 +50,3 @@
     * [Customer Development](appendix/customer-development.md)
     * [Miscellaneous](appendix/miscellaneous.md)
     * [S-1 Components](appendix/s-1-components.md) 
-    * [Research and Design Sprint Examples](appendix/research-and-design-sprint-examples.md)
