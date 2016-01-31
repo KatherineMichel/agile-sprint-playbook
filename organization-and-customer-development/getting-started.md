@@ -2,14 +2,6 @@
 
 ## Project Management and Preparation
 
-## IDEO
-
-Phases
-* Process
-* Inspiration
-* Ideation
-* Implementation
-
 ## 18F 
 
 Agile Development Method Phases
