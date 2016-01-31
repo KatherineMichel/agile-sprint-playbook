@@ -3,7 +3,7 @@
 * [About](README.md)
 * [Introduction](introduction.md)
    * [Previous Sprints](previous-sprints.md)
-* [Process Outline](process-outline.md)
+* [Getting Started](organization-and-customer-development/getting-started.md)
     * [Definition](organization-and-customer-development/definition.md)
     * [Organization and Customer Development](organization-and-customer-development/organization-and-customer-development.md)
     * [Sales and Meetings](organization-and-customer-development/sales-and-meetings.md)
