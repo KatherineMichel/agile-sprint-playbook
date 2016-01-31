@@ -2,15 +2,8 @@
 
 ## Project Management and Preparation
 
-## U.K. and Australian Government Service Design Phases
-
-* Discovery
-* Alpha
-* Beta
-* Live
-
-Scrum 
-* Front-End and Back-End
+* Front-End
+* Back-End
 
 Startup
 * Business Plan
