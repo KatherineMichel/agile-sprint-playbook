@@ -161,3 +161,25 @@ Strategic Analysis
 * Kaleidoscope
 * Kant
 * Kotter
+
+### Considerations
+
+* Prospect conversion rates
+* Customer acquisition costs
+* Customer Lifetime Value
+* Customer switching costs (Can you create customer lock-in/high switching costs?)
+* Channel cost and revenue potential summaries 
+* Channel margin, promotion and shelf space fees
+* Average selling price
+* Total achievable revenue
+* Number of customers/year
+* Cash balance
+* Direct revenue
+* Net channel revenue
+* Basic operating costs
+* Cash burn
+* Cash at quarter end, by quarter
+* The units/users revenue model and pricing 
+* Product cost, Pricing plan
+* Can you price it with a predicable model?
+* Can you have high gross margins?
