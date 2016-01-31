@@ -1,5 +1,10 @@
 # Organization and Customer Development
 
+Startup
+* Business Plan
+* Pitch
+* Organizational Design
+
 ## Business Analysis and Plan
 
 Business
