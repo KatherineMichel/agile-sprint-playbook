@@ -10,6 +10,12 @@
 
 ## Product 
 
+Product
+* Product vision
+* Product features
+* Product benefits
+* Jobs the product will do
+
 Preliminary/Product Specifications
 * List key follow-on product enhancements anticipated
 * Estimate current product and follow-on products
