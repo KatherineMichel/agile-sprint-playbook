@@ -11,6 +11,7 @@ Table of Contents
 * [Process Outline](process-outline.md)
     * [High Level Research](organization-and-customer-development/high-level-research.md)
     * [Organization and Customer Development](organization-and-customer-development/organization-and-customer-development.md)
+    * [Business Model Canvas](business-model-canvas.md)
     * [Exercises](organization-and-customer-development/exercises.md)
     * [Vision](organization-and-customer-development/vision.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
