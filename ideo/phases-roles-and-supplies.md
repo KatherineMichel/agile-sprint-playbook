@@ -1,6 +1,13 @@
-# Possible Roles and Supplies
+# Phases, Roles, and Supplies
 
-## Possible Roles
+## Phases
+
+* Process
+* Inspiration
+* Ideation
+* Implementation
+
+## Roles
 
 * Design Team
 * Project Lead
@@ -12,7 +19,7 @@
 * Interviewer
 * Interviewees
 
-## Possible Supplies
+## Supplies
 
 General
 * A place to meet
