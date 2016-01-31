@@ -1,15 +1,16 @@
 # Organization and Customer Development
 
-## Business Analysis and Plan
+## Venture Analysis
 
-Business
-* Venture Analysis
-* Capabilities Assessment
-* Business Case/Business Plan, Cost Benefit Analysis
 * Setting up a Venture
-* Funding Sources, Funding Strategy
+* Funding Sources/Funding Strategy
+* Business Case, Cost Benefit Analysis
+* Capabilities Assessment
+* Traction/Metrics
 * Create a Pitch, Pitch Practice
 * Define Terminology
+
+## Business Plan
 
 Business Plan Example
 * Executive Summary
@@ -19,9 +20,8 @@ Business Plan Example
 * Staff and Management Team
 * Operations and Resources
 
-## Organization Stucture and Board
+## Organization Design
 
-Organization
 * Organization Structure (Founders, Investors, Board)
 * Organization Chart
 * Company 3-5 Core Values
@@ -31,20 +31,17 @@ Board
 * Advisory Board Roadmap
 * Formal Advisory Board List
 
-## Organizational Design
-
+Human Resources
 * Staff
 
-## Company Positioning
+## Company and Product Message/Positioning
 
-Company Messaging/Positioning Statement
-
+Company Statement
 * Company description
 * Business overview
-* Vision
-* Mission statement
+* Vision/Mission statement
 
-Product Messaging/Positioning Statement
+Product Statement
 * Product Positioning Brief
 * Condenses Value Proposition into single phrase or sentence
 * Match product positioning with market type
