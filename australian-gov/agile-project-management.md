@@ -44,6 +44,12 @@ User Research Subguides
 High level Design
 * [High Level Design](https://www.dto.gov.au/standard/design-guides/user-research/high-level-design)
 
+Service Design Phases
+* Discovery
+* Alpha
+* Beta
+* Live
+
 Wireframing and Prototyping
 * [Wireframing](https://www.dto.gov.au/standard/design-guides/user-research/wireframing)
 * [Prototyping](https://www.dto.gov.au/standard/design-guides/user-research/prototyping)
