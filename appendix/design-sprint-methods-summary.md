@@ -247,7 +247,7 @@ Other Planning Tools
 * Team Persona Cards
 * Activity Sheets 1 and 2
 * Telephone Template
-* * Checklist
+* Checklist
 * Claims Analysis
 * Function Allocation
 * Physical Ergonomics
