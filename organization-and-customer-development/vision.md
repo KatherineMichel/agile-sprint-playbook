@@ -1,4 +1,6 @@
-# S-1 Components
+# Vision
+
+## S-1 Components
 
 * Prospectus Summary
 * A Note
