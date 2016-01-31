@@ -1,7 +1,5 @@
 # Scrum Body of Knowledge Phases
 
-* [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
-
 Initiate Phase: 
 * Create Project Vision (8.1)
 * Identify Scrum Master and Stakeholder(s) (8.2)
