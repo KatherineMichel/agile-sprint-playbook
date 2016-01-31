@@ -37,7 +37,6 @@
 * [Australian Gov](australian-gov/australian-gov.md)
    * [Agile Project Management](australian-gov/agile-project-management.md) 
 * [New Zealand Gov](new-zealand-gov/new-zealand-gov.md)
-* [Stanford Institute of Design](stanford-institute-of-design/stanford-institute-of-design.md)
 * [IDEO](ideo/ideo.md)
 * [Nesta and DIY Toolkit](nesta-and-diy-toolkit/nesta-and-diy-toolkit.md)
 * [Code Sprints](code-sprints/code-sprints.md)
