@@ -34,6 +34,13 @@ Agile Development Method Phases
 * Make
 * Validate
 
+## U.K. Government Service Design Phases
+
+* Discovery
+* Alpha
+* Beta
+* Live
+
 ## Scrum Body of Knowledge
 
 * [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
