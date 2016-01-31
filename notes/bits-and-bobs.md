@@ -1,51 +1,51 @@
 # Project Management
 
-*   Project Charter, Project Plan/Project Definition Plan, Statement of Work
-*   Project Approach: Agile/Scrum/Kanban, Extreme, Lean, Kaizen, Waterfall
-*   Phases
-*   Requirements Gathering Methods and Meeting
-*   Project Team Roles and Responsibilities
-*   Recruitment, Staff, Your Project, Building a Team, Building Partnerships
-*   Governance, Reporting, Quality, Assurance (Internal and External)
-*   Spending Controls
-*   Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors Map," "Motivation Matrix"
-*   Kick-Off Meeting
-*   Critical Path
-*   Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress)
-*   Example Metrics: Key Performance Indicators, Completion Rate, Digital Take Up, Measuring Cost per Transaction
-*   SMART
-*   Quality Function Deployment
-*   Timeline
+* Project Charter, Project Plan/Project Definition Plan, Statement of Work
+* Project Approach: Agile/Scrum/Kanban, Extreme, Lean, Kaizen, Waterfall
+* Phases
+* Requirements Gathering Methods and Meeting
+* Project Team Roles and Responsibilities
+* Recruitment, Staff, Your Project, Building a Team, Building Partnerships
+* Governance, Reporting, Quality, Assurance (Internal and External)
+* Spending Controls
+* Stakeholders, Stakeholder Interviews, Stakeholder Meeting, "Actors Map," "Motivation Matrix"
+* Kick-Off Meeting
+* Critical Path
+* Define Success (What does success look like?), Measurement and Evaluation, (metrics, measure progress)
+* Example Metrics: Key Performance Indicators, Completion Rate, Digital Take Up, Measuring Cost per Transaction
+* SMART
+* Quality Function Deployment
+* Timeline
 
-*   About
-*   Executive Summary
-*   Introduction
-*   Challenge
-*   Appendix: Challenge
+* About
+* Executive Summary
+* Introduction
+* Challenge
+* Appendix: Challenge
 
 ## Kickoff
 
 ## Project Analysis and Design
 
 Inspiration
-*   [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
+* [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
-*   Requirements
-*   Code
-*   DRY Principle
-*   Site Map
+* Requirements
+* Code
+* DRY Principle
+* Site Map
 
 ## Design Principles
 
-*   Design Guidelines and Methods
-*   Frame Your Design Challenge
-*   High Level Design
-*   Styles Guides
-*   Branding
-*   Frontend
-*   Common website elements/Design Patterns
-*   Color Basic
-*   Emotion and Website Design
+* Design Guidelines and Methods
+* Frame Your Design Challenge
+* High Level Design
+* Styles Guides
+* Branding
+* Frontend
+* Common website elements/Design Patterns
+* Color Basic
+* Emotion and Website Design
 
 ## Extra
 
