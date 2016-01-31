@@ -130,3 +130,34 @@ Multi-sided Market
 Learn how other side works, buys, how to optimize, how to address each side of the market, other distribution channel, create sales roadmap, create two problem presentations for multi-sided markets
 
 Verify Product/Market Fit
+
+## Charts
+* Users, Buyers, Channels
+* Company Organizational Chart
+
+* Short Narrative in Bullets (Longterm Company/Product Vision/Strategy)
+
+* "Gathering Forces: Facts that will shape this product/service"
+* Valuable articles, notes and other info
+* What do we already know? (the facts)
+* What do we need to know more about and “how might we” find it out?
+* [add questions to the ‘risks’ doc]
+  
+[Financial and Ops Timeline](http://steveblank.com/?attachment_id=8996)
+
+## Strategic Analysis
+
+Strategic Analysis
+* [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+* [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis)
+* [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis)
+
+* PESTLIED
+* ANSOF
+* Strategic Groups
+* Resource-Based Approach
+* N-Step
+* Prescriptive
+* Kaleidoscope
+* Kant
+* Kotter
