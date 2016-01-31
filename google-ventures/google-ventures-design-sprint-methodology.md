@@ -18,7 +18,7 @@ Supporting Music
 * [Dave Brubeck: Blue Rondo A La Turk](https://www.youtube.com/watch?v=PD21CBN6KkE)  
 
 Supporting Docs
-*  [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja) 
+* [Google Ventures Design Sprint Sample Prototypes](https://www.dropbox.com/sh/tpuzocfhvz3ekm7/AADdT1T6cdtCDad7zE2WJglja) 
 
 Google Ventures Design Sprint- Fast Co (Basically Redundant)
 * [Fast Co Google Ventures How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
