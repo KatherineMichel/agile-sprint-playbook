@@ -9,6 +9,7 @@
     * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
     * [Exercises](organization-and-customer-development/exercises.md)
     * [Vision](organization-and-customer-development/vision.md)
+    * [MVP and Product](mvp-and-product.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
