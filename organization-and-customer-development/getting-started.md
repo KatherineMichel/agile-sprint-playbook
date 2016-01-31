@@ -1,4 +1,4 @@
-# Process Outline
+# Getting Started
 
 ## Project Management and Preparation
 
