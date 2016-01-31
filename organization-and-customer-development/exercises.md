@@ -4,4 +4,4 @@
 
 ![](business-model-canvas.jpg)
 
-![](pricing-tiers.png)
+![](product-tiers.png)
