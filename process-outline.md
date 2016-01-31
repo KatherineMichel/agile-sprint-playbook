@@ -1,12 +1,21 @@
 # Process Outline
 
+## Project Management and Preparation
+
 ## Google Ventures and Thoughtbot
 
-* Project Management
-* Research Sprint (Days 1-4)
-* Design Sprint (Days 1-4)
-  * Prototype (Day 4)
-   * User Testing (Day 5)
+Research Sprint
+* Day 1: Start Recruiting Participants
+* Day 2: Schedule Participants and Draft Interview Guide
+* Day 3: Finalize Schedule and Complete Interview Guide
+* Day 4: Interview Participants and Summarize Findings
+
+Design Sprint
+* Day 1: Understand
+* Day 2: Diverge
+* Day 3: Decide
+* Day 4: Prototype
+* Day 5: Validate
 
 ## Scrum Body of Knowledge
 
