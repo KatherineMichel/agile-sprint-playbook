@@ -1,8 +1,7 @@
-# Research Sprint Methods Summary
+# Definition
 
-## Getting Started
+## Problem, Idea, Inspiration
 
-Definition
 * Problem Statement
 * Idea
 * Inspiration
