@@ -7,6 +7,7 @@ A GitBook Documenting My Agile Sprint Playbook (Project Management, Research, De
 Table of Contents
 * [About](README.md)
 * [Introduction](introduction.md)
+* [Process Outline](process-outline.md)
 * [Google Ventures Research and Design Sprint Methodology](google-ventures/google-ventures-research-and-design-sprint-methodology.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
@@ -42,7 +43,6 @@ Table of Contents
 * [Google Design Sprint](google/google-design-sprint.md)
 * [IDEO](ideo/ideo.md)
 * [Nesta and DIY Toolkit](nesta-and-diy-toolkit/nesta-and-diy-toolkit.md)
-* [Scrum Body of Knowledge](scrum-body-of-knowledge/scrum-body-of-knowledge.md)
 * [Code Sprints](code-sprints/code-sprints.md)
 * [Various](various/various.md)
 * [Appendix](appendix/appendix.md)      
