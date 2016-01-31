@@ -47,7 +47,7 @@
     * [Agile Project Management](australian-gov/agile-project-management.md) 
 * [New Zealand Gov](new-zealand-gov/new-zealand-gov.md)
 * [IDEO](ideo/ideo.md)
-    * [Possible Roles and Supplies](ideo/possible-roles-and-supplies.md)
+    * [Phases, Roles, and Supplies](ideo/phases-roles-and-supplies.md)
     * [Project Management](ideo/project-management.md)
 * [Code Sprints](code-sprints/code-sprints.md)
 * [Various](various/various.md)
