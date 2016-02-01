@@ -1,7 +1,4 @@
-# Sales and Marketing Materials Toolset  (Online and Physical)
-
-Contact Methods
-Sales Materials (Color and Black and White)
+# Sales and Marketing Materials Toolset (Online and Physical, Color and Black & White)
 
 (Adapted from Steve Blank, Lean Customer Development) 
 
