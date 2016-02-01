@@ -12,6 +12,7 @@ Table of Contents
     * [Getting Started](organization-and-customer-development/getting-started.md)
     * [Venture and Organization](organization-and-customer-development/venture-and-organization.md)
     * [Sales and Meetings](organization-and-customer-development/sales-and-meetings.md)
+        * [Sales and Marketing Materials Toolset](organization-and-customer-development/sales-and-marketing-materials-toolset.md) 
     * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
     * [Product Tiers](organization-and-customer-development/product-tiers.md)
