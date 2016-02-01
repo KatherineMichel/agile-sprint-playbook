@@ -45,6 +45,7 @@ Table of Contents
     * [Project Management and Development](usability-gov/project-management-and-development.md)
 * [Nielson Norman](nielson-norman/nielson-norman.md)
 * [U.K. Gov](uk-gov/uk-gov.md)
+    * [Service Design](service-design.md)
     * [Service Design Phases](uk-gov/service-design.md)  
     * [Agile Project Management](uk-gov/agile-project-management.md) 
 * [U.S. Gov](us-gov/us-gov.md)
