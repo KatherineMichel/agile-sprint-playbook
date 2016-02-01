@@ -22,6 +22,10 @@ Service Design Phases
 * Live
 * [Meeting the Standard](https://www.dto.gov.au/standard/meeting-standard)
 
+The key outputs from this stage should be:
+* a map of the actual users’ experience of the service
+* user needs for the service (stated, unstated and created)
+
 Inclusion and Assistance
 * [Designing Inclusive Services](https://www.dto.gov.au/standard/design-guides/inclusive-services)
 * [Assisted Digital](https://www.dto.gov.au/standard/design-guides/assisted-digital)
