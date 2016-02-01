@@ -10,6 +10,12 @@
 * Create a Pitch, Pitch Practice
 * Define Terminology
 
+Angel/VC Presentations
+* Referrals/Double Opt-In Intros
+* Two Versions (for email and for in person)
+* Narrative
+* Pitch
+
 ## Business Plan
 
 Business Plan Example
