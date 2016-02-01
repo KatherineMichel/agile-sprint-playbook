@@ -1,6 +1,7 @@
 # Sales and Meetings
 
-## Sales
+## Sales Documentation
+
 * Customer Access Map
 * Sales Channel Action Plan
 * Sales Roadmap, Sales Playbook
@@ -16,7 +17,7 @@
 Prepare
 * Research target contacts
 * Create introductory email, reference story, script
-* Make contact
+* Contact methods/make contact
 * Build master calendar of scheduled appointments
 * Send thank you notes
 * Maintain ongoing, expanding list of contacts
@@ -47,12 +48,6 @@ Types of meetings
 * 50 initial target customers
 * Channel and Traffic Partners (to test sell)
 * Key analysts/industry influencers (special script/presentation) to obtain detailed feedback about marketplace/product
-
-VC Presentations
-* Referrals/Double Opt-In Intros
-* Venture and Funding Strategy
-* Narrative
-* Pitch
 
 Scorecard (Feedback for)
 * Product and features (confirm product fills real need)
