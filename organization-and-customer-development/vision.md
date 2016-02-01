@@ -1,7 +1,24 @@
 # Vision
 
-## S-1 Components
+## Immediate Future
 
+Creating Cultural Change
+* What does the world look like without this problem? 
+* How will world be different 18 months after launch? 
+* 3 years after launch?
+* 10 years after launch?
+
+Before and After
+* "Before" visualized (without product)
+* "After" visualized (with product) (How will the product influence, change the customer's life?)
+
+Other Future Exercises
+* Future Headlines
+* Future Posters, Marketing Materials
+
+## Distant Future: SEC Filing
+
+S-1 Components
 * Prospectus Summary
 * A Note
 * Risk Factors
