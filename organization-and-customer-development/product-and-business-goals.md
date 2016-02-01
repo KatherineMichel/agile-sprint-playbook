@@ -1,6 +1,6 @@
 # Product and Business Goals
 
-## MVP
+## Minimum Viable Product (MVP)
 
 * Low Fidelity Minimum Viable Product
 * High Fidelity Minimum Viable Product
@@ -8,7 +8,7 @@
 * Initial Activities to Test
 * Sequential Optimization Plan
 
-## Product 
+## Longterm Product 
 
 Product
 * Product vision
@@ -16,19 +16,19 @@ Product
 * Product benefits
 * Jobs the product will do
 
-Preliminary/Product Specifications
-* List key follow-on product enhancements anticipated
-* Estimate current product and follow-on products
-* Will there be a series of products? 
-
 Product Feature List
-* List product features, review and prioritize list
-* 10 one- or two-sentence descriptions of product features
+* List product features, review, and prioritize list
+* 10 one or two-sentence descriptions of product features
 
 Product Benefit List
 * List benefits through customer's eyes
 * Under the features, summarize benefits for each
 * Do the benefits needs to be explained?
+
+Preliminary Future Product Specifications
+* List key follow-on product enhancements anticipated
+* Estimate current product and follow-on products
+* Will there be a series of products? 
 
 ## Business Goals
 
@@ -37,8 +37,8 @@ High Level Business Goals
 * Long term business goals: 1 year from now
 
 Timeframe
-* 18-month schedule of product delivery dates
 * MVP delivery date/features
+* 18-month schedule of product delivery dates
 
 Going Forward
 * Roadmap
