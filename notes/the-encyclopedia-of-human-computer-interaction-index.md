@@ -182,6 +182,54 @@ Jakob Nielsen has developed and championed discount evaluation methods for over 
 15.14.5 References
 15.10 References
 
+16. Activity Theory
+16.1 Introduction
+16.2 Brief overview of activity theory
+16.2.1 Historical roots and underlying assumptions
+16.3 Basic concepts and principles of Leontiev's framework
+16.3.1 The concept of 'activity'
+16.3.2 Basic principles
+16.3.2.1 Object-orientedness
+16.3.2.2 Hierarchical structure of activity
+16.3.2.3 Mediation
+16.3.2.4 Example of mediation and accumulation of experience over time: Devices for calculation and computation
+16.3.2.5 Internalization and externalization
+16.3.2.6 Development
+16.3.3 Engeström's activity system model
+16.3.4 Current diversity of activity theoretical frameworks
+16.4 Activity theory in HCI and interaction design
+16.4.1 Activity theory as a second-wave, post-cognitivist HCI theory
+16.4.2 General theoretical insights
+16.4.3 Activity theory and other 'second-wave' theories
+16.4.4 Analytical tools
+16.4.5 Activity-centric computing
+16.5 Conclusions and prospects for the future
+16.6 Where to learn more
+16.6.1 Activity theory in HCI
+16.6.1.1 Books
+16.6.1.2 Articles and book chapters
+16.6.2 Activity theory in general
+16.6.2.1 Books
+16.6.2.2 Online resources
+16.7 Acknowledegements
+16.8 Commentary by John M. Carroll
+16.8.1 Activity Awareness
+16.8.2 Additional References
+16.9 Commentary by Clay Spinuzzi
+16.9.1 Additional references
+16.9.2 Footnotes
+16.9.3 Notes
+16.10 Commentary by Antonio Rizzo
+16.10.1 On Mediation and Play
+16.10.2 Mediation and its genesis
+16.10.3 Conclusion
+16.10.4 Additional References
+16.11 Commentary by Stephen Voida
+16.11.1 Additional References
+16.12 Commentary by Klaus B. Baerentsen
+16.13 Commentary by Ellen Christiansen
+16.15 References
+
 22. Card Sorting
 22.1 A practical example
 22.1.1 Items by groups chart
