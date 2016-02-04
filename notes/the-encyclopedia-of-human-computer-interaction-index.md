@@ -29,6 +29,20 @@
 2.7.9 Relevant Conference Series
 2.9 References
 
+3. User Experience and Experience Design
+3.1 From the material to the experiential
+3.2 Experience and business
+3.3 The evasive beast called User Experience
+3.4 Experience Design: Designing the post-materialistic
+3.5 Why, What and How
+3.6 Conclusion and future directions
+3.7 Commentary by Eric L. Reiss
+3.8 Commentary by Donald A. Norman
+3.9 Commentary by Mark Blythe
+3.10 Commentary by Whitney Hess
+3.11 Commentary by Paul Hekkert
+3.13 References
+
 13. Requirements Engineering
 13.1 Requirements Engineering Activities and Process
 13.1.1 Scoping
