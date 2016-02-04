@@ -23,15 +23,11 @@
 * Challenge
 * Appendix: Challenge
 
-## Kickoff
-
 ## Project Analysis and Design
 
 Inspiration
 * [Zed Shaw: Exercise 43: Basic Object-Oriented Analysis and Design](http://learnpythonthehardway.org/book/ex43.html)
 
-* Requirements
-* Code
 * DRY Principle
 * Site Map
 
