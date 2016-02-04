@@ -43,6 +43,72 @@
 3.11 Commentary by Paul Hekkert
 3.13 References
 
+8. Contextual Design
+8.1 Motivations and Key Principles
+8.1.1 Principle: System design must support and extend users' work practice
+8.1.2 Principle: People are experts at what they do - but are unable to articulate their own work practice
+8.1.3 Principle: Good design requires partnership and participation with users
+8.1.4 Principle: Good design is systemic
+8.1.5 Principle: Design depends on explicit representations
+8.2 Description of the Contextual Design Process
+8.2.1 Contextual Inquiry
+8.2.2 Work Modeling
+8.2.3 Consolidation
+8.2.4 Personas built with contextual data
+Personas can help bring users alive and focus the stakeholders on the relevant issues, if they are built from rich contextual data. Popularized by Alan Cooper, a persona describes typical users of the proposed system as though they were 8.2.5 The Design Response: Visioning
+8.2.6 Storyboards
+8.2.7 User Environment Design
+8.2.8 Paper prototyping
+8.2.9 Driving Product Development
+8.2.10 Contextual Design and Agile Development
+8.3 Background and History of Contextual Design
+8.4 Future Directions
+Agile development. As Agile processes become more widespread and more accepted, the relationship between Agile development 8.5 Where to Learn More
+8.6 Commentary by Jennifer J. Preece
+8.7 Commentary by Marilyn M. Tremaine
+8.8 Commentary by Douglas Pyle
+8.10 References
+
+10. End-User Development
+10.1 The birth of EUD
+10.2 Tailoring
+10.3 End-user programming (EUP)
+10.3.1 Programming using visual attributes
+10.3.2 Programming-by-demonstration (PBD)
+10.3.3 Programming-by-specification
+10.3.4 Programming with text
+10.4 End-user software engineering (EUSE)
+10.4.1 Requirements and design
+10.4.2 Verification and validation
+10.4.3 Debugging
+10.4.4 Reuse
+10.5 The future and implications of EUD
+10.6 Where to learn more
+10.6.1 Books
+10.6.2 Relevant conferences and workshops
+10.6.2.1 CHI - Human Factors in Computing Systems
+10.6.2.2 VL-HCC - Symposium on Visual Languages and Human Centric Computing
+10.6.2.3 ISEUD - International Symposium on End User Development
+10.6.3 Relevant organizations
+10.7 Commentary by Alan Blackwell
+10.7.1 References and links
+10.8 Commentary by Mary Beth Rosson
+10.9 User-contributed notes
+10.10 References
+
+12. Affective Computing
+12.1 History: the resurrection of emotion
+12.2 Emotion in Technology?
+12.2.1 Affective Computing
+12.2.2 Affective Interaction: The Interactional Approach
+12.2.3 Technology as Experience
+12.3 Concluding remarks - some directions for the future
+12.4 Commentary by Rosalind W. Picard
+12.5 Commentary by Paul Hekkert
+12.6 Commentary by Egon L. van den Broek
+12.7 Commentary by Joyce H. D. M. Westerink
+12.9 References
+
 13. Requirements Engineering
 13.1 Requirements Engineering Activities and Process
 13.1.1 Scoping
