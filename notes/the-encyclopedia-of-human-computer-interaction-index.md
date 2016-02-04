@@ -28,6 +28,34 @@
 22.14 Commentary by Chris Rourke
 22.16 References
 
+29. Formal Methods
+29.1 Kinds of Formal Methods in HCI
+29.2 Just sums - ad hoc calculations
+29.2.1 On screen typing
+29.2.2 Optimal menu depth
+29.2.3 Five users are enough
+29.3 Detailed system specification
+29.3.1 Dialogue notations - what to do when
+29.3.2 Executable system models
+29.3.3 Abstract system models
+29.4 Models of the world
+29.4.1 Space syntax - modelling movement and significance in the world
+29.4.2 Belief and time - modelling an artistic performance
+29.4.3 Physigrams - modelling physical aspects of digital devices
+29.5 A success story
+29.5.1 The problem
+29.5.2 The solution
+29.5.3 Why it worked?
+29.6 Barriers to acceptance
+29.7 Future directions
+29.8 Where to learn more
+29.8.1 Books (in print or available online)
+29.8.2 Chapters
+29.8.3 Conferences
+29.8.4 Conferences (older)
+29.8.5 Books (not in print, but maybe in library)
+29.10 References
+
 30. Personas
 30.1 An example persona
 30.2 Four different perspectives
@@ -62,6 +90,31 @@
 30.7.1 Personas and co-design
 30.7.2 Persona actors
 
+31. Ethnography
+31.1 What is ethnography?
+31.2 Why use ethnography?
+31.3 'Doing' ethnography - relying on the 'kindness of strangers'.
+31.4 What does an ethnographer do?
+31.5 Collecting data
+31.6 Ethnographic analysis
+31.7 The uses of ethnography
+31.8 Ethnography and design: 'implications for design'
+31.9 Ethnomethodologically informed ethnography: 'Welcome to the Dark Side'.
+31.10 Real world, real time action - being 'lead by the phenomena'
+31.11 Observing features of social organisation - 'practical action'
+31.12 Attending to the lived detail of everyday work
+31.13 Everyday work as accountable and cooperative activity
+31.14 Cooperative working
+31.15 Ethnography and computer supported cooperative work (CSCW)
+31.16 Ethnographer at work
+31.17 Questioning the 'method': some problems of ethnography
+31.18 The ethnographic critique of ethnography
+31.19 Constructivist challenges
+31.20 Ethnography and reflexivity
+31.21 Is ethnography a 'method' at all?
+31.22 Moving the method on: developments in 'ethnographic' approaches
+31.23 Some Links:
+31.25 References
 
 40. Emotion and website design
 40.1 Emotion and Website Design: Some Background
