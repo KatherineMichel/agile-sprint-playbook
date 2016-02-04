@@ -1,3 +1,34 @@
+1. Interaction Design - brief intro
+1.1 Five major characteristics of interaction design
+1.1.1 Design involves changing situations by shaping and deploying artifacts
+1.1.2 Design is about exploring possible futures
+1.1.3 Design entails framing the “problem” in parallel with creating possible “solutions”
+1.1.4 Design involves thinking through sketching and other tangible representations
+1.1.5 Design addresses instrumental, technical, aesthetical and ethical aspects throughout
+1.2 Digital materials and interaction design
+1.3 People’s use and interaction design
+1.4 Where to learn more
+1.6 References
+
+2. Human Computer Interaction - brief intro
+2.1 Where HCI came from
+2.2 From cabal to community
+2.3 Beyond the desktop
+2.4 The task-artifact cycle
+2.5 A caldron of theory
+2.6 Implications of HCI for science, practice, and epistemology
+2.7 Pointers: How to learn more
+2.7.1 Where HCI came from
+2.7.2 From cabal to community
+2.7.3 Beyond the desktop
+2.7.4 The task-artifact cycle
+2.7.5 A caldron of theory
+2.7.6 Implications of HCI for science practice and epistemology
+2.7.7 Textbooks
+2.7.8 Journals
+2.7.9 Relevant Conference Series
+2.9 References
+
 13. Requirements Engineering
 13.1 Requirements Engineering Activities and Process
 13.1.1 Scoping
