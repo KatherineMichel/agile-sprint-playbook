@@ -47,5 +47,3 @@ HHS Usability Lab
 
 Building secure digital services
 
-* [Progressive enhancement](https://www.gov.uk/service-manual/making-software/progressive-enhancement.html)
-* [End user devices](https://www.gov.uk/service-manual/technology/end-user-devices.html)
