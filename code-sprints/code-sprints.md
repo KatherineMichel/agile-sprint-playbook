@@ -4,6 +4,8 @@
 
 * Front-End
 * Back-End
+* DRY Principle
+* Requirements/Site Map/Card Sorting
 
 ### Django
 
