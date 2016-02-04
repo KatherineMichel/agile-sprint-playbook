@@ -1,3 +1,76 @@
+13. Requirements Engineering
+13.1 Requirements Engineering Activities and Process
+13.1.1 Scoping
+13.1.2 Fact gathering
+13.1.3 Analysis
+13.1.4 Modelling
+13.1.5 Validation
+13.1.6 Trade-off Analysis
+13.1.7 Negotiation
+13.1.8 Process Map of Requirements Engineering
+13.2 Scenario-based Design: Common Ground between HCI and RE
+13.3 Models and Design Representations
+13.4 Design Process in Requirements Engineering and Human-Computer Interaction
+13.5 Design Advice and Knowledge Reuse
+13.6 Conclusions and Future Directions
+13.7 Where to learn more
+13.7.1 Textbooks
+13.7.2 Journals and Conference Series
+13.7.3 Internet
+13.7.4 Related Fields
+13.9 References
+
+15. Usability Evaluation
+15.1 From First World Oppression to Third World Empowerment
+15.1.1 The Origins of HCI and Usability
+15.1.2 From Usability to User Experience via Quality in Use
+15.1.3 From Trouble with Computers to Trouble from Digital Technologies
+15.1.4 From HCI's sole concern to an enduring important factor in user experience
+15.2 From Usability to User Experience - Tensions and Methods
+15.2.1 New Methods, Damaged Merchandise and a Chilling Fact
+15.2.2 We Can Work it Out: Putting Evaluation Methods in their (Work) Place
+15.2.3 The Long and Winding Road: Usability's Journey from Then to Now
+15.2.4 Usability Futures: From Understanding Tensions to Resolving Them
+15.3 Locating Usability within Software: Guidelines, Heuristics, Patterns and ISO 9126
+15.3.1 Guidelines for Usable User Interfaces
+15.3.2 Manageable Guidance: Design Heuristics for Usable User Interfaces
+15.3.3 Invincible Intrinsics: Patterns and Standards Keep Usability Essential
+15.4 Locating Usability within Interaction: Contexts of Use and ISO Standards
+15.4.1 Contextual Coverage Brings Complex Design Agendas
+15.5 The Development of Usability Evaluation: Testing, Modelling and Inspection
+15.5.1 Analytical and Empirical Evaluation Methods, and How to Mix Them
+15.5.2 The Only Methods are the Ones that You Complete Yourselves
+15.5.3 Sorry to Disappoint You But ...
+15.6 Worthwhile Usability: When and Why Usability Matters, and How Much
+15.6.1 A Very Low Frequency Multi-device Everyday Usability Story
+15.6.2 And the Moral of My Story Is: It was Worth It, on Balance
+15.6.3 Usability is Only One Part of a BIG Interaction Design Picture
+15.6.4 From Hygiene Factors to Motivators
+15.7 Future Direction for Usability Evaluation
+15.7.1 Putting Usability in its Place
+15.8 Where to learn more
+Jakob Nielsen has developed and championed discount evaluation methods for over two decades. He co-developed Heuristic Evaluation with Rolf Mohlich. Jakob’s www.useit.com web site contains many useful resources, but some need updating to 15.9 Acknowledgements
+15.10 Commentary by David A. Siegel
+15.10.1 Usability and Value as Abstract Constructs
+15.10.2 Usability Practice in Product Development
+15.10.2.1 Is 'Ease of Use' still relevant?
+15.10.2.2 Do usability professionals only focus on cognition?
+15.10.2.3 What can usability people contribute?
+15.10.2.4 Does usability contribute to innovation?
+15.10.3 Conclusion
+15.11 Commentary by Stephanie Rosenbaum
+15.12 Commentary by Ann Blandford
+15.12.1 References
+15.13 Commentary by Thomas Visby Snitker
+15.13.1 Making usability simpler - the way forward?
+15.14 Commentary by Tilde Bekker
+15.14.1 Adapting evaluation methods to participants' skills
+15.14.2 Verbalization techniques
+15.14.3 Complementing verbal with non-verbal approaches
+15.14.4 A rich usability evaluation context
+15.14.5 References
+15.10 References
+
 22. Card Sorting
 22.1 A practical example
 22.1.1 Items by groups chart
