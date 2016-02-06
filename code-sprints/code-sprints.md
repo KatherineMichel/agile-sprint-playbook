@@ -5,7 +5,11 @@
 * Front-End
 * Back-End
 * DRY Principle
-* Requirements/Site Map/Card Sorting
+* Requirements
+
+## Create Sitemap
+
+This could be done through a Card Sorting exercise. 
 
 ### Django
 
