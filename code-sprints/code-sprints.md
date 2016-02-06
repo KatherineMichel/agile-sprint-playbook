@@ -9,7 +9,7 @@
 
 ## Create Sitemap
 
-This could be done through a Card Sorting exercise. 
+This could be done through a Card Sorting exercise; Use Sitemap to Plan Views and URLs
 
 ### Django
 
