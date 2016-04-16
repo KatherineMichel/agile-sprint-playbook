@@ -7,4 +7,4 @@ GitHub Repo: https://github.com/KatherineMichel/the-global-united-methodist-chur
 
 ## Co-operative Financial Services/Britannia Building Society
 
-Placeholder
+Facilitation
