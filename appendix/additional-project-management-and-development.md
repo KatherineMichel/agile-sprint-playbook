@@ -1,32 +1,5 @@
 # Project Management and Development
 
-## Wikipedia
-
-Agile Practices
-* [Scrum Software Development Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))
-* [Agile Modeling Wikipedia](https://en.wikipedia.org/wiki/Agile_modeling)
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-* [Behavior Driven Development Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Velocity Software Development Wikipedia](https://en.wikipedia.org/wiki/Velocity_(software_development))
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Continous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-* [Iterative and Incremental Development Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
-* [Pair Programming Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Product Backlog Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
-* [Burn Down Chart Wikipedia](https://en.wikipedia.org/wiki/Burn_down_chart)
-
-* [Planning Poker Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
-* [Use Case Wikipedia](https://en.wikipedia.org/wiki/Use_case)
-* [Use Story Wikipedia](https://en.wikipedia.org/wiki/User_story)
-* [Story Driven Modeling Wikipedia](https://en.wikipedia.org/wiki/Story-driven_modeling)
-* [Timeboxing Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
-* [Retrospective Wikipedia](https://en.wikipedia.org/wiki/Retrospective)
-
-* [Cross Functional Team Wikipedia](https://en.wikipedia.org/wiki/Cross-functional_team)
-
 # Agile Development
 
 * Agile Modeling
