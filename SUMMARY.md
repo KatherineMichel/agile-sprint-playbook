@@ -2,19 +2,24 @@
 
 * [About](README.md)
 * [Introduction](introduction.md)
-   * [Previous Sprints](previous-sprints.md)
+   * [My Previous Sprints](my-previous-sprints.md)
+
 * [Business Development](organization-and-customer-development/business-development.md)
     * [Getting Started](organization-and-customer-development/getting-started.md)
     * [Venture and Organization](organization-and-customer-development/venture-and-organization.md)
     * [Sales and Meetings](organization-and-customer-development/sales-and-meetings.md)
         * [Sales and Marketing Materials Toolset](organization-and-customer-development/sales-and-marketing-materials-toolset.md) 
     * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
+    * [Product and Business Goals](organization-and-customer-development/product-and-business-goals.md)
+
+* [Tools](tools)
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
     * [Product Tiers](organization-and-customer-development/product-tiers.md)
     * [Vision](organization-and-customer-development/vision.md)
-    * [Product and Business Goals](organization-and-customer-development/product-and-business-goals.md)
+
 * [Scrum Body of Knowledge](scrum-body-of-knowledge/scrum-body-of-knowledge.md)
     * [Scrum Body of Knowledge Phases](scrum-body-of-knowledge/scrum-body-of-knowledge-phases.md)
+
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
     * [Google Ventures Research Sprint Methodology](google-ventures/google-ventures-research-sprint-methodology.md)
     * [Google Ventures Design Sprint Methodology](google-ventures/google-ventures-design-sprint-methodology.md)
@@ -52,6 +57,7 @@
 * [IDEO](ideo/ideo.md)
     * [Phases, Roles, and Supplies](ideo/phases-roles-and-supplies.md)
     * [Project Management](ideo/project-management.md)
+
 * [Code Sprints](code-sprints/code-sprints.md)
 * [Various](various/various.md)
 * [Appendix](appendix/appendix.md)      
