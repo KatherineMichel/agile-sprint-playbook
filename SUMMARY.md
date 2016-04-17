@@ -14,7 +14,7 @@
 * [Planning Tools](organization-and-customer-development/planning-tools.md)
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
     * [Product Tiers](organization-and-customer-development/product-tiers.md)
-    * [Jobs to Be Done](jobs-to-be-done.md)
+    * [Jobs to Be Done](organization-and-customer-development/jobs-to-be-done.md)
 * [Project Management](project-management/project-management.md)
     * [Scrum Body of Knowledge Phases](project-management/scrum-body-of-knowledge-phases.md)
 * [Google Ventures Research and Design Sprint](google-ventures/google-ventures-research-and-design-sprint.md)
