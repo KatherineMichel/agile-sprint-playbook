@@ -10,7 +10,7 @@
         * [Sales and Marketing Materials Toolset](organization-and-customer-development/sales-and-marketing-materials-toolset.md) 
     * [Product and Business Goals](organization-and-customer-development/product-and-business-goals.md)
     * [Vision](organization-and-customer-development/vision.md)
-* [Planning Tools](organization-and-customer-development/planning-tools)
+* [Planning Tools](organization-and-customer-development/planning-tools.md)
     * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
     * [Product Tiers](organization-and-customer-development/product-tiers.md)
