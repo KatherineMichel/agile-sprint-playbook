@@ -1,3 +1,3 @@
-# Scrum Body of Knowledge
+# Project Management
 
 * [Scrum Body of Knowledge](http://www.scrumstudy.com/SBOK/SCRUMstudy-SBOK-Guide-2013.pdf)
