@@ -17,7 +17,7 @@ Table of Contents
     * [Product and Business Goals](organization-and-customer-development/product-and-business-goals.md)
     * [Vision](organization-and-customer-development/vision.md)
 
-* [Planning Tools](planning-tools)
+* [Planning Tools](organization-and-customer-development/planning-tools)
     * [Business Model Canvas](organization-and-customer-development/business-model-canvas.md)
     * [Idea Maze](organization-and-customer-development/idea-maze.md)
     * [Product Tiers](organization-and-customer-development/product-tiers.md)
