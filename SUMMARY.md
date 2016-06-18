@@ -62,9 +62,3 @@
     * [Research and Design Sprint Methods Summary](appendix/research-and-design-sprint-methods-summary.md)
     * [Additional Project Management and Development](appendix/additional-project-management-and-development.md)
     * [Miscellaneous](appendix/miscellaneous.md)
-
-GitBook: http://katherinemichel.gitbooks.io/agile-sprint-playbook/content/
-<br> 
-GitHub Repo: https://github.com/KatherineMichel/agile-sprint-playbook
-
-© [Katherine Michel](https://twitter.com/katimichel) 2015-2016
