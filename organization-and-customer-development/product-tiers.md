@@ -1,3 +1,3 @@
 # Product Tiers
 
-![](images/product-tiers.png)
+![](images/product-tiers.jpg)

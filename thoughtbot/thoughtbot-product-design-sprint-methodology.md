@@ -1,6 +1,6 @@
 # Thoughtbot Design Sprint Methodology
 
-![](phases.png)
+![](phases.jpg)
 
 * [Design Sprint Book](http://www.designsprintbook.com), [Design Sprint Book Amazon](http://www.amazon.com/gp/product/1491923172/ref=olp_product_details?ie=UTF8&me=), and [How to conduct a Design Sprint](http://radar.oreilly.com/2015/05/how-to-conduct-a-design-sprint.html)
 
